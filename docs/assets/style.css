@@ -1,5 +1,5 @@
 /* Blue Diamond Voyage tour pages.
-   Look: a dark glow cover with chrome shapes (Figma: Landing Page 3D Toggle, Metality),
+   Look: a dark glow cover with a dotted world map and a compass (Figma: Landing Page 3D Toggle),
    and a light dashboard body of white rounded cards (Figma: BankDash).
    The content rules live in STANDARDS.md; this file only decides how they look. */
 :root{
@@ -57,7 +57,7 @@ button{font:inherit}
 .crumbs{font-size:.82rem;color:#8BA2C4}.crumbs a{color:#C5DAF7;text-decoration:none}
 .hero-cta{display:flex;flex-wrap:wrap;gap:12px}
 .hero-photo{margin:0;position:relative;transform:perspective(1400px) rotateY(-12deg) rotateX(4deg);transform-origin:left center}
-.hero-photo img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:28px;border:1px solid rgba(255,255,255,.18);
+.hero-photo>img:not(.compass){display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:28px;border:1px solid rgba(255,255,255,.18);
   box-shadow:0 40px 80px rgba(0,0,0,.55),0 0 0 8px rgba(255,255,255,.04)}
 .ic{width:1em;height:1em;flex:0 0 auto;vertical-align:-.12em}
 .hero-photo figcaption{position:absolute;left:16px;right:16px;bottom:16px;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:14px 18px;border-radius:20px;
@@ -68,11 +68,26 @@ button{font:inherit}
 .ph-r{text-align:right;display:flex;flex-direction:column}
 .ph-r small{font-size:.72rem;color:#C5DAF7}
 .ph-r b{font-size:1.05rem;white-space:nowrap}
-.ph-btn{position:absolute;left:16px;top:16px;width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.2rem;
-  background:rgba(3,19,46,.45);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.2)}
-.shape{position:absolute;z-index:1;pointer-events:none;filter:drop-shadow(0 20px 30px rgba(0,0,0,.5))}
-.s-ring{width:230px;left:-90px;bottom:-120px;transform:rotate(-18deg);opacity:.9}
-.s-knot{width:170px;right:-30px;top:66px;z-index:3;opacity:.95}
+.worldmap{position:absolute;z-index:1;pointer-events:none;width:min(1250px,110%);aspect-ratio:1800/710;right:-6%;top:96px}
+.worldmap:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#4DA3FF,#9FD0FF);opacity:.2;
+  -webkit-mask:url(deco/world-dots.png) center/contain no-repeat;mask:url(deco/world-dots.png) center/contain no-repeat}
+.wm-pin{position:absolute;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:#9FD0FF;box-shadow:0 0 0 4px rgba(77,163,255,.35),0 0 18px 4px rgba(77,163,255,.7)}
+.wm-pin:after{content:"";position:absolute;inset:-4px;border-radius:50%;border:2px solid #9FD0FF;animation:ping 2.4s ease-out infinite}
+@keyframes ping{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+.fact.lead-card{position:relative;overflow:hidden}
+.fact.lead-card>*:not(.worldmap){position:relative;z-index:2}
+.fact.lead-card .worldmap{z-index:1;width:150%;right:auto;left:85%;top:24%}
+.fact.lead-card .worldmap:before{background:#fff;opacity:.2}
+.fact.lead-card .wm-pin{width:9px;height:9px;margin:-4.5px 0 0 -4.5px;background:#fff;box-shadow:0 0 0 3px rgba(255,255,255,.35),0 0 12px 3px rgba(159,208,255,.9)}
+.fact.lead-card .wm-pin:after{border-color:#fff}
+.worldmap.faint{width:120%;right:-30%;top:auto;bottom:-30%}
+.worldmap.faint:before{opacity:.14}
+.compass{position:absolute;z-index:3;width:132px;height:auto;left:-44px;top:-52px;transform:perspective(600px) rotateX(28deg) rotateZ(-8deg);
+  filter:drop-shadow(0 22px 26px rgba(0,0,0,.55)) drop-shadow(0 0 18px rgba(30,91,255,.45))}
+.rosebg{position:relative;overflow:hidden}
+.rosebg:after{content:"";position:absolute;right:-70px;top:-70px;width:300px;height:300px;background:url(deco/rose.svg) center/contain no-repeat;opacity:.07;pointer-events:none}
+.rosebg>*{position:relative;z-index:1}
+@media (prefers-reduced-motion:reduce){.wm-pin:after{animation:none}}
 
 /* facts as dashboard cards, the first one in brand blue */
 .facts{position:relative;z-index:5;margin-top:-64px}
@@ -249,8 +264,9 @@ th{color:var(--muted);font-weight:500;font-size:.85rem}
 
 /* misc */
 .faq{border-bottom:1px solid var(--line);padding:13px 0}.faq summary{cursor:pointer;font-weight:600;color:var(--head)}
-.signoff{position:relative;overflow:hidden;color:#fff;border:0;
+.signoff{position:relative;overflow:hidden;isolation:isolate;color:#fff;border:0;
   background:radial-gradient(ellipse 70% 90% at 15% 20%,rgba(30,91,255,.6),transparent 65%),radial-gradient(ellipse 50% 70% at 90% 90%,rgba(77,163,255,.4),transparent 70%),var(--night)}
+.signoff>*:not(.worldmap){position:relative;z-index:2}
 .signoff h2{color:#fff;font-size:1.8rem}
 .signoff p{color:#BACBE3}
 .signoff .btn-ghost{background:transparent;color:#fff;border-color:rgba(255,255,255,.35)}
@@ -303,8 +319,8 @@ th{color:var(--muted);font-weight:500;font-size:.85rem}
   .foot-in{flex-direction:column;align-items:flex-start;gap:12px}
   .foot-logo{width:100px}
   .hero{padding:96px 0 96px}
-  .s-ring{width:150px;left:auto;right:-40px;bottom:-60px}
-  .s-knot{display:none}
+  .worldmap{width:900px;right:-260px;top:150px}
+  .compass{width:92px;left:-12px;top:-40px}
 }
 @media (max-width:560px){
   body{font-size:16px}

@@ -21,11 +21,14 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
 * If the template truly cannot show something, add an optional field to the template and document it
   here. Never fork the template for one tour.
 * The cover design does not change from tour to tour.
-* The look: all shades of blue, no purple. A dark navy cover with a blue glow, a floating pill menu, a gradient Enquire button and
-  two chrome 3D shapes (from the Landing Page 3D Toggle and Metality files on the Figma Community),
-  then a light page of white rounded cards with a left sidebar (from the BankDash file). Fonts are
-  Inter Tight for headings and Inter for text. The chrome shapes are decoration only; never put a
-  fact in them.
+* The look: all shades of blue, no purple, no metal or chrome. A dark navy cover with a blue glow,
+  a floating pill menu and a gradient Enquire button (from the Landing Page 3D Toggle file on the
+  Figma Community), then a light page of white rounded cards with a left sidebar (from the BankDash
+  file). Fonts are Inter Tight for headings and Inter for text.
+* Decoration, kept subtle: a dotted world map behind the cover with a glowing pin where the trip is
+  (placed by build.py from the trip's verified pins, never typed by hand), a blue glass compass on
+  the corner of the cover photo, a faint compass rose behind "At a glance", and the world map again,
+  faint, behind the sign-off. Decoration never carries a fact.
 * The logo is in `assets/logo/`: the emblem in the menu, the full logo with "Get Glocal" in the
   footer, both recoloured in the site's blues (`logo-on-dark.png`, `logo-on-light.png`). The
   original is kept as `original.png`. Never stretch it or change its shape.

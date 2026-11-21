@@ -25,8 +25,8 @@ if OUT.exists():
 (OUT / "assets").mkdir(parents=True)
 shutil.copy(ROOT / "assets/style.css", OUT / "assets/style.css")
 shutil.copy(ROOT / "assets/site.js", OUT / "assets/site.js")
-shutil.copytree(ROOT / "assets/shapes", OUT / "assets/shapes")
 shutil.copytree(ROOT / "assets/logo", OUT / "assets/logo")
+shutil.copytree(ROOT / "assets/deco", OUT / "assets/deco")
 (OUT / ".nojekyll").write_text("")
 
 STRICT = "--strict" in sys.argv
@@ -58,6 +58,10 @@ for t in tours:
         for f in (ROOT / "media" / t["slug"]).glob("*.webp"):
             shutil.copy(f, dst / f.name)
     t["_media"] = m
+    pts = list(m.get("coords", {}).values())  # verified pins only
+    if pts:  # where the trip is, on the 84N to 58S world map in the cover
+        lat = sum(p[0] for p in pts) / len(pts); lon = sum(p[1] for p in pts) / len(pts)
+        t["_pin"] = (round((lon + 180) / 360 * 100, 2), round((84 - lat) / 142 * 100, 2))
     for ph in [v.get("photo") for v in m["days"].values()] + list(m.get("photos", {}).values()):
         if ph:  # credit names only: no raw links in the caption
             ph["author"] = re.sub(r"\s+", " ", re.sub(r"https?://\S+", "", ph.get("author") or "")).strip(" ,;-") or ph.get("provider", "")

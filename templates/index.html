@@ -1,12 +1,15 @@
 {% extends "base.html" %}
 {% block content %}
 <section class="hero short">
+  <img class="shape s-ring" src="{{ root }}assets/shapes/chrome-ring.webp" alt="" aria-hidden="true" width="300" height="300">
+  <img class="shape s-knot" src="{{ root }}assets/shapes/chrome-knot.webp" alt="" aria-hidden="true" width="300" height="300">
   <div class="wrap">
+    <p class="kicker"><span class="dot"></span>Blue Diamond Voyage · since 2000</p>
     <h1>Curated tour itineraries</h1>
     <p class="meta">Day-by-day journeys designed by Blue Diamond Voyage, with real timings, hand-picked hotels and local know-how.</p>
   </div>
 </section>
-<section class="wrap more">
+<section class="wrap more list-grid">
   <div class="grid">{% for o in tours %}{% include "card.html" %}{% endfor %}</div>
 </section>
 {% endblock %}

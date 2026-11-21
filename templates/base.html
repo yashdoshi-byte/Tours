@@ -17,18 +17,18 @@
 <link rel="icon" href="https://bluediamondvoyage.com/favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}assets/style.css">
 {% for ld in jsonld %}<script type="application/ld+json">{{ ld }}</script>
 {% endfor %}</head>
 <body>
 <header class="topbar">
-  <div class="wrap topbar-in">
-    <a class="logo" href="{{ site.main_site }}">Blue Diamond <span>Voyage</span></a>
+  <div class="topbar-in">
+    <a class="logo" href="{{ site.main_site }}"><span class="logo-mark" aria-hidden="true"></span>Blue Diamond <span>Voyage</span></a>
     <nav>
-      <a href="{{ root }}">All tours</a>
+      <a href="{{ root }}" class="{{ 'on' if og_type == 'website' }}">All tours</a>
       <a href="{{ site.main_site }}/destinations">Destinations</a>
-      <a href="{{ site.main_site }}/contact" class="btn-sm">Enquire</a>
+      <a href="{{ site.main_site }}/contact" class="btn-grad">Enquire <span aria-hidden="true">&#8250;</span></a>
     </nav>
   </div>
 </header>
@@ -39,9 +39,11 @@
   <div class="wrap">
     <p><strong>{{ site.brand }}</strong> · Tailor-made travel since 2000 · {{ site.address }}</p>
     <p><a href="tel:{{ site.phone_link }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a href="{{ site.main_site }}">bluediamondvoyage.com</a> · <a href="{{ site.instagram }}">Instagram</a></p>
-    <p>24/7 travel desk: {% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+    <p class="desk">24/7 travel desk: {% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+    <p class="fine">Decorative 3D shapes from the Metality metal 3D shapes file on the Figma Community.</p>
   </div>
 </footer>
 <a class="wa-float" href="{{ site.whatsapp }}" aria-label="Chat on WhatsApp">WhatsApp us</a>
+<script src="{{ root }}assets/site.js" defer></script>
 </body>
 </html>

@@ -1,27 +1,55 @@
 {% extends "base.html" %}
 {% macro gmap(q) %}https://www.google.com/maps/search/?api=1&amp;query={{ q|urlencode }}{% endmacro %}
 {% block content %}
-{# ---------- COVER ---------- #}
-<section class="hero" style="background-image:linear-gradient(180deg,rgba(9,28,48,.25),rgba(9,28,48,.78)),url('{{ t.hero_image }}')">
-  <div class="wrap">
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ site.main_site }}">Home</a> » <a href="{{ root }}">Tours</a> » <span>{{ t.destination }}</span></nav>
-    <p class="kicker">{{ t.style }}</p>
-    <h1>{{ t.title }}</h1>
-    {% if t.tagline %}<p class="tagline">{{ t.tagline }}</p>{% endif %}
-    <div class="hero-cta">
-      <a class="btn gold" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a personalised quote</a>
-      <a class="btn line" href="#day-1">See the day-by-day plan</a>
+{# ---------- COVER: dark glow hero, chrome shapes, the photo as a tilted panel ---------- #}
+{% set wa = site.whatsapp ~ '?text=' ~ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode %}
+<section class="hero">
+  <img class="shape s-ring" src="{{ root }}assets/shapes/chrome-ring.webp" alt="" aria-hidden="true" width="300" height="300">
+  <img class="shape s-knot" src="{{ root }}assets/shapes/chrome-knot.webp" alt="" aria-hidden="true" width="300" height="300">
+  <div class="wrap hero-in">
+    <div class="hero-txt">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ site.main_site }}">Home</a> <span aria-hidden="true">/</span> <a href="{{ root }}">Tours</a> <span aria-hidden="true">/</span> <span>{{ t.destination }}</span></nav>
+      <p class="kicker"><span class="dot"></span>{{ t.style }}</p>
+      <h1>{{ t.title }}</h1>
+      {% if t.tagline %}<p class="tagline">{{ t.tagline }}</p>{% endif %}
+      <div class="hero-cta">
+        <a class="btn-grad big" href="{{ wa }}">Get a personalised quote <span aria-hidden="true">&#8250;</span></a>
+        <a class="btn-glass" href="#itinerary">See the day-by-day plan</a>
+      </div>
     </div>
+    <figure class="hero-photo">
+      <img src="{{ t.hero_image }}" alt="{{ t.hero_alt }}" width="1200" height="800" fetchpriority="high">
+      <figcaption><b>{{ t.duration }}</b><span>{{ t.destination }}</span></figcaption>
+    </figure>
   </div>
 </section>
 {% if t.facts %}
-<section class="facts"><div class="wrap facts-in">
-  <div class="fact"><span>Duration</span><strong>{{ t.duration }}</strong></div>
+<section class="facts" aria-label="Trip facts"><div class="wrap facts-in">
+  <div class="fact lead-card"><span>Duration</span><strong>{{ t.duration }}</strong><em>{{ t.destination }}</em></div>
   {% for k, v in t.facts %}<div class="fact"><span>{{ k }}</span><strong>{{ v }}</strong></div>{% endfor %}
 </div></section>
 {% endif %}
 
 <div class="wrap layout">
+  <aside class="sidebar">
+    <div class="side">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-h">On this page</p>
+        <a href="#journey">The journey</a><a href="#overview">At a glance</a><a href="#itinerary">Day by day</a>
+        <div class="toc-days">{% for d in t.days %}<a href="#day-{{ loop.index }}"><b>{{ loop.index }}</b>{{ d.title }}</a>{% endfor %}</div>
+        <a href="#stay">Where you stay</a>
+        {% if t.entry %}<a href="#entry">Visa and entry</a>{% endif %}{% if t.good_to_know %}<a href="#good-to-know">Good to know</a>{% endif %}
+        {% if t.dining %}<a href="#dining">Dining</a>{% endif %}<a href="#best-time">Best time</a><a href="#faq">FAQs</a>
+      </nav>
+      <div class="quote-card">
+        <p class="qc-dur">{{ t.duration }}</p>
+        <p class="qc-price">{{ t.price_note }}</p>
+        <a class="btn-grad" href="{{ wa }}">Quote on WhatsApp</a>
+        <a class="btn-ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
+        <p class="qc-desk"><b>24/7 travel desk</b>{% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% endfor %}</p>
+      </div>
+    </div>
+  </aside>
   <article>
     {# ---------- JOURNEY ---------- #}
     <section class="block" id="journey">
@@ -55,7 +83,15 @@
 
     {# ---------- DAYS ---------- #}
     <section class="block" id="itinerary">
-      <h2>Day-by-day itinerary</h2>
+      <div class="sec-h">
+        <h2>Day-by-day itinerary</h2>
+        <div class="viewswitch" role="group" aria-label="How much detail to show">
+          <button type="button" data-view="quick" aria-pressed="false">Quick view</button>
+          <span class="knob" aria-hidden="true"></span>
+          <button type="button" data-view="full" aria-pressed="true">Full detail</button>
+        </div>
+      </div>
+      <p class="small view-hint">Quick view shows the times, places and maps. Full detail adds every tip, care note and meal.</p>
       {% for d in t.days %}
       <article class="day" id="day-{{ loop.index }}">
         <header class="day-h">
@@ -95,7 +131,7 @@
             <p class="dl-h">Today's route</p>
             {% if d._map %}<p class="small">Tap the map to see it full size. Numbers follow the order you travel.</p>{% endif %}
             <ol>{% for s in d._stops %}<li><a href="{{ gmap(s ~ ', ' ~ t.destination) }}" target="_blank" rel="noopener">{{ s }}</a>{% if not loop.first and d._km and d._km[loop.index0 - 1] %}<span>about {{ '%.0f'|format(d._km[loop.index0 - 1]) }} km by road</span>{% endif %}</li>{% endfor %}</ol>
-            {% if d._directions %}<a class="btn sm-btn" href="{{ d._directions }}" target="_blank" rel="noopener">Open this route in Google Maps</a>{% endif %}
+            {% if d._directions %}<a class="btn-blue" href="{{ d._directions }}" target="_blank" rel="noopener">Open this route in Google Maps</a>{% endif %}
           </div>
         </div>
         {% endif %}
@@ -210,27 +246,12 @@
       <h2>Make this journey yours</h2>
       <p>Every Blue Diamond Voyage itinerary is a starting point. Tell us your dates, your city and how you like to travel, and we shape the hotels, the pace and the food around you. Timings and local details were checked on {{ t.facts_checked or t.date_published }} and are reconfirmed for your dates when you book.</p>
       <div class="hero-cta">
-        <a class="btn" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a quote on WhatsApp</a>
-        <a class="btn ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
+        <a class="btn-grad" href="{{ wa }}">Get a quote on WhatsApp</a>
+        <a class="btn-ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
       </div>
     </section>
   </article>
 
-  <aside>
-    <div class="side card">
-      <p class="side-dur">{{ t.duration }}</p>
-      <p class="side-dest">{{ t.destination }}</p>
-      <p class="side-price">{{ t.price_note }}</p>
-      <a class="btn" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a quote on WhatsApp</a>
-      <a class="btn ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
-      <p class="small">24/7: {% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}<br>Tailor-made by Blue Diamond Voyage, Rajkot, since 2000.</p>
-      <nav class="toc" aria-label="On this page">
-        <a href="#overview">At a glance</a><a href="#itinerary">Day by day</a><a href="#stay">Where you stay</a>
-        {% if t.entry %}<a href="#entry">Visa and entry</a>{% endif %}{% if t.good_to_know %}<a href="#good-to-know">Good to know</a>{% endif %}
-        {% if t.dining %}<a href="#dining">Dining</a>{% endif %}<a href="#faq">FAQs</a>
-      </nav>
-    </div>
-  </aside>
 </div>
 {% if others %}
 <section class="wrap more">

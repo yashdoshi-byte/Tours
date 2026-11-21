@@ -24,6 +24,8 @@ if OUT.exists():
     shutil.rmtree(OUT)
 (OUT / "assets").mkdir(parents=True)
 shutil.copy(ROOT / "assets/style.css", OUT / "assets/style.css")
+shutil.copy(ROOT / "assets/site.js", OUT / "assets/site.js")
+shutil.copytree(ROOT / "assets/shapes", OUT / "assets/shapes")
 (OUT / ".nojekyll").write_text("")
 
 STRICT = "--strict" in sys.argv

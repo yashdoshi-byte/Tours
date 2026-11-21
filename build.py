@@ -2,10 +2,12 @@
 """Build the static tour site into docs/ (served by GitHub Pages).
 Add a tour: drop a JSON file in data/tours/ (copy an existing one), then run: python3 build.py
 """
-import json, pathlib, shutil, datetime
+import json, pathlib, shutil, datetime, re, sys, urllib.parse
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 ROOT = pathlib.Path(__file__).parent
+sys.path.insert(0, str(ROOT / "tools"))
+from rules import check_tour  # noqa: E402
 OUT = ROOT / "docs"
 site = json.loads((ROOT / "data/site.json").read_text())
 tours = [json.loads(p.read_text()) for p in sorted((ROOT / "data/tours").glob("*.json"))]
@@ -23,6 +25,54 @@ if OUT.exists():
 (OUT / "assets").mkdir(parents=True)
 shutil.copy(ROOT / "assets/style.css", OUT / "assets/style.css")
 (OUT / ".nojekyll").write_text("")
+
+STRICT = "--strict" in sys.argv
+errors = warnings = 0
+
+
+def coords_of(m, name):
+    c = m.get("coords", {}).get(name)
+    return f"{c[0]},{c[1]}" if c else None
+
+
+def directions(t, m, stops):
+    """Google Maps driving directions through the day's stops, by exact coordinates where known."""
+    pts = [coords_of(m, n) or f'{n}, {t["destination"]}' for n in stops]
+    if len(pts) < 2:
+        return None
+    q = {"api": 1, "origin": pts[0], "destination": pts[-1], "travelmode": "driving"}
+    if len(pts) > 2:
+        q["waypoints"] = "|".join(pts[1:-1])
+    return "https://www.google.com/maps/dir/?" + urllib.parse.urlencode(q)
+
+
+
+for t in tours:
+    mfile = ROOT / "media" / t["slug"] / "media.json"
+    m = json.loads(mfile.read_text()) if mfile.exists() else {"days": {}, "photos": {}}
+    if (ROOT / "media" / t["slug"]).exists():
+        dst = OUT / "media" / t["slug"]; dst.mkdir(parents=True)
+        for f in (ROOT / "media" / t["slug"]).glob("*.webp"):
+            shutil.copy(f, dst / f.name)
+    t["_media"] = m
+    for i, d in enumerate(t["days"], 1):
+        dm = m["days"].get(str(i), {})
+        d["_map"], d["_photo"], d["_km"] = dm.get("map"), dm.get("photo"), dm.get("km")
+        d["_stops"] = dm.get("stops") or d.get("route") or []
+        d["_directions"] = directions(t, m, d.get("route") or [])
+    credits = [dict(m["days"][k]["photo"], where=f"Day {k}") for k in sorted(m["days"], key=int) if m["days"][k].get("photo")]
+    credits += [dict(v, where="Where you stay") for v in m.get("photos", {}).values()]
+    t["_credits"] = credits
+    t["_hotel_photo"] = m.get("photos", {}).get("hotel-1")
+    e, w = check_tour(t, m)
+    for msg in e:
+        print(f"  ✗ {t['slug']}: {msg}")
+    for msg in w:
+        print(f"  ⚠ {t['slug']}: {msg}")
+    errors += len(e); warnings += len(w)
+
+if errors or (STRICT and warnings):
+    sys.exit(f"Stopped: {errors} error(s), {warnings} warning(s). See STANDARDS.md section 17.")
 
 for t in tours:
     url = base + t["slug"] + "/"
@@ -59,4 +109,4 @@ urls = [base] + [base + t["slug"] + "/" for t in tours]
 (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     + "".join(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n")
 (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}sitemap.xml\n")
-print(f"Built {len(tours)} tour page(s) into {OUT}")
+print(f"Built {len(tours)} tour page(s) into {OUT} · {warnings} warning(s)")

@@ -4,11 +4,16 @@ SEO-friendly itinerary pages for Blue Diamond Voyage, published with GitHub Page
 
 Live: https://yashdoshi-byte.github.io/Tours/
 
+**The rulebook for every tour page is [STANDARDS.md](STANDARDS.md).** Read it before writing a tour.
+
 ## Add or edit a tour
 1. Copy `data/tours/bali-honeymoon-nusa-dua.json` to `data/tours/<new-slug>.json` and fill in the fields
    (slug, title, meta_title ≤ 60 chars, meta_description ≤ 160 chars, days, hotel, inclusions, FAQs).
-2. Run `python3 build.py` (needs `jinja2`).
-3. Commit and push. GitHub Pages republishes in about a minute.
+2. Run `python3 tools/media.py <slug>` for photos, pins, road routes and maps (needs internet). If the
+   computer you use cannot reach OpenStreetMap or Wikimedia, just push: the "Build tour media" GitHub
+   workflow runs it and commits the results. Check `media/<slug>/places.md` and `contact_sheet.jpg`.
+3. Run `python3 build.py` (needs `jinja2`). It runs the rule checks; `--strict` before publishing.
+4. Commit and push. GitHub Pages republishes in about a minute.
 
 Each page gets: its own title and meta description, canonical URL, Open Graph tags,
 TouristTrip + FAQPage + BreadcrumbList structured data, and an entry in `docs/sitemap.xml`.

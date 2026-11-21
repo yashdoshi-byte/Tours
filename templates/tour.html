@@ -43,6 +43,13 @@
         <li><a href="#day-{{ loop.index }}"><span class="ov-n">Day {{ loop.index }}</span><span class="ov-t">{{ d.title }}</span>{% if d.pill %}<span class="pill sm">{{ d.pill }}</span>{% endif %}</a></li>
       {% endfor %}
       </ol>
+      {% set ov = t._media.overview %}
+      {% if ov %}
+      <figure class="map">
+        <img src="{{ root }}media/{{ t.slug }}/{{ ov.map }}" alt="Map of the {{ t.destination }} itinerary: {{ ov.stops|join(', ') }}" loading="lazy" width="1200" height="760">
+        <figcaption>The journey on one map. Numbers follow the order you travel.</figcaption>
+      </figure>
+      {% endif %}
       {% if t.route %}<p class="route">Route: {% for r in t.route %}<a href="{{ gmap(r ~ ', ' ~ t.destination) }}" target="_blank" rel="noopener">{{ r }}</a>{% if not loop.last %} » {% endif %}{% endfor %}</p>{% endif %}
     </section>
 
@@ -58,6 +65,12 @@
             <h3>{{ d.title }}</h3>
           </div>
         </header>
+        {% if d._photo %}
+        <figure class="dphoto">
+          <img src="{{ root }}media/{{ t.slug }}/{{ d._photo.img }}" alt="{{ d.photo_query or d.title }}" loading="lazy" width="1600" height="900">
+          <figcaption>Photo: <a href="{{ d._photo.page }}" target="_blank" rel="noopener">{{ d._photo.author or d._photo.provider }}</a>{% if d._photo.licence %} · {{ d._photo.licence }}{% endif %}{% if d._photo.provider %} · {{ d._photo.provider }}{% endif %}</figcaption>
+        </figure>
+        {% endif %}
         {% if d.strip %}<ul class="strip">{% for s in d.strip[:5] %}<li>{{ s }}</li>{% endfor %}</ul>{% endif %}
         {% if d.rows %}
         <div class="rows">
@@ -75,6 +88,16 @@
         {% else %}
         <p>{{ d.body }}</p>
         {% endif %}
+        {% if d._map or d._directions %}
+        <div class="droute">
+          {% if d._map %}<a href="{{ d._directions or '#' }}" target="_blank" rel="noopener" class="dmap"><img src="{{ root }}media/{{ t.slug }}/{{ d._map }}" alt="Day {{ loop.index }} route map: {{ d._stops|join(' to ') }}" loading="lazy" width="1200" height="760"></a>{% endif %}
+          <div class="dlegend">
+            <p class="dl-h">Today's route</p>
+            <ol>{% for s in d._stops %}<li><a href="{{ gmap(s ~ ', ' ~ t.destination) }}" target="_blank" rel="noopener">{{ s }}</a>{% if not loop.first and d._km and d._km[loop.index0 - 1] %}<span>about {{ '%.0f'|format(d._km[loop.index0 - 1]) }} km by road</span>{% endif %}</li>{% endfor %}</ol>
+            {% if d._directions %}<a class="btn sm-btn" href="{{ d._directions }}" target="_blank" rel="noopener">Open this route in Google Maps</a>{% endif %}
+          </div>
+        </div>
+        {% endif %}
         {% if d.places %}<p class="pins"><span>On the map</span>{% for p in d.places %}<a href="{{ gmap(p) }}" target="_blank" rel="noopener">{{ p }}</a>{% endfor %}</p>{% endif %}
         {% if d.note or d.tip %}<aside class="concierge"><b>From your Blue Diamond concierge</b>{{ d.note or d.tip }}</aside>{% endif %}
       </article>
@@ -85,6 +108,7 @@
     <section class="block" id="stay">
       <h2>Where you stay</h2>
       <div class="stay">
+        {% if t._hotel_photo %}<a class="sphoto" href="{{ t.hotel.website or t._hotel_photo.page }}" target="_blank" rel="noopener"><img src="{{ root }}media/{{ t.slug }}/{{ t._hotel_photo.img }}" alt="{{ t.hotel.name }}" loading="lazy" width="1600" height="900"><span>Hotel site</span></a>{% endif %}
         <h3>{{ t.hotel.name }}</h3>
         {% if t.hotel.about %}<p>{{ t.hotel.about }}</p>{% endif %}
         <dl class="staybar">
@@ -169,6 +193,16 @@
       <h2>Frequently asked questions</h2>
       {% for f in t.faqs %}<details class="faq"><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
     </section>
+
+    {% if t._credits or t._media.overview %}
+    <section class="block credits">
+      <h2>Photo and map credits</h2>
+      <ul>
+        {% for c in t._credits %}<li>{{ c.where }}: <a href="{{ c.page }}" target="_blank" rel="noopener">{{ c.author or c.provider }}</a>{% if c.licence %}, {% if c.licence_url %}<a href="{{ c.licence_url }}" target="_blank" rel="noopener">{{ c.licence }}</a>{% else %}{{ c.licence }}{% endif %}{% endif %}{% if c.provider %}, via {{ c.provider }}{% endif %}</li>{% endfor %}
+        <li>Maps: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>; road routes by OSRM. Distances are by road; drive times on this page allow for local traffic.</li>
+      </ul>
+    </section>
+    {% endif %}
 
     {# ---------- CONTACT ---------- #}
     <section class="block signoff">

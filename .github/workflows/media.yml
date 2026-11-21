@@ -49,7 +49,7 @@ jobs:
           node-version: "20"
       - name: Make the client PDFs (overview and detailed itinerary)
         run: |
-          npm install --no-save --no-audit --no-fund playwright@1.48.2
+          npm install --no-save --no-audit --no-fund playwright@1.63.0
           npx playwright install --with-deps chromium
           node tools/make_pdf.js
       - name: Commit the results

@@ -1,0 +1,655 @@
+{
+  "slug": "austria-innsbruck-kaprun-salzburg-hallstatt-8-days",
+  "title": "Austria by Train: Innsbruck, Kaprun and Salzburg with a Day in Hallstatt",
+  "meta_title": "Austria by Train 8 Days: Innsbruck, Kaprun, Salzburg",
+  "meta_description": "Relaxed 8-day Austria rail holiday: Innsbruck's Old Town, the Kaprun gorge walk, glacier and spa, Salzburg's Sound of Music tour and a day trip to Hallstatt.",
+  "destination": "Tyrol and Salzburg, Austria",
+  "country": "Austria",
+  "duration": "8 days / 7 nights",
+  "nights": 7,
+  "style": "Mountains · Lakes · Easy rail",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903943776-329120957.webp",
+  "hero_alt": "Hallstatt village on its lake in Austria",
+  "tagline": "Alpine towns, a glacier and a lake village, at an unhurried pace by train",
+  "facts": [
+    [
+      "Stay",
+      "Innsbruck 2, Kaprun 2, Salzburg 3"
+    ],
+    [
+      "Travel",
+      "Train, with short bus and taxi links"
+    ],
+    [
+      "Pace",
+      "Relaxed; suits senior couples"
+    ],
+    [
+      "Best months",
+      "Late May to September"
+    ],
+    [
+      "Arrive / leave",
+      "Munich (or Vienna)"
+    ]
+  ],
+  "intro": "A gentle Austria holiday for travellers who like walking, scenery and good trains more than a packed schedule. Two nights in Innsbruck under the Nordkette mountains, two in the mountain village of Kaprun with a gorge walk, a glacier and a spa afternoon, then three in Salzburg for Mozart's old town, the Sound of Music tour and a day trip to Hallstatt. This combines our two suggested plans: it keeps the mountain stay at Kaprun and adds the Hallstatt day. Hallstatt is about 1 hour 15 minutes from Salzburg by car and 2 hours 30 minutes by train and bus, so we suggest a private driver for that day.",
+  "highlights": [
+    "Innsbruck's Old Town, the Golden Roof and the Nordkette cable car to 2,256 m",
+    "The scenic Railjet train ride through the Tyrolean Alps",
+    "Boardwalks through the Sigmund Thun Gorge in Kaprun",
+    "The Kitzsteinhorn glacier viewing platform at 3,029 m",
+    "An afternoon at the Tauern Spa",
+    "Mozart's Salzburg and the Sound of Music tour",
+    "Hallstatt, the lake village beneath the Dachstein"
+  ],
+  "stays": [
+    {
+      "place": "Innsbruck",
+      "nights": 2,
+      "hotel": "Old Town hotel"
+    },
+    {
+      "place": "Kaprun",
+      "nights": 2,
+      "hotel": "Spa hotel"
+    },
+    {
+      "place": "Salzburg",
+      "nights": 3,
+      "hotel": "Old Town or riverside hotel"
+    }
+  ],
+  "route": [
+    "Munich",
+    "Innsbruck",
+    "Zell am See",
+    "Kaprun",
+    "Salzburg",
+    "Hallstatt",
+    "Salzburg"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Munich and train to Innsbruck",
+      "summary": "Land in Munich, take the train over the border and an evening in the Old Town.",
+      "strip": [
+        "Munich Airport to Innsbruck about 2 hours 30 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Train from Munich to Innsbruck",
+          "text": "S-Bahn to Munich Hauptbahnhof, then a direct train through the Inn valley; a private transfer takes about 2 hours.",
+          "notes": [
+            [
+              "TIME",
+              "Allow 1 hour after landing for baggage and passport control."
+            ]
+          ]
+        },
+        {
+          "label": "Evening · Old Town",
+          "title": "The Golden Roof and Maria-Theresien-Strasse",
+          "text": "Arcaded lanes, painted houses and the mountains rising at the end of every street."
+        },
+        {
+          "label": "Dinner",
+          "title": "A Tyrolean vegetarian dinner",
+          "text": "Käsespätzle (cheese noodles) and spinach dumplings are vegetarian staples; ask about stock."
+        }
+      ],
+      "places": [
+        "Munich Airport",
+        "Goldenes Dachl",
+        "Maria-Theresien-Strasse"
+      ],
+      "note": "Keep the first evening short; Innsbruck is best explored fresh in the morning.",
+      "route": [
+        "Munich Airport",
+        "Goldenes Dachl",
+        "Maria-Theresien-Strasse"
+      ],
+      "photo_query": "Munich Airport",
+      "photo_caption": "Munich Airport",
+      "transport": "Train and on foot",
+      "travel_time": "Munich Airport to Innsbruck about 2 hours 30 minutes by train",
+      "brief": [
+        "Train from Munich to Innsbruck: allow 1 hour after landing for baggage and passport control.",
+        "Keep the first evening short; Innsbruck is best explored fresh in the morning."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Innsbruck at leisure and the Nordkette",
+      "summary": "A slow day in town, with a cable car to the mountains above it.",
+      "strip": [
+        "Cable car about 30 minutes to the top",
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Nordkette cable car to Hafelekar",
+          "text": "From the Congress station in town, the funicular and two cable cars climb to 2,256 m.",
+          "notes": [
+            [
+              "WEAR",
+              "It can be 10°C colder at the top. Take a warm layer and sunglasses."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Hofburg palace and the Court Church",
+          "text": "The imperial palace and the 28 bronze statues around Emperor Maximilian's tomb."
+        },
+        {
+          "label": "Optional",
+          "title": "Swarovski Crystal Worlds",
+          "text": "About 20 minutes by shuttle bus to Wattens."
+        }
+      ],
+      "places": [
+        "Hungerburg",
+        "Hafelekar",
+        "Hofburg Innsbruck",
+        "Swarovski Kristallwelten"
+      ],
+      "note": "The Innsbruck Card covers the cable car, museums and the Swarovski shuttle, and pays for itself in one day.",
+      "transport": "Cable car and on foot",
+      "route": [
+        "Hungerburg",
+        "Hafelekar",
+        "Hofburg Innsbruck",
+        "Swarovski Kristallwelten"
+      ],
+      "photo_query": "Hungerburg",
+      "photo_caption": "Hungerburg",
+      "travel_time": "Cable car about 30 minutes to the top",
+      "brief": [
+        "Nordkette cable car to Hafelekar: it can be 10°C colder at the top.",
+        "The Innsbruck Card covers the cable car, museums and the Swarovski shuttle, and pays for itself in one day."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train through the Alps to Kaprun",
+      "summary": "A scenic train to Zell am See and on to Kaprun.",
+      "strip": [
+        "About 1 hour 40 minutes by train, then 15 minutes by bus or taxi"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Railjet to Zell am See",
+          "text": "One of the prettiest train rides in Austria, through Kitzbühel's valleys.",
+          "notes": [
+            [
+              "TIME",
+              "Reserve seats; trains on Fridays and Sundays are busy."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in and a walk in Kaprun",
+          "text": "A quiet village under the Kitzsteinhorn glacier."
+        },
+        {
+          "label": "Evening",
+          "title": "Zell am See lakeside",
+          "text": "If you have energy, a stroll on the lake promenade 15 minutes away."
+        }
+      ],
+      "places": [
+        "Zell am See railway station",
+        "Kaprun",
+        "Zeller See"
+      ],
+      "note": "Most hotels here include a summer card with free buses and lifts. Ask at check-in.",
+      "route": [
+        "Zell am See railway station",
+        "Kaprun",
+        "Zeller See"
+      ],
+      "photo_query": "Zell am See railway station",
+      "photo_caption": "Zell am See railway station",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 40 minutes by train, then 15 minutes by bus or taxi",
+      "brief": [
+        "Railjet to Zell am See: reserve seats; trains on Fridays and Sundays are busy.",
+        "Most hotels here include a summer card with free buses and lifts."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Sigmund Thun Gorge, the glacier and the spa",
+      "summary": "A boardwalk gorge walk, a glacier view and an afternoon of thermal pools.",
+      "strip": [
+        "Gorge walk about 1 hour",
+        "Spa from about 15:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sigmund Thun Gorge",
+          "text": "Wooden walkways and bridges above a roaring stream, 320 m long. Gentle, with a few steps.",
+          "notes": [
+            [
+              "TIME",
+              "Open from about May to October; check opening on rainy days."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Kitzsteinhorn: Top of Salzburg",
+          "text": "Cable cars to the glacier viewing platform at 3,029 m, with views to the Grossglockner.",
+          "notes": [
+            [
+              "CARE",
+              "At over 3,000 m you may feel breathless. Walk slowly and skip it if you have heart or breathing problems."
+            ],
+            [
+              "WEAR",
+              "Winter jacket, gloves and sunglasses, even in June."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tauern Spa Kaprun",
+          "text": "Indoor and outdoor thermal pools with mountain views; a sauna area for adults."
+        }
+      ],
+      "places": [
+        "Sigmund Thun Klamm",
+        "Kitzsteinhorn",
+        "Tauern Spa Kaprun"
+      ],
+      "note": "For more active days, the region offers paragliding, rafting and canyoning; we can book them locally.",
+      "transport": "Bus, cable car and on foot",
+      "route": [
+        "Sigmund Thun Klamm",
+        "Kitzsteinhorn",
+        "Tauern Spa Kaprun"
+      ],
+      "photo_query": "Sigmund Thun Klamm",
+      "photo_caption": "Sigmund Thun Klamm",
+      "travel_time": "Gorge walk about 1 hour",
+      "brief": [
+        "Sigmund Thun Gorge: open from about May to October; check opening on rainy days.",
+        "Kitzsteinhorn: Top of Salzburg: at over 3,000 m you may feel breathless.",
+        "Kitzsteinhorn: Top of Salzburg: winter jacket, gloves and sunglasses, even in June."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Salzburg",
+      "summary": "Train to Salzburg and an evening in the old town.",
+      "strip": [
+        "About 1 hour 30 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train from Zell am See to Salzburg"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Mirabell Gardens",
+          "text": "The fountains and steps from the Do-Re-Mi scene."
+        },
+        {
+          "label": "Evening",
+          "title": "Old town and Getreidegasse",
+          "text": "Wrought-iron shop signs and Mozart's birthplace."
+        }
+      ],
+      "places": [
+        "Zell am See railway station",
+        "Mirabell Palace",
+        "Getreidegasse"
+      ],
+      "note": "Salzburg's old town is car-free; your hotel arranges a taxi to the nearest point.",
+      "route": [
+        "Zell am See railway station",
+        "Mirabell Palace",
+        "Getreidegasse"
+      ],
+      "photo_query": "Zell am See railway station",
+      "photo_caption": "Zell am See railway station",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 30 minutes by train",
+      "brief": [
+        "Salzburg's old town is car-free; your hotel arranges a taxi to the nearest point."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Sound of Music tour and Hangar-7",
+      "summary": "A half-day film tour, then Red Bull's aircraft hangar.",
+      "strip": [
+        "Tour about 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sound of Music tour",
+          "text": "Leopoldskron, the Hellbrunn gazebo and the lakes of the Salzkammergut, ending at the wedding church in Mondsee.",
+          "notes": [
+            [
+              "TIME",
+              "Tours leave at about 09:30 and 14:00; book a day or two ahead."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Red Bull Hangar-7",
+          "text": "Historic aircraft and Formula 1 cars in a glass hangar by the airport. Free entry."
+        },
+        {
+          "label": "Evening",
+          "title": "Hohensalzburg Fortress",
+          "text": "The funicular up for a sunset view over the domes of the city."
+        }
+      ],
+      "places": [
+        "Schloss Leopoldskron",
+        "Hellbrunn Palace",
+        "Mondsee Basilica",
+        "Hangar-7",
+        "Hohensalzburg Fortress"
+      ],
+      "note": "The Salzburg Card covers the fortress funicular, museums and city buses.",
+      "route": [
+        "Schloss Leopoldskron",
+        "Hellbrunn Palace",
+        "Mondsee Basilica",
+        "Hangar-7",
+        "Hohensalzburg Fortress"
+      ],
+      "photo_query": "Schloss Leopoldskron",
+      "photo_caption": "Schloss Leopoldskron",
+      "transport": "Train and on foot",
+      "travel_time": "Tour about 4 hours",
+      "brief": [
+        "Sound of Music tour: tours leave at about 09:30 and 14:00; book a day or two ahead.",
+        "The Salzburg Card covers the fortress funicular, museums and city buses."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Day trip to Hallstatt",
+      "summary": "A private driver to the lake village of Hallstatt and back.",
+      "strip": [
+        "About 1 hour 15 minutes each way by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive through the Salzkammergut lakes",
+          "text": "Past Fuschlsee and Wolfgangsee."
+        },
+        {
+          "label": "Midday",
+          "title": "Hallstatt village and lakeside",
+          "text": "Narrow lanes, the church with its painted skulls, and the classic view from the north end of the village.",
+          "notes": [
+            [
+              "CARE",
+              "Hallstatt is a small village where people live. Keep to public paths, do not fly drones, and speak quietly near homes."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon · optional",
+          "title": "Skywalk and the salt mine",
+          "text": "A funicular to the Skywalk viewpoint; the salt mine tour takes about 1 hour 30 minutes."
+        },
+        {
+          "label": "Evening",
+          "title": "Back to Salzburg"
+        }
+      ],
+      "places": [
+        "Wolfgangsee",
+        "Hallstatt",
+        "Hallstatt Skywalk"
+      ],
+      "note": "Go early: tour buses arrive from about 10:30. By train and bus the trip is about 2 hours 30 minutes each way.",
+      "transport": "Private car with driver",
+      "route": [
+        "Wolfgangsee",
+        "Hallstatt",
+        "Hallstatt Skywalk"
+      ],
+      "photo_query": "Wolfgangsee",
+      "photo_caption": "Wolfgangsee",
+      "travel_time": "About 1 hour 15 minutes each way by car",
+      "brief": [
+        "Hallstatt village and lakeside: hallstatt is a small village where people live.",
+        "Go early: tour buses arrive from about 10:30."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Train to Munich or Vienna and fly home",
+      "summary": "Train to your departure airport.",
+      "strip": [
+        "Salzburg to Munich Airport about 2 hours; to Vienna about 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Plan to reach the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Salzburg Hauptbahnhof",
+        "Munich Airport"
+      ],
+      "note": "Salzburg airport has few long-haul links; Munich and Vienna are easier for flights to India.",
+      "transport": "Train",
+      "route": [
+        "Salzburg Hauptbahnhof",
+        "Munich Airport"
+      ],
+      "photo_query": "Salzburg Hauptbahnhof",
+      "photo_caption": "Salzburg Hauptbahnhof",
+      "travel_time": "Salzburg to Munich Airport about 2 hours; to Vienna about 2 hours 30 minutes",
+      "brief": [
+        "Train to the airport: plan to reach the airport 3 hours before an international flight.",
+        "Salzburg airport has few long-haul links; Munich and Vienna are easier for flights to India."
+      ]
+    }
+  ],
+  "included": [
+    "7 nights with breakfast",
+    "Train tickets with seat reservations",
+    "Sound of Music tour",
+    "Private car to Hallstatt and back",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Cable cars, gorge and spa entry, unless your hotel card covers them",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City tax paid at hotels"
+  ],
+  "best_time": "Late May to September. The Kaprun gorge and the glacier reservoirs open from about May, and Hallstatt is quietest in June and September.",
+  "seasons": [
+    [
+      "May to June",
+      "Best",
+      "Green valleys, waterfalls in full flow and fewer crowds; some high passes and lifts open only from late May or June."
+    ],
+    [
+      "July to August",
+      "Peak",
+      "Warmest weather and every lift open; busiest and most expensive."
+    ],
+    [
+      "September to October",
+      "Good",
+      "Clear autumn days and quieter trains; some lifts close for maintenance from late October."
+    ],
+    [
+      "December to March",
+      "Winter",
+      "Snow and Christmas markets; skiing in the mountains, short days in the cities."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "Late May, June and September: green, mild and quieter.",
+  "faqs": [
+    {
+      "q": "Is this suitable for a senior couple?",
+      "a": "Yes. Train journeys are short, hotels are close to stations, and every walk can be shortened. Skip the glacier if altitude is a concern."
+    },
+    {
+      "q": "Can we do it with only two hotels?",
+      "a": "Yes: 3 nights in Innsbruck and 4 in Salzburg, with Hallstatt as a day trip. You lose the Kaprun mountain stay, the gorge and the spa."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Austria tour package from India",
+    "Innsbruck Salzburg Hallstatt itinerary",
+    "Austria by train",
+    "Kaprun Zell am See holiday"
+  ],
+  "links": [
+    {
+      "title": "ÖBB Austrian Railways (official)",
+      "url": "https://www.oebb.at/en/"
+    },
+    {
+      "title": "Kitzsteinhorn (official)",
+      "url": "https://www.kitzsteinhorn.at/en"
+    },
+    {
+      "title": "Schengen visa for Austria (VFS)",
+      "url": "https://visa.vfsglobal.com/ind/en/aut"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros, never in INR. Cards work almost everywhere. Carry about EUR 50 in cash for small cafés, toilets and markets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    },
+    {
+      "tag": "TIP",
+      "title": "Austrian trains",
+      "text": "ÖBB Railjet trains are comfortable and punctual. Seat reservations cost a few euros and are worth it on Fridays and Sundays. Luggage racks are at the end of each carriage."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112 (police 133, ambulance 144)"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Kärntner Ring 2, 1010 Vienna"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "German",
+      "Wir sind strenge Vegetarier. Kein Fleisch, kein Fisch, keine Meeresfrüchte, keine Eier. Keine Zwiebeln, kein Knoblauch, keine Kartoffeln, keine Karotten, kein Wurzelgemüse. Keine Fleisch- oder Fischbrühe. Danke."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "at"
+}

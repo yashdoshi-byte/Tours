@@ -1,0 +1,927 @@
+{
+  "slug": "switzerland-montreux-interlaken-lucerne-zurich-13-days",
+  "title": "Switzerland in 12 Nights: Montreux, Interlaken, Lucerne and Zurich",
+  "meta_title": "Switzerland 13 Days: Montreux, Interlaken, Lucerne, Zurich",
+  "meta_description": "13-day Switzerland family tour on the Swiss Travel Pass: Chillon and Lavaux, the GoldenPass Express, Jungfraujoch, Mürren, First, Pilatus, Rigi and Zurich.",
+  "destination": "Switzerland",
+  "country": "Switzerland",
+  "duration": "13 days / 12 nights",
+  "nights": 12,
+  "style": "Family · Mountains · Scenic trains",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904067986-621569042.webp",
+  "hero_alt": "Lake Lucerne and the Alps",
+  "tagline": "Four bases, no rushing: the classic Swiss Alps with time to enjoy them",
+  "facts": [
+    [
+      "Stay",
+      "Montreux 3, Interlaken 4, Lucerne 4, Zurich 1"
+    ],
+    [
+      "Travel",
+      "Swiss Travel Pass: trains, boats and buses"
+    ],
+    [
+      "Pace",
+      "Relaxed; built for a family with a young child"
+    ],
+    [
+      "Best months",
+      "June to September"
+    ],
+    [
+      "Arrive / leave",
+      "Geneva / Zurich"
+    ]
+  ],
+  "intro": "A compact Switzerland holiday with only four hotels, so you unpack and settle in. Three nights on the Swiss Riviera at Montreux for Chillon Castle, the Rochers de Naye and the Lavaux vineyards, the GoldenPass Express to Interlaken, four nights in the Jungfrau region for the Top of Europe, Lauterbrunnen, Mürren and Grindelwald First, four nights in Lucerne for Pilatus, Rigi and the Transport Museum, and a last night in Zurich. Everything is on public transport with one Swiss Travel Pass, and each day has a rest window for children.",
+  "highlights": [
+    "Château de Chillon and the marmots at Rochers de Naye",
+    "The Lavaux vineyard terraces, a UNESCO World Heritage Site",
+    "The GoldenPass Express panoramic train from Montreux to Interlaken",
+    "The Jungfraujoch at 3,454 m and the Ice Palace",
+    "Trümmelbach Falls and car-free Mürren",
+    "The First Cliff Walk and Lake Bachalpsee",
+    "Pilatus Golden Round Trip on the world's steepest cogwheel railway",
+    "Mount Rigi and the mountain spa at Rigi Kaltbad",
+    "The Swiss Museum of Transport and its chocolate experience"
+  ],
+  "stays": [
+    {
+      "place": "Montreux",
+      "nights": 3,
+      "hotel": "Lake-view hotel"
+    },
+    {
+      "place": "Interlaken",
+      "nights": 4,
+      "hotel": "Central hotel with family rooms"
+    },
+    {
+      "place": "Lucerne",
+      "nights": 4,
+      "hotel": "Hotel near the station or lake"
+    },
+    {
+      "place": "Zurich",
+      "nights": 1,
+      "hotel": "Central hotel"
+    }
+  ],
+  "route": [
+    "Geneva Airport",
+    "Montreux",
+    "Vevey",
+    "Interlaken",
+    "Lauterbrunnen",
+    "Grindelwald",
+    "Lucerne",
+    "Pilatus",
+    "Rigi",
+    "Zurich",
+    "Rhine Falls"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive on the Swiss Riviera",
+      "summary": "Train from Geneva Airport to Montreux and a lakeside afternoon.",
+      "strip": [
+        "About 1 hour 10 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Montreux",
+          "text": "Direct trains about every 30 minutes from the airport station.",
+          "notes": [
+            [
+              "TIME",
+              "Ask the hotel 48 hours ahead for early check-in."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Riviera promenade and the Freddie Mercury statue",
+          "text": "A flat 4 km lakeside path of flowers and palms."
+        },
+        {
+          "label": "Evening",
+          "title": "Glion funicular",
+          "text": "A 10-minute ride to a lake viewpoint."
+        }
+      ],
+      "places": [
+        "Geneva Airport",
+        "Montreux",
+        "Freddie Mercury Statue",
+        "Glion"
+      ],
+      "note": "Fondue and raclette are vegetarian; ask for the cheese without wine for children.",
+      "route": [
+        "Geneva Airport",
+        "Montreux",
+        "Freddie Mercury Statue",
+        "Glion"
+      ],
+      "photo_query": "Geneva Airport",
+      "photo_caption": "Geneva Airport",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 1 hour 10 minutes by train",
+      "brief": [
+        "Train to Montreux: ask the hotel 48 hours ahead for early check-in.",
+        "Fondue and raclette are vegetarian; ask for the cheese without wine for children."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Château de Chillon and Rochers de Naye",
+      "summary": "A water castle in the morning and a mountain railway in the afternoon.",
+      "strip": [
+        "Rack railway about 55 minutes up"
+      ],
+      "rows": [
+        {
+          "label": "09:00",
+          "title": "Château de Chillon",
+          "text": "Arrive at opening; crowds build from 11:00. Bus 201 or a 45-minute lakeside walk.",
+          "notes": [
+            [
+              "TIME",
+              "Book timed tickets online."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rack railway to Rochers de Naye (2,042 m)",
+          "text": "A marmot park at the top that children love.",
+          "notes": [
+            [
+              "WEAR",
+              "About 8°C at the summit; take jackets."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Château de Chillon",
+        "Rochers de Naye"
+      ],
+      "note": "Lake perch is the local speciality; vegetarians will find rösti and fondue everywhere.",
+      "route": [
+        "Château de Chillon",
+        "Rochers de Naye"
+      ],
+      "photo_query": "Château de Chillon",
+      "photo_caption": "Château de Chillon",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "Rack railway about 55 minutes up",
+      "brief": [
+        "Château de Chillon: book timed tickets online.",
+        "Rack railway to Rochers de Naye: about 8°C at the summit; take jackets."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Chaplin's World and the Lavaux vineyards",
+      "summary": "Charlie Chaplin's home in Vevey and a walk through terraced vineyards.",
+      "strip": [
+        "Vevey 10 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Chaplin's World",
+          "text": "Chaplin's manor and a studio of film sets. Allow 2 to 3 hours."
+        },
+        {
+          "label": "Midday",
+          "title": "Vevey market square",
+          "text": "Local cheeses on market days (Tuesday and Saturday)."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Lavaux terraces walk",
+          "text": "An easy 1 hour 30 minutes downhill from Chexbres to Cully, then the train back.",
+          "notes": [
+            [
+              "WEAR",
+              "Sun hat and water; there is little shade."
+            ]
+          ]
+        },
+        {
+          "label": "Optional evening",
+          "title": "Sunset cruise on Lake Geneva",
+          "text": "Belle Époque paddle steamers, covered by the pass."
+        }
+      ],
+      "places": [
+        "Chaplin's World",
+        "Vevey",
+        "Lavaux",
+        "Cully"
+      ],
+      "note": "Wine cellars in Cully offer tastings, with grape juice for children.",
+      "route": [
+        "Chaplin's World",
+        "Vevey",
+        "Lavaux",
+        "Cully"
+      ],
+      "photo_query": "Chaplin's World",
+      "photo_caption": "Chaplin's World",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "Vevey 10 minutes by train",
+      "brief": [
+        "Lavaux terraces walk: sun hat and water; there is little shade.",
+        "Wine cellars in Cully offer tastings, with grape juice for children."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "GoldenPass Express to Interlaken",
+      "summary": "Switzerland's panoramic train through the Pays-d'Enhaut and Gstaad.",
+      "strip": [
+        "About 3 hours 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "About 09:00",
+          "title": "GoldenPass Express",
+          "text": "Panoramic windows through Château-d'Œx and Gstaad, direct to Interlaken Ost.",
+          "notes": [
+            [
+              "TIME",
+              "Seat reservations are compulsory and sell out in summer. Book when you book the hotels."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Höheweg promenade",
+          "text": "The Jungfrau straight ahead across the meadow."
+        },
+        {
+          "label": "Optional",
+          "title": "Boat on Lake Thun"
+        }
+      ],
+      "places": [
+        "Montreux",
+        "Gstaad",
+        "Interlaken Ost",
+        "Höhematte"
+      ],
+      "note": "Check jungfrau.ch tonight for tomorrow's summit forecast.",
+      "transport": "Panoramic train",
+      "route": [
+        "Montreux",
+        "Gstaad",
+        "Interlaken Ost",
+        "Höhematte"
+      ],
+      "photo_query": "Montreux",
+      "photo_caption": "Montreux",
+      "travel_time": "About 3 hours 15 minutes by train",
+      "brief": [
+        "GoldenPass Express: seat reservations are compulsory and sell out in summer.",
+        "Check jungfrau.ch tonight for tomorrow's summit forecast."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Jungfraujoch, Top of Europe",
+      "summary": "The highest railway station in Europe at 3,454 m.",
+      "strip": [
+        "About 2 hours 15 minutes each way"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Train via Grindelwald and the Eiger Express"
+        },
+        {
+          "label": "Late morning",
+          "title": "Sphinx terrace, Aletsch Glacier and the Ice Palace",
+          "text": "Snow fun area for children in summer.",
+          "notes": [
+            [
+              "CARE",
+              "Move slowly at altitude and watch children for dizziness or headache."
+            ],
+            [
+              "WEAR",
+              "Can be minus 5°C: four layers, hat, gloves and SPF 50."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kleine Scheidegg on the way down",
+          "text": "Coffee beneath the Eiger North Face.",
+          "notes": [
+            [
+              "TIME",
+              "Seat reservations are compulsory; the last train down is about 16:20."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Jungfraujoch",
+        "Sphinx Observatory",
+        "Kleine Scheidegg"
+      ],
+      "note": "An early night after the altitude.",
+      "route": [
+        "Jungfraujoch",
+        "Sphinx Observatory",
+        "Kleine Scheidegg"
+      ],
+      "photo_query": "Jungfraujoch",
+      "photo_caption": "Jungfraujoch",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 2 hours 15 minutes each way",
+      "brief": [
+        "Move slowly at altitude and watch children for dizziness or headache.",
+        "Can be minus 5°C: four layers, hat, gloves and SPF 50.",
+        "Kleine Scheidegg on the way down: seat reservations are compulsory; the last train down is about 16:20."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Lauterbrunnen, Trümmelbach Falls and Mürren",
+      "summary": "The valley of 72 waterfalls and a car-free mountain village.",
+      "strip": [
+        "Lauterbrunnen about 20 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "09:00",
+          "title": "Trümmelbach Falls",
+          "text": "Ten glacier waterfalls inside the mountain, reached by a lift.",
+          "notes": [
+            [
+              "WEAR",
+              "Spray soaks you; bring a rain jacket."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Cable car and train to Mürren",
+          "text": "Face-on views of the Eiger, Mönch and Jungfrau from 1,650 m."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Walk down to Gimmelwald",
+          "text": "30 minutes downhill to a tiny farming village; cable car back."
+        }
+      ],
+      "places": [
+        "Trümmelbach Falls",
+        "Lauterbrunnen",
+        "Mürren",
+        "Gimmelwald"
+      ],
+      "note": "Trümmelbach is open from about April to early November.",
+      "route": [
+        "Trümmelbach Falls",
+        "Lauterbrunnen",
+        "Mürren",
+        "Gimmelwald"
+      ],
+      "photo_query": "Trümmelbach Falls",
+      "photo_caption": "Trümmelbach Falls",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "Lauterbrunnen about 20 minutes by train",
+      "brief": [
+        "Trümmelbach Falls: spray soaks you; bring a rain jacket.",
+        "Trümmelbach is open from about April to early November."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Harder Kulm and Grindelwald First",
+      "summary": "A two-lakes viewpoint, then cliff walks and an alpine lake above Grindelwald.",
+      "strip": [
+        "First gondola about 25 minutes"
+      ],
+      "rows": [
+        {
+          "label": "09:00",
+          "title": "Harder Kulm",
+          "text": "Funicular to the Two Lakes Bridge."
+        },
+        {
+          "label": "Afternoon",
+          "title": "First Cliff Walk",
+          "text": "A railed steel walkway around the cliff at 2,168 m."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bachalpsee walk",
+          "text": "An easy 1-hour return walk to an alpine lake.",
+          "notes": [
+            [
+              "WEAR",
+              "Trainers with grip; the path is gravel."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Trottibike, First Flyer or First Glider",
+          "text": "Scooters down the mountain, a zip line, and an eagle-shaped glider for families."
+        }
+      ],
+      "places": [
+        "Harder Kulm",
+        "Grindelwald First",
+        "Bachalpsee"
+      ],
+      "note": "Option: the Glacier Gorge in Grindelwald, a 45-minute walk through a narrow ravine.",
+      "route": [
+        "Harder Kulm",
+        "Grindelwald First",
+        "Bachalpsee"
+      ],
+      "photo_query": "Harder Kulm",
+      "photo_caption": "Harder Kulm",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "First gondola about 25 minutes",
+      "brief": [
+        "Bachalpsee walk: trainers with grip; the path is gravel.",
+        "Option: the Glacier Gorge in Grindelwald, a 45-minute walk through a narrow ravine."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Lucerne-Interlaken Express to Lucerne",
+      "summary": "Train along Lake Brienz to Lucerne and the old town.",
+      "strip": [
+        "About 1 hour 50 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Lucerne-Interlaken Express",
+          "text": "Sit on the right for the turquoise lake."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chapel Bridge and the Lion Monument",
+          "text": "The 14th-century bridge and Mark Twain's 'most mournful stone'."
+        },
+        {
+          "label": "Optional",
+          "title": "Glacier Garden",
+          "text": "Glacial potholes and a mirror maze for children."
+        }
+      ],
+      "places": [
+        "Interlaken Ost",
+        "Chapel Bridge",
+        "Lion Monument",
+        "Glacier Garden"
+      ],
+      "note": "Check pilatus.ch tonight for the summit status.",
+      "route": [
+        "Interlaken Ost",
+        "Chapel Bridge",
+        "Lion Monument",
+        "Glacier Garden"
+      ],
+      "photo_query": "Interlaken Ost",
+      "photo_caption": "Interlaken Ost",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 1 hour 50 minutes by train",
+      "brief": [
+        "Check pilatus.ch tonight for the summit status."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Pilatus Golden Round Trip",
+      "summary": "Lake steamer, the world's steepest cogwheel railway, and the Dragon Ride cable car.",
+      "strip": [
+        "About 6 hours round trip"
+      ],
+      "rows": [
+        {
+          "label": "09:00",
+          "title": "Steamer to Alpnachstad",
+          "text": "About 1 hour 45 minutes on the lake."
+        },
+        {
+          "label": "Late morning",
+          "title": "Cogwheel railway to Pilatus Kulm (2,132 m)",
+          "text": "A 48% gradient. The Dragon Path ridge walk at the top.",
+          "notes": [
+            [
+              "TIME",
+              "The cogwheel railway runs from about May to November."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Dragon Ride and gondola down to Kriens",
+          "text": "Then bus 1 back to Lucerne."
+        }
+      ],
+      "places": [
+        "Alpnachstad",
+        "Pilatus Kulm",
+        "Kriens"
+      ],
+      "note": "If the summit is in cloud, swap with tomorrow's museum day.",
+      "route": [
+        "Alpnachstad",
+        "Pilatus Kulm",
+        "Kriens"
+      ],
+      "photo_query": "Alpnachstad",
+      "photo_caption": "Alpnachstad",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 6 hours round trip",
+      "brief": [
+        "Cogwheel railway to Pilatus Kulm: the cogwheel railway runs from about May to November.",
+        "If the summit is in cloud, swap with tomorrow's museum day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Lucerne museums and the old town",
+      "summary": "Picasso at the Rosengart Collection and the Swiss Museum of Transport.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Old town squares and the Rosengart Collection",
+          "text": "Picasso and Paul Klee."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Swiss Museum of Transport",
+          "text": "Trains, planes and the Swiss Chocolate Adventure ride.",
+          "notes": [
+            [
+              "TIME",
+              "Book the chocolate ride time slot with your museum ticket."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Lake promenade"
+        }
+      ],
+      "places": [
+        "Rosengart Collection",
+        "Swiss Museum of Transport"
+      ],
+      "note": "Lucerne's old confectioners sell truffles made to recipes from the 1890s.",
+      "route": [
+        "Rosengart Collection",
+        "Swiss Museum of Transport"
+      ],
+      "photo_query": "Rosengart Collection",
+      "photo_caption": "Rosengart Collection",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "brief": [
+        "Swiss Museum of Transport: book the chocolate ride time slot with your museum ticket.",
+        "Lucerne's old confectioners sell truffles made to recipes from the 1890s."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Lake Lucerne and Mount Rigi",
+      "summary": "A steamer, the world's first mountain railway, and a spa at Rigi Kaltbad.",
+      "strip": [
+        "About 6 hours round trip"
+      ],
+      "rows": [
+        {
+          "label": "09:00",
+          "title": "Steamer to Vitznau",
+          "text": "About 1 hour on a Belle Époque steamer."
+        },
+        {
+          "label": "Morning",
+          "title": "Rigi railway to Rigi Kulm (1,797 m)",
+          "text": "Thirteen lakes in one view."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rigi Kaltbad mineral baths",
+          "text": "Indoor and outdoor pools at 1,440 m, designed by Mario Botta."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Cable car to Weggis and boat back"
+        }
+      ],
+      "places": [
+        "Vitznau",
+        "Rigi Kulm",
+        "Rigi Kaltbad",
+        "Weggis"
+      ],
+      "note": "Rigi is gentler and warmer than Pilatus: an easy last mountain.",
+      "route": [
+        "Vitznau",
+        "Rigi Kulm",
+        "Rigi Kaltbad",
+        "Weggis"
+      ],
+      "photo_query": "Vitznau",
+      "photo_caption": "Vitznau",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 6 hours round trip",
+      "brief": [
+        "Rigi is gentler and warmer than Pilatus: an easy last mountain."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Zurich",
+      "summary": "The old town, Bahnhofstrasse and the lake.",
+      "strip": [
+        "About 50 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Zurich and Bahnhofstrasse",
+          "text": "Leave bags at the station or hotel."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Grossmünster and Lindenhof",
+          "text": "Tower climb and a rooftop view."
+        },
+        {
+          "label": "Evening",
+          "title": "Lake promenade",
+          "text": "Hiltl, the world's oldest vegetarian restaurant, is near Bahnhofstrasse."
+        }
+      ],
+      "places": [
+        "Zurich HB",
+        "Bahnhofstrasse",
+        "Grossmünster",
+        "Lindenhof"
+      ],
+      "note": "Zurich trams are covered by the pass.",
+      "route": [
+        "Zurich HB",
+        "Bahnhofstrasse",
+        "Grossmünster",
+        "Lindenhof"
+      ],
+      "photo_query": "Zurich HB",
+      "photo_caption": "Zurich HB",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 50 minutes by train",
+      "brief": [
+        "Zurich trams are covered by the pass."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Rhine Falls or fly home",
+      "summary": "Europe's largest waterfall, if your flight is late.",
+      "strip": [
+        "Rhine Falls about 1 hour by train",
+        "Airport 10 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Optional morning",
+          "title": "Rhine Falls",
+          "text": "Boats to the rock in the middle of the falls."
+        },
+        {
+          "label": "As per flight",
+          "title": "Train to Zurich Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Rhine Falls",
+        "Zurich Airport"
+      ],
+      "note": "Chocolate and cheese go in checked baggage.",
+      "transport": "Train",
+      "route": [
+        "Rhine Falls",
+        "Zurich Airport"
+      ],
+      "photo_query": "Rhine Falls",
+      "photo_caption": "Rhine Falls",
+      "travel_time": "Rhine Falls about 1 hour by train",
+      "brief": [
+        "Train to Zurich Airport: be at the airport 3 hours before an international flight.",
+        "Chocolate and cheese go in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "12 nights with breakfast",
+    "Swiss Travel Pass and Swiss Family Card",
+    "GoldenPass Express and Jungfraujoch seat reservations",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Mountain excursion supplements beyond the pass discount",
+    "Museum entries",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City taxes"
+  ],
+  "best_time": "June to September. Early September, as in the original plan, has settled weather and fewer crowds.",
+  "seasons": [
+    [
+      "May to June",
+      "Best",
+      "Green valleys, waterfalls in full flow and fewer crowds; some high passes and lifts open only from late May or June."
+    ],
+    [
+      "July to August",
+      "Peak",
+      "Warmest weather and every lift open; busiest and most expensive."
+    ],
+    [
+      "September to October",
+      "Good",
+      "Clear autumn days and quieter trains; some lifts close for maintenance from late October."
+    ],
+    [
+      "December to March",
+      "Winter",
+      "Snow and Christmas markets; skiing in the mountains, short days in the cities."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "Early June or early September.",
+  "faqs": [
+    {
+      "q": "Is this suitable for a young child?",
+      "a": "Yes. Children under 6 travel free, and from 6 to 15 free with the Swiss Family Card. Each day has a rest window."
+    },
+    {
+      "q": "What if the weather is bad on a mountain day?",
+      "a": "Each base has an indoor plan B (Trümmelbach Falls, the Transport Museum, Chaplin's World), and the mountain days can be swapped."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Switzerland family tour from India",
+    "Swiss Travel Pass itinerary 12 nights",
+    "Interlaken Lucerne Montreux holiday",
+    "Jungfraujoch with kids"
+  ],
+  "links": [
+    {
+      "title": "Swiss Travel Pass (official)",
+      "url": "https://www.sbb.ch/en/tickets-offers/travelcards/swiss-travel-pass.html"
+    },
+    {
+      "title": "GoldenPass Express (official)",
+      "url": "https://www.gpx.swiss/en/"
+    },
+    {
+      "title": "Jungfrau region (official)",
+      "url": "https://www.jungfrau.ch/en-gb/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in Swiss francs (CHF), never in INR. Cards and phone payments work almost everywhere. Carry about CHF 50 for kiosks and mountain toilets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    },
+    {
+      "tag": "TIP",
+      "title": "Swiss Travel Pass",
+      "text": "One pass covers trains, buses, trams and lake steamers, with 25 to 50% off most mountain railways. Children under 16 travel free with a parent on the free Swiss Family Card."
+    },
+    {
+      "tag": "TIP",
+      "title": "Summit weather",
+      "text": "Mountain webcams and summit status are posted by about 06:00. Swap a mountain day for a museum day if the top is in cloud."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112 (police 117, ambulance 144)"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Kirchenfeldstrasse 28, 3005 Bern"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "German",
+      "Wir sind strenge Vegetarier. Kein Fleisch, kein Fisch, keine Meeresfrüchte, keine Eier. Keine Zwiebeln, kein Knoblauch, keine Kartoffeln, keine Karotten, kein Wurzelgemüse. Keine Fleisch- oder Fischbrühe. Danke."
+    ],
+    [
+      "French",
+      "Nous sommes végétariens stricts. Pas de viande, poisson, fruits de mer ni œufs. Pas d'oignon, d'ail, de pomme de terre, de carotte ni de légumes racines. Pas de bouillon de viande ou de poisson. Merci."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "ch"
+}

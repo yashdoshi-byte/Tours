@@ -1,0 +1,1228 @@
+{
+  "slug": "germany-grand-rail-tour-23-days",
+  "title": "Germany by Rail in 23 Days: Munich, Leipzig, Dresden, Berlin, Hamburg, Cologne, Heidelberg and Stuttgart",
+  "meta_title": "Germany Grand Rail Tour 23 Days: Munich to Stuttgart",
+  "meta_description": "23-day Germany rail tour: Munich and Neuschwanstein, Leipzig, Dresden, Berlin and Potsdam, Hamburg, Cologne, the Rhine, Heidelberg and the Black Forest.",
+  "destination": "Germany",
+  "country": "Germany",
+  "duration": "23 days / 22 nights",
+  "nights": 22,
+  "style": "Cities · Castles · Slow rail",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903877529-211449336.webp",
+  "hero_alt": "Neuschwanstein Castle in Bavaria",
+  "tagline": "Ten German cities by fast train, two nights or more in each",
+  "facts": [
+    [
+      "Stay",
+      "Munich 3, Leipzig 2, Dresden 2, Berlin 2, Hamburg 2, Hannover 2, Cologne 2, Frankfurt 2, Heidelberg 2, Stuttgart 3"
+    ],
+    [
+      "Travel",
+      "ICE and regional trains, 1 to 3 hours each"
+    ],
+    [
+      "Pace",
+      "Relaxed; two nights or more everywhere"
+    ],
+    [
+      "Best months",
+      "May to September, or December for Christmas markets"
+    ],
+    [
+      "Arrive / leave",
+      "Munich / Frankfurt Airport"
+    ]
+  ],
+  "intro": "A slow, complete journey through Germany by train, with at least two nights in every city. Bavaria's castles from Munich, the music city of Leipzig, baroque Dresden, Berlin and the palaces of Potsdam, the port of Hamburg, Hannover's gardens, Cologne Cathedral, Frankfurt and the Rhine Valley, the castle of Heidelberg with a day in Baden-Baden and the Black Forest, and the car museums of Stuttgart. We updated the original plan: the Pergamon Museum in Berlin is closed for renovation until about 2027, so you visit the Neues Museum instead; we moved the Black Forest day to Heidelberg, which is closer; and Frankfurt now has a Rhine Valley day.",
+  "highlights": [
+    "Neuschwanstein and Linderhof, King Ludwig's castles",
+    "Bach's Leipzig and the rebuilt Frauenkirche in Dresden",
+    "The Brandenburg Gate, the Berlin Wall and Museum Island",
+    "Potsdam's Sanssouci palaces by bike",
+    "Hamburg's harbour, Speicherstadt and the Elbphilharmonie",
+    "Cologne Cathedral and a Rhine cruise",
+    "The Rhine Valley's castles and the Loreley rock",
+    "Heidelberg Castle and the Old Bridge",
+    "Baden-Baden's thermal baths and the Black Forest",
+    "The Mercedes-Benz and Porsche museums"
+  ],
+  "stays": [
+    {
+      "place": "Munich",
+      "nights": 3,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Leipzig",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Dresden",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Berlin",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Hamburg",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Hannover",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Cologne",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Frankfurt",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Heidelberg",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Stuttgart",
+      "nights": 3,
+      "hotel": "Central hotel near the station"
+    }
+  ],
+  "route": [
+    "Munich",
+    "Neuschwanstein Castle",
+    "Leipzig",
+    "Dresden",
+    "Berlin",
+    "Potsdam",
+    "Hamburg",
+    "Hannover",
+    "Cologne",
+    "Frankfurt",
+    "Rüdesheim",
+    "Heidelberg",
+    "Baden-Baden",
+    "Stuttgart",
+    "Frankfurt Airport"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Munich",
+      "summary": "Check in and an evening walk among the lit-up squares.",
+      "strip": [
+        "Airport about 40 minutes by S-Bahn"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "S-Bahn or taxi to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Marienplatz and Odeonsplatz",
+          "text": "Illuminated churches and fountains."
+        }
+      ],
+      "places": [
+        "Munich Airport",
+        "Marienplatz",
+        "Odeonsplatz"
+      ],
+      "note": "Keep the first evening light.",
+      "route": [
+        "Munich Airport",
+        "Marienplatz",
+        "Odeonsplatz"
+      ],
+      "photo_query": "Munich Airport",
+      "photo_caption": "Munich Airport",
+      "transport": "Train and on foot",
+      "travel_time": "Airport about 40 minutes by S-Bahn",
+      "brief": [
+        "Keep the first evening light."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Munich by hop-on hop-off bus",
+      "summary": "The Residenz, the Pinakotheken, the Viktualienmarkt and the Glockenspiel.",
+      "strip": [
+        "Bus pass valid 24 hours"
+      ],
+      "rows": [
+        {
+          "label": "11:00",
+          "title": "Glockenspiel at Marienplatz",
+          "text": "Also at 12:00, and 17:00 in summer."
+        },
+        {
+          "label": "Midday",
+          "title": "Viktualienmarkt",
+          "text": "Fruit, cheese and bread stalls."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Residenz or the English Garden"
+        }
+      ],
+      "places": [
+        "Marienplatz",
+        "Viktualienmarkt",
+        "Munich Residenz",
+        "Englischer Garten"
+      ],
+      "note": "Beer halls have pretzels, cheese spreads and dumplings for vegetarians.",
+      "transport": "Open-top bus and on foot",
+      "route": [
+        "Marienplatz",
+        "Viktualienmarkt",
+        "Munich Residenz",
+        "Englischer Garten"
+      ],
+      "photo_query": "Marienplatz",
+      "photo_caption": "Marienplatz",
+      "travel_time": "Bus pass valid 24 hours",
+      "brief": [
+        "Beer halls have pretzels, cheese spreads and dumplings for vegetarians."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Neuschwanstein and Linderhof castles",
+      "summary": "A guided day tour to King Ludwig II's two dream castles, with a stop in Oberammergau.",
+      "strip": [
+        "About 11 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Linderhof Palace",
+          "text": "A small rococo palace with its grotto."
+        },
+        {
+          "label": "Midday",
+          "title": "Oberammergau",
+          "text": "Painted houses and woodcarvers."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Neuschwanstein",
+          "notes": [
+            [
+              "TIME",
+              "Castle entry is by timed ticket; book weeks ahead in summer. The walk up takes about 40 minutes."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Linderhof Palace",
+        "Oberammergau",
+        "Neuschwanstein Castle"
+      ],
+      "note": "Wear comfortable shoes for the steep castle path.",
+      "transport": "Coach tour with guide",
+      "route": [
+        "Linderhof Palace",
+        "Oberammergau",
+        "Neuschwanstein Castle"
+      ],
+      "photo_query": "Linderhof Palace",
+      "photo_caption": "Linderhof Palace",
+      "travel_time": "About 11 hours",
+      "brief": [
+        "Neuschwanstein: castle entry is by timed ticket; book weeks ahead in summer.",
+        "Wear comfortable shoes for the steep castle path."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fast train to Leipzig",
+      "summary": "ICE to Leipzig and a first walk in the old trading city.",
+      "strip": [
+        "About 3 hours 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "ICE to Leipzig"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Old Town arcades and Mädler Passage",
+          "text": "Covered shopping passages of the old trade fairs."
+        }
+      ],
+      "places": [
+        "München Hauptbahnhof",
+        "Leipzig Hauptbahnhof",
+        "Mädler-Passage"
+      ],
+      "note": "Leipzig's station is one of the largest in Europe, with shops on three levels.",
+      "route": [
+        "München Hauptbahnhof",
+        "Leipzig Hauptbahnhof",
+        "Mädler-Passage"
+      ],
+      "photo_query": "München Hauptbahnhof",
+      "photo_caption": "München Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 3 hours 15 minutes by train",
+      "brief": [
+        "Leipzig's station is one of the largest in Europe, with shops on three levels."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Leipzig with the Leipzig Card",
+      "summary": "Bach, the Peaceful Revolution and the café culture.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "St Thomas Church and the Bach Museum",
+          "text": "Bach was cantor here for 27 years; the boys' choir sings on Friday evenings and Saturday afternoons."
+        },
+        {
+          "label": "Afternoon",
+          "title": "St Nicholas Church and the Forum of Contemporary History",
+          "text": "Where the 1989 Monday demonstrations began."
+        }
+      ],
+      "places": [
+        "Thomaskirche",
+        "Bach-Museum Leipzig",
+        "Nikolaikirche"
+      ],
+      "note": "The Leipzig Card covers trams and gives museum discounts.",
+      "route": [
+        "Thomaskirche",
+        "Bach-Museum Leipzig",
+        "Nikolaikirche"
+      ],
+      "photo_query": "Thomaskirche",
+      "photo_caption": "Thomaskirche",
+      "transport": "Train and on foot",
+      "brief": [
+        "The Leipzig Card covers trams and gives museum discounts."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Dresden",
+      "summary": "Train to Saxony's baroque capital on the Elbe.",
+      "strip": [
+        "About 1 hour 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Dresden"
+        },
+        {
+          "label": "Afternoon",
+          "title": "The Frauenkirche and the Brühl Terrace",
+          "text": "The church rebuilt from its own blackened stones, and the 'balcony of Europe' over the river."
+        }
+      ],
+      "places": [
+        "Dresden Hauptbahnhof",
+        "Frauenkirche Dresden",
+        "Brühlsche Terrasse"
+      ],
+      "note": "The Dresden City Card covers trams, buses and the Elbe ferries.",
+      "route": [
+        "Dresden Hauptbahnhof",
+        "Frauenkirche Dresden",
+        "Brühlsche Terrasse"
+      ],
+      "photo_query": "Dresden Hauptbahnhof",
+      "photo_caption": "Dresden Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 15 minutes by train",
+      "brief": [
+        "The Dresden City Card covers trams, buses and the Elbe ferries."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Dresden's palaces and treasures",
+      "summary": "The Zwinger, the Green Vault and the old masters.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "The Zwinger and the Old Masters Gallery",
+          "text": "Raphael's Sistine Madonna."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Historic Green Vault",
+          "text": "Saxony's treasure chamber.",
+          "notes": [
+            [
+              "TIME",
+              "Entry to the Historic Green Vault is by timed ticket; book online."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Elbe paddle steamer"
+        }
+      ],
+      "places": [
+        "Zwinger",
+        "Grünes Gewölbe",
+        "Semperoper"
+      ],
+      "note": "Ask about a performance at the Semperoper opera house.",
+      "route": [
+        "Zwinger",
+        "Grünes Gewölbe",
+        "Semperoper"
+      ],
+      "photo_query": "Zwinger",
+      "photo_caption": "Zwinger",
+      "transport": "Train and on foot",
+      "brief": [
+        "Historic Green Vault: entry to the Historic Green Vault is by timed ticket; book online.",
+        "Ask about a performance at the Semperoper opera house."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Berlin and the hop-on hop-off bus",
+      "summary": "Berlin's landmarks by open-top bus.",
+      "strip": [
+        "About 2 hours by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Berlin"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Hop-on hop-off bus",
+          "text": "The Brandenburg Gate, the Reichstag, Checkpoint Charlie, the Berlin Cathedral and Charlottenburg Palace."
+        },
+        {
+          "label": "Evening",
+          "title": "Revue at the Friedrichstadt-Palast",
+          "text": "Over 100 artists on one of the world's largest theatre stages."
+        }
+      ],
+      "places": [
+        "Berlin Hauptbahnhof",
+        "Brandenburger Tor",
+        "Checkpoint Charlie",
+        "Friedrichstadt-Palast"
+      ],
+      "note": "Book the Reichstag dome visit (free) online a few days ahead.",
+      "route": [
+        "Berlin Hauptbahnhof",
+        "Brandenburger Tor",
+        "Checkpoint Charlie",
+        "Friedrichstadt-Palast"
+      ],
+      "photo_query": "Berlin Hauptbahnhof",
+      "photo_caption": "Berlin Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 2 hours by train",
+      "brief": [
+        "Book the Reichstag dome visit (free) online a few days ahead."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Potsdam by bike, and Museum Island",
+      "summary": "A guided bike tour of Potsdam's palaces and Cold War sites.",
+      "strip": [
+        "Potsdam about 40 minutes by S-Bahn"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Potsdam bike tour",
+          "text": "Sanssouci Park, the Glienicke 'Bridge of Spies' and the villas used by Churchill, Stalin and Truman in 1945.",
+          "notes": [
+            [
+              "CARE",
+              "Ride on cycle paths only and keep right; ask for an e-bike if needed."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Neues Museum on Museum Island",
+          "text": "The bust of Nefertiti.",
+          "notes": [
+            [
+              "TIME",
+              "The Pergamon Museum is closed for renovation until about 2027."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Sanssouci Palace",
+        "Glienicke Bridge",
+        "Neues Museum"
+      ],
+      "note": "Also worth seeing: the East Side Gallery, the longest surviving stretch of the Wall.",
+      "route": [
+        "Sanssouci Palace",
+        "Glienicke Bridge",
+        "Neues Museum"
+      ],
+      "photo_query": "Sanssouci Palace",
+      "photo_caption": "Sanssouci Palace",
+      "transport": "Train and on foot",
+      "travel_time": "Potsdam about 40 minutes by S-Bahn",
+      "brief": [
+        "Potsdam bike tour: ride on cycle paths only and keep right; ask for an e-bike if needed.",
+        "Neues Museum on Museum Island: the Pergamon Museum is closed for renovation until about 2027."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Hamburg and a harbour tour",
+      "summary": "Germany's port city and its warehouse district.",
+      "strip": [
+        "About 1 hour 45 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Hamburg"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Maritime harbour tour",
+          "text": "The Speicherstadt warehouses, HafenCity and the Elbphilharmonie, by boat or coach."
+        }
+      ],
+      "places": [
+        "Hamburg Hauptbahnhof",
+        "Speicherstadt",
+        "Elbphilharmonie"
+      ],
+      "note": "The Elbphilharmonie's public viewing Plaza is free with a timed ticket.",
+      "route": [
+        "Hamburg Hauptbahnhof",
+        "Speicherstadt",
+        "Elbphilharmonie"
+      ],
+      "photo_query": "Hamburg Hauptbahnhof",
+      "photo_caption": "Hamburg Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 45 minutes by train",
+      "brief": [
+        "The Elbphilharmonie's public viewing Plaza is free with a timed ticket."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Hamburg by hop-on hop-off bus",
+      "summary": "St Michael's Church, the Town Hall and Lake Alster.",
+      "strip": [
+        "Bus pass valid 24 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "St Michael's Church tower",
+          "text": "Views over the harbour."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Town Hall and the Alster lakes"
+        },
+        {
+          "label": "Optional",
+          "title": "Miniatur Wunderland",
+          "text": "The world's largest model railway; book a time slot."
+        }
+      ],
+      "places": [
+        "St. Michaelis",
+        "Hamburg Rathaus",
+        "Binnenalster",
+        "Miniatur Wunderland"
+      ],
+      "note": "Sunday mornings have the famous fish market at the Landungsbrücken from 05:00.",
+      "route": [
+        "St. Michaelis",
+        "Hamburg Rathaus",
+        "Binnenalster",
+        "Miniatur Wunderland"
+      ],
+      "photo_query": "St. Michaelis",
+      "photo_caption": "St. Michaelis",
+      "transport": "Train and on foot",
+      "travel_time": "Bus pass valid 24 hours",
+      "brief": [
+        "Sunday mornings have the famous fish market at the Landungsbrücken from 05:00."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Hannover and the Red Thread",
+      "summary": "A painted line on the pavement leads past 36 sights.",
+      "strip": [
+        "About 1 hour 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "The Red Thread walk",
+          "text": "The Leineschloss, the old town and the New Town Hall with its curved lift."
+        },
+        {
+          "label": "Evening",
+          "title": "Maschsee lake"
+        }
+      ],
+      "places": [
+        "Hannover Hauptbahnhof",
+        "Neues Rathaus Hannover",
+        "Maschsee"
+      ],
+      "note": "The Hannover Card covers trams and museum discounts.",
+      "route": [
+        "Hannover Hauptbahnhof",
+        "Neues Rathaus Hannover",
+        "Maschsee"
+      ],
+      "photo_query": "Hannover Hauptbahnhof",
+      "photo_caption": "Hannover Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 15 minutes by train",
+      "brief": [
+        "The Hannover Card covers trams and museum discounts."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Herrenhausen Gardens and the zoo",
+      "summary": "Baroque gardens and an adventure zoo.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Herrenhausen Gardens",
+          "text": "One of Europe's great baroque gardens."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Erlebnis-Zoo Hannover",
+          "text": "Animals in themed landscapes; good for families."
+        }
+      ],
+      "places": [
+        "Herrenhäuser Gärten",
+        "Erlebnis-Zoo Hannover"
+      ],
+      "note": "Herrenhausen's illuminated fountains run on some summer evenings.",
+      "route": [
+        "Herrenhäuser Gärten",
+        "Erlebnis-Zoo Hannover"
+      ],
+      "photo_query": "Herrenhäuser Gärten",
+      "photo_caption": "Herrenhäuser Gärten",
+      "transport": "Train and on foot",
+      "brief": [
+        "Herrenhausen's illuminated fountains run on some summer evenings."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Cologne and the cathedral",
+      "summary": "The twin spires of Cologne Cathedral, next to the station.",
+      "strip": [
+        "About 2 hours 45 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Cologne Cathedral",
+          "text": "A UNESCO World Heritage Site; climb 533 steps to the tower.",
+          "notes": [
+            [
+              "CARE",
+              "Services take place daily. Dress modestly and stay quiet inside."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Old Town by the Rhine"
+        }
+      ],
+      "places": [
+        "Köln Hauptbahnhof",
+        "Kölner Dom",
+        "Altstadt Köln"
+      ],
+      "note": "The cathedral is outside the station door; drop bags first.",
+      "route": [
+        "Köln Hauptbahnhof",
+        "Kölner Dom",
+        "Altstadt Köln"
+      ],
+      "photo_query": "Köln Hauptbahnhof",
+      "photo_caption": "Köln Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 2 hours 45 minutes by train",
+      "brief": [
+        "Cologne Cathedral: services take place daily.",
+        "The cathedral is outside the station door; drop bags first."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Rhine cruise and the chocolate museum",
+      "summary": "A river cruise and a museum day.",
+      "strip": [
+        "Cruise about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Rhine panorama cruise",
+          "text": "South to Rodenkirchen and back."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chocolate Museum",
+          "text": "A working chocolate factory with a fountain to taste from."
+        }
+      ],
+      "places": [
+        "Rhine",
+        "Schokoladenmuseum Köln"
+      ],
+      "note": "Cologne's carnival is in February: book far ahead if travelling then.",
+      "route": [
+        "Rhine",
+        "Schokoladenmuseum Köln"
+      ],
+      "photo_query": "Rhine",
+      "photo_caption": "Rhine",
+      "transport": "Train and on foot",
+      "travel_time": "Cruise about 1 hour",
+      "brief": [
+        "Cologne's carnival is in February: book far ahead if travelling then."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Frankfurt",
+      "summary": "Old and new Frankfurt.",
+      "strip": [
+        "About 1 hour 5 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Römerberg and the new old town",
+          "text": "Rebuilt half-timbered houses and Goethe's birthplace."
+        },
+        {
+          "label": "Evening",
+          "title": "Main Tower viewing platform",
+          "text": "200 m above the banking district."
+        }
+      ],
+      "places": [
+        "Frankfurt Hauptbahnhof",
+        "Römerberg",
+        "Goethe-Haus",
+        "Main Tower"
+      ],
+      "note": "Frankfurt has many Indian restaurants around the station.",
+      "route": [
+        "Frankfurt Hauptbahnhof",
+        "Römerberg",
+        "Goethe-Haus",
+        "Main Tower"
+      ],
+      "photo_query": "Frankfurt Hauptbahnhof",
+      "photo_caption": "Frankfurt Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 5 minutes by train",
+      "brief": [
+        "Frankfurt has many Indian restaurants around the station."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Rhine Valley",
+      "summary": "A cruise past castles and the Loreley rock.",
+      "strip": [
+        "About 1 hour by train to Rüdesheim"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Rüdesheim"
+        },
+        {
+          "label": "Midday",
+          "title": "Cruise from Rüdesheim to St Goar",
+          "text": "Castles on every bend, and the Loreley rock.",
+          "notes": [
+            [
+              "TIME",
+              "Boats run from about April to October."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back by train"
+        }
+      ],
+      "places": [
+        "Rüdesheim am Rhein",
+        "Loreley",
+        "St. Goar"
+      ],
+      "note": "This replaces the original Frankfurt to Black Forest coach day, which is now done from Heidelberg.",
+      "route": [
+        "Rüdesheim am Rhein",
+        "Loreley",
+        "St. Goar"
+      ],
+      "photo_query": "Rüdesheim am Rhein",
+      "photo_caption": "Rüdesheim am Rhein",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour by train to Rüdesheim",
+      "brief": [
+        "Cruise from Rüdesheim to St Goar: boats run from about April to October.",
+        "This replaces the original Frankfurt to Black Forest coach day, which is now done from Heidelberg."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Heidelberg and the castle",
+      "summary": "Germany's romantic university town.",
+      "strip": [
+        "About 1 hour by train"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Heidelberg Castle",
+          "text": "The ruins, the terrace and the world's largest wine barrel. A funicular goes up."
+        },
+        {
+          "label": "Evening",
+          "title": "Old Bridge and the Church of the Holy Spirit"
+        }
+      ],
+      "places": [
+        "Heidelberg Hauptbahnhof",
+        "Heidelberger Schloss",
+        "Alte Brücke"
+      ],
+      "note": "The Philosophers' Walk across the river has the classic view of the castle.",
+      "route": [
+        "Heidelberg Hauptbahnhof",
+        "Heidelberger Schloss",
+        "Alte Brücke"
+      ],
+      "photo_query": "Heidelberg Hauptbahnhof",
+      "photo_caption": "Heidelberg Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour by train",
+      "brief": [
+        "The Philosophers' Walk across the river has the classic view of the castle."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Baden-Baden and the Black Forest",
+      "summary": "Thermal baths, the casino and the Mummelsee lake.",
+      "strip": [
+        "About 1 hour by train to Baden-Baden"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Baden-Baden",
+          "text": "The Kurhaus and casino, and the Lichtentaler Allee."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Caracalla Spa or the Black Forest High Road",
+          "text": "Thermal pools, or a drive to Mummelsee lake in the forest."
+        },
+        {
+          "label": "Optional",
+          "title": "Black Forest cake and cuckoo clocks"
+        }
+      ],
+      "places": [
+        "Baden-Baden",
+        "Caracalla Therme",
+        "Mummelsee"
+      ],
+      "note": "A private driver is easiest for the Black Forest road.",
+      "route": [
+        "Baden-Baden",
+        "Caracalla Therme",
+        "Mummelsee"
+      ],
+      "photo_query": "Baden-Baden",
+      "photo_caption": "Baden-Baden",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour by train to Baden-Baden",
+      "brief": [
+        "A private driver is easiest for the Black Forest road."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Stuttgart",
+      "summary": "Palace gardens and the city centre.",
+      "strip": [
+        "About 45 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Schlossplatz and the palace gardens"
+        },
+        {
+          "label": "Evening",
+          "title": "Beer garden"
+        }
+      ],
+      "places": [
+        "Stuttgart Hauptbahnhof",
+        "Schlossplatz"
+      ],
+      "note": "Stuttgart's main station is under long-term rebuilding; allow extra time to find platforms.",
+      "route": [
+        "Stuttgart Hauptbahnhof",
+        "Schlossplatz"
+      ],
+      "photo_query": "Stuttgart Hauptbahnhof",
+      "photo_caption": "Stuttgart Hauptbahnhof",
+      "transport": "Train and on foot",
+      "travel_time": "About 45 minutes by train",
+      "brief": [
+        "Stuttgart's main station is under long-term rebuilding; allow extra time to find platforms."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Ludwigsburg Palace and the Wilhelma",
+      "summary": "A baroque palace and a zoo-botanical garden.",
+      "strip": [
+        "Ludwigsburg about 15 minutes by S-Bahn"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Ludwigsburg Residential Palace",
+          "text": "Gardens and the 'Blooming Baroque' park."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Wilhelma",
+          "text": "Zoo and botanical garden in a Moorish-style park."
+        }
+      ],
+      "places": [
+        "Residenzschloss Ludwigsburg",
+        "Wilhelma"
+      ],
+      "note": "Option: a day trip to medieval Rothenburg ob der Tauber, about 2 hours each way.",
+      "route": [
+        "Residenzschloss Ludwigsburg",
+        "Wilhelma"
+      ],
+      "photo_query": "Residenzschloss Ludwigsburg",
+      "photo_caption": "Residenzschloss Ludwigsburg",
+      "transport": "Train and on foot",
+      "travel_time": "Ludwigsburg about 15 minutes by S-Bahn",
+      "brief": [
+        "Option: a day trip to medieval Rothenburg ob der Tauber, about 2 hours each way."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Mercedes-Benz and Porsche museums",
+      "summary": "Two of the world's great car museums.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mercedes-Benz Museum",
+          "text": "130 years of cars in a spiral building."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Porsche Museum"
+        }
+      ],
+      "places": [
+        "Mercedes-Benz Museum",
+        "Porsche Museum"
+      ],
+      "note": "Both are closed on Mondays.",
+      "route": [
+        "Mercedes-Benz Museum",
+        "Porsche Museum"
+      ],
+      "photo_query": "Mercedes-Benz Museum",
+      "photo_caption": "Mercedes-Benz Museum",
+      "transport": "Train and on foot",
+      "brief": [
+        "Both are closed on Mondays."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Train to Frankfurt Airport",
+      "summary": "Direct trains to the airport station.",
+      "strip": [
+        "About 1 hour 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "ICE to Frankfurt Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Frankfurt Airport"
+      ],
+      "note": "The long-distance station is inside Terminal 1.",
+      "photo_query": "Frankfurt Airport",
+      "photo_caption": "Frankfurt Airport",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 15 minutes by train",
+      "brief": [
+        "ICE to Frankfurt Airport: be at the airport 3 hours before an international flight.",
+        "The long-distance station is inside Terminal 1."
+      ]
+    }
+  ],
+  "included": [
+    "22 nights with breakfast",
+    "Train tickets with seat reservations or a German Rail Pass",
+    "Hop-on hop-off buses in Munich, Berlin and Hamburg",
+    "Neuschwanstein and Linderhof day tour",
+    "Potsdam bike tour",
+    "Hamburg harbour tour",
+    "Rhine cruise in Cologne",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Castle, museum and spa entries",
+    "City cards bought locally",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City taxes"
+  ],
+  "good_to_know": [
+    {
+      "tag": "TIP",
+      "title": "German trains",
+      "text": "Fast ICE trains link every city on this route. A German Rail Pass or advance tickets with seat reservations work best; we compare the two for your dates."
+    },
+    {
+      "tag": "TIME",
+      "title": "Sundays",
+      "text": "Almost all shops are closed on Sundays in Germany. Plan shopping for Saturday."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros, never in INR. Cards work almost everywhere. Carry about EUR 50 in cash for small cafés, toilets and markets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "best_time": "May to September for river cruises, gardens and beer gardens. Late November and December for Germany's Christmas markets.",
+  "seasons": [
+    [
+      "May to September",
+      "Best",
+      "Warm days (20 to 26°C), beer gardens and river cruises; long evenings."
+    ],
+    [
+      "April and October",
+      "Good",
+      "Mild and quieter, with spring blossom or autumn colour."
+    ],
+    [
+      "Late November to December",
+      "Christmas markets",
+      "Cold, short days and Germany's famous Christmas markets."
+    ],
+    [
+      "January to March",
+      "Winter",
+      "Cold and grey; museums and spas."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "peak"
+  ],
+  "best_pick": "May, June or September; December for Christmas markets.",
+  "faqs": [
+    {
+      "q": "Can we add Italy?",
+      "a": "Yes. Fly from Stuttgart or Frankfurt to Venice and add our 9-day Venice, Florence, Capri and Rome tour."
+    },
+    {
+      "q": "Is 23 days too long?",
+      "a": "We can shorten it to 14 days by keeping Munich, Dresden, Berlin, Cologne, Heidelberg and the Rhine."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Germany tour package from India",
+    "Germany by train itinerary",
+    "Munich Berlin Cologne tour",
+    "Germany 3 weeks itinerary"
+  ],
+  "links": [
+    {
+      "title": "Deutsche Bahn (official)",
+      "url": "https://int.bahn.de/en"
+    },
+    {
+      "title": "Neuschwanstein tickets (official)",
+      "url": "https://www.neuschwanstein.de/englisch/tourist/index.htm"
+    },
+    {
+      "title": "Schengen visa for Germany (VFS)",
+      "url": "https://visa.vfsglobal.com/ind/en/deu"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112 (police 110)"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Tiergartenstrasse 17, 10785 Berlin"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "German",
+      "Wir sind strenge Vegetarier. Kein Fleisch, kein Fisch, keine Meeresfrüchte, keine Eier. Keine Zwiebeln, kein Knoblauch, keine Kartoffeln, keine Karotten, kein Wurzelgemüse. Keine Fleisch- oder Fischbrühe. Danke."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "de"
+}

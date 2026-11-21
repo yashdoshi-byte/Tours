@@ -1,0 +1,813 @@
+{
+  "slug": "baltics-latvia-lithuania-estonia-13-days",
+  "title": "The Baltics in 13 Days: Latvia, Lithuania and Estonia from Riga to Tallinn",
+  "meta_title": "Baltic Tour 13 Days: Riga, Vilnius, Tallinn, Curonian Spit",
+  "meta_description": "13-day Baltic road trip: Riga, Kuldīga, the Curonian Spit, Kaunas, Trakai Castle, Vilnius, Gauja valley, Seto villages, Tartu, Lahemaa, Tallinn and Pärnu.",
+  "destination": "Latvia, Lithuania and Estonia",
+  "country": "Latvia, Lithuania, Estonia",
+  "duration": "13 days / 12 nights",
+  "nights": 12,
+  "style": "Road trip · Old towns · Nature",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905046679-465956441.webp",
+  "hero_alt": "Tallinn's medieval old town",
+  "tagline": "Three countries, four UNESCO old towns, sand dunes, bogs and island castles",
+  "facts": [
+    [
+      "Stay",
+      "Riga 1, Kuldīga 1, Klaipėda 1, Kaunas 1, Vilnius 2, Daugavpils 1, Sigulda 1, Võru 1, Tartu 1, Tallinn 1, Pärnu 1"
+    ],
+    [
+      "Travel",
+      "Private car with driver, or self-drive"
+    ],
+    [
+      "Pace",
+      "Active; mostly one night per stop"
+    ],
+    [
+      "Best months",
+      "May to September"
+    ],
+    [
+      "Arrive / leave",
+      "Riga"
+    ]
+  ],
+  "intro": "A full loop of the three Baltic countries by road. From Riga west to Kemeri's bog and the waterfall town of Kuldīga, south to the dunes of the Curonian Spit, through Kaunas and Trakai's island castle to baroque Vilnius, then back north through Latgale's farmsteads, the Gauja valley, the Seto villages of south Estonia, university Tartu, Lahemaa National Park, Tallinn and the beach town of Pärnu. Most stops are one night, and Riga and Tallinn get less time than they deserve: we recommend adding a second night in Tallinn and a final night in Riga, making it 15 days.",
+  "highlights": [
+    "Riga's art nouveau quarter and old town",
+    "Kemeri bog boardwalk and Kuldīga's wide waterfall",
+    "Nida and the great dunes of the Curonian Spit",
+    "Trakai Island Castle and a boat on Lake Galvė",
+    "Vilnius old town, a UNESCO World Heritage Site",
+    "The Anykščiai treetop walk",
+    "A farmstead lunch in Latgale",
+    "The cable car over the Gauja valley in Sigulda",
+    "Seto culture in south-east Estonia",
+    "Lahemaa's manor house and Viru bog trail",
+    "Tallinn's medieval old town and Pärnu beach"
+  ],
+  "stays": [
+    {
+      "place": "Riga",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Kuldīga",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Klaipėda",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Kaunas",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Vilnius",
+      "nights": 2,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Daugavpils",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Sigulda",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Võru",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Tartu",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Tallinn",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Pärnu",
+      "nights": 1,
+      "hotel": "Central hotel"
+    }
+  ],
+  "route": [
+    "Riga",
+    "Ķemeri National Park",
+    "Kuldīga",
+    "Klaipėda",
+    "Nida",
+    "Kaunas",
+    "Trakai",
+    "Vilnius",
+    "Anykščiai",
+    "Daugavpils",
+    "Sigulda",
+    "Võru",
+    "Tartu",
+    "Lahemaa National Park",
+    "Tallinn",
+    "Pärnu",
+    "Riga"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Riga",
+      "summary": "Transfer to a central hotel and an evening in the old town.",
+      "strip": [
+        "Airport about 25 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Riga old town",
+          "text": "The House of the Blackheads and St Peter's Church."
+        }
+      ],
+      "places": [
+        "Riga International Airport",
+        "House of the Blackheads",
+        "St. Peter's Church Riga"
+      ],
+      "note": "Baltic summer nights are light until about 23:00 in June.",
+      "route": [
+        "Riga International Airport",
+        "House of the Blackheads",
+        "St. Peter's Church Riga"
+      ],
+      "photo_query": "Riga International Airport",
+      "photo_caption": "Riga International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Airport about 25 minutes",
+      "brief": [
+        "Baltic summer nights are light until about 23:00 in June."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Kemeri National Park to Kuldīga",
+      "summary": "A boardwalk over the bog, then the 'Venice of the north'.",
+      "strip": [
+        "About 160 km, 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Great Kemeri Bog boardwalk",
+          "text": "A 3.4 km loop with a lookout tower.",
+          "notes": [
+            [
+              "WEAR",
+              "Closed shoes; the boards are slippery after rain."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kuldīga old town and Ventas Rumba",
+          "text": "Europe's widest waterfall, low but 249 m across."
+        }
+      ],
+      "places": [
+        "Ķemeri National Park",
+        "Kuldīga",
+        "Ventas Rumba"
+      ],
+      "note": "Kuldīga is small and quiet in the evening.",
+      "route": [
+        "Ķemeri National Park",
+        "Kuldīga",
+        "Ventas Rumba"
+      ],
+      "photo_query": "Ķemeri National Park",
+      "photo_caption": "Ķemeri National Park",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km, 2 hours 30 minutes of driving",
+      "brief": [
+        "Great Kemeri Bog boardwalk: closed shoes; the boards are slippery after rain.",
+        "Kuldīga is small and quiet in the evening."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The Curonian Spit and Nida",
+      "summary": "South to Lithuania, then a ferry to the sand spit.",
+      "strip": [
+        "About 160 km to Klaipėda, then ferry and 50 km to Nida"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Klaipėda, with a stop in Palanga"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Ferry to the Curonian Spit and Nida",
+          "text": "The Parnidis dune, the fishermen's houses and the Thomas Mann summer house.",
+          "notes": [
+            [
+              "TIME",
+              "A long day; ferries run about every 30 minutes and there is an entry fee for the national park."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Palanga",
+        "Smiltynė Ferry",
+        "Nida",
+        "Parnidis Dune"
+      ],
+      "note": "Stay on marked paths: the dunes are fragile and protected.",
+      "route": [
+        "Palanga",
+        "Smiltynė Ferry",
+        "Nida",
+        "Parnidis Dune"
+      ],
+      "photo_query": "Palanga",
+      "photo_caption": "Palanga",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km to Klaipėda, then ferry and 50 km to Nida",
+      "brief": [
+        "Ferry to the Curonian Spit and Nida: a long day; ferries run about every 30 minutes and there is an entry fee for the national park.",
+        "Stay on marked paths: the dunes are fragile and protected."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Klaipėda to Kaunas",
+      "summary": "The port city, then Lithuania's second city.",
+      "strip": [
+        "About 215 km, 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Klaipėda old town",
+          "text": "Optional: the Sea Museum."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kaunas old town and castle",
+          "text": "The oldest stone castle in Lithuania."
+        }
+      ],
+      "places": [
+        "Klaipėda Old Town",
+        "Kaunas Castle",
+        "Kaunas Old Town"
+      ],
+      "note": "Kaunas has the Baltics' best interwar modernist architecture.",
+      "route": [
+        "Klaipėda Old Town",
+        "Kaunas Castle",
+        "Kaunas Old Town"
+      ],
+      "photo_query": "Klaipėda Old Town",
+      "photo_caption": "Klaipėda Old Town",
+      "transport": "Private car with driver",
+      "travel_time": "About 215 km, 2 hours 30 minutes of driving",
+      "brief": [
+        "Kaunas has the Baltics' best interwar modernist architecture."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Trakai Island Castle to Vilnius",
+      "summary": "A castle on a lake, a boat ride and the hill above Vilnius.",
+      "strip": [
+        "About 110 km, 1 hour 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Trakai Island Castle",
+          "text": "A red-brick Gothic castle on Lake Galvė."
+        },
+        {
+          "label": "Midday",
+          "title": "Boat ride on Lake Galvė",
+          "text": "About 1 hour."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gediminas Tower by funicular"
+        }
+      ],
+      "places": [
+        "Trakai Island Castle",
+        "Lake Galvė",
+        "Gediminas Tower"
+      ],
+      "note": "Try kibinai pastries in Trakai; ask for the vegetable or cheese filling.",
+      "route": [
+        "Trakai Island Castle",
+        "Lake Galvė",
+        "Gediminas Tower"
+      ],
+      "photo_query": "Trakai Island Castle",
+      "photo_caption": "Trakai Island Castle",
+      "transport": "Private car with driver",
+      "travel_time": "About 110 km, 1 hour 30 minutes of driving",
+      "brief": [
+        "Try kibinai pastries in Trakai; ask for the vegetable or cheese filling."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Vilnius old town",
+      "summary": "A full day in one of Europe's largest baroque old towns.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Cathedral Square, the Gate of Dawn and Vilnius University"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Užupis",
+          "text": "The artists' 'republic' with its own constitution on the wall."
+        }
+      ],
+      "places": [
+        "Vilnius Cathedral",
+        "Gate of Dawn",
+        "Vilnius University",
+        "Užupis"
+      ],
+      "note": "Churches are active; dress modestly.",
+      "route": [
+        "Vilnius Cathedral",
+        "Gate of Dawn",
+        "Vilnius University",
+        "Užupis"
+      ],
+      "photo_query": "Vilnius Cathedral",
+      "photo_caption": "Vilnius Cathedral",
+      "transport": "Private car with driver",
+      "brief": [
+        "Churches are active; dress modestly."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Anykščiai treetop walk to Daugavpils",
+      "summary": "A canopy path, then into Latvia's Latgale region.",
+      "strip": [
+        "About 260 km, 4 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Treetop Walking Path, Anykščiai",
+          "text": "A 36 m observation tower."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Daugavpils Fortress and the Rothko Centre"
+        }
+      ],
+      "places": [
+        "Anykščiai Treetop Walking Path",
+        "Daugavpils Fortress",
+        "Mark Rothko Art Centre"
+      ],
+      "note": "Daugavpils is Mark Rothko's birthplace.",
+      "route": [
+        "Anykščiai Treetop Walking Path",
+        "Daugavpils Fortress",
+        "Mark Rothko Art Centre"
+      ],
+      "photo_query": "Anykščiai Treetop Walking Path",
+      "photo_caption": "Anykščiai Treetop Walking Path",
+      "transport": "Private car with driver",
+      "travel_time": "About 260 km, 4 hours of driving",
+      "brief": [
+        "Daugavpils is Mark Rothko's birthplace."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Latgale farmstead to Sigulda",
+      "summary": "Krāslava, a farmstead lunch and the drive to the Gauja valley.",
+      "strip": [
+        "About 280 km, 4 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Farmstead lunch at Andrupene",
+          "text": "Fresh bread, butter and potato dishes; ask for a vegetarian menu in advance."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Sigulda"
+        }
+      ],
+      "places": [
+        "Krāslava",
+        "Andrupene",
+        "Sigulda"
+      ],
+      "note": "A long day of country roads; the driver stops every 1 hour 30 minutes.",
+      "route": [
+        "Krāslava",
+        "Andrupene",
+        "Sigulda"
+      ],
+      "photo_query": "Krāslava",
+      "photo_caption": "Krāslava",
+      "transport": "Private car with driver",
+      "travel_time": "About 280 km, 4 hours of driving",
+      "brief": [
+        "A long day of country roads; the driver stops every 1 hour 30 minutes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Gauja National Park to Võru",
+      "summary": "Castles, caves and a cable car, then into Estonia.",
+      "strip": [
+        "About 170 km, 3 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Turaida Castle and Gutmanis Cave"
+        },
+        {
+          "label": "Late morning",
+          "title": "Cable car over the Gauja to Krimulda"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Valmiermuiža estate",
+          "text": "Optional visit to its brewery."
+        }
+      ],
+      "places": [
+        "Turaida Castle",
+        "Gutmanis Cave",
+        "Sigulda Cable Car",
+        "Valmiermuiža"
+      ],
+      "note": "There is no border control between Latvia and Estonia; carry your passport anyway.",
+      "route": [
+        "Turaida Castle",
+        "Gutmanis Cave",
+        "Sigulda Cable Car",
+        "Valmiermuiža"
+      ],
+      "photo_query": "Turaida Castle",
+      "photo_caption": "Turaida Castle",
+      "transport": "Private car with driver",
+      "travel_time": "About 170 km, 3 hours of driving",
+      "brief": [
+        "There is no border control between Latvia and Estonia; carry your passport anyway."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Setomaa to Tartu",
+      "summary": "The living Seto culture of south-east Estonia, then the oldest city in the Baltics.",
+      "strip": [
+        "About 120 km, 2 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Obinitsa Seto Museum",
+          "text": "Join the traditional dressing ceremony."
+        },
+        {
+          "label": "Midday",
+          "title": "Värska farm museum",
+          "text": "A Seto family farm of 100 years ago."
+        },
+        {
+          "label": "Evening",
+          "title": "Tartu Town Hall Square"
+        }
+      ],
+      "places": [
+        "Obinitsa",
+        "Värska",
+        "Tartu Town Hall Square"
+      ],
+      "note": "Seto leelo singing is on UNESCO's intangible heritage list.",
+      "route": [
+        "Obinitsa",
+        "Värska",
+        "Tartu Town Hall Square"
+      ],
+      "photo_query": "Obinitsa",
+      "photo_caption": "Obinitsa",
+      "transport": "Private car with driver",
+      "travel_time": "About 120 km, 2 hours of driving",
+      "brief": [
+        "Seto leelo singing is on UNESCO's intangible heritage list."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Lahemaa National Park to Tallinn",
+      "summary": "A manor house and a bog walk on the way to Tallinn.",
+      "strip": [
+        "About 260 km, 3 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sagadi Manor",
+          "text": "500 years of history in Lahemaa."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Viru bog trail",
+          "text": "A 3.5 km boardwalk.",
+          "notes": [
+            [
+              "WEAR",
+              "Insect repellent and closed shoes in summer."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Tallinn old town"
+        }
+      ],
+      "places": [
+        "Sagadi Manor",
+        "Viru Bog",
+        "Tallinn Old Town"
+      ],
+      "note": "Tallinn deserves a second night; we recommend adding one.",
+      "route": [
+        "Sagadi Manor",
+        "Viru Bog",
+        "Tallinn Old Town"
+      ],
+      "photo_query": "Sagadi Manor",
+      "photo_caption": "Sagadi Manor",
+      "transport": "Private car with driver",
+      "travel_time": "About 260 km, 3 hours 30 minutes of driving",
+      "brief": [
+        "Viru bog trail: insect repellent and closed shoes in summer.",
+        "Tallinn deserves a second night; we recommend adding one."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Tallinn morning, then Pärnu",
+      "summary": "Toompea hill, then Estonia's summer capital.",
+      "strip": [
+        "About 130 km, 2 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Toompea, Alexander Nevsky Cathedral and the viewing platforms"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pärnu beach and old town"
+        }
+      ],
+      "places": [
+        "Toompea",
+        "Alexander Nevsky Cathedral",
+        "Pärnu Beach"
+      ],
+      "note": "The Baltic Sea is cool even in July: about 18 to 20°C.",
+      "route": [
+        "Toompea",
+        "Alexander Nevsky Cathedral",
+        "Pärnu Beach"
+      ],
+      "photo_query": "Toompea",
+      "photo_caption": "Toompea",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km, 2 hours of driving",
+      "brief": [
+        "The Baltic Sea is cool even in July: about 18 to 20°C."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Riga and departure",
+      "summary": "Drive to Riga, a short city walk and the airport.",
+      "strip": [
+        "About 180 km, 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Riga art nouveau district",
+          "text": "Alberta iela's decorated façades.",
+          "notes": [
+            [
+              "TIME",
+              "Leave enough time: the airport is 25 minutes from the centre and you should arrive 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Alberta iela",
+        "Riga International Airport"
+      ],
+      "note": "We recommend a final night in Riga so the art nouveau quarter and central market are not rushed.",
+      "route": [
+        "Alberta iela",
+        "Riga International Airport"
+      ],
+      "photo_query": "Alberta iela",
+      "photo_caption": "Alberta iela",
+      "transport": "Private car with driver",
+      "travel_time": "About 180 km, 2 hours 30 minutes of driving",
+      "brief": [
+        "Riga art nouveau district: leave enough time: the airport is 25 minutes from the centre and you should arrive 3 hours before an international flight.",
+        "We recommend a final night in Riga so the art nouveau quarter and central market are not rushed."
+      ]
+    }
+  ],
+  "included": [
+    "12 nights with breakfast",
+    "Private car with driver (or self-drive rental)",
+    "Curonian Spit ferry",
+    "Trakai boat ride",
+    "Seto dressing ceremony",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Entry fees and national park fees",
+    "Lunches and dinners",
+    "Travel insurance"
+  ],
+  "best_time": "May to September, with white nights in June. Many rural sights close or shorten hours from October.",
+  "seasons": [
+    [
+      "May to September",
+      "Best",
+      "Long days, 18 to 24°C, beaches and open-air museums open."
+    ],
+    [
+      "April and October",
+      "Cool",
+      "Quiet and colourful, some rural sights closed."
+    ],
+    [
+      "November to March",
+      "Winter",
+      "Snow and short days; Christmas markets in Riga, Vilnius and Tallinn."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "June to August for the long light days.",
+  "faqs": [
+    {
+      "q": "Can we shorten it?",
+      "a": "Yes. A 9-day version covers Vilnius, Trakai, Riga, Sigulda and Tallinn."
+    },
+    {
+      "q": "Do we need three visas?",
+      "a": "No. All three countries are in Schengen; apply at the consulate of the country with the most nights (Lithuania on this plan)."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Baltic tour package from India",
+    "Riga Vilnius Tallinn itinerary",
+    "Baltic road trip 13 days",
+    "Curonian Spit tour"
+  ],
+  "links": [
+    {
+      "title": "Curonian Spit National Park",
+      "url": "https://nerija.lt/en/"
+    },
+    {
+      "title": "Visit Estonia (official)",
+      "url": "https://www.visitestonia.com/en"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros, never in INR. Cards work almost everywhere. Carry about EUR 50 in cash for small cafés, toilets and markets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "lv,lt,ee"
+}

@@ -1,0 +1,677 @@
+{
+  "slug": "paris-lucerne-interlaken-9-days",
+  "title": "Paris and Switzerland in 9 Days: Eiffel Tower, Disneyland, Lucerne and the Jungfraujoch",
+  "meta_title": "Paris and Switzerland 9 Days: Disneyland, Lucerne, Jungfrau",
+  "meta_description": "9-day Paris and Switzerland holiday: Eiffel Tower and Seine cruise, Disneyland Paris, the TGV to Lucerne, Pilatus, the Jungfraujoch and the Schilthorn.",
+  "destination": "Paris, France and Switzerland",
+  "country": "France, Switzerland",
+  "duration": "9 days / 8 nights",
+  "nights": 8,
+  "style": "Family · Cities · Alps",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903421912-783451663.webp",
+  "hero_alt": "The Eiffel Tower in Paris",
+  "tagline": "The best of Paris and the Swiss Alps in one easy family trip",
+  "facts": [
+    [
+      "Stay",
+      "Paris 3, Lucerne 2, Interlaken 3"
+    ],
+    [
+      "Travel",
+      "Fast train Paris to Switzerland, then the Swiss Travel Pass"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "May to September"
+    ],
+    [
+      "Arrive / leave",
+      "Paris / Zurich"
+    ]
+  ],
+  "intro": "A first trip to Europe that balances a great city with the mountains. Three nights in Paris with the Eiffel Tower, a Seine cruise, an evening cabaret and a day at Disneyland, then the high-speed train to Switzerland for Lucerne, Mount Pilatus and the Stanserhorn, and three nights in Interlaken for the Jungfraujoch and the Schilthorn. Two changes to the original plan: the Lido revue in Paris closed in 2022, so we book another classic cabaret; and we take the TGV Lyria from Paris to Switzerland (about 4 hours city centre to city centre) instead of a flight, which saves the airport time.",
+  "highlights": [
+    "Paris by night and a classic cabaret show",
+    "The Eiffel Tower second floor and a Seine cruise",
+    "A full day at Disneyland Paris",
+    "TGV Lyria high-speed train to Switzerland",
+    "Dinner cruise on Lake Lucerne",
+    "Pilatus by the world's steepest cogwheel railway and the open-top Stanserhorn cable car",
+    "The Jungfraujoch, Top of Europe",
+    "Mürren, the Schilthorn revolving restaurant and Trümmelbach Falls"
+  ],
+  "stays": [
+    {
+      "place": "Paris",
+      "nights": 3,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Lucerne",
+      "nights": 2,
+      "hotel": "Central or lakeside hotel"
+    },
+    {
+      "place": "Interlaken",
+      "nights": 3,
+      "hotel": "Central hotel"
+    }
+  ],
+  "route": [
+    "Paris",
+    "Disneyland Paris",
+    "Basel",
+    "Lucerne",
+    "Stanserhorn",
+    "Pilatus",
+    "Interlaken",
+    "Jungfraujoch",
+    "Schilthorn",
+    "Zurich Airport"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Paris, and Paris by night",
+      "summary": "Private transfer to the hotel, then an evening illuminations tour and a cabaret.",
+      "strip": [
+        "Airport to central Paris about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Private transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Paris illuminations tour",
+          "text": "The lit-up Eiffel Tower, the Champs-Élysées and the bridges of the Seine."
+        },
+        {
+          "label": "Late evening",
+          "title": "Cabaret show",
+          "text": "A classic Paris revue such as the Moulin Rouge.",
+          "notes": [
+            [
+              "WEAR",
+              "Smart dress; no shorts or trainers."
+            ],
+            [
+              "TIME",
+              "Shows start at about 21:00 and 23:00; the early show suits a long travel day."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Charles de Gaulle Airport",
+        "Champs-Élysées",
+        "Moulin Rouge"
+      ],
+      "note": "Children under 6 are not admitted to most cabarets; we suggest an evening Seine cruise instead for families with young children.",
+      "transport": "Private transfer and coach",
+      "route": [
+        "Charles de Gaulle Airport",
+        "Champs-Élysées",
+        "Moulin Rouge"
+      ],
+      "photo_query": "Charles de Gaulle Airport",
+      "photo_caption": "Charles de Gaulle Airport",
+      "travel_time": "Airport to central Paris about 1 hour",
+      "brief": [
+        "Cabaret show: smart dress; no shorts or trainers.",
+        "Cabaret show: shows start at about 21:00 and 23:00; the early show suits a long travel day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Eiffel Tower, the Arc de Triomphe and a Seine cruise",
+      "summary": "A hop-on hop-off bus, the Eiffel Tower to the second floor and a river cruise.",
+      "strip": [
+        "Bus pass valid 24 to 48 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hop-on hop-off bus",
+          "text": "The Louvre, Notre-Dame, the Opéra and the Champs-Élysées."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Eiffel Tower, second floor",
+          "text": "Priority-entry tickets for a timed slot.",
+          "notes": [
+            [
+              "TIME",
+              "Arrive 15 minutes before your slot for the security check."
+            ],
+            [
+              "CARE",
+              "Pickpockets work the queues and the Trocadéro. Keep phones in front pockets."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Arc de Triomphe and a one-hour Seine cruise"
+        }
+      ],
+      "places": [
+        "Louvre Museum",
+        "Eiffel Tower",
+        "Arc de Triomphe",
+        "Seine"
+      ],
+      "note": "Indian vegetarian restaurants cluster around Gare du Nord and La Chapelle.",
+      "route": [
+        "Louvre Museum",
+        "Eiffel Tower",
+        "Arc de Triomphe",
+        "Seine"
+      ],
+      "photo_query": "Louvre Museum",
+      "photo_caption": "Louvre Museum",
+      "transport": "Metro, train and on foot",
+      "travel_time": "Bus pass valid 24 to 48 hours",
+      "brief": [
+        "Eiffel Tower, second floor: arrive 15 minutes before your slot for the security check.",
+        "Eiffel Tower, second floor: pickpockets work the queues and the Trocadéro."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Disneyland Paris",
+      "summary": "A full day in the two parks.",
+      "strip": [
+        "About 40 minutes each way on the RER A"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "RER A to Marne-la-Vallée",
+          "text": "Arrive before the parks open."
+        },
+        {
+          "label": "All day",
+          "title": "Disneyland Park and Walt Disney Studios",
+          "text": "Use the app for live queue times and book a Premier Access pass for the busiest rides.",
+          "notes": [
+            [
+              "TIME",
+              "Stay for the evening show at the castle, then take the train back."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Disneyland Paris"
+      ],
+      "note": "Vegetarian options are marked on the Disneyland app's menus.",
+      "photo_query": "Disneyland Paris",
+      "photo_caption": "Disneyland Paris",
+      "transport": "Metro, train and on foot",
+      "travel_time": "About 40 minutes each way on the RER A",
+      "brief": [
+        "Disneyland Park and Walt Disney Studios: stay for the evening show at the castle, then take the train back.",
+        "Vegetarian options are marked on the Disneyland app's menus."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "TGV to Lucerne and a lake dinner cruise",
+      "summary": "High-speed train to Switzerland and an evening on Lake Lucerne.",
+      "strip": [
+        "Paris to Basel about 3 hours, then 1 hour to Lucerne"
+      ],
+      "rows": [
+        {
+          "label": "Morning · Gare de Lyon",
+          "title": "TGV Lyria to Basel",
+          "notes": [
+            [
+              "TIME",
+              "Be on the platform 20 minutes early; the train doors close 2 minutes before departure."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Train to Lucerne",
+          "text": "Your Swiss Travel Pass starts here."
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner cruise on Lake Lucerne"
+        }
+      ],
+      "places": [
+        "Gare de Lyon",
+        "Basel SBB",
+        "Lucerne",
+        "Lake Lucerne"
+      ],
+      "note": "This replaces the flight to Zurich, which takes longer door to door.",
+      "transport": "High-speed train",
+      "route": [
+        "Gare de Lyon",
+        "Basel SBB",
+        "Lucerne",
+        "Lake Lucerne"
+      ],
+      "photo_query": "Gare de Lyon",
+      "photo_caption": "Gare de Lyon",
+      "travel_time": "Paris to Basel about 3 hours, then 1 hour to Lucerne",
+      "brief": [
+        "TGV Lyria to Basel: be on the platform 20 minutes early; the train doors close 2 minutes before departure.",
+        "This replaces the flight to Zurich, which takes longer door to door."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Stanserhorn and Mount Pilatus",
+      "summary": "The open-top CabriO cable car in the morning and Pilatus in the afternoon.",
+      "strip": [
+        "Full day; about 7 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Stanserhorn CabriO",
+          "text": "The world's first cable car with an open upper deck.",
+          "notes": [
+            [
+              "TIME",
+              "Runs from about April to November."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Mount Pilatus",
+          "text": "Gondola up from Kriens and the cogwheel railway down to Alpnachstad, then the boat back.",
+          "notes": [
+            [
+              "TIME",
+              "The cogwheel railway runs from about May to November."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "KKL culture centre or the old town"
+        }
+      ],
+      "places": [
+        "Stanserhorn",
+        "Pilatus Kulm",
+        "Alpnachstad"
+      ],
+      "note": "This is a big day. If you are tired, keep Pilatus and skip the Stanserhorn.",
+      "route": [
+        "Stanserhorn",
+        "Pilatus Kulm",
+        "Alpnachstad"
+      ],
+      "photo_query": "Stanserhorn",
+      "photo_caption": "Stanserhorn",
+      "transport": "Metro, train and on foot",
+      "travel_time": "Full day; about 7 hours",
+      "brief": [
+        "Stanserhorn CabriO: runs from about April to November.",
+        "Mount Pilatus: the cogwheel railway runs from about May to November."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Lucerne at leisure, then Interlaken",
+      "summary": "A free morning in Lucerne and the scenic train to Interlaken.",
+      "strip": [
+        "About 1 hour 50 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Chapel Bridge and the Lion Monument"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Luzern-Interlaken Express",
+          "text": "Over the Brünig Pass."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Lake Brienz cruise or jet-boat"
+        }
+      ],
+      "places": [
+        "Chapel Bridge",
+        "Lion Monument",
+        "Interlaken Ost",
+        "Lake Brienz"
+      ],
+      "note": "Book tomorrow's Jungfraujoch seat reservation if not yet done.",
+      "route": [
+        "Chapel Bridge",
+        "Lion Monument",
+        "Interlaken Ost",
+        "Lake Brienz"
+      ],
+      "photo_query": "Chapel Bridge",
+      "photo_caption": "Chapel Bridge",
+      "transport": "Metro, train and on foot",
+      "travel_time": "About 1 hour 50 minutes by train",
+      "brief": [
+        "Book tomorrow's Jungfraujoch seat reservation if not yet done."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Jungfraujoch, Top of Europe",
+      "summary": "Europe's highest railway station at 3,454 m.",
+      "strip": [
+        "About 2 hours 15 minutes each way"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Train and Eiger Express to the Jungfraujoch",
+          "text": "The Aletsch Glacier, the Sphinx terrace and the Ice Palace.",
+          "notes": [
+            [
+              "CARE",
+              "Walk slowly at altitude; headaches are common."
+            ],
+            [
+              "WEAR",
+              "Warm jacket, gloves and sunglasses."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch",
+          "title": "Indian vegetarian lunch at the summit"
+        }
+      ],
+      "places": [
+        "Jungfraujoch",
+        "Sphinx Observatory",
+        "Kleine Scheidegg"
+      ],
+      "note": "Go early: clouds often arrive by midday.",
+      "route": [
+        "Jungfraujoch",
+        "Sphinx Observatory",
+        "Kleine Scheidegg"
+      ],
+      "photo_query": "Jungfraujoch",
+      "photo_caption": "Jungfraujoch",
+      "transport": "Metro, train and on foot",
+      "travel_time": "About 2 hours 15 minutes each way",
+      "brief": [
+        "Train and Eiger Express to the Jungfraujoch: walk slowly at altitude; headaches are common.",
+        "Train and Eiger Express to the Jungfraujoch: warm jacket, gloves and sunglasses."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Mürren, the Schilthorn and Trümmelbach Falls",
+      "summary": "Car-free Mürren and the revolving restaurant at the top of the Schilthorn.",
+      "strip": [
+        "About 1 hour each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Cable car to Mürren and the Schilthorn",
+          "text": "The summit used in a James Bond film, with a 360-degree revolving restaurant."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Trümmelbach Falls",
+          "text": "Glacier waterfalls inside the mountain."
+        }
+      ],
+      "places": [
+        "Mürren",
+        "Schilthorn",
+        "Trümmelbach Falls"
+      ],
+      "note": "Wear a rain jacket at Trümmelbach: the spray is heavy.",
+      "route": [
+        "Mürren",
+        "Schilthorn",
+        "Trümmelbach Falls"
+      ],
+      "photo_query": "Mürren",
+      "photo_caption": "Mürren",
+      "transport": "Metro, train and on foot",
+      "travel_time": "About 1 hour each way",
+      "brief": [
+        "Wear a rain jacket at Trümmelbach: the spray is heavy."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Train to Zurich Airport",
+      "summary": "Train to the airport and fly home.",
+      "strip": [
+        "About 2 hours 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Train to Zurich Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Interlaken Ost",
+        "Zurich Airport"
+      ],
+      "note": "Swiss chocolate goes in checked baggage.",
+      "transport": "Train",
+      "route": [
+        "Interlaken Ost",
+        "Zurich Airport"
+      ],
+      "photo_query": "Interlaken Ost",
+      "photo_caption": "Interlaken Ost",
+      "travel_time": "About 2 hours 15 minutes by train",
+      "brief": [
+        "Train to Zurich Airport: be at the airport 3 hours before an international flight.",
+        "Swiss chocolate goes in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "8 nights with breakfast",
+    "Airport transfer in Paris",
+    "Paris hop-on hop-off bus with Seine cruise",
+    "Eiffel Tower second-floor timed tickets",
+    "Cabaret show tickets",
+    "Disneyland Paris 1-day tickets",
+    "TGV Lyria Paris to Basel",
+    "6-day Swiss Travel Pass",
+    "Jungfraujoch, Schilthorn and Pilatus excursions",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Lunches and dinners except the lake cruise",
+    "Travel insurance",
+    "City taxes"
+  ],
+  "best_time": "May to September for the mountains; Paris is lovely in May, June and September.",
+  "seasons": [
+    [
+      "May to June",
+      "Best",
+      "Green valleys, waterfalls in full flow and fewer crowds; some high passes and lifts open only from late May or June."
+    ],
+    [
+      "July to August",
+      "Peak",
+      "Warmest weather and every lift open; busiest and most expensive."
+    ],
+    [
+      "September to October",
+      "Good",
+      "Clear autumn days and quieter trains; some lifts close for maintenance from late October."
+    ],
+    [
+      "December to March",
+      "Winter",
+      "Snow and Christmas markets; skiing in the mountains, short days in the cities."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "June or September.",
+  "faqs": [
+    {
+      "q": "Which visa do we need?",
+      "a": "One Schengen visa, applied at the French consulate because you enter in France and spend the most nights there or equally."
+    },
+    {
+      "q": "Can we add more Paris?",
+      "a": "Yes. A fourth night allows the Louvre and Versailles."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Paris Switzerland tour package",
+    "Paris Disneyland and Switzerland",
+    "Europe family tour 9 days",
+    "Paris Lucerne Interlaken"
+  ],
+  "links": [
+    {
+      "title": "France-Visas (official)",
+      "url": "https://france-visas.gouv.fr/"
+    },
+    {
+      "title": "TGV Lyria (official)",
+      "url": "https://www.tgv-lyria.com/"
+    },
+    {
+      "title": "Swiss Travel Pass (official)",
+      "url": "https://www.sbb.ch/en/tickets-offers/travelcards/swiss-travel-pass.html"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros in France and Swiss francs in Switzerland, never in INR. Cards work almost everywhere; keep a little cash in each currency."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, 13-15 rue Alfred Dehodencq, 75016 Paris"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "French",
+      "Nous sommes végétariens stricts. Pas de viande, poisson, fruits de mer ni œufs. Pas d'oignon, d'ail, de pomme de terre, de carotte ni de légumes racines. Pas de bouillon de viande ou de poisson. Merci."
+    ],
+    [
+      "German",
+      "Wir sind strenge Vegetarier. Kein Fleisch, kein Fisch, keine Meeresfrüchte, keine Eier. Keine Zwiebeln, kein Knoblauch, keine Kartoffeln, keine Karotten, kein Wurzelgemüse. Keine Fleisch- oder Fischbrühe. Danke."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "fr,ch"
+}

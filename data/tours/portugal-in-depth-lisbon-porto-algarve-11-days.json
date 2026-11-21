@@ -1,0 +1,766 @@
+{
+  "slug": "portugal-in-depth-lisbon-porto-algarve-11-days",
+  "title": "Portugal in Depth: Lisbon, Fátima, Coimbra, Porto, the Interior, Évora and the Algarve in 11 Days",
+  "meta_title": "Portugal in Depth 11 Days: Lisbon, Porto, Algarve",
+  "meta_description": "11-day Portugal tour: Lisbon and Sintra, Óbidos, Nazaré and Fátima, Coimbra, Porto and the Douro, Guimarães, Évora, Sagres and Lagos on the Algarve.",
+  "destination": "Portugal",
+  "country": "Portugal",
+  "duration": "11 days / 10 nights",
+  "nights": 10,
+  "style": "Heritage · Wine · Coast",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903958786-470710487.webp",
+  "hero_alt": "Lisbon's tram and hills",
+  "tagline": "A full circle of Portugal, from Lisbon's hills to the cliffs of the Algarve",
+  "facts": [
+    [
+      "Stay",
+      "Lisbon 2, Tomar 1, Porto 2, Viseu 1, Évora 1, Algarve 2, Lisbon 1"
+    ],
+    [
+      "Travel",
+      "Private car with driver or guided coach"
+    ],
+    [
+      "Pace",
+      "Moderate, with two long road days"
+    ],
+    [
+      "Best months",
+      "April to June, September and October"
+    ],
+    [
+      "Arrive / leave",
+      "Lisbon"
+    ]
+  ],
+  "intro": "A complete loop of Portugal. Lisbon's old quarters and Belém, the medieval walls of Óbidos, the abbey at Alcobaça, the fishing town of Nazaré and the shrine of Fátima, the Templar castle at Tomar, Roman Conímbriga and the university of Coimbra, two nights in Porto for the Douro and its port cellars, Guimarães where Portugal began, the Jewish heritage of Belmonte and Castelo de Vide, Roman Évora, and the Algarve's Sagres and Lagos before returning to Lisbon. We corrected one detail of the original: the Aveleda winery is near Penafiel, not Vila Real; in Vila Real we visit the Mateus Palace. Days 3 and 7 have about 4 to 5 hours of driving with many stops; a private driver lets you set the pace.",
+  "highlights": [
+    "Belém Tower and the Jerónimos Monastery",
+    "Fado in the Alfama",
+    "Medieval Óbidos and the abbey of Alcobaça",
+    "The Sanctuary of Fátima",
+    "The Convent of Christ in Tomar",
+    "The baroque library of Coimbra University",
+    "Porto's Ribeira, the Stock Exchange's Arab Room and the port cellars",
+    "Guimarães, the cradle of Portugal",
+    "Belmonte's Jewish Museum and an olive oil tasting",
+    "Évora's Roman temple and the Chapel of Bones",
+    "Cape St Vincent and the sea arches of Lagos"
+  ],
+  "stays": [
+    {
+      "place": "Lisbon",
+      "nights": 2,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Tomar",
+      "nights": 1,
+      "hotel": "Town hotel"
+    },
+    {
+      "place": "Porto",
+      "nights": 2,
+      "hotel": "Ribeira or city-centre hotel"
+    },
+    {
+      "place": "Viseu",
+      "nights": 1,
+      "hotel": "Town hotel"
+    },
+    {
+      "place": "Évora",
+      "nights": 1,
+      "hotel": "Hotel inside the walls"
+    },
+    {
+      "place": "Algarve",
+      "nights": 2,
+      "hotel": "Beach hotel near Lagos or Albufeira"
+    },
+    {
+      "place": "Lisbon",
+      "nights": 1,
+      "hotel": "Central hotel"
+    }
+  ],
+  "route": [
+    "Lisbon",
+    "Óbidos",
+    "Alcobaça",
+    "Nazaré",
+    "Fátima",
+    "Tomar",
+    "Coimbra",
+    "Porto",
+    "Guimarães",
+    "Vila Real",
+    "Viseu",
+    "Belmonte",
+    "Castelo de Vide",
+    "Évora",
+    "Sagres",
+    "Lagos",
+    "Lisbon"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Lisbon",
+      "summary": "Transfer to the hotel and a first walk.",
+      "strip": [
+        "Airport about 25 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Rossio and the Baixa",
+          "text": "The grid of streets rebuilt after the 1755 earthquake."
+        }
+      ],
+      "places": [
+        "Lisbon Airport",
+        "Rossio",
+        "Baixa"
+      ],
+      "note": "Lisbon is hilly and its pavements are polished limestone: wear shoes with grip.",
+      "route": [
+        "Lisbon Airport",
+        "Rossio",
+        "Baixa"
+      ],
+      "photo_query": "Lisbon Airport",
+      "photo_caption": "Lisbon Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Airport about 25 minutes by car",
+      "brief": [
+        "Lisbon is hilly and its pavements are polished limestone: wear shoes with grip."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Lisbon: Baixa, Alfama and Belém",
+      "summary": "A guided tour of the city, with Sintra as an option.",
+      "strip": [
+        "Full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Baixa, Avenida da Liberdade and Marquês de Pombal"
+        },
+        {
+          "label": "Midday",
+          "title": "Belém Tower and the Jerónimos Monastery",
+          "text": "Built with the wealth of the sea route to India.",
+          "notes": [
+            [
+              "TIME",
+              "The monastery is closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Fado in the Alfama",
+          "text": "Portugal's songs of longing in a small tavern."
+        }
+      ],
+      "places": [
+        "Avenida da Liberdade",
+        "Belém Tower",
+        "Jerónimos Monastery",
+        "Alfama"
+      ],
+      "note": "Option: swap the afternoon for Sintra's Pena Palace (about 40 minutes away; timed tickets).",
+      "route": [
+        "Avenida da Liberdade",
+        "Belém Tower",
+        "Jerónimos Monastery",
+        "Alfama"
+      ],
+      "photo_query": "Avenida da Liberdade",
+      "photo_caption": "Avenida da Liberdade",
+      "transport": "Private car with driver",
+      "brief": [
+        "Belém Tower and the Jerónimos Monastery: the monastery is closed on Mondays.",
+        "Option: swap the afternoon for Sintra's Pena Palace (about 40 minutes away; timed tickets)."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Óbidos, Alcobaça, Nazaré and Fátima to Tomar",
+      "summary": "Medieval walls, a royal love story, a fishing town and Portugal's great shrine.",
+      "strip": [
+        "About 3 hours 30 minutes of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Óbidos",
+          "text": "A walled town of white houses."
+        },
+        {
+          "label": "Late morning",
+          "title": "Alcobaça Monastery",
+          "text": "The tombs of King Pedro I and Inês de Castro."
+        },
+        {
+          "label": "Midday",
+          "title": "Nazaré",
+          "text": "Fishing harbour and the giant-wave viewpoint."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Sanctuary of Fátima",
+          "notes": [
+            [
+              "CARE",
+              "Fátima is a place of pilgrimage. Dress modestly and keep silence in the chapel."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Óbidos",
+        "Alcobaça Monastery",
+        "Nazaré",
+        "Sanctuary of Fátima",
+        "Tomar"
+      ],
+      "note": "A long day; the driver keeps stops flexible.",
+      "route": [
+        "Óbidos",
+        "Alcobaça Monastery",
+        "Nazaré",
+        "Sanctuary of Fátima",
+        "Tomar"
+      ],
+      "photo_query": "Óbidos",
+      "photo_caption": "Óbidos",
+      "transport": "Private car with driver",
+      "travel_time": "About 3 hours 30 minutes of driving with stops",
+      "brief": [
+        "Sanctuary of Fátima: fátima is a place of pilgrimage.",
+        "A long day; the driver keeps stops flexible."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Tomar, Conímbriga and Coimbra to Porto",
+      "summary": "The Templar convent, Roman mosaics and an old university.",
+      "strip": [
+        "About 3 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Convent of Christ, Tomar",
+          "text": "The Manueline window."
+        },
+        {
+          "label": "Midday",
+          "title": "Roman ruins of Conímbriga",
+          "text": "Mosaic floors of Roman villas."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Coimbra University",
+          "text": "The gilded Joanina Library.",
+          "notes": [
+            [
+              "TIME",
+              "Library visits are by timed ticket."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Convent of Christ",
+        "Conímbriga",
+        "University of Coimbra",
+        "Porto"
+      ],
+      "note": "Option: the Buçaco forest and palace on the way north.",
+      "route": [
+        "Convent of Christ",
+        "Conímbriga",
+        "University of Coimbra",
+        "Porto"
+      ],
+      "photo_query": "Convent of Christ",
+      "photo_caption": "Convent of Christ",
+      "transport": "Private car with driver",
+      "travel_time": "About 3 hours of driving with stops",
+      "brief": [
+        "Coimbra University: library visits are by timed ticket.",
+        "Option: the Buçaco forest and palace on the way north."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Porto and the Douro",
+      "summary": "The Ribeira, the Stock Exchange and port wine cellars.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Church of São Francisco and the Stock Exchange's Arab Room"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Port wine cellars in Vila Nova de Gaia",
+          "text": "Grape juice or tasting for non-drinkers."
+        },
+        {
+          "label": "Optional",
+          "title": "Six-bridges river cruise"
+        }
+      ],
+      "places": [
+        "Igreja de São Francisco",
+        "Palácio da Bolsa",
+        "Vila Nova de Gaia",
+        "Ribeira"
+      ],
+      "note": "Option: a full-day Douro Valley trip by train or boat.",
+      "route": [
+        "Igreja de São Francisco",
+        "Palácio da Bolsa",
+        "Vila Nova de Gaia",
+        "Ribeira"
+      ],
+      "photo_query": "Igreja de São Francisco",
+      "photo_caption": "Igreja de São Francisco",
+      "transport": "Private car with driver",
+      "brief": [
+        "Option: a full-day Douro Valley trip by train or boat."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Guimarães and Vila Real to Viseu",
+      "summary": "Where Portugal began, a baroque palace and the drive inland.",
+      "strip": [
+        "About 3 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Guimarães castle and the Ducal Palace",
+          "text": "Birthplace of the first king of Portugal."
+        },
+        {
+          "label": "Midday",
+          "title": "Aveleda gardens or the Mateus Palace",
+          "text": "A winery garden near Penafiel, or the palace on the Mateus Rosé label at Vila Real."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Scenic drive to Viseu"
+        }
+      ],
+      "places": [
+        "Guimarães Castle",
+        "Palácio de Mateus",
+        "Viseu"
+      ],
+      "note": "Viseu's old town and cathedral make a good evening walk.",
+      "route": [
+        "Guimarães Castle",
+        "Palácio de Mateus",
+        "Viseu"
+      ],
+      "photo_query": "Guimarães Castle",
+      "photo_caption": "Guimarães Castle",
+      "transport": "Private car with driver",
+      "travel_time": "About 3 hours of driving with stops",
+      "brief": [
+        "Viseu's old town and cathedral make a good evening walk."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Belmonte and Castelo de Vide to Évora",
+      "summary": "Portugal's hidden Jewish history, olive oil and cork.",
+      "strip": [
+        "About 5 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Belmonte Jewish Museum and olive oil tasting",
+          "text": "A community that kept its faith in secret for 500 years."
+        },
+        {
+          "label": "Midday",
+          "title": "Castelo de Vide medieval synagogue"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Cork factory near Évora"
+        }
+      ],
+      "places": [
+        "Belmonte",
+        "Castelo de Vide",
+        "Évora"
+      ],
+      "note": "The longest drive of the trip; the driver stops every 1 hour 30 minutes.",
+      "route": [
+        "Belmonte",
+        "Castelo de Vide",
+        "Évora"
+      ],
+      "photo_query": "Belmonte",
+      "photo_caption": "Belmonte",
+      "transport": "Private car with driver",
+      "travel_time": "About 5 hours of driving with stops",
+      "brief": [
+        "The longest drive of the trip; the driver stops every 1 hour 30 minutes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Évora, then south to the Algarve",
+      "summary": "Roman Évora and the drive across the Alentejo.",
+      "strip": [
+        "About 2 hours 45 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Roman Temple, cathedral and the Chapel of Bones",
+          "text": "The walls of the chapel are lined with human bones.",
+          "notes": [
+            [
+              "CARE",
+              "The chapel can upset children and sensitive visitors; it is optional."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to the Algarve"
+        }
+      ],
+      "places": [
+        "Templo Romano de Évora",
+        "Évora Cathedral",
+        "Capela dos Ossos"
+      ],
+      "note": "Alentejo summers are very hot; carry water.",
+      "route": [
+        "Templo Romano de Évora",
+        "Évora Cathedral",
+        "Capela dos Ossos"
+      ],
+      "photo_query": "Templo Romano de Évora",
+      "photo_caption": "Templo Romano de Évora",
+      "transport": "Private car with driver",
+      "travel_time": "About 2 hours 45 minutes by car",
+      "brief": [
+        "The chapel can upset children and sensitive visitors; it is optional.",
+        "Alentejo summers are very hot; carry water."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sagres, Cape St Vincent and Lagos",
+      "summary": "Henry the Navigator's promontory and the sea arches of Lagos.",
+      "strip": [
+        "About 2 hours of driving in total"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sagres fortress"
+        },
+        {
+          "label": "Midday",
+          "title": "Cape St Vincent",
+          "text": "The south-western tip of Europe.",
+          "notes": [
+            [
+              "CARE",
+              "Strong winds at the cliff edge. Keep children close."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Lagos and Ponta da Piedade",
+          "text": "A boat or kayak trip into the grottoes."
+        }
+      ],
+      "places": [
+        "Sagres Fortress",
+        "Cape St. Vincent",
+        "Ponta da Piedade"
+      ],
+      "note": "Use high-factor sunscreen; the Algarve sun is strong even in spring.",
+      "route": [
+        "Sagres Fortress",
+        "Cape St. Vincent",
+        "Ponta da Piedade"
+      ],
+      "photo_query": "Sagres Fortress",
+      "photo_caption": "Sagres Fortress",
+      "transport": "Private car with driver",
+      "travel_time": "About 2 hours of driving in total",
+      "brief": [
+        "Cape St Vincent: strong winds at the cliff edge.",
+        "Use high-factor sunscreen; the Algarve sun is strong even in spring."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Serra da Arrábida and Azeitão to Lisbon",
+      "summary": "A scenic mountain road, a tile workshop and the bridge into Lisbon.",
+      "strip": [
+        "About 3 hours 30 minutes of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive north"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Sesimbra castle and Azeitão tile workshop",
+          "text": "Hand-painted azulejo tiles."
+        },
+        {
+          "label": "Evening",
+          "title": "April 25th Bridge into Lisbon"
+        }
+      ],
+      "places": [
+        "Sesimbra Castle",
+        "Azeitão",
+        "Ponte 25 de Abril"
+      ],
+      "note": "A last evening at a Lisbon viewpoint (miradouro).",
+      "route": [
+        "Sesimbra Castle",
+        "Azeitão",
+        "Ponte 25 de Abril"
+      ],
+      "photo_query": "Sesimbra Castle",
+      "photo_caption": "Sesimbra Castle",
+      "transport": "Private car with driver",
+      "travel_time": "About 3 hours 30 minutes of driving with stops",
+      "brief": [
+        "A last evening at a Lisbon viewpoint (miradouro)."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Lisbon",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "About 25 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Lisbon Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Lisbon Airport"
+      ],
+      "note": "Ask for a tax-free form when you shop; claim it at the airport.",
+      "photo_query": "Lisbon Airport",
+      "photo_caption": "Lisbon Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 25 minutes by car",
+      "brief": [
+        "Transfer to Lisbon Airport: be at the airport 3 hours before an international flight.",
+        "Ask for a tax-free form when you shop; claim it at the airport."
+      ]
+    }
+  ],
+  "included": [
+    "10 nights with breakfast",
+    "Private car with English-speaking driver throughout",
+    "Guided tour of Lisbon",
+    "Fado evening",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Entry fees and tastings",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City taxes"
+  ],
+  "best_time": "April to June and September to October. July and August are very hot inland (Évora often passes 35°C).",
+  "seasons": [
+    [
+      "April to June",
+      "Best",
+      "Warm (20 to 28°C), flowers in the Alentejo and Andalusia, and long evenings."
+    ],
+    [
+      "July and August",
+      "Hot",
+      "Over 35°C inland in Seville, Córdoba and Évora; best on the coast."
+    ],
+    [
+      "September to October",
+      "Best",
+      "Warm sea, grape harvest and softer heat."
+    ],
+    [
+      "November to March",
+      "Mild",
+      "Cool and sometimes rainy; quiet cities and lower prices."
+    ]
+  ],
+  "months": [
+    "wet",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet"
+  ],
+  "best_pick": "May or late September.",
+  "faqs": [
+    {
+      "q": "Can we add Spain?",
+      "a": "Yes. A 4-day Spain start: Madrid and the Prado, the Mosque-Cathedral of Córdoba, two nights in Seville with flamenco, then the drive to Lisbon via a wine tasting in Azeitão."
+    },
+    {
+      "q": "Is there an Indian or vegetarian option on the road?",
+      "a": "Lisbon and Porto have Indian restaurants. In small towns we pre-arrange vegetarian meals with the hotels."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Portugal tour package from India",
+    "Lisbon Porto Algarve itinerary",
+    "Portugal 11 days",
+    "Fatima tour"
+  ],
+  "links": [
+    {
+      "title": "Visit Portugal (official)",
+      "url": "https://www.visitportugal.com/en"
+    },
+    {
+      "title": "Schengen visa for Portugal (VFS)",
+      "url": "https://visa.vfsglobal.com/ind/en/prt"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros, never in INR. Cards work almost everywhere. Carry about EUR 50 in cash for small cafés, toilets and markets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Rua Pêro da Covilhã 22, 1400-297 Lisbon"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "Portuguese",
+      "Somos vegetarianos estritos. Sem carne, peixe, marisco ou ovos. Sem cebola, alho, batata, cenoura ou outras raízes. Sem caldo de carne ou peixe. Obrigado."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "pt"
+}

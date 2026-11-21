@@ -1,0 +1,731 @@
+{
+  "slug": "spain-madrid-seville-granada-barcelona-11-days",
+  "title": "Spain in 11 Days: Madrid, Toledo, Córdoba, Seville, Granada and Barcelona",
+  "meta_title": "Spain Tour 11 Days: Madrid, Seville, Granada, Barcelona",
+  "meta_description": "11-day Spain tour by fast train: Madrid and Toledo, the Mosque of Córdoba, Seville with flamenco, the Alhambra in Granada and Gaudí's Barcelona with Montserrat.",
+  "destination": "Spain",
+  "country": "Spain",
+  "duration": "11 days / 10 nights",
+  "nights": 10,
+  "style": "Cities · Moorish heritage · Gaudí",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903445057-637544377.webp",
+  "hero_alt": "Plaza de España in Seville",
+  "tagline": "Royal Madrid, Moorish Andalusia and Gaudí's Barcelona",
+  "facts": [
+    [
+      "Stay",
+      "Madrid 3, Seville 2, Granada 2, Barcelona 3"
+    ],
+    [
+      "Travel",
+      "AVE high-speed train and one short flight"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "April to June, September and October"
+    ],
+    [
+      "Arrive / leave",
+      "Madrid / Barcelona"
+    ]
+  ],
+  "intro": "Spain's great cities in one trip, built from our city-by-city ideas. Three nights in Madrid with the Prado and a day in Toledo, the fast train to Córdoba's Mosque-Cathedral and on to Seville, two nights in Granada for the Alhambra and the Albaicín, and three nights in Barcelona for Gaudí and Montserrat. The Alhambra's Nasrid Palaces are by timed ticket only and sell out weeks ahead, so we book them when you confirm.",
+  "highlights": [
+    "The Royal Palace, Plaza Mayor and the Prado in Madrid",
+    "Toledo, the city of three cultures",
+    "The Mosque-Cathedral of Córdoba",
+    "Seville's cathedral, the Alcázar and Plaza de España",
+    "A flamenco show in Seville",
+    "The Alhambra and the Generalife gardens",
+    "Sunset over the Alhambra from the Albaicín",
+    "The Sagrada Família, Park Güell and Casa Batlló",
+    "The mountain monastery of Montserrat"
+  ],
+  "stays": [
+    {
+      "place": "Madrid",
+      "nights": 3,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Seville",
+      "nights": 2,
+      "hotel": "Hotel in or near Santa Cruz"
+    },
+    {
+      "place": "Granada",
+      "nights": 2,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Barcelona",
+      "nights": 3,
+      "hotel": "Eixample or Gothic Quarter hotel"
+    }
+  ],
+  "route": [
+    "Madrid",
+    "Toledo",
+    "Córdoba",
+    "Seville",
+    "Granada",
+    "Barcelona",
+    "Montserrat"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Madrid",
+      "summary": "Transfer to the hotel and an evening at Plaza Mayor.",
+      "strip": [
+        "Airport about 30 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Puerta del Sol and Plaza Mayor",
+          "text": "Spaniards dine late, from about 21:00."
+        }
+      ],
+      "places": [
+        "Madrid Barajas Airport",
+        "Puerta del Sol",
+        "Plaza Mayor"
+      ],
+      "note": "Tapas bars serve vegetarian dishes such as patatas bravas, pimientos and tortilla (with egg).",
+      "route": [
+        "Madrid Barajas Airport",
+        "Puerta del Sol",
+        "Plaza Mayor"
+      ],
+      "photo_query": "Madrid Barajas Airport",
+      "photo_caption": "Madrid Barajas Airport",
+      "transport": "Train and on foot",
+      "travel_time": "Airport about 30 minutes by car",
+      "brief": [
+        "Tapas bars serve vegetarian dishes such as patatas bravas, pimientos and tortilla (with egg)."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Royal Madrid and the Prado",
+      "summary": "The Royal Palace, Gran Vía and the Prado Museum.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Royal Palace",
+          "notes": [
+            [
+              "TIME",
+              "Book timed tickets; the palace closes for state events."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Prado Museum",
+          "text": "Velázquez, Goya and El Greco."
+        },
+        {
+          "label": "Evening",
+          "title": "Gran Vía"
+        }
+      ],
+      "places": [
+        "Royal Palace of Madrid",
+        "Prado Museum",
+        "Gran Vía"
+      ],
+      "note": "The Prado is free in the last two hours of each day, but queues are long.",
+      "route": [
+        "Royal Palace of Madrid",
+        "Prado Museum",
+        "Gran Vía"
+      ],
+      "photo_query": "Royal Palace of Madrid",
+      "photo_caption": "Royal Palace of Madrid",
+      "transport": "Train and on foot",
+      "brief": [
+        "Royal Palace: book timed tickets; the palace closes for state events.",
+        "The Prado is free in the last two hours of each day, but queues are long."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Toledo",
+      "summary": "A hilltop city of churches, synagogues and mosques.",
+      "strip": [
+        "About 33 minutes by fast train each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Toledo Cathedral and El Greco"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Synagogue of Santa María la Blanca and the Mirador del Valle"
+        }
+      ],
+      "places": [
+        "Toledo Cathedral",
+        "Sinagoga de Santa María la Blanca",
+        "Mirador del Valle"
+      ],
+      "note": "Option: Segovia's Roman aqueduct instead, 30 minutes by fast train.",
+      "route": [
+        "Toledo Cathedral",
+        "Sinagoga de Santa María la Blanca",
+        "Mirador del Valle"
+      ],
+      "photo_query": "Toledo Cathedral",
+      "photo_caption": "Toledo Cathedral",
+      "transport": "Train and on foot",
+      "travel_time": "About 33 minutes by fast train each way",
+      "brief": [
+        "Option: Segovia's Roman aqueduct instead, 30 minutes by fast train."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Córdoba's Mosque-Cathedral, then Seville",
+      "summary": "AVE to Córdoba, the great mosque, then on to Seville.",
+      "strip": [
+        "Madrid to Córdoba about 1 hour 45 minutes; Córdoba to Seville about 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "AVE to Córdoba",
+          "text": "Leave luggage at the station lockers."
+        },
+        {
+          "label": "Midday",
+          "title": "Mosque-Cathedral",
+          "text": "Over 850 columns and red-and-white arches.",
+          "notes": [
+            [
+              "CARE",
+              "It is a working cathedral; dress modestly."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Jewish quarter and Roman bridge, then train to Seville"
+        }
+      ],
+      "places": [
+        "Córdoba railway station",
+        "Mezquita-Catedral de Córdoba",
+        "Roman bridge of Córdoba",
+        "Seville"
+      ],
+      "note": "Córdoba is the hottest city in Spain in summer; visit early.",
+      "route": [
+        "Córdoba railway station",
+        "Mezquita-Catedral de Córdoba",
+        "Roman bridge of Córdoba",
+        "Seville"
+      ],
+      "photo_query": "Córdoba railway station",
+      "photo_caption": "Córdoba railway station",
+      "transport": "Train and on foot",
+      "travel_time": "Madrid to Córdoba about 1 hour 45 minutes; Córdoba to Seville about 45 minutes",
+      "brief": [
+        "Mosque-Cathedral: it is a working cathedral; dress modestly.",
+        "Córdoba is the hottest city in Spain in summer; visit early."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Seville and flamenco",
+      "summary": "The cathedral and Giralda, the Real Alcázar, Santa Cruz and an evening flamenco show.",
+      "strip": [
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Real Alcázar",
+          "notes": [
+            [
+              "TIME",
+              "Timed tickets; arrive at your slot."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Cathedral and Giralda tower",
+          "text": "Columbus's tomb."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Plaza de España and María Luisa Park"
+        },
+        {
+          "label": "Evening",
+          "title": "Flamenco show"
+        }
+      ],
+      "places": [
+        "Real Alcázar de Sevilla",
+        "Seville Cathedral",
+        "Plaza de España",
+        "Barrio Santa Cruz"
+      ],
+      "note": "A siesta is wise in summer: the heat peaks from 14:00 to 18:00.",
+      "route": [
+        "Real Alcázar de Sevilla",
+        "Seville Cathedral",
+        "Plaza de España",
+        "Barrio Santa Cruz"
+      ],
+      "photo_query": "Real Alcázar de Sevilla",
+      "photo_caption": "Real Alcázar de Sevilla",
+      "transport": "Train and on foot",
+      "brief": [
+        "Real Alcázar: timed tickets; arrive at your slot.",
+        "A siesta is wise in summer: the heat peaks from 14:00 to 18:00."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Granada and the Albaicín",
+      "summary": "Train to Granada and sunset over the Alhambra.",
+      "strip": [
+        "About 2 hours 30 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Granada"
+        },
+        {
+          "label": "Sunset",
+          "title": "Mirador de San Nicolás",
+          "text": "The classic view of the Alhambra against the Sierra Nevada.",
+          "notes": [
+            [
+              "CARE",
+              "Watch bags at the viewpoint; it is crowded at sunset."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Granada",
+        "Albaicín",
+        "Mirador de San Nicolás"
+      ],
+      "note": "Taxis and minibuses climb the narrow Albaicín lanes; walk down.",
+      "route": [
+        "Granada",
+        "Albaicín",
+        "Mirador de San Nicolás"
+      ],
+      "photo_query": "Granada",
+      "photo_caption": "Granada",
+      "transport": "Train and on foot",
+      "travel_time": "About 2 hours 30 minutes by train",
+      "brief": [
+        "Mirador de San Nicolás: watch bags at the viewpoint; it is crowded at sunset.",
+        "Taxis and minibuses climb the narrow Albaicín lanes; walk down."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Alhambra and the Generalife",
+      "summary": "A guided visit of the palaces and gardens.",
+      "strip": [
+        "About 3 to 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Nasrid Palaces",
+          "text": "Carved plaster and the Court of the Lions.",
+          "notes": [
+            [
+              "TIME",
+              "Entry to the Nasrid Palaces is at your exact time slot; you cannot enter late."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "The Alcazaba and the Generalife gardens"
+        }
+      ],
+      "places": [
+        "Alhambra",
+        "Nasrid Palaces",
+        "Generalife"
+      ],
+      "note": "Granada bars often serve a free tapa with each drink.",
+      "route": [
+        "Alhambra",
+        "Nasrid Palaces",
+        "Generalife"
+      ],
+      "photo_query": "Alhambra",
+      "photo_caption": "Alhambra",
+      "transport": "Train and on foot",
+      "travel_time": "About 3 to 4 hours",
+      "brief": [
+        "Nasrid Palaces: entry to the Nasrid Palaces is at your exact time slot; you cannot enter late.",
+        "Granada bars often serve a free tapa with each drink."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Barcelona",
+      "summary": "A short flight to Barcelona and the Gothic Quarter.",
+      "strip": [
+        "Flight about 1 hour 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight from Granada to Barcelona",
+          "text": "The train takes over 6 hours, so we fly."
+        },
+        {
+          "label": "Evening",
+          "title": "Gothic Quarter and La Rambla",
+          "notes": [
+            [
+              "CARE",
+              "La Rambla and the metro are pickpocket hotspots. Keep bags zipped and in front."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Granada Airport",
+        "Barcelona El Prat Airport",
+        "Barri Gòtic",
+        "La Rambla"
+      ],
+      "note": "Barcelona dines late too.",
+      "transport": "Flight",
+      "route": [
+        "Granada Airport",
+        "Barcelona El Prat Airport",
+        "Barri Gòtic",
+        "La Rambla"
+      ],
+      "photo_query": "Granada Airport",
+      "photo_caption": "Granada Airport",
+      "travel_time": "Flight about 1 hour 30 minutes",
+      "brief": [
+        "Gothic Quarter and La Rambla: la Rambla and the metro are pickpocket hotspots.",
+        "Barcelona dines late too."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Gaudí's Barcelona",
+      "summary": "The Sagrada Família, Casa Batlló and Park Güell.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sagrada Família",
+          "notes": [
+            [
+              "TIME",
+              "Timed tickets sell out; book weeks ahead."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Casa Batlló and La Pedrera on Passeig de Gràcia"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Park Güell"
+        }
+      ],
+      "places": [
+        "Sagrada Família",
+        "Casa Batlló",
+        "Park Güell"
+      ],
+      "note": "Option: the Camp Nou tour for football fans.",
+      "route": [
+        "Sagrada Família",
+        "Casa Batlló",
+        "Park Güell"
+      ],
+      "photo_query": "Sagrada Família",
+      "photo_caption": "Sagrada Família",
+      "transport": "Train and on foot",
+      "brief": [
+        "Sagrada Família: timed tickets sell out; book weeks ahead.",
+        "Option: the Camp Nou tour for football fans."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Montserrat",
+      "summary": "The mountain monastery and its Black Madonna.",
+      "strip": [
+        "About 1 hour 15 minutes by train and rack railway"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Rack railway to Montserrat"
+        },
+        {
+          "label": "Midday",
+          "title": "Basilica and the boys' choir",
+          "text": "The choir sings at about 13:00 on most weekdays in term time."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Barcelona and the seafront"
+        }
+      ],
+      "places": [
+        "Montserrat",
+        "Barceloneta"
+      ],
+      "note": "Option instead: Sitges beach town or Girona.",
+      "route": [
+        "Montserrat",
+        "Barceloneta"
+      ],
+      "photo_query": "Montserrat",
+      "photo_caption": "Montserrat",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 15 minutes by train and rack railway",
+      "brief": [
+        "Option instead: Sitges beach town or Girona."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Barcelona",
+      "summary": "Transfer to El Prat Airport.",
+      "strip": [
+        "About 30 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Barcelona El Prat Airport"
+      ],
+      "note": "Claim the VAT refund at the airport for shopping over the minimum.",
+      "photo_query": "Barcelona El Prat Airport",
+      "photo_caption": "Barcelona El Prat Airport",
+      "transport": "Train and on foot",
+      "travel_time": "About 30 minutes by car",
+      "brief": [
+        "Transfer to the airport: be at the airport 3 hours before an international flight.",
+        "Claim the VAT refund at the airport for shopping over the minimum."
+      ]
+    }
+  ],
+  "included": [
+    "10 nights with breakfast",
+    "AVE and regional train tickets",
+    "Flight Granada to Barcelona",
+    "Guided Alhambra visit with Nasrid Palaces timed ticket",
+    "Flamenco show",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Other entry fees",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City taxes"
+  ],
+  "best_time": "April to June and September to October. Seville and Córdoba are very hot in July and August.",
+  "seasons": [
+    [
+      "April to June",
+      "Best",
+      "Warm (20 to 28°C), flowers in the Alentejo and Andalusia, and long evenings."
+    ],
+    [
+      "July and August",
+      "Hot",
+      "Over 35°C inland in Seville, Córdoba and Évora; best on the coast."
+    ],
+    [
+      "September to October",
+      "Best",
+      "Warm sea, grape harvest and softer heat."
+    ],
+    [
+      "November to March",
+      "Mild",
+      "Cool and sometimes rainy; quiet cities and lower prices."
+    ]
+  ],
+  "months": [
+    "wet",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet"
+  ],
+  "best_pick": "April, May or October.",
+  "faqs": [
+    {
+      "q": "Can we add the coast?",
+      "a": "Yes. Add Málaga and Marbella, Valencia, or the island of Ibiza. Our Spain ideas also include Bilbao and the Costa Brava."
+    },
+    {
+      "q": "Can we combine with Portugal?",
+      "a": "Yes. From Seville, drive to Lisbon (about 5 hours with a wine stop) and join our Portugal tour."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Spain tour package from India",
+    "Madrid Seville Granada Barcelona itinerary",
+    "Alhambra tour",
+    "Spain 11 days"
+  ],
+  "links": [
+    {
+      "title": "Alhambra tickets (official)",
+      "url": "https://tickets.alhambra-patronato.es/en/"
+    },
+    {
+      "title": "Sagrada Família (official)",
+      "url": "https://sagradafamilia.org/en/"
+    },
+    {
+      "title": "Schengen visa for Spain (BLS)",
+      "url": "https://india.blsspainvisa.com/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros, never in INR. Cards work almost everywhere. Carry about EUR 50 in cash for small cafés, toilets and markets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Avenida Pío XII 30-32, 28016 Madrid"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "Spanish",
+      "Somos vegetarianos estrictos. Sin carne, pescado, marisco ni huevo. Sin cebolla, ajo, patata, zanahoria ni otras raíces. Sin caldo de carne o pescado. Gracias."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "es"
+}

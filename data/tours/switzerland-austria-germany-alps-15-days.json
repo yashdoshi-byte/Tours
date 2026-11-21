@@ -1,0 +1,1002 @@
+{
+  "slug": "switzerland-austria-germany-alps-15-days",
+  "title": "Switzerland, Austria and Germany: The Alps from Geneva to Munich in 15 Days",
+  "meta_title": "Switzerland Austria Germany 15 Days: Zermatt to Munich",
+  "meta_description": "15-day Alps journey: Montreux, Zermatt and the Matterhorn, the Jungfraujoch, Lucerne and Rigi, Bern, Innsbruck, Königssee, Salzburg and Neuschwanstein.",
+  "destination": "Switzerland, Austria and Germany",
+  "country": "Switzerland, Austria, Germany",
+  "duration": "15 days / 14 nights",
+  "nights": 14,
+  "style": "Mountains · Lakes · Rail and self-drive",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904067986-621569042.webp",
+  "hero_alt": "The Matterhorn above Zermatt",
+  "tagline": "The Matterhorn, the Top of Europe and the fairy-tale castle of Bavaria",
+  "facts": [
+    [
+      "Stay",
+      "Montreux 2, Zermatt 2, Interlaken 2, Lucerne 2, Zurich 1, Innsbruck 2, Salzburg 1, Munich 2"
+    ],
+    [
+      "Travel",
+      "Swiss Travel Pass for 9 days, then a rental car from Innsbruck"
+    ],
+    [
+      "Pace",
+      "Active, with an easy Zurich day"
+    ],
+    [
+      "Best months",
+      "June to September"
+    ],
+    [
+      "Arrive / leave",
+      "Geneva / Munich"
+    ]
+  ],
+  "intro": "A mountain-lover's route through three countries. Lake Geneva and Glacier 3000, the Matterhorn from Zermatt, the Jungfraujoch glacier from Interlaken, Mount Rigi above Lucerne, and the old towns of Bern and Zurich, all by train on the Swiss Travel Pass. A rental car then takes you through the Tyrol to Innsbruck, Lake Königssee, Salzburg and Neuschwanstein Castle before Munich. We changed the original Austria days, which put Innsbruck, Swarovski and Hallstatt in one day: Hallstatt is about 3 hours from Innsbruck each way, not 1 hour 30 minutes, and Königssee is about 2 hours 15 minutes away. You now drive from Innsbruck to Königssee and sleep in Salzburg, and visit Neuschwanstein as a day out from Munich.",
+  "highlights": [
+    "Glacier 3000 and the Peak Walk suspension bridge",
+    "Chillon Castle on Lake Geneva",
+    "The Gornergrat railway and the Matterhorn",
+    "The Jungfraujoch, the highest railway station in Europe",
+    "Lake boat and cogwheel railway up Mount Rigi",
+    "Bern's arcaded old town and Einstein's house",
+    "Innsbruck's Nordkette and Swarovski Crystal Worlds",
+    "The silent electric boats of Lake Königssee",
+    "Neuschwanstein Castle and Munich"
+  ],
+  "stays": [
+    {
+      "place": "Montreux",
+      "nights": 2,
+      "hotel": "Lake-view hotel"
+    },
+    {
+      "place": "Zermatt",
+      "nights": 2,
+      "hotel": "Hotel with Matterhorn view"
+    },
+    {
+      "place": "Interlaken",
+      "nights": 2,
+      "hotel": "Central hotel near Interlaken Ost"
+    },
+    {
+      "place": "Lucerne",
+      "nights": 2,
+      "hotel": "Old Town or lakeside hotel"
+    },
+    {
+      "place": "Zurich",
+      "nights": 1,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Innsbruck",
+      "nights": 2,
+      "hotel": "Hotel with parking"
+    },
+    {
+      "place": "Salzburg",
+      "nights": 1,
+      "hotel": "Hotel with parking"
+    },
+    {
+      "place": "Munich",
+      "nights": 2,
+      "hotel": "Central hotel with parking"
+    }
+  ],
+  "route": [
+    "Geneva",
+    "Montreux",
+    "Zermatt",
+    "Interlaken",
+    "Lucerne",
+    "Bern",
+    "Zurich",
+    "Innsbruck",
+    "Königssee",
+    "Salzburg",
+    "Munich",
+    "Neuschwanstein Castle"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Geneva and train to Montreux",
+      "summary": "Train along Lake Geneva to Montreux and a lakefront walk.",
+      "strip": [
+        "About 1 hour 15 minutes by train from Geneva Airport"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Train to Montreux",
+          "text": "The station is inside the airport; sit on the right for the lake.",
+          "notes": [
+            [
+              "TIME",
+              "Activate the Swiss Travel Pass in the app on the first day you use it."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Montreux promenade",
+          "text": "The Freddie Mercury statue and flower beds, with the Alps across the water. July evenings stay light until about 21:30."
+        }
+      ],
+      "places": [
+        "Geneva Airport",
+        "Montreux",
+        "Freddie Mercury Statue"
+      ],
+      "note": "Keep the first evening easy after the long flight.",
+      "transport": "Train",
+      "route": [
+        "Geneva Airport",
+        "Montreux",
+        "Freddie Mercury Statue"
+      ],
+      "photo_query": "Geneva Airport",
+      "photo_caption": "Geneva Airport",
+      "travel_time": "About 1 hour 15 minutes by train from Geneva Airport",
+      "brief": [
+        "Train to Montreux: activate the Swiss Travel Pass in the app on the first day you use it.",
+        "Keep the first evening easy after the long flight."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Glacier 3000, Gstaad and Charlie Chaplin's World",
+      "summary": "A glacier above the snowline, a chic mountain village and Chaplin's home.",
+      "strip": [
+        "About 1 hour 15 minutes by car to Glacier 3000"
+      ],
+      "rows": [
+        {
+          "label": "About 09:00",
+          "title": "Glacier 3000",
+          "text": "Cable car to about 3,000 m, the Peak Walk suspension bridge between two summits, and snow even in July.",
+          "notes": [
+            [
+              "WEAR",
+              "It is about 5°C at the top. Warm layer, sunglasses and closed shoes."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch",
+          "title": "Gstaad village",
+          "text": "A car-free main street of chalets and boutiques."
+        },
+        {
+          "label": "Afternoon · Vevey",
+          "title": "Charlie Chaplin's World",
+          "text": "Chaplin's own house and a film studio of his sets. Allow about 2 hours."
+        }
+      ],
+      "places": [
+        "Glacier 3000",
+        "Gstaad",
+        "Chaplin's World"
+      ],
+      "note": "A private driver makes this day easy; by public transport it needs four changes.",
+      "transport": "Private car with driver",
+      "route": [
+        "Glacier 3000",
+        "Gstaad",
+        "Chaplin's World"
+      ],
+      "photo_query": "Glacier 3000",
+      "photo_caption": "Glacier 3000",
+      "travel_time": "About 1 hour 15 minutes by car to Glacier 3000",
+      "brief": [
+        "Glacier 3000: it is about 5°C at the top.",
+        "A private driver makes this day easy; by public transport it needs four changes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Chillon Castle, then train to Zermatt",
+      "summary": "A lakeside walk to the castle and the train into the Matterhorn valley.",
+      "strip": [
+        "Walk about 3 km",
+        "Train about 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Chillon Castle",
+          "text": "A 13th-century castle on a rock in the lake. Walk the promenade there in about 45 minutes, or take bus 201. Allow 1 hour 30 minutes inside."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Train via Visp to Zermatt",
+          "text": "The valley narrows and the Matterhorn appears above the roofs.",
+          "notes": [
+            [
+              "TIME",
+              "Zermatt is car-free. Electric taxis and hotel shuttles meet the trains."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Chillon Castle",
+        "Visp",
+        "Zermatt"
+      ],
+      "note": "Send big suitcases ahead by Swiss rail luggage service if you prefer to travel light.",
+      "route": [
+        "Chillon Castle",
+        "Visp",
+        "Zermatt"
+      ],
+      "photo_query": "Chillon Castle",
+      "photo_caption": "Chillon Castle",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "Walk about 3 km",
+      "brief": [
+        "Train via Visp to Zermatt: zermatt is car-free.",
+        "Send big suitcases ahead by Swiss rail luggage service if you prefer to travel light."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Gornergrat and the Matterhorn",
+      "summary": "Cogwheel railway to 3,089 m, with an optional cable car to the Matterhorn Glacier Paradise.",
+      "strip": [
+        "Gornergrat about 33 minutes each way"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Gornergrat railway",
+          "text": "The Matterhorn and 29 peaks over 4,000 m. Take an early train before clouds build.",
+          "notes": [
+            [
+              "MONEY",
+              "The Swiss Travel Pass gives 50% off."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Matterhorn Glacier Paradise",
+          "text": "Europe's highest cable car station at 3,883 m, with an ice palace.",
+          "notes": [
+            [
+              "CARE",
+              "Altitude is felt here. Walk slowly and avoid it with heart or breathing conditions."
+            ],
+            [
+              "WEAR",
+              "Around 0°C at the top even in July."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Zermatt village",
+          "text": "Old wooden barns in Hinterdorf and the Mountaineers' Cemetery."
+        }
+      ],
+      "places": [
+        "Gornergrat",
+        "Matterhorn Glacier Paradise",
+        "Zermatt"
+      ],
+      "note": "Do one high excursion if you are short of breath; the Gornergrat has the classic view.",
+      "transport": "Cogwheel railway and on foot",
+      "route": [
+        "Gornergrat",
+        "Matterhorn Glacier Paradise",
+        "Zermatt"
+      ],
+      "photo_query": "Gornergrat",
+      "photo_caption": "Gornergrat",
+      "travel_time": "Gornergrat about 33 minutes each way",
+      "brief": [
+        "Gornergrat railway: the Swiss Travel Pass gives 50% off.",
+        "Matterhorn Glacier Paradise: altitude is felt here.",
+        "Matterhorn Glacier Paradise: around 0°C at the top even in July."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Interlaken and sunset at Harder Kulm",
+      "summary": "Train to the Bernese Oberland and a funicular to the Two Lakes Bridge.",
+      "strip": [
+        "About 2 hours 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train via Visp and Spiez to Interlaken",
+          "text": "The Eiger, Mönch and Jungfrau come into view."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Harder Kulm",
+          "text": "A funicular to 1,322 m and a platform over Lake Thun and Lake Brienz."
+        }
+      ],
+      "places": [
+        "Zermatt railway station",
+        "Interlaken Ost",
+        "Harder Kulm"
+      ],
+      "note": "Book tomorrow's Jungfraujoch seats now if not already done.",
+      "route": [
+        "Zermatt railway station",
+        "Interlaken Ost",
+        "Harder Kulm"
+      ],
+      "photo_query": "Zermatt railway station",
+      "photo_caption": "Zermatt railway station",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 2 hours 15 minutes by train",
+      "brief": [
+        "Book tomorrow's Jungfraujoch seats now if not already done."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Jungfraujoch, the Top of Europe, and Lake Thun",
+      "summary": "Early trains to Europe's highest railway station, then an afternoon on the lake.",
+      "strip": [
+        "About 2 hours each way",
+        "Back by about 13:00"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Jungfraujoch at 3,454 m",
+          "text": "The Aletsch Glacier, the Sphinx Observatory and the Ice Palace, via the Eiger Express gondola.",
+          "notes": [
+            [
+              "TIME",
+              "Book seat reservations weeks ahead for July and August. Go on the first trains; clouds often arrive by midday."
+            ],
+            [
+              "CARE",
+              "Altitude may cause a headache. Walk slowly and drink water."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Lake Thun",
+          "text": "A paddle-steamer cruise or a self-drive boat from Thun."
+        },
+        {
+          "label": "On request",
+          "title": "A celebration at the top",
+          "text": "We can arrange a cake and reserved table at the summit for a birthday, anniversary or graduation."
+        }
+      ],
+      "places": [
+        "Jungfraujoch",
+        "Sphinx Observatory",
+        "Lake Thun"
+      ],
+      "note": "Indian vegetarian lunch is served at the Bollywood restaurant at the Jungfraujoch.",
+      "route": [
+        "Jungfraujoch",
+        "Sphinx Observatory",
+        "Lake Thun"
+      ],
+      "photo_query": "Jungfraujoch",
+      "photo_caption": "Jungfraujoch",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 2 hours each way",
+      "brief": [
+        "Jungfraujoch at 3,454 m: book seat reservations weeks ahead for July and August.",
+        "Jungfraujoch at 3,454 m: altitude may cause a headache."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Lucerne by the Brünig Pass, and Mount Rigi",
+      "summary": "Scenic train to Lucerne, then a lake boat and cogwheel railway up Rigi.",
+      "strip": [
+        "Train about 1 hour 50 minutes",
+        "Rigi trip about 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Luzern-Interlaken Express",
+          "text": "Over the Brünig Pass; sit on the right."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Boat to Vitznau and the Rigi railway",
+          "text": "Europe's first mountain railway to Rigi Kulm at 1,797 m, with views of 13 lakes. All covered by the pass."
+        },
+        {
+          "label": "Evening",
+          "title": "Chapel Bridge and the Lion Monument",
+          "text": "The 14th-century wooden bridge and the dying lion carved into the rock."
+        }
+      ],
+      "places": [
+        "Lucerne",
+        "Vitznau",
+        "Rigi Kulm",
+        "Chapel Bridge"
+      ],
+      "note": "Go down by cable car to Weggis for a different view on the way back.",
+      "route": [
+        "Lucerne",
+        "Vitznau",
+        "Rigi Kulm",
+        "Chapel Bridge"
+      ],
+      "photo_query": "Lucerne",
+      "photo_caption": "Lucerne",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "Train about 1 hour 50 minutes",
+      "brief": [
+        "Go down by cable car to Weggis for a different view on the way back."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Day trip to Bern",
+      "summary": "Switzerland's capital: arcades, the clock tower and the bears.",
+      "strip": [
+        "About 1 hour by train each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "The old town and the Zytglogge",
+          "text": "Six kilometres of arcades in a UNESCO World Heritage old town."
+        },
+        {
+          "label": "Midday",
+          "title": "Einstein House",
+          "text": "Where Einstein lived while writing the special theory of relativity."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bear Park and the Rose Garden",
+          "text": "The Rose Garden has the best view over the old town's roofs."
+        }
+      ],
+      "places": [
+        "Zytglogge",
+        "Einsteinhaus",
+        "BärenPark",
+        "Rosengarten Bern"
+      ],
+      "note": "Bern's Parliament building offers free tours on some days; ask us to check.",
+      "route": [
+        "Zytglogge",
+        "Einsteinhaus",
+        "BärenPark",
+        "Rosengarten Bern"
+      ],
+      "photo_query": "Zytglogge",
+      "photo_caption": "Zytglogge",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 1 hour by train each way",
+      "brief": [
+        "Bern's Parliament building offers free tours on some days; ask us to check."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Zurich at leisure",
+      "summary": "An easy day of the old town, the lake and shopping.",
+      "strip": [
+        "About 50 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Zurich"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Old town, Grossmünster and Bahnhofstrasse",
+          "text": "Climb the cathedral tower, then shop for watches and chocolate."
+        },
+        {
+          "label": "Evening",
+          "title": "Lake Zurich promenade"
+        }
+      ],
+      "places": [
+        "Zurich HB",
+        "Grossmünster",
+        "Bahnhofstrasse"
+      ],
+      "note": "Hiltl, near Bahnhofstrasse, is the world's oldest vegetarian restaurant (since 1898).",
+      "route": [
+        "Zurich HB",
+        "Grossmünster",
+        "Bahnhofstrasse"
+      ],
+      "photo_query": "Zurich HB",
+      "photo_caption": "Zurich HB",
+      "transport": "Swiss Travel Pass trains, boats and buses",
+      "travel_time": "About 50 minutes by train",
+      "brief": [
+        "Hiltl, near Bahnhofstrasse, is the world's oldest vegetarian restaurant (since 1898)."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Innsbruck and pick up your car",
+      "summary": "Cross into Austria by train and collect the rental car.",
+      "strip": [
+        "About 3 hours 30 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Railjet from Zurich to Innsbruck",
+          "text": "Along Lake Walen and over the Arlberg.",
+          "notes": [
+            [
+              "MONEY",
+              "Not covered by the Swiss Travel Pass; we book the tickets."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Collect the rental car",
+          "text": "A 7-seater at the main station. Buy the digital Austrian motorway vignette before you drive."
+        },
+        {
+          "label": "Evening",
+          "title": "Old Town and Maria-Theresien-Strasse"
+        }
+      ],
+      "places": [
+        "Zurich HB",
+        "Innsbruck Hauptbahnhof",
+        "Maria-Theresien-Strasse"
+      ],
+      "note": "Your hotel should have parking; book it with the room.",
+      "transport": "Train",
+      "route": [
+        "Zurich HB",
+        "Innsbruck Hauptbahnhof",
+        "Maria-Theresien-Strasse"
+      ],
+      "photo_query": "Zurich HB",
+      "photo_caption": "Zurich HB",
+      "travel_time": "About 3 hours 30 minutes by train",
+      "brief": [
+        "Railjet from Zurich to Innsbruck: not covered by the Swiss Travel Pass; we book the tickets.",
+        "Your hotel should have parking; book it with the room."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Nordkette, the Golden Roof and Swarovski",
+      "summary": "A cable car above the city, the old town, and the crystal chambers in Wattens.",
+      "strip": [
+        "About 30 minutes' drive to Wattens"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Nordkette cable car",
+          "text": "From the Congress station to 2,256 m in about 30 minutes."
+        },
+        {
+          "label": "Midday",
+          "title": "The Golden Roof and the Hofburg",
+          "text": "The palace and the court church's 28 bronze statues."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Swarovski Crystal Worlds",
+          "text": "Artist-designed chambers under a grassy giant's head. Allow 2 hours."
+        }
+      ],
+      "places": [
+        "Hafelekar",
+        "Goldenes Dachl",
+        "Swarovski Kristallwelten"
+      ],
+      "note": "A relaxed day after the original plan's 6-hour drive to Hallstatt and back.",
+      "transport": "Rental car and cable car",
+      "route": [
+        "Hafelekar",
+        "Goldenes Dachl",
+        "Swarovski Kristallwelten"
+      ],
+      "photo_query": "Hafelekar",
+      "photo_caption": "Hafelekar",
+      "travel_time": "About 30 minutes' drive to Wattens",
+      "brief": [
+        "A relaxed day after the original plan's 6-hour drive to Hallstatt and back."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Lake Königssee, then Salzburg",
+      "summary": "Drive into Bavaria for the electric boats of Königssee and on to Salzburg.",
+      "strip": [
+        "About 2 hours 15 minutes to Königssee, then 30 minutes to Salzburg"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Berchtesgaden"
+        },
+        {
+          "label": "Midday",
+          "title": "Electric boat to St Bartholomä",
+          "text": "An emerald lake between cliffs; the boatman plays a trumpet against the rock wall for the echo.",
+          "notes": [
+            [
+              "TIME",
+              "Arrive before 14:00; queues are long in July and August."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Salzburg old town",
+          "text": "Getreidegasse and Mozart's birthplace."
+        }
+      ],
+      "places": [
+        "Königssee",
+        "St. Bartholomä",
+        "Salzburg"
+      ],
+      "note": "Optional: the Sound of Music tour or Hallstatt (1 hour 15 minutes from Salzburg) if you add a night here.",
+      "transport": "Rental car",
+      "route": [
+        "Königssee",
+        "St. Bartholomä",
+        "Salzburg"
+      ],
+      "photo_query": "Königssee",
+      "photo_caption": "Königssee",
+      "travel_time": "About 2 hours 15 minutes to Königssee, then 30 minutes to Salzburg",
+      "brief": [
+        "Electric boat to St Bartholomä: arrive before 14:00; queues are long in July and August.",
+        "Optional: the Sound of Music tour or Hallstatt (1 hour 15 minutes from Salzburg) if you add a night here."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Salzburg morning, then Munich",
+      "summary": "Hohensalzburg Fortress and Mirabell Gardens, then the drive to Munich.",
+      "strip": [
+        "About 1 hour 45 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hohensalzburg Fortress and Mirabell Gardens",
+          "text": "The funicular up, then the Do-Re-Mi gardens."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Munich"
+        },
+        {
+          "label": "17:00",
+          "title": "Marienplatz and the Glockenspiel",
+          "text": "The clock's figures perform at 11:00, 12:00 and, in summer, 17:00. The Viktualienmarkt is next door."
+        }
+      ],
+      "places": [
+        "Hohensalzburg Fortress",
+        "Mirabell Palace",
+        "Marienplatz"
+      ],
+      "note": "Park at the hotel and use the U-Bahn in Munich.",
+      "transport": "Rental car",
+      "route": [
+        "Hohensalzburg Fortress",
+        "Mirabell Palace",
+        "Marienplatz"
+      ],
+      "photo_query": "Hohensalzburg Fortress",
+      "photo_caption": "Hohensalzburg Fortress",
+      "travel_time": "About 1 hour 45 minutes by car",
+      "brief": [
+        "Park at the hotel and use the U-Bahn in Munich."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Neuschwanstein Castle",
+      "summary": "King Ludwig II's fairy-tale castle, and the BMW Welt on the way back.",
+      "strip": [
+        "About 2 hours each way by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Neuschwanstein and Marienbrücke",
+          "text": "The castle that inspired Disney, and the classic view from the bridge above.",
+          "notes": [
+            [
+              "TIME",
+              "Timed tickets sell out weeks ahead in summer. Allow 2 hours 30 minutes with the shuttle bus and tour."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "BMW Welt",
+          "text": "Free showroom by the Olympic Park; the museum next door needs about 2 hours."
+        }
+      ],
+      "places": [
+        "Neuschwanstein Castle",
+        "Marienbrücke",
+        "BMW Welt"
+      ],
+      "note": "The walk up to the castle is about 40 minutes uphill; buses and horse carts help.",
+      "transport": "Rental car",
+      "route": [
+        "Neuschwanstein Castle",
+        "Marienbrücke",
+        "BMW Welt"
+      ],
+      "photo_query": "Neuschwanstein Castle",
+      "photo_caption": "Neuschwanstein Castle",
+      "travel_time": "About 2 hours each way by car",
+      "brief": [
+        "Neuschwanstein and Marienbrücke: timed tickets sell out weeks ahead in summer.",
+        "The walk up to the castle is about 40 minutes uphill; buses and horse carts help."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Munich",
+      "summary": "Return the car at the airport.",
+      "strip": [
+        "About 40 minutes to the airport"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Drive to Munich Airport and return the car",
+          "notes": [
+            [
+              "TIME",
+              "Allow 3 hours before an international flight, plus 30 minutes for the car return."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Munich Airport"
+      ],
+      "note": "Swiss chocolate and liquids go in checked baggage.",
+      "transport": "Rental car",
+      "photo_query": "Munich Airport",
+      "photo_caption": "Munich Airport",
+      "travel_time": "About 40 minutes to the airport",
+      "brief": [
+        "Drive to Munich Airport and return the car: allow 3 hours before an international flight, plus 30 minutes for the car return.",
+        "Swiss chocolate and liquids go in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "14 nights with breakfast",
+    "9-day Swiss Travel Pass",
+    "Private car for the Glacier 3000 day",
+    "Train Zurich to Innsbruck",
+    "7-seater rental car from Innsbruck to Munich Airport",
+    "Jungfraujoch and Neuschwanstein reservations",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Mountain railway and cable car costs beyond the pass discount",
+    "Fuel, vignette, parking and tolls",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City taxes paid at hotels"
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Two currencies",
+      "text": "Switzerland uses Swiss francs (CHF); Austria and Germany use euros. Cards are accepted almost everywhere, including mountain restaurants. Swiss prices are much higher than in Austria and Germany."
+    },
+    {
+      "tag": "TIP",
+      "title": "Swiss Travel Pass",
+      "text": "Covers trains, buses and lake boats in Switzerland, with discounts of 25 to 50% on most mountain railways such as the Gornergrat and the Jungfraujoch."
+    },
+    {
+      "tag": "CARE",
+      "title": "Altitude and weather",
+      "text": "Above 3,000 m, a mild headache and breathlessness are normal. Go up in the morning: afternoon thunderstorms between about 14:00 and 17:00 can stop cable cars. Use SPF 50 sunscreen."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving in Austria and Germany",
+      "text": "Indian licence holders need an International Driving Permit. Austrian motorways need a digital vignette bought before you drive; Germany has none. Traffic drives on the right."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in Swiss francs or euros, never in INR. Carry about CHF 50 and EUR 50 in cash for small kiosks and toilets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency (Switzerland)",
+      "112 (police 117, ambulance 144)"
+    ],
+    [
+      "Emergency (Austria, Germany)",
+      "112"
+    ],
+    [
+      "Embassy of India, Bern",
+      "Kirchenfeldstrasse 28, 3005 Bern"
+    ],
+    [
+      "Emergency",
+      "112"
+    ]
+  ],
+  "best_time": "June to September, when every mountain railway runs and the Alpine meadows flower. July evenings are light until about 21:30.",
+  "seasons": [
+    [
+      "May to June",
+      "Best",
+      "Green valleys, waterfalls in full flow and fewer crowds; some high passes and lifts open only from late May or June."
+    ],
+    [
+      "July to August",
+      "Peak",
+      "Warmest weather and every lift open; busiest and most expensive."
+    ],
+    [
+      "September to October",
+      "Good",
+      "Clear autumn days and quieter trains; some lifts close for maintenance from late October."
+    ],
+    [
+      "December to March",
+      "Winter",
+      "Snow and Christmas markets; skiing in the mountains, short days in the cities."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "Late June to early September.",
+  "faqs": [
+    {
+      "q": "Is there a version starting in Vienna?",
+      "a": "Yes. Our second plan starts with three days in Vienna and Bratislava, then drives through Salzburg, Zell am See with the Grossglockner road and the Kaprun spa, and Innsbruck to Munich."
+    },
+    {
+      "q": "Do we need to drive?",
+      "a": "Only from Innsbruck. We can replace the car with a driver or with trains and a day tour to Neuschwanstein."
+    },
+    {
+      "q": "Can a celebration be arranged?",
+      "a": "Yes. We have arranged surprise cakes on the Jungfraujoch and tandem paragliding over Zell am See for graduations and anniversaries."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Switzerland Austria Germany tour",
+    "Swiss Travel Pass itinerary",
+    "Zermatt Jungfraujoch Munich",
+    "Europe Alps family tour"
+  ],
+  "links": [
+    {
+      "title": "Swiss Travel Pass (official)",
+      "url": "https://www.sbb.ch/en/tickets-offers/travelcards/swiss-travel-pass.html"
+    },
+    {
+      "title": "Jungfraujoch (official)",
+      "url": "https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/"
+    },
+    {
+      "title": "Neuschwanstein tickets (official)",
+      "url": "https://www.neuschwanstein.de/englisch/tourist/index.htm"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "German",
+      "Wir sind strenge Vegetarier. Kein Fleisch, kein Fisch, keine Meeresfrüchte, keine Eier. Keine Zwiebeln, kein Knoblauch, keine Kartoffeln, keine Karotten, kein Wurzelgemüse. Keine Fleisch- oder Fischbrühe. Danke."
+    ],
+    [
+      "French",
+      "Nous sommes végétariens stricts. Pas de viande, poisson, fruits de mer ni œufs. Pas d'oignon, d'ail, de pomme de terre, de carotte ni de légumes racines. Pas de bouillon de viande ou de poisson. Merci."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "ch,at,de"
+}

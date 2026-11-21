@@ -1,0 +1,963 @@
+{
+  "slug": "romania-self-drive-transylvania-bukovina-danube-delta-16-days",
+  "title": "Grand Romania Self-Drive: Transylvania, Maramureș, Bukovina's Painted Monasteries and the Danube Delta in 16 Days",
+  "meta_title": "Romania Self-Drive 16 Days: Transylvania to Danube Delta",
+  "meta_description": "16-day Romania self-drive: Sibiu, Sighișoara, Maramureș villages, Bukovina's painted monasteries, Brașov, Bran Castle and the Danube Delta.",
+  "destination": "Romania",
+  "country": "Romania",
+  "duration": "16 days / 15 nights",
+  "nights": 15,
+  "style": "Self-drive · Villages · UNESCO heritage",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905018588-819411462.webp",
+  "hero_alt": "Medieval Sighișoara in Transylvania",
+  "tagline": "Saxon citadels, wooden churches, painted monasteries and the wild Danube Delta",
+  "facts": [
+    [
+      "Stay",
+      "Bucharest 1, Sibiu 2, Sighișoara 2, Maramureș 2, Bukovina 2, Miercurea Ciuc 1, Brașov 2, Danube Delta 2, Bucharest 1"
+    ],
+    [
+      "Travel",
+      "Rental car with GPS, plus boats in the Delta"
+    ],
+    [
+      "Pace",
+      "Active; several long driving days"
+    ],
+    [
+      "Best months",
+      "May to June, September to October"
+    ],
+    [
+      "Arrive / leave",
+      "Bucharest"
+    ]
+  ],
+  "intro": "A complete self-drive loop of Romania with family-run guesthouses and guided city tours. Cross the Carpathians to Sibiu, sleep inside the citadel of Sighișoara, visit the Saxon fortified churches, then the wooden villages of Maramureș with its steam forest railway and Merry Cemetery, the painted monasteries of Bukovina, the Bicaz Gorge, Brașov with Bran and Peleș castles, and finally the Danube Delta. Two days are long: Brașov to Tulcea is about 350 km (5 to 6 hours) before the boat, and the public boat leaves at a fixed time, so we start very early or book a private boat transfer. A local travel assistant is on call by phone throughout, as well as our own 24/7 desk.",
+  "highlights": [
+    "Curtea de Argeș and Cozia monasteries",
+    "Sibiu old town and the Astra open-air museum",
+    "Sleeping inside the medieval citadel of Sighișoara",
+    "Biertan's fortified church, a UNESCO World Heritage Site",
+    "The Vaser Valley steam forest railway and the Merry Cemetery of Săpânța",
+    "The painted monasteries of Voroneț, Humor, Moldovița and Sucevița",
+    "The Bicaz Gorge and Red Lake",
+    "Brașov's Black Church, Bran Castle and Peleș Castle",
+    "Boat trips in the Danube Delta"
+  ],
+  "stays": [
+    {
+      "place": "Bucharest",
+      "nights": 1,
+      "hotel": "City-centre hotel"
+    },
+    {
+      "place": "Sibiu",
+      "nights": 2,
+      "hotel": "Old-town guesthouse"
+    },
+    {
+      "place": "Sighișoara",
+      "nights": 2,
+      "hotel": "Guesthouse inside the citadel"
+    },
+    {
+      "place": "Sighetu Marmației",
+      "nights": 2,
+      "hotel": "Traditional wooden guesthouse"
+    },
+    {
+      "place": "Gura Humorului",
+      "nights": 2,
+      "hotel": "Family guesthouse"
+    },
+    {
+      "place": "Miercurea Ciuc",
+      "nights": 1,
+      "hotel": "Town hotel"
+    },
+    {
+      "place": "Brașov",
+      "nights": 2,
+      "hotel": "Old-town hotel"
+    },
+    {
+      "place": "Crișan, Danube Delta",
+      "nights": 2,
+      "hotel": "Delta guesthouse with dinner"
+    },
+    {
+      "place": "Bucharest",
+      "nights": 1,
+      "hotel": "City-centre hotel"
+    }
+  ],
+  "route": [
+    "Bucharest",
+    "Curtea de Argeș",
+    "Cozia Monastery",
+    "Sibiu",
+    "Sighișoara",
+    "Biertan",
+    "Sighetu Marmației",
+    "Săpânța",
+    "Gura Humorului",
+    "Voroneț Monastery",
+    "Bicaz Gorge",
+    "Miercurea Ciuc",
+    "Brașov",
+    "Bran Castle",
+    "Peleș Castle",
+    "Tulcea",
+    "Crișan",
+    "Bucharest"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Bucharest",
+      "summary": "Collect the rental car and an afternoon in the capital.",
+      "strip": [
+        "Airport about 40 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Collect your rental car",
+          "text": "With GPS and full insurance; a credit card deposit is blocked.",
+          "notes": [
+            [
+              "MONEY",
+              "The deposit must be on a credit card in the driver's name; debit and forex cards are refused."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Old Town and the Palace of the Parliament",
+          "text": "One of the largest buildings in the world.",
+          "notes": [
+            [
+              "TIME",
+              "Parliament tours need your passport and booking a day ahead."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Henri Coandă International Airport",
+        "Palace of the Parliament",
+        "Lipscani"
+      ],
+      "note": "Park at the hotel; Bucharest traffic is heavy.",
+      "route": [
+        "Henri Coandă International Airport",
+        "Palace of the Parliament",
+        "Lipscani"
+      ],
+      "photo_query": "Henri Coandă International Airport",
+      "photo_caption": "Henri Coandă International Airport",
+      "transport": "Self-drive rental car",
+      "travel_time": "Airport about 40 minutes by car",
+      "brief": [
+        "Collect your rental car: the deposit must be on a credit card in the driver's name; debit and forex cards are refused.",
+        "Old Town and the Palace of the Parliament: parliament tours need your passport and booking a day ahead."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Northern Wallachia to Sibiu",
+      "summary": "Monasteries and the Olt Valley on the way to Transylvania.",
+      "strip": [
+        "About 300 km, 5 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Curtea de Argeș Monastery",
+          "text": "The royal burial church."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Olt Valley and Cozia Monastery"
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive in Sibiu"
+        }
+      ],
+      "places": [
+        "Curtea de Argeș Monastery",
+        "Cozia Monastery",
+        "Sibiu"
+      ],
+      "note": "Monasteries ask women to cover their hair and wear skirts; wraps are lent at the door.",
+      "route": [
+        "Curtea de Argeș Monastery",
+        "Cozia Monastery",
+        "Sibiu"
+      ],
+      "photo_query": "Curtea de Argeș Monastery",
+      "photo_caption": "Curtea de Argeș Monastery",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 300 km, 5 hours of driving",
+      "brief": [
+        "Monasteries ask women to cover their hair and wear skirts; wraps are lent at the door."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sibiu and the Astra Museum",
+      "summary": "A guided city tour and the open-air village museum.",
+      "strip": [
+        "About 30 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Guided tour of Sibiu",
+          "text": "The Large and Small Squares, the Bridge of Lies and the houses with 'eyes' in their roofs."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Astra open-air museum",
+          "text": "Over 300 traditional houses, mills and churches in a forest park."
+        }
+      ],
+      "places": [
+        "Piața Mare Sibiu",
+        "Bridge of Lies",
+        "Astra Museum"
+      ],
+      "note": "Sibiu is very walkable; leave the car at the guesthouse.",
+      "route": [
+        "Piața Mare Sibiu",
+        "Bridge of Lies",
+        "Astra Museum"
+      ],
+      "photo_query": "Piața Mare Sibiu",
+      "photo_caption": "Piața Mare Sibiu",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 30 km",
+      "brief": [
+        "Sibiu is very walkable; leave the car at the guesthouse."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Saxon villages to Sighișoara",
+      "summary": "Slimnic, Mediaș and the fortified church of Valea Viilor.",
+      "strip": [
+        "About 120 km, 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Slimnic castle ruins and Mediaș"
+        },
+        {
+          "label": "Midday",
+          "title": "Valea Viilor fortified church",
+          "text": "UNESCO World Heritage."
+        },
+        {
+          "label": "Evening",
+          "title": "Check in inside Sighișoara citadel",
+          "notes": [
+            [
+              "TIME",
+              "Cars may enter the citadel only to unload; your host shows you where to park."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Slimnic",
+        "Mediaș",
+        "Valea Viilor",
+        "Sighișoara"
+      ],
+      "note": "The citadel is cobbled and steep; bring a small bag for the night.",
+      "route": [
+        "Slimnic",
+        "Mediaș",
+        "Valea Viilor",
+        "Sighișoara"
+      ],
+      "photo_query": "Slimnic",
+      "photo_caption": "Slimnic",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 120 km, 2 hours 30 minutes of driving",
+      "brief": [
+        "Check in inside Sighișoara citadel: cars may enter the citadel only to unload; your host shows you where to park.",
+        "The citadel is cobbled and steep; bring a small bag for the night."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sighișoara and Biertan",
+      "summary": "A guided walk of the citadel and the fortified church at Biertan.",
+      "strip": [
+        "About 40 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Guided tour of Sighișoara",
+          "text": "The Clock Tower, the covered stairway and the Church on the Hill."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Biertan fortified church",
+          "text": "Triple walls and the 'marriage prison' room."
+        }
+      ],
+      "places": [
+        "Sighișoara Clock Tower",
+        "Church on the Hill",
+        "Biertan fortified church"
+      ],
+      "note": "Vegetarian options in villages are limited; tell your guesthouse your diet the night before.",
+      "route": [
+        "Sighișoara Clock Tower",
+        "Church on the Hill",
+        "Biertan fortified church"
+      ],
+      "photo_query": "Sighișoara Clock Tower",
+      "photo_caption": "Sighișoara Clock Tower",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 40 km",
+      "brief": [
+        "Vegetarian options in villages are limited; tell your guesthouse your diet the night before."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "North to Maramureș",
+      "summary": "Through Târgu Mureș and Bistrița to the far north.",
+      "strip": [
+        "About 250 km, 5 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Târgu Mureș Culture Palace"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Over the hills to Sighetu Marmației"
+        }
+      ],
+      "places": [
+        "Târgu Mureș",
+        "Bistrița",
+        "Sighetu Marmației"
+      ],
+      "note": "A long day; fuel up in the towns, as village stations are few.",
+      "route": [
+        "Târgu Mureș",
+        "Bistrița",
+        "Sighetu Marmației"
+      ],
+      "photo_query": "Târgu Mureș",
+      "photo_caption": "Târgu Mureș",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 250 km, 5 hours of driving",
+      "brief": [
+        "A long day; fuel up in the towns, as village stations are few."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Maramureș: steam train and wooden churches",
+      "summary": "The Vaser Valley forest railway or the wooden churches and the Merry Cemetery.",
+      "strip": [
+        "Free choice"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Vaser Valley steam railway (Mocănița)",
+          "text": "One of Europe's last working steam forest railways.",
+          "notes": [
+            [
+              "TIME",
+              "Runs on set days from about April to October; book ahead."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Merry Cemetery of Săpânța and wooden churches",
+          "text": "Painted, humorous grave markers; UNESCO-listed churches at Bârsana and Ieud."
+        }
+      ],
+      "places": [
+        "Viseu de Sus",
+        "Merry Cemetery",
+        "Bârsana Monastery"
+      ],
+      "note": "Sunday mornings are for church; villagers wear traditional dress.",
+      "route": [
+        "Viseu de Sus",
+        "Merry Cemetery",
+        "Bârsana Monastery"
+      ],
+      "photo_query": "Viseu de Sus",
+      "photo_caption": "Viseu de Sus",
+      "transport": "Self-drive rental car",
+      "brief": [
+        "Vaser Valley steam railway: runs on set days from about April to October; book ahead.",
+        "Sunday mornings are for church; villagers wear traditional dress."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Over the Prislop and Tihuța passes into Bukovina",
+      "summary": "Across the Eastern Carpathians.",
+      "strip": [
+        "About 145 km, 3 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Borșa and the Prislop Pass"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive in Gura Humorului"
+        }
+      ],
+      "places": [
+        "Borșa",
+        "Prislop Pass",
+        "Gura Humorului"
+      ],
+      "note": "Mountain roads have bends and few barriers; drive slowly.",
+      "route": [
+        "Borșa",
+        "Prislop Pass",
+        "Gura Humorului"
+      ],
+      "photo_query": "Borșa",
+      "photo_caption": "Borșa",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 145 km, 3 hours 30 minutes of driving",
+      "brief": [
+        "Mountain roads have bends and few barriers; drive slowly."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The painted monasteries",
+      "summary": "Voroneț, Humor, Moldovița and Sucevița.",
+      "strip": [
+        "About 100 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Voroneț and Humor",
+          "text": "The 'Voroneț blue' Last Judgement."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Moldovița and Sucevița",
+          "text": "Nuns often guide visitors.",
+          "notes": [
+            [
+              "CARE",
+              "These are working convents. Dress modestly, speak quietly and ask before taking photos inside."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Voroneț Monastery",
+        "Humor Monastery",
+        "Moldovița Monastery",
+        "Sucevița Monastery"
+      ],
+      "note": "Buy hand-painted eggs at Ciprian Porumbescu's or local workshops.",
+      "route": [
+        "Voroneț Monastery",
+        "Humor Monastery",
+        "Moldovița Monastery",
+        "Sucevița Monastery"
+      ],
+      "photo_query": "Voroneț Monastery",
+      "photo_caption": "Voroneț Monastery",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 100 km",
+      "brief": [
+        "Moldovița and Sucevița: these are working convents.",
+        "Buy hand-painted eggs at Ciprian Porumbescu's or local workshops."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Bicaz Gorge to Miercurea Ciuc",
+      "summary": "Piatra Neamț, the Bicaz Gorge and Red Lake.",
+      "strip": [
+        "About 230 km, 4 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Piatra Neamț monastery"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bicaz Gorge and Red Lake",
+          "text": "A road squeezed between 300 m cliffs."
+        },
+        {
+          "label": "Evening",
+          "title": "Miercurea Ciuc",
+          "text": "A Hungarian-speaking region."
+        }
+      ],
+      "places": [
+        "Piatra Neamț",
+        "Bicaz Gorge",
+        "Lacu Roșu",
+        "Miercurea Ciuc"
+      ],
+      "note": "Signs here are in Romanian and Hungarian.",
+      "route": [
+        "Piatra Neamț",
+        "Bicaz Gorge",
+        "Lacu Roșu",
+        "Miercurea Ciuc"
+      ],
+      "photo_query": "Piatra Neamț",
+      "photo_caption": "Piatra Neamț",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 230 km, 4 hours 30 minutes of driving",
+      "brief": [
+        "Signs here are in Romanian and Hungarian."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Hărman, Brașov and Bran Castle",
+      "summary": "A fortified church, Brașov's old town and 'Dracula's Castle'.",
+      "strip": [
+        "About 150 km, 3 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hărman fortified church"
+        },
+        {
+          "label": "Midday",
+          "title": "Guided tour of Brașov",
+          "text": "The Black Church and the Council Square."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bran Castle",
+          "notes": [
+            [
+              "TIME",
+              "Arrive after 16:00 or early morning to avoid long queues."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Hărman",
+        "Black Church",
+        "Bran Castle"
+      ],
+      "note": "Return via the Poiana Brașov mountain resort.",
+      "route": [
+        "Hărman",
+        "Black Church",
+        "Bran Castle"
+      ],
+      "photo_query": "Hărman",
+      "photo_caption": "Hărman",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 150 km, 3 hours of driving",
+      "brief": [
+        "Bran Castle: arrive after 16:00 or early morning to avoid long queues.",
+        "Return via the Poiana Brașov mountain resort."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Râșnov and Peleș Castle",
+      "summary": "A peasant fortress and a royal palace.",
+      "strip": [
+        "About 120 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Râșnov fortress"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Peleș Castle, Sinaia",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays and sometimes Tuesdays; check before you go."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Bear watching from a hide",
+          "text": "A guided evening at a wildlife hide."
+        }
+      ],
+      "places": [
+        "Râșnov Fortress",
+        "Peleș Castle"
+      ],
+      "note": "The DN1 road to Sinaia is busy at weekends.",
+      "route": [
+        "Râșnov Fortress",
+        "Peleș Castle"
+      ],
+      "photo_query": "Râșnov Fortress",
+      "photo_caption": "Râșnov Fortress",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 120 km",
+      "brief": [
+        "Peleș Castle, Sinaia: closed on Mondays and sometimes Tuesdays; check before you go.",
+        "The DN1 road to Sinaia is busy at weekends."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Tulcea and by boat into the Danube Delta",
+      "summary": "Mud volcanoes, a Danube ferry and the boat to Crișan.",
+      "strip": [
+        "About 350 km, 5 to 6 hours of driving",
+        "Boat about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Leave Brașov",
+          "notes": [
+            [
+              "TIME",
+              "The public boat from Tulcea leaves at about 13:30. If you miss it, we book a private speedboat."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Berca Mud Volcanoes",
+        "Brăila",
+        "Tulcea",
+        "Crișan"
+      ],
+      "note": "Leave the car in a guarded car park in Tulcea.",
+      "route": [
+        "Berca Mud Volcanoes",
+        "Brăila",
+        "Tulcea",
+        "Crișan"
+      ],
+      "photo_query": "Berca Mud Volcanoes",
+      "photo_caption": "Berca Mud Volcanoes",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 350 km, 5 to 6 hours of driving",
+      "brief": [
+        "Leave Brașov: the public boat from Tulcea leaves at about 13:30.",
+        "Leave the car in a guarded car park in Tulcea."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Danube Delta",
+      "summary": "A boat trip through channels and lakes, or a rest day.",
+      "strip": [
+        "Boat trip about 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Boat excursion",
+          "text": "Pelicans, herons and water lilies in Europe's largest wetland."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rest in Crișan, or canoeing"
+        }
+      ],
+      "places": [
+        "Crișan",
+        "Danube Delta"
+      ],
+      "note": "Mosquitoes are fierce at dusk from June to August; bring repellent and long sleeves.",
+      "transport": "Boat",
+      "route": [
+        "Crișan",
+        "Danube Delta"
+      ],
+      "photo_query": "Crișan",
+      "photo_caption": "Crișan",
+      "travel_time": "Boat trip about 4 hours",
+      "brief": [
+        "Mosquitoes are fierce at dusk from June to August; bring repellent and long sleeves."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Boat to Tulcea and drive to Bucharest",
+      "summary": "Back to the capital.",
+      "strip": [
+        "Boat about 2 hours",
+        "About 300 km, 4 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Boat to Tulcea"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Bucharest"
+        }
+      ],
+      "places": [
+        "Tulcea",
+        "Bucharest"
+      ],
+      "note": "A long day; your last night is in the city centre.",
+      "route": [
+        "Tulcea",
+        "Bucharest"
+      ],
+      "photo_query": "Tulcea",
+      "photo_caption": "Tulcea",
+      "transport": "Self-drive rental car",
+      "travel_time": "Boat about 2 hours",
+      "brief": [
+        "A long day; your last night is in the city centre."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Return the car and fly home",
+      "summary": "Drive to the airport.",
+      "strip": [
+        "About 40 minutes"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Return the car at the airport",
+          "notes": [
+            [
+              "TIME",
+              "Allow 3 hours before the flight plus 30 minutes for the car return."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Henri Coandă International Airport"
+      ],
+      "note": "Ask for the deposit release receipt when returning the car.",
+      "photo_query": "Henri Coandă International Airport",
+      "photo_caption": "Henri Coandă International Airport",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 40 minutes",
+      "brief": [
+        "Return the car at the airport: allow 3 hours before the flight plus 30 minutes for the car return.",
+        "Ask for the deposit release receipt when returning the car."
+      ]
+    }
+  ],
+  "included": [
+    "15 nights with breakfast in small hotels and guesthouses",
+    "Rental car with unlimited mileage, comprehensive insurance and GPS",
+    "Guided city tours in Sibiu, Sighișoara and Brașov",
+    "Boat transfers Tulcea to Crișan and back",
+    "Two dinners in the Danube Delta",
+    "Danube Delta reserve fee",
+    "Local travel assistant by phone, and 24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Fuel, parking, vignette and bridge tolls",
+    "Entry fees",
+    "Lunches and most dinners",
+    "Travel insurance",
+    "Optional bear watching and private Delta boats"
+  ],
+  "good_to_know": [
+    {
+      "tag": "TIP",
+      "title": "Driving in Romania",
+      "text": "Indian licence holders need an International Driving Permit. Buy the road vignette (rovinieta) online before you drive. Village roads have horse carts, cattle and slow tractors; drive in daylight."
+    },
+    {
+      "tag": "CARE",
+      "title": "Bears",
+      "text": "Romania has Europe's largest brown bear population. Never feed or approach bears by the roadside, and keep car windows closed if one is near."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in lei (RON), never in INR. Cards work in towns; carry lei in cash for village guesthouses, fuel stations and monastery entries."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "best_time": "May to June and September to October. The Delta guesthouses and boats run from about April to October.",
+  "seasons": [
+    [
+      "May to June",
+      "Best",
+      "Green hills, wildflowers and birds in the Danube Delta."
+    ],
+    [
+      "July and August",
+      "Warm",
+      "25 to 30°C; busy at Bran and on the coast; mosquitoes in the Delta."
+    ],
+    [
+      "September to October",
+      "Best",
+      "Harvest time and autumn colour in the Carpathians."
+    ],
+    [
+      "November to April",
+      "Winter",
+      "Snow in the mountains; Delta boats and some rural guesthouses close."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "Late May, June or September.",
+  "faqs": [
+    {
+      "q": "Can we do it with a driver instead?",
+      "a": "Yes. A private driver-guide removes the long driving days and parking worries. We can quote both."
+    },
+    {
+      "q": "Do we need a separate visa for Romania?",
+      "a": "Romania is a full Schengen member, so a Schengen visa covers it."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Romania self drive tour",
+    "Transylvania tour from India",
+    "Bukovina painted monasteries",
+    "Danube Delta trip"
+  ],
+  "links": [
+    {
+      "title": "Romanian road vignette (official)",
+      "url": "https://www.roviniete.ro/en"
+    },
+    {
+      "title": "Danube Delta Biosphere Reserve",
+      "url": "https://ddbra.ro/en/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Strada Uruguay 7, Bucharest"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "Romanian",
+      "Suntem vegetarieni stricți. Fără carne, pește, fructe de mare sau ouă. Fără ceapă, usturoi, cartofi, morcovi sau alte rădăcinoase. Fără supă de carne sau de pește. Mulțumim."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "ro"
+}

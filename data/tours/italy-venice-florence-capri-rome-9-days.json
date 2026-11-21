@@ -1,0 +1,665 @@
+{
+  "slug": "italy-venice-florence-capri-rome-9-days",
+  "title": "Italy in 9 Days: Venice, Florence and Pisa, Naples and Capri, and Rome",
+  "meta_title": "Italy Tour 9 Days: Venice, Florence, Capri and Rome",
+  "meta_description": "9-day Italy tour by fast train: Venice and its islands, Florence and Pisa, Naples and the island of Capri with the Blue Grotto, then Rome and the Vatican.",
+  "destination": "Italy",
+  "country": "Italy",
+  "duration": "9 days / 8 nights",
+  "nights": 8,
+  "style": "Art · Coast · Classic cities",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903517466-257759863.webp",
+  "hero_alt": "Venice's Grand Canal",
+  "tagline": "Canals, the Renaissance, a blue island and the Eternal City",
+  "facts": [
+    [
+      "Stay",
+      "Venice 2, Florence 2, Naples 2, Rome 2"
+    ],
+    [
+      "Travel",
+      "Fast Frecciarossa and Italo trains"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "April to June, September and October"
+    ],
+    [
+      "Arrive / leave",
+      "Venice / Rome"
+    ]
+  ],
+  "intro": "The classic Italy circuit by high-speed train. Venice with a gondola ride and the islands of Murano and Burano, Florence with a day trip to Pisa, Naples with a day on the island of Capri, and Rome's ancient sights and the Vatican Museums. Every train ride is between 1 and 3 hours, and each city has two nights.",
+  "highlights": [
+    "A gondola ride on the canals of Venice",
+    "Murano glass-blowing, colourful Burano and Torcello's cathedral",
+    "Florence's Duomo and Renaissance streets",
+    "The Leaning Tower and the Square of Miracles in Pisa",
+    "Capri, Anacapri and the Blue Grotto",
+    "Rome's Forum, Colosseum and St Paul Outside the Walls",
+    "The Vatican Museums and the Sistine Chapel"
+  ],
+  "stays": [
+    {
+      "place": "Venice",
+      "nights": 2,
+      "hotel": "Hotel near St Mark's or the Grand Canal"
+    },
+    {
+      "place": "Florence",
+      "nights": 2,
+      "hotel": "Central hotel near the station"
+    },
+    {
+      "place": "Naples",
+      "nights": 2,
+      "hotel": "Seafront hotel"
+    },
+    {
+      "place": "Rome",
+      "nights": 2,
+      "hotel": "Central hotel"
+    }
+  ],
+  "route": [
+    "Venice",
+    "Murano",
+    "Burano",
+    "Florence",
+    "Pisa",
+    "Naples",
+    "Capri",
+    "Rome"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Venice and a gondola ride",
+      "summary": "Water taxi or bus to your hotel, a gondola ride and a free evening.",
+      "strip": [
+        "Airport to Venice about 30 to 60 minutes by water bus or taxi"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Into Venice",
+          "text": "By Alilaguna water bus or a private water taxi.",
+          "notes": [
+            [
+              "MONEY",
+              "Venice charges an access fee to day visitors on peak days. Hotel guests are exempt but must register online for a QR code; we do this for you."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gondola ride",
+          "text": "About 30 minutes through the small canals."
+        },
+        {
+          "label": "Evening",
+          "title": "St Mark's Square"
+        }
+      ],
+      "places": [
+        "Venice Marco Polo Airport",
+        "Grand Canal",
+        "Piazza San Marco"
+      ],
+      "note": "Pack light: Venice has bridges with steps everywhere and no cars.",
+      "route": [
+        "Venice Marco Polo Airport",
+        "Grand Canal",
+        "Piazza San Marco"
+      ],
+      "photo_query": "Venice Marco Polo Airport",
+      "photo_caption": "Venice Marco Polo Airport",
+      "transport": "Train and on foot",
+      "travel_time": "Airport to Venice about 30 to 60 minutes by water bus or taxi",
+      "brief": [
+        "Into Venice: venice charges an access fee to day visitors on peak days.",
+        "Pack light: Venice has bridges with steps everywhere and no cars."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Murano, Burano and Torcello",
+      "summary": "A boat tour of the lagoon islands.",
+      "strip": [
+        "About 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Murano glass-blowing"
+        },
+        {
+          "label": "Midday",
+          "title": "Burano",
+          "text": "Brightly painted fishermen's houses and lace."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Torcello cathedral",
+          "text": "Byzantine mosaics from the 11th century."
+        }
+      ],
+      "places": [
+        "Murano",
+        "Burano",
+        "Torcello"
+      ],
+      "note": "St Mark's Basilica needs covered shoulders and knees.",
+      "route": [
+        "Murano",
+        "Burano",
+        "Torcello"
+      ],
+      "photo_query": "Murano",
+      "photo_caption": "Murano",
+      "transport": "Train and on foot",
+      "travel_time": "About 4 hours",
+      "brief": [
+        "St Mark's Basilica needs covered shoulders and knees."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Florence",
+      "summary": "Fast train to Florence and a walk in the Renaissance city.",
+      "strip": [
+        "About 2 hours 15 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Frecciarossa to Florence"
+        },
+        {
+          "label": "Afternoon",
+          "title": "The Duomo, the Ponte Vecchio and Piazza della Signoria",
+          "notes": [
+            [
+              "TIME",
+              "Climbing the Duomo dome is by timed ticket only."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Venezia Santa Lucia",
+        "Firenze Santa Maria Novella",
+        "Duomo di Firenze",
+        "Ponte Vecchio"
+      ],
+      "note": "The Uffizi and Accademia (David) need timed tickets; we can add them.",
+      "route": [
+        "Venezia Santa Lucia",
+        "Firenze Santa Maria Novella",
+        "Duomo di Firenze",
+        "Ponte Vecchio"
+      ],
+      "photo_query": "Venezia Santa Lucia",
+      "photo_caption": "Venezia Santa Lucia",
+      "transport": "Train and on foot",
+      "travel_time": "About 2 hours 15 minutes by train",
+      "brief": [
+        "Climbing the Duomo dome is by timed ticket only.",
+        "The Uffizi and Accademia (David) need timed tickets; we can add them."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Pisa",
+      "summary": "The Leaning Tower, the Baptistery and the Cathedral.",
+      "strip": [
+        "About 1 hour by train each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Square of Miracles",
+          "text": "Guided walk with the Leaning Tower and Baptistery from outside, and inside the Cathedral.",
+          "notes": [
+            [
+              "TIME",
+              "Climbing the tower needs a timed ticket; children under 8 are not allowed up."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Piazza dei Cavalieri",
+          "text": "Home of the Scuola Normale university."
+        }
+      ],
+      "places": [
+        "Leaning Tower of Pisa",
+        "Pisa Cathedral",
+        "Piazza dei Cavalieri"
+      ],
+      "note": "Evening option: the sunset view from Piazzale Michelangelo in Florence.",
+      "route": [
+        "Leaning Tower of Pisa",
+        "Pisa Cathedral",
+        "Piazza dei Cavalieri"
+      ],
+      "photo_query": "Leaning Tower of Pisa",
+      "photo_caption": "Leaning Tower of Pisa",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour by train each way",
+      "brief": [
+        "Square of Miracles: climbing the tower needs a timed ticket; children under 8 are not allowed up.",
+        "Evening option: the sunset view from Piazzale Michelangelo in Florence."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Naples",
+      "summary": "Fast train south to the Bay of Naples.",
+      "strip": [
+        "About 3 hours by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Naples"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Seafront and the Castel dell'Ovo"
+        },
+        {
+          "label": "Evening",
+          "title": "Naples pizza",
+          "text": "Pizza was born here: a margherita is vegetarian."
+        }
+      ],
+      "places": [
+        "Napoli Centrale",
+        "Castel dell'Ovo",
+        "Lungomare Caracciolo"
+      ],
+      "note": "Naples is lively and chaotic. Keep phones and bags secure, and use licensed taxis only.",
+      "route": [
+        "Napoli Centrale",
+        "Castel dell'Ovo",
+        "Lungomare Caracciolo"
+      ],
+      "photo_query": "Napoli Centrale",
+      "photo_caption": "Napoli Centrale",
+      "transport": "Train and on foot",
+      "travel_time": "About 3 hours by train",
+      "brief": [
+        "Naples is lively and chaotic."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Capri and Anacapri",
+      "summary": "Fast boat to Capri, the Blue Grotto and Anacapri.",
+      "strip": [
+        "Fast boat about 50 minutes each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Fast boat to Marina Grande"
+        },
+        {
+          "label": "Late morning",
+          "title": "Blue Grotto",
+          "text": "Small rowing boats into the glowing cave.",
+          "notes": [
+            [
+              "TIME",
+              "The grotto closes when the sea is rough; this cannot be booked in advance."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Anacapri and Monte Solaro",
+          "text": "A chairlift to the island's highest point."
+        }
+      ],
+      "places": [
+        "Marina Grande Capri",
+        "Blue Grotto",
+        "Anacapri",
+        "Monte Solaro"
+      ],
+      "note": "Take seasickness tablets if you need them; the crossing can be choppy.",
+      "route": [
+        "Marina Grande Capri",
+        "Blue Grotto",
+        "Anacapri",
+        "Monte Solaro"
+      ],
+      "photo_query": "Marina Grande Capri",
+      "photo_caption": "Marina Grande Capri",
+      "transport": "Train and on foot",
+      "travel_time": "Fast boat about 50 minutes each way",
+      "brief": [
+        "Blue Grotto: the grotto closes when the sea is rough; this cannot be booked in advance.",
+        "Take seasickness tablets if you need them; the crossing can be choppy."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Rome and a city tour",
+      "summary": "Fast train to Rome and a guided tour of the ancient city.",
+      "strip": [
+        "About 1 hour 10 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Piazza Venezia and the Capitoline Hill",
+          "text": "Michelangelo's square and the view over the Forum."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Circus Maximus and St Paul Outside the Walls"
+        },
+        {
+          "label": "Evening",
+          "title": "The Colosseum from outside",
+          "notes": [
+            [
+              "TIME",
+              "Inside visits need a timed ticket."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Roma Termini",
+        "Piazza del Campidoglio",
+        "Basilica di San Paolo fuori le Mura",
+        "Colosseum"
+      ],
+      "note": "Throw a coin in the Trevi Fountain at night when it is quieter.",
+      "route": [
+        "Roma Termini",
+        "Piazza del Campidoglio",
+        "Basilica di San Paolo fuori le Mura",
+        "Colosseum"
+      ],
+      "photo_query": "Roma Termini",
+      "photo_caption": "Roma Termini",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour 10 minutes by train",
+      "brief": [
+        "The Colosseum from outside: inside visits need a timed ticket.",
+        "Throw a coin in the Trevi Fountain at night when it is quieter."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Vatican Museums and the Sistine Chapel",
+      "summary": "A guided tour of the Vatican.",
+      "strip": [
+        "About 3 hours inside"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Vatican Museums",
+          "text": "The spiral staircase, the Gallery of Maps and the Sistine Chapel.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Sundays except the last Sunday of the month."
+            ],
+            [
+              "WEAR",
+              "Shoulders and knees covered in the Sistine Chapel and St Peter's."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "St Peter's Basilica"
+        }
+      ],
+      "places": [
+        "Vatican Museums",
+        "Sistine Chapel",
+        "St. Peter's Basilica"
+      ],
+      "note": "No photos in the Sistine Chapel.",
+      "route": [
+        "Vatican Museums",
+        "Sistine Chapel",
+        "St. Peter's Basilica"
+      ],
+      "photo_query": "Vatican Museums",
+      "photo_caption": "Vatican Museums",
+      "transport": "Train and on foot",
+      "travel_time": "About 3 hours inside",
+      "brief": [
+        "Vatican Museums: closed on Sundays except the last Sunday of the month.",
+        "Vatican Museums: shoulders and knees covered in the Sistine Chapel and St Peter's."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Rome",
+      "summary": "Transfer to Fiumicino Airport.",
+      "strip": [
+        "About 32 minutes by Leonardo Express"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Train or car to Fiumicino",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Roma Termini",
+        "Rome Fiumicino Airport"
+      ],
+      "note": "Ask for a VAT refund form when shopping over the minimum amount.",
+      "route": [
+        "Roma Termini",
+        "Rome Fiumicino Airport"
+      ],
+      "photo_query": "Roma Termini",
+      "photo_caption": "Roma Termini",
+      "transport": "Train and on foot",
+      "travel_time": "About 32 minutes by Leonardo Express",
+      "brief": [
+        "Train or car to Fiumicino: be at the airport 3 hours before an international flight.",
+        "Ask for a VAT refund form when shopping over the minimum amount."
+      ]
+    }
+  ],
+  "included": [
+    "8 nights with breakfast",
+    "Fast train tickets",
+    "Gondola ride",
+    "Venice islands boat tour",
+    "Pisa guided tour",
+    "Capri day trip",
+    "Rome city tour and Vatican Museums tour",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Blue Grotto boats and other entries not listed",
+    "Lunches and dinners",
+    "Travel insurance",
+    "City taxes paid at hotels"
+  ],
+  "best_time": "April to June and September to October: warm, with all Capri boats running and fewer crowds than summer.",
+  "seasons": [
+    [
+      "April to June",
+      "Best",
+      "Warm (18 to 28°C), long days, and Capri boats running."
+    ],
+    [
+      "July and August",
+      "Hot",
+      "30°C and above in Rome and Florence, and the biggest crowds."
+    ],
+    [
+      "September to October",
+      "Best",
+      "Warm sea, softer light and the grape harvest."
+    ],
+    [
+      "November to March",
+      "Low",
+      "Cool and quiet; Capri boats run less often."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet"
+  ],
+  "best_pick": "May, June or September.",
+  "faqs": [
+    {
+      "q": "Can we add the Amalfi Coast?",
+      "a": "Yes. Add 2 nights in Sorrento or Positano instead of Naples."
+    },
+    {
+      "q": "Is Italy easy for vegetarians?",
+      "a": "Very. Pasta, pizza, risotto and vegetable dishes are everywhere; ask about anchovies in sauces and meat stock in risotto."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Italy tour package from India",
+    "Venice Florence Rome itinerary",
+    "Capri day trip from Naples",
+    "Italy 9 days"
+  ],
+  "links": [
+    {
+      "title": "Venice access fee (official)",
+      "url": "https://cda.ve.it/en/"
+    },
+    {
+      "title": "Vatican Museums (official)",
+      "url": "https://www.museivaticani.va/"
+    },
+    {
+      "title": "Trenitalia (official)",
+      "url": "https://www.trenitalia.com/en.html"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in euros, never in INR. Cards work almost everywhere. Carry about EUR 50 in cash for small cafés, toilets and markets."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Via XX Settembre 5, 00187 Rome"
+    ]
+  ],
+  "dining_intro": "Vegetarian food is easy to find in every city on this route; Jain meals take planning. We send your dietary brief to every hotel and tour, and list Indian and vegetarian restaurants near each hotel in your travel pack.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "Italian",
+      "Siamo vegetariani stretti. Niente carne, pesce, frutti di mare o uova. Niente cipolla, aglio, patate, carote o altre radici. Niente brodo di carne o di pesce. Grazie."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "it"
+}

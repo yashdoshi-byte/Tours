@@ -1,7 +1,7 @@
 {
  "days": {
   "1": {
-   "map": "map-day-1-30a6a0d3f1.webp",
+   "map": "map-day-1-c0a80aadb5.webp",
    "stops": [
     "Ngurah Rai International Airport",
     "The Crystal Luxury Bay Resort Nusa Dua"
@@ -21,35 +21,22 @@
    }
   },
   "2": {
-   "map": "map-day-2-be7945b47a.webp",
-   "stops": [
-    "The Crystal Luxury Bay Resort Nusa Dua",
-    "Pura Lempuyang Luhur",
-    "Tirta Gangga",
-    "Goa Raja Waterfall",
-    "Tegalalang Rice Terrace",
-    "The Crystal Luxury Bay Resort Nusa Dua"
-   ],
-   "km": [
-    98.5,
-    82.1,
-    43.2,
-    24.4,
-    52.1
+   "unverified": [
+    "Tegalalang Rice Terrace"
    ],
    "photo": {
-    "file": "File:Bali Pura Lempuyang Luhur.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bali_Pura_Lempuyang_Luhur.jpg/1920px-Bali_Pura_Lempuyang_Luhur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Bali_Pura_Lempuyang_Luhur.jpg",
     "author": "Flickr user: yeowatzup https://www.flickr.com/photos/yeowatzup/",
+    "file": "File:Bali Pura Lempuyang Luhur.jpg",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bali_Pura_Lempuyang_Luhur.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bali_Pura_Lempuyang_Luhur.jpg/1920px-Bali_Pura_Lempuyang_Luhur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-2-3b8d3616cd.webp"
    }
   },
   "3": {
-   "map": "map-day-3-5a7bbeebd5.webp",
+   "map": "map-day-3-cf0fe0d7fb.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Tanah Lot",
@@ -71,7 +58,7 @@
    }
   },
   "4": {
-   "map": "map-day-4-0e242b3b7b.webp",
+   "map": "map-day-4-f886f45fc3.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Tanjung Benoa",
@@ -82,30 +69,19 @@
     5.8
    ],
    "photo": {
-    "file": "File:Underwater Parasol (220482423).jpeg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Underwater_Parasol_%28220482423%29.jpeg/1920px-Underwater_Parasol_%28220482423%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Underwater_Parasol_(220482423).jpeg",
     "author": "Tilonaut",
+    "file": "File:Underwater Parasol (220482423).jpeg",
     "licence": "CC BY 3.0",
     "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Underwater_Parasol_(220482423).jpeg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Underwater_Parasol_%28220482423%29.jpeg/1920px-Underwater_Parasol_%28220482423%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-4-79282445bc.webp"
    }
   },
   "5": {
-   "map": "map-day-5-8ac81836e4.webp",
-   "stops": [
-    "The Crystal Luxury Bay Resort Nusa Dua",
-    "Sacred Monkey Forest Sanctuary",
-    "Ubud Art Market",
-    "Ubud Palace",
-    "The Crystal Luxury Bay Resort Nusa Dua"
-   ],
-   "km": [
-    39.0,
-    5.0,
-    0.1,
-    42.6
+   "unverified": [
+    "Ubud Palace"
    ],
    "photo": {
     "author": "Jakub Hałun",
@@ -119,7 +95,7 @@
    }
   },
   "6": {
-   "map": "map-day-6-7ff312f3e3.webp",
+   "map": "map-day-6-02441405ce.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Uluwatu Temple",
@@ -143,7 +119,7 @@
    }
   },
   "7": {
-   "map": "map-day-7-d269cfaa5d.webp",
+   "map": "map-day-7-ccd1320ac3.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Ngurah Rai International Airport"
@@ -154,7 +130,7 @@
   }
  },
  "photos": {},
- "pins_to_check": 0,
+ "pins_to_check": 2,
  "coords": {
   "Ngurah Rai International Airport": [
    -8.74652,
@@ -169,12 +145,8 @@
    115.64806
   ],
   "Tirta Gangga": [
-   -8.6763,
-   115.22761
-  ],
-  "Tegalalang Rice Terrace": [
-   -8.42855,
-   115.27988
+   -8.41132,
+   115.58805
   ],
   "Tanah Lot": [
    -8.62123,
@@ -212,23 +184,18 @@
    -8.50654,
    115.26165
   ],
-  "Ubud Palace": [
-   -8.50695,
-   115.26274
-  ],
   "Jimbaran Beach": [
    -8.78089,
    115.16392
   ]
  },
  "overview": {
-  "map": "map-overview-bb991fe334.webp",
+  "map": "map-overview-a5eca61a3a.webp",
   "stops": [
    "Ngurah Rai International Airport",
    "Nusa Dua",
    "Pura Lempuyang Luhur",
    "Tirta Gangga",
-   "Tegalalang Rice Terrace",
    "Tanah Lot",
    "Ubud",
    "Uluwatu Temple"

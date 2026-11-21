@@ -1,0 +1,315 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-a315e42335.webp",
+   "stops": [
+    "Victoria Memorial",
+    "Mother House Kolkata",
+    "Kalighat Kali Temple"
+   ],
+   "km": [
+    4.0,
+    5.3
+   ],
+   "photo": {
+    "file": "File:Victoria Memorial Kolkata at night.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Victoria_Memorial_Kolkata_at_night.jpg/1920px-Victoria_Memorial_Kolkata_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata_at_night.jpg",
+    "author": "DeepanjanGhosh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-0cb445a52c.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-294eaf2b7f.webp",
+   "stops": [
+    "Jorasanko Thakur Bari",
+    "Marble Palace Kolkata"
+   ],
+   "km": [
+    1.3
+   ],
+   "photo": {
+    "file": "File:Jain Temple Garden Kolkata.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Jain_Temple_Garden_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Jain_Temple_Garden_Kolkata.jpg",
+    "author": "Sudzie",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-4fb5fd3cb9.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-0ce4257da0.webp",
+   "stops": [
+    "ISKCON Mayapur",
+    "Yogapith Mayapur"
+   ],
+   "km": [
+    2.4
+   ],
+   "photo": {
+    "file": "File:Conch Building, Iskcon, Mayapur 07102013.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Conch_Building%2C_Iskcon%2C_Mayapur_07102013.jpg/1920px-Conch_Building%2C_Iskcon%2C_Mayapur_07102013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Conch_Building,_Iskcon,_Mayapur_07102013.jpg",
+    "author": "Joydeep",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-3a352b5e91.webp"
+   }
+  },
+  "4": {
+   "photo": {
+    "file": "File:Godkhali ferry ghat at Godkhali 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Godkhali_ferry_ghat_at_Godkhali_01.jpg/1920px-Godkhali_ferry_ghat_at_Godkhali_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Godkhali_ferry_ghat_at_Godkhali_01.jpg",
+    "author": "Pinakpani",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-65667b7a9f.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-ff8d406db9.webp",
+   "stops": [
+    "Dobanki Watch Tower",
+    "Sudhanyakhali Watch Tower"
+   ],
+   "km": [
+    52.4
+   ],
+   "photo": {
+    "file": "File:Anti catwalk - continuation (23098339634).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Anti_catwalk_-_continuation_%2823098339634%29.jpg/1920px-Anti_catwalk_-_continuation_%2823098339634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Anti_catwalk_-_continuation_(23098339634).jpg",
+    "author": "juggadery",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-ed97cf79a6.webp"
+   }
+  },
+  "6": {
+   "photo": {
+    "file": "File:Mandarmani Sea beach 04.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mandarmani_Sea_beach_04.jpg/1920px-Mandarmani_Sea_beach_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mandarmani_Sea_beach_04.jpg",
+    "author": "Tarunsamanta",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-ded599b881.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-ead20061d5.webp",
+   "stops": [
+    "Mandarmani Beach",
+    "New Market Kolkata"
+   ],
+   "km": [
+    174.5
+   ],
+   "photo": {
+    "file": "File:Mandarmani Sea beach 04.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mandarmani_Sea_beach_04.jpg/1920px-Mandarmani_Sea_beach_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mandarmani_Sea_beach_04.jpg",
+    "author": "Tarunsamanta",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-ded599b881.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-863a4c7cc5.webp",
+   "stops": [
+    "Visva-Bharati University",
+    "Rabindra Bhavana Museum",
+    "Sonajhuri Haat"
+   ],
+   "km": [
+    1.7,
+    2.5
+   ],
+   "photo": {
+    "file": "File:Cheena Bhavana - Visva-Bharati University.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cheena_Bhavana_-_Visva-Bharati_University.jpg/1920px-Cheena_Bhavana_-_Visva-Bharati_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheena_Bhavana_-_Visva-Bharati_University.jpg",
+    "author": "Bodhisattwa",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-d244adfeb1.webp"
+   }
+  },
+  "9": {
+   "photo": {
+    "file": "File:Park Street - Chowringhee Crossing - Kolkata 2015-02-18 2861.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG/1920px-Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG",
+    "author": "Biswarup Ganguly",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-e7fd67b482.webp"
+   }
+  },
+  "10": {
+   "map": "map-day-10-38e2c6ea79.webp",
+   "stops": [
+    "Belur Math",
+    "Dakshineswar Kali Temple",
+    "Howrah Bridge"
+   ],
+   "km": [
+    4.9,
+    12.0
+   ],
+   "photo": {
+    "file": "File:Belur Math Howrah.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Belur_Math_Howrah.jpg/1920px-Belur_Math_Howrah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Belur_Math_Howrah.jpg",
+    "author": "Kinjal bose 78",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-0a7291a84f.webp"
+   }
+  },
+  "11": {
+   "photo": {
+    "file": "File:Baggage Claim at Netaji Subhas Chandra Bose International Airport, Kolkata, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Baggage_Claim_at_Netaji_Subhas_Chandra_Bose_International_Airport%2C_Kolkata%2C_India.jpg/1920px-Baggage_Claim_at_Netaji_Subhas_Chandra_Bose_International_Airport%2C_Kolkata%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Baggage_Claim_at_Netaji_Subhas_Chandra_Bose_International_Airport,_Kolkata,_India.jpg",
+    "author": "Ravi Dwivedi",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-17ad093bb9.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 6,
+ "coords": {
+  "Kolkata": [
+   22.57265,
+   88.3639
+  ],
+  "Mayapur": [
+   23.42342,
+   88.39081
+  ],
+  "Godkhali": [
+   22.16471,
+   88.76717
+  ],
+  "Sajnekhali": [
+   22.12417,
+   88.83032
+  ],
+  "Mandarmani": [
+   21.66476,
+   87.70534
+  ],
+  "Shantiniketan": [
+   23.68271,
+   87.68803
+  ],
+  "Belur Math": [
+   22.6313,
+   88.35058
+  ],
+  "Dakshineswar": [
+   22.65575,
+   88.36064
+  ],
+  "Victoria Memorial": [
+   22.54496,
+   88.34255
+  ],
+  "Mother House Kolkata": [
+   22.55309,
+   88.36363
+  ],
+  "Kalighat Kali Temple": [
+   22.52021,
+   88.34206
+  ],
+  "Jorasanko Thakur Bari": [
+   22.585,
+   88.35905
+  ],
+  "Marble Palace Kolkata": [
+   22.58213,
+   88.36021
+  ],
+  "ISKCON Mayapur": [
+   23.42342,
+   88.39081
+  ],
+  "Yogapith Mayapur": [
+   23.43828,
+   88.39298
+  ],
+  "Dobanki Watch Tower": [
+   21.98891,
+   88.75583
+  ],
+  "Sudhanyakhali Watch Tower": [
+   22.10127,
+   88.80132
+  ],
+  "Mandarmani Beach": [
+   21.65287,
+   87.67307
+  ],
+  "New Market Kolkata": [
+   22.56015,
+   88.35296
+  ],
+  "Visva-Bharati University": [
+   23.67638,
+   87.67552
+  ],
+  "Rabindra Bhavana Museum": [
+   23.683,
+   87.68428
+  ],
+  "Sonajhuri Haat": [
+   23.69129,
+   87.67107
+  ],
+  "Park Street Kolkata": [
+   22.55516,
+   88.35012
+  ],
+  "Dakshineswar Kali Temple": [
+   22.65483,
+   88.35758
+  ],
+  "Howrah Bridge": [
+   22.58509,
+   88.34682
+  ]
+ },
+ "overview": {
+  "map": "map-overview-770e261b67.webp",
+  "stops": [
+   "Kolkata",
+   "Mayapur",
+   "Godkhali",
+   "Sajnekhali",
+   "Mandarmani",
+   "Shantiniketan",
+   "Belur Math",
+   "Dakshineswar"
+  ]
+ }
+}

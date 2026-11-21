@@ -1,0 +1,164 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-44fd81a56d.webp",
+   "stops": [
+    "Dehradun Railway Station",
+    "Mussoorie",
+    "Purola",
+    "Sankri"
+   ],
+   "km": [
+    31.0,
+    398.8,
+    541.7
+   ],
+   "photo": {
+    "file": "File:Dehradun Stationboard.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dehradun_Stationboard.JPG/1920px-Dehradun_Stationboard.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dehradun_Stationboard.JPG",
+    "author": "Superfast1111",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-ebfe28a1af.webp"
+   }
+  },
+  "2": {
+   "photo": {
+    "file": "File:Taluka Prantij Official Map by Gov.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Taluka_Prantij_Official_Map_by_Gov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Taluka_Prantij_Official_Map_by_Gov.jpg",
+    "author": "REVENUE DEPARTMENT, GUJARAT",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-f384d89dd1.webp"
+   }
+  },
+  "3": {
+   "photo": {
+    "file": "File:Osła, Cmentarz - fotopolska.eu (172633).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Os%C5%82a%2C_Cmentarz_-_fotopolska.eu_%28172633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Os%C5%82a,_Cmentarz_-_fotopolska.eu_(172633).jpg",
+    "author": "vorwerk",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-34dd2cee19.webp"
+   }
+  },
+  "4": {
+   "photo": {
+    "file": "File:Shipwreck of the SS American Star on the shore of Fuerteventura.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg/1920px-Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg",
+    "author": "Wollex",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-cb43629c92.webp"
+   }
+  },
+  "5": {
+   "photo": {
+    "file": "File:Osła, Cmentarz - fotopolska.eu (172633).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Os%C5%82a%2C_Cmentarz_-_fotopolska.eu_%28172633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Os%C5%82a,_Cmentarz_-_fotopolska.eu_(172633).jpg",
+    "author": "vorwerk",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-34dd2cee19.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-ed61f8bff6.webp",
+   "stops": [
+    "Taluka",
+    "Sankri"
+   ],
+   "km": [
+    753.1
+   ],
+   "photo": {
+    "file": "File:Taluka Prantij Official Map by Gov.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Taluka_Prantij_Official_Map_by_Gov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Taluka_Prantij_Official_Map_by_Gov.jpg",
+    "author": "REVENUE DEPARTMENT, GUJARAT",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-f384d89dd1.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-26bf13841e.webp",
+   "stops": [
+    "Sankri",
+    "Dehradun Railway Station"
+   ],
+   "km": [
+    546.1
+   ],
+   "photo": {
+    "file": "File:On the way to Sankri 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/On_the_way_to_Sankri_01.jpg/1920px-On_the_way_to_Sankri_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:On_the_way_to_Sankri_01.jpg",
+    "author": "Pathaharapathik",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-f3de5ed46f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 4,
+ "coords": {
+  "Dehradun": [
+   30.32556,
+   78.04368
+  ],
+  "Mussoorie": [
+   30.4569,
+   78.07829
+  ],
+  "Purola": [
+   29.71253,
+   80.15213
+  ],
+  "Sankri": [
+   26.63426,
+   78.97782
+  ],
+  "Taluka": [
+   31.07782,
+   78.24579
+  ],
+  "Osla": [
+   31.1189,
+   78.34277
+  ],
+  "Har Ki Dun": [
+   31.14813,
+   78.43242
+  ],
+  "Dehradun Railway Station": [
+   30.3125,
+   78.03354
+  ]
+ },
+ "overview": {
+  "map": "map-overview-c194057ff4.webp",
+  "stops": [
+   "Dehradun",
+   "Mussoorie",
+   "Purola",
+   "Sankri",
+   "Taluka",
+   "Osla",
+   "Har Ki Dun"
+  ]
+ }
+}

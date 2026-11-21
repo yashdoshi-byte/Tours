@@ -1,0 +1,210 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-e5e26cc75b.webp",
+   "stops": [
+    "Mattancherry Palace",
+    "Paradesi Synagogue",
+    "St. Francis Church Kochi",
+    "Chinese Fishing Nets Fort Kochi"
+   ],
+   "km": [
+    0.1,
+    2.5,
+    0.3
+   ],
+   "photo": {
+    "file": "File:Mattancherry Palace - Throne Room.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Mattancherry_Palace_-_Throne_Room.jpg/1920px-Mattancherry_Palace_-_Throne_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_-_Throne_Room.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-5e41b677ae.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-164d9b70ad.webp",
+   "stops": [
+    "Cheeyappara Waterfalls",
+    "Valara Waterfalls",
+    "Munnar"
+   ],
+   "km": [
+    1.7,
+    42.7
+   ],
+   "photo": {
+    "file": "File:Cheeyappara Waterfalls IMG 20260626 183055097.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cheeyappara_Waterfalls_IMG_20260626_183055097.jpg/1920px-Cheeyappara_Waterfalls_IMG_20260626_183055097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheeyappara_Waterfalls_IMG_20260626_183055097.jpg",
+    "author": "Ranjithsiji",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-db80daf0d8.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-29f4d3598b.webp",
+   "stops": [
+    "Eravikulam National Park",
+    "Tata Tea Museum",
+    "Mattupetty Dam",
+    "Echo Point Munnar"
+   ],
+   "km": [
+    21.1,
+    11.7,
+    5.9
+   ],
+   "photo": {
+    "file": "File:Eravikulam National Park-WUS07189.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Eravikulam_National_Park-WUS07189.jpg/1920px-Eravikulam_National_Park-WUS07189.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Eravikulam_National_Park-WUS07189.jpg",
+    "author": "Rainer Halama",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-38f621fd40.webp"
+   }
+  },
+  "4": {},
+  "5": {},
+  "6": {
+   "photo": {
+    "file": "File:Vembanad Lake at Kumarakom.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vembanad_Lake_at_Kumarakom.jpg/1920px-Vembanad_Lake_at_Kumarakom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Vembanad_Lake_at_Kumarakom.jpg",
+    "author": "Rison Thumboor",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-6a7651aae8.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-6330e9e9c5.webp",
+   "stops": [
+    "Kumarakom Bird Sanctuary",
+    "Vembanad Lake"
+   ],
+   "km": [
+    20.6
+   ],
+   "photo": {
+    "file": "File:Kumarakom Bird Sanctuary 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kumarakom_Bird_Sanctuary_01.jpg/1920px-Kumarakom_Bird_Sanctuary_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kumarakom_Bird_Sanctuary_01.jpg",
+    "author": "Ganesh Mohan T",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-f2c74b9a82.webp"
+   }
+  },
+  "8": {
+   "photo": {
+    "file": "File:Cochin International Airport Gate.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cochin_International_Airport_Gate.jpg/1920px-Cochin_International_Airport_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cochin_International_Airport_Gate.jpg",
+    "author": "Ranjithsiji",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-464e9e42f4.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 5,
+ "coords": {
+  "Kochi": [
+   9.9679,
+   76.24444
+  ],
+  "Munnar": [
+   10.087,
+   77.06009
+  ],
+  "Thekkady": [
+   9.5805,
+   77.18114
+  ],
+  "Kumarakom": [
+   9.59605,
+   76.43054
+  ],
+  "Kochi Airport": [
+   10.15449,
+   76.39249
+  ],
+  "Mattancherry Palace": [
+   9.95835,
+   76.25918
+  ],
+  "Paradesi Synagogue": [
+   9.95748,
+   76.2593
+  ],
+  "St. Francis Church Kochi": [
+   9.96595,
+   76.24107
+  ],
+  "Chinese Fishing Nets Fort Kochi": [
+   9.96819,
+   76.24217
+  ],
+  "Cheeyappara Waterfalls": [
+   10.05412,
+   76.82987
+  ],
+  "Valara Waterfalls": [
+   10.04657,
+   76.83954
+  ],
+  "Eravikulam National Park": [
+   10.22751,
+   77.07432
+  ],
+  "Tata Tea Museum": [
+   10.08829,
+   77.05611
+  ],
+  "Mattupetty Dam": [
+   10.1063,
+   77.12391
+  ],
+  "Echo Point Munnar": [
+   10.12075,
+   77.15174
+  ],
+  "Kumily": [
+   9.6068,
+   77.1671
+  ],
+  "Kumarakom Bird Sanctuary": [
+   9.62736,
+   76.42859
+  ],
+  "Vembanad Lake": [
+   9.59492,
+   76.39421
+  ],
+  "Cochin International Airport": [
+   10.15449,
+   76.39249
+  ]
+ },
+ "overview": {
+  "map": "map-overview-8c25b81466.webp",
+  "stops": [
+   "Kochi",
+   "Munnar",
+   "Thekkady",
+   "Kumarakom",
+   "Kochi Airport"
+  ]
+ }
+}

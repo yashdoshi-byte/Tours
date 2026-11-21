@@ -1,0 +1,551 @@
+{
+  "slug": "har-ki-dun-trek-7-days",
+  "title": "Har Ki Dun Trek: 7 Days in the Valley of the Gods, Uttarakhand",
+  "meta_title": "Har Ki Dun Trek 7 Days from Dehradun | Blue Diamond Voyage",
+  "meta_description": "7-day Har Ki Dun trek from Dehradun via Sankri, Taluka and Osla village: Swargarohini views, Marinda Tal, camps, guide, cook and all veg meals.",
+  "destination": "Uttarakhand, India",
+  "country": "India",
+  "duration": "7 days / 6 nights",
+  "nights": 6,
+  "style": "Trek · Himalaya · Village culture",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Himalayan valley in Uttarakhand",
+  "tagline": "Wooden villages, birch forests and the peaks the Pandavas climbed to heaven",
+  "facts": [
+    [
+      "Difficulty",
+      "Easy to moderate"
+    ],
+    [
+      "Highest camp",
+      "About 3,300 m"
+    ],
+    [
+      "Walking",
+      "About 57 km over 5 days"
+    ],
+    [
+      "Best months",
+      "April to June, September to November"
+    ],
+    [
+      "Start and end",
+      "Dehradun railway station"
+    ]
+  ],
+  "intro": "Har Ki Dun is one of the gentlest high-Himalayan treks in India and one of the most beautiful. From the road head at Sankri you walk up the Supin River through walnut, pine and cedar, past the old wooden village of Osla, to a broad meadow facing Swargarohini, the 'stairway to heaven' of the Mahabharata. A professional trek leader, cook and support team look after the camps, and all meals are vegetarian. It suits fit first-time trekkers aged about 12 and up.",
+  "highlights": [
+    "Views of Swargarohini, Black Peak (Kalanag) and Bandarpoonch",
+    "Osla village, with its carved wooden houses and the Someshwar temple",
+    "Meadows, pine, cedar and Himalayan birch forest along the Supin River",
+    "The Har Ki Dun valley, linked in legend to the Pandavas' last journey",
+    "Marinda Tal, a quiet lake below the peaks",
+    "Two nights in Sankri, a village with views of the Swargarohini range"
+  ],
+  "stays": [
+    {
+      "place": "Sankri",
+      "nights": 1,
+      "hotel": "Guesthouse or camp"
+    },
+    {
+      "place": "Puani Garat",
+      "nights": 1,
+      "hotel": "Tented camp"
+    },
+    {
+      "place": "Kalkatiyadhar",
+      "nights": 2,
+      "hotel": "Tented camp"
+    },
+    {
+      "place": "Puani Garat",
+      "nights": 1,
+      "hotel": "Tented camp"
+    },
+    {
+      "place": "Sankri",
+      "nights": 1,
+      "hotel": "Guesthouse or camp"
+    }
+  ],
+  "route": [
+    "Dehradun",
+    "Mussoorie",
+    "Purola",
+    "Sankri",
+    "Taluka",
+    "Osla",
+    "Har Ki Dun"
+  ],
+  "links": [
+    {
+      "title": "Uttarakhand Tourism (official)",
+      "url": "https://uttarakhandtourism.gov.in/"
+    },
+    {
+      "title": "Driving route Dehradun to Sankri on Google Maps",
+      "url": "https://www.google.com/maps/dir/Dehradun+Railway+Station/Sankri,+Uttarakhand"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Transfer day",
+      "title": "Dehradun to Sankri along the Yamuna",
+      "summary": "Drive from Dehradun to Sankri via Mussoorie, Naugaon and Purola.",
+      "strip": [
+        "About 190 km, 8 to 9 hours",
+        "Sankri about 1,950 m",
+        "Pick-up 07:30"
+      ],
+      "rows": [
+        {
+          "label": "07:30 · Prince Chowk, near Dehradun railway station",
+          "title": "Meet your trek team",
+          "flag": "be on time",
+          "text": "Shared or private jeep with your trek leader."
+        },
+        {
+          "label": "Morning",
+          "title": "Up through Mussoorie and down to the Yamuna",
+          "text": "Tea stop at Kempty or Damta, then along the river through Naugaon."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Purola and the pine forests to Sankri",
+          "text": "The last stretch climbs through deodar and pine.",
+          "notes": [
+            [
+              "CARE",
+              "Hill roads in Uttarakhand can close for hours after rain or landslides. Leave a buffer day before any onward train or flight."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sankri village",
+          "text": "Briefing from your trek leader and a kit check.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "Vegetarian, at the guesthouse"
+          ]
+        }
+      ],
+      "places": [
+        "Dehradun Railway Station",
+        "Mussoorie",
+        "Purola",
+        "Sankri"
+      ],
+      "note": "Pack the trek bag tonight. Mules carry the camp, not personal bags, unless you add a porter or mule for your bag.",
+      "route": [
+        "Dehradun Railway Station",
+        "Mussoorie",
+        "Purola",
+        "Sankri"
+      ],
+      "photo_query": "Dehradun Railway Station"
+    },
+    {
+      "pill": "Trek day",
+      "title": "Taluka and the walk along the Supin River",
+      "summary": "Jeep to Taluka, then trek to Puani Garat camp.",
+      "strip": [
+        "Jeep 12 km, about 1 hour",
+        "Trek about 10 km, 5 to 6 hours",
+        "Camp about 2,500 m"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Jeep to Taluka",
+          "text": "A rough forest road, about an hour."
+        },
+        {
+          "label": "Morning",
+          "title": "Trek along the Supin River",
+          "text": "A gently rising trail under walnut, pine and cedar, with stream crossings and Gangad village across the river.",
+          "notes": [
+            [
+              "WEAR",
+              "Proper trekking shoes with ankle support, not sports shoes. Carry a rain jacket every day."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Puani Garat campsite",
+          "text": "A quiet camp beside the river.",
+          "meal": [
+            "Lunch and dinner",
+            "Included",
+            "Packed lunch on the trail, hot dinner at camp"
+          ]
+        }
+      ],
+      "places": [
+        "Taluka",
+        "Puani Garat"
+      ],
+      "note": "Drink three litres of water today and keep the pace slow and steady.",
+      "route": [
+        "Taluka",
+        "Puani Garat"
+      ],
+      "photo_query": "Taluka"
+    },
+    {
+      "pill": "Trek day",
+      "title": "Osla village and the climb to Kalkatiyadhar",
+      "summary": "Trek through Osla village and its fields to the Kalkatiyadhar camp.",
+      "strip": [
+        "Trek about 10 km, 5 to 6 hours",
+        "Camp about 3,300 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Climb to Osla",
+          "text": "Terraced fields of red amaranth and barley below an old wooden village.",
+          "notes": [
+            [
+              "WEAR",
+              "Osla's Someshwar temple and homes are private and sacred. Ask before photographing people, and do not enter the temple without permission."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kalkatiyadhar meadow camp",
+          "text": "Rest and acclimatise.",
+          "meal": [
+            "All meals",
+            "Included",
+            "Vegetarian"
+          ]
+        }
+      ],
+      "places": [
+        "Osla",
+        "Kalkatiyadhar"
+      ],
+      "note": "Tell your trek leader at once about a headache, nausea or breathlessness. The camp carries an oximeter and oxygen.",
+      "route": [
+        "Osla",
+        "Kalkatiyadhar"
+      ],
+      "photo_query": "Osla"
+    },
+    {
+      "pill": "Summit day",
+      "title": "Har Ki Dun valley and Marinda Tal",
+      "summary": "Long day trek to Har Ki Dun and Marinda Tal and back to Kalkatiyadhar.",
+      "strip": [
+        "Trek about 17 km, 7 to 8 hours",
+        "Har Ki Dun about 3,560 m",
+        "Start about 07:00"
+      ],
+      "rows": [
+        {
+          "label": "About 07:00",
+          "title": "Through meadows and birch forest",
+          "text": "The valley opens out with Har Ki Dun peak ahead."
+        },
+        {
+          "label": "Late morning",
+          "title": "Har Ki Dun meadow",
+          "text": "The confluence of streams below Swargarohini and Black Peak. Time for photographs and a packed lunch."
+        },
+        {
+          "label": "Midday",
+          "title": "Marinda Tal",
+          "text": "A small lake further up the valley, when conditions allow."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Return to Kalkatiyadhar",
+          "text": "The same trail back.",
+          "meal": [
+            "All meals",
+            "Included",
+            "Vegetarian"
+          ]
+        }
+      ],
+      "places": [
+        "Har Ki Dun",
+        "Marinda Tal"
+      ],
+      "note": "This is the longest day. Your trek leader decides the turn-around time by the weather; respect it.",
+      "route": [
+        "Har Ki Dun",
+        "Marinda Tal"
+      ],
+      "photo_query": "Har Ki Dun"
+    },
+    {
+      "pill": "Trek day",
+      "title": "Down through Osla to Puani Garat",
+      "summary": "Descend through Osla to Puani Garat.",
+      "strip": [
+        "Trek about 10 km, 4 hours",
+        "Camp about 2,500 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Descent via Osla",
+          "text": "Easier walking with valley views."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Free at camp",
+          "text": "A slow afternoon by the river.",
+          "meal": [
+            "All meals",
+            "Included",
+            "Vegetarian"
+          ]
+        }
+      ],
+      "places": [
+        "Osla",
+        "Puani Garat"
+      ],
+      "note": "Use trekking poles on the way down: they save your knees.",
+      "route": [
+        "Osla",
+        "Puani Garat"
+      ],
+      "photo_query": "Osla"
+    },
+    {
+      "pill": "Trek day",
+      "title": "Back to Taluka and Sankri",
+      "summary": "Walk down the Supin River to Taluka and drive to Sankri.",
+      "strip": [
+        "Trek about 10 km, 4 to 5 hours",
+        "Jeep about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Last walk along the river",
+          "text": "An easy descent to the road head at Taluka."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Jeep to Sankri",
+          "text": "Hot showers at the guesthouse.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "Vegetarian, at the guesthouse"
+          ]
+        }
+      ],
+      "places": [
+        "Taluka",
+        "Sankri"
+      ],
+      "note": "A small thank-you for the cook and support team is customary. Your trek leader can collect it.",
+      "route": [
+        "Taluka",
+        "Sankri"
+      ],
+      "photo_query": "Taluka"
+    },
+    {
+      "pill": "Departure",
+      "title": "Sankri back to Dehradun",
+      "summary": "Drive back to Dehradun.",
+      "strip": [
+        "About 190 km, 8 to 9 hours",
+        "Arrive about 17:00 to 18:00"
+      ],
+      "rows": [
+        {
+          "label": "After breakfast",
+          "title": "Drive to Dehradun",
+          "text": "The same road back via Purola and Mussoorie.",
+          "notes": [
+            [
+              "TIME",
+              "Book onward trains or flights for after 20:00, or the next day."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Sankri",
+        "Dehradun Railway Station"
+      ],
+      "note": "A night in Dehradun or Mussoorie after the trek can be added.",
+      "route": [
+        "Sankri",
+        "Dehradun Railway Station"
+      ],
+      "photo_query": "Sankri"
+    }
+  ],
+  "hotel": {
+    "name": "Guesthouse in Sankri and tented camps on the trek",
+    "room": "Triple sharing in tents and rooms; single tents on request",
+    "meals": "All vegetarian meals from Day 1 dinner to Day 7 breakfast",
+    "area": "Sankri, Puani Garat and Kalkatiyadhar",
+    "about": "Good-quality dome or A-frame tents, clean sleeping bags and foam mattresses, with kitchen, dining and toilet tents. A trek leader, cook and support staff travel with you, and mules carry the camp."
+  },
+  "included": [
+    "Dehradun to Dehradun road transfers, including the Sankri to Taluka jeep both ways",
+    "2 nights in Sankri and 4 nights in tented camps",
+    "All vegetarian meals on the trek",
+    "Professional trek leader, cook and support staff",
+    "Mules for camping equipment",
+    "First-aid kit with oximeter and oxygen",
+    "Forest entry fees for Indian nationals",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Porter or mule for personal bags (available on request)",
+    "Forest fees for foreign nationals",
+    "Travel and trek insurance",
+    "Tips, laundry, phone calls and personal medicines",
+    "Costs from bad weather, landslides, road blocks or evacuation"
+  ],
+  "best_time": "April to June for rhododendrons and long days; September to November for the clearest views after the monsoon. Avoid July and August (landslides). In December to March the upper trail is under snow and only experienced winter trekkers should go.",
+  "seasons": [
+    [
+      "April to June",
+      "Best",
+      "Days about 15° to 20°, nights near freezing at Kalkatiyadhar. Rhododendrons in April."
+    ],
+    [
+      "September to November",
+      "Best",
+      "Crisp and clear, nights below freezing from late October."
+    ],
+    [
+      "July to August",
+      "Avoid",
+      "Monsoon rain and landslides on the road to Sankri."
+    ],
+    [
+      "December to March",
+      "Winter only",
+      "Snow from Osla upwards."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "How fit do I need to be for Har Ki Dun?",
+      "a": "You should be able to walk 5 to 7 hours a day with a light daypack. Start walking or climbing stairs daily for a month before the trek. Children from about 12 can do it with a parent."
+    },
+    {
+      "q": "Is the food vegetarian?",
+      "a": "Yes, all meals on this trek are vegetarian. Tell us if you need Jain food: the cook can leave out onion, garlic and potato with notice."
+    },
+    {
+      "q": "Will my phone work?",
+      "a": "Signal is weak in Sankri and there is none on most of the trail. Tell your family you will be out of reach for four days."
+    },
+    {
+      "q": "What about altitude sickness?",
+      "a": "The highest point is about 3,560 m. The climb is gradual, but headaches can happen. Your trek leader checks oxygen levels every evening and will bring you down if needed."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    }
+  ],
+  "related_keywords": [
+    "Har Ki Dun trek package",
+    "Sankri trek",
+    "Uttarakhand trek 7 days",
+    "Har ki doon trek from Dehradun"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "WEAR",
+      "title": "Packing for the trek",
+      "text": "Trekking shoes with ankle support, a warm down jacket, thermals, a rain jacket, cap, gloves, a 30 to 40 litre daypack, two water bottles, sunscreen and a head torch. Nights are cold even in June."
+    },
+    {
+      "tag": "CARE",
+      "title": "Leave no trace",
+      "text": "Carry all plastic back down. The valley is part of Govind Wildlife Sanctuary, and camping in the Har Ki Dun meadow itself is not allowed."
+    },
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

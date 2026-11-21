@@ -1,0 +1,553 @@
+{
+  "slug": "north-kerala-malabar-8-days",
+  "title": "North Kerala & the Malabar Coast: Athirappilly, Wayanad, Kannur and Bekal in 8 Days",
+  "meta_title": "North Kerala Malabar Tour 8 Days: Wayanad & Bekal",
+  "meta_description": "8-day North Kerala tour: Athirappilly Falls, Kozhikode, Wayanad's Edakkal Caves and Banasura, Theyyam country in Kannur and Bekal Fort, ending at Mangaluru.",
+  "destination": "North Kerala, India",
+  "country": "India",
+  "duration": "8 days / 7 nights",
+  "nights": 7,
+  "style": "Nature · Culture · Beaches",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Green hills of Kerala",
+  "tagline": "Kerala's quiet north: waterfalls, spice hills, Theyyam and a fort on the sea",
+  "facts": [
+    [
+      "Stay",
+      "Athirappilly, Kozhikode, Wayanad, Kannur, Bekal"
+    ],
+    [
+      "Pace",
+      "Relaxed, drives of 2 to 5 hours"
+    ],
+    [
+      "Ideal for",
+      "Second-time Kerala visitors, families"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Kochi in, Mangaluru out"
+    ]
+  ],
+  "intro": "Most visitors to Kerala never go north of Kochi. This one-way route runs up the Malabar coast from Kochi airport to Mangaluru: India's widest waterfall at Athirappilly, the spice port of Kozhikode where Vasco da Gama landed, two nights in the green hills of Wayanad, the Theyyam ritual country around Kannur and the sea fort of Bekal. Drives are short, and there is no need to double back.",
+  "highlights": [
+    "Athirappilly Falls, about 25 m high and the widest waterfall in Kerala",
+    "Kozhikode beach at sunset and Kappad, where Vasco da Gama landed in 1498",
+    "Edakkal Caves, with Neolithic rock carvings, and Banasura Sagar Dam in Wayanad",
+    "Muzhappilangad, a 4 km drive-in beach near Kannur",
+    "A Theyyam performance in a village shrine, in season",
+    "Bekal Fort, one of the largest forts in Kerala, on the Arabian Sea"
+  ],
+  "stays": [
+    {
+      "place": "Athirappilly",
+      "nights": 1,
+      "hotel": "Rainforest resort"
+    },
+    {
+      "place": "Kozhikode",
+      "nights": 1,
+      "hotel": "Beach resort"
+    },
+    {
+      "place": "Wayanad",
+      "nights": 2,
+      "hotel": "Plantation resort"
+    },
+    {
+      "place": "Kannur",
+      "nights": 1,
+      "hotel": "Heritage or beach hotel"
+    },
+    {
+      "place": "Bekal",
+      "nights": 2,
+      "hotel": "Beach resort"
+    }
+  ],
+  "route": [
+    "Kochi Airport",
+    "Athirappilly",
+    "Kozhikode",
+    "Wayanad",
+    "Kannur",
+    "Bekal",
+    "Mangaluru Airport"
+  ],
+  "links": [
+    {
+      "title": "Kerala Tourism (official)",
+      "url": "https://www.keralatourism.org/"
+    },
+    {
+      "title": "Whole route on Google Maps",
+      "url": "https://www.google.com/maps/dir/Cochin+International+Airport/Athirappilly+Falls/Kozhikode+Beach/Kalpetta/Kannur/Bekal+Fort/Mangalore+International+Airport"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Land in Kochi and drive to Athirappilly Falls",
+      "summary": "Arrival at Kochi airport and transfer to Athirappilly.",
+      "strip": [
+        "About 55 km, 1 hour 30 minutes",
+        "Falls open 08:00 to 17:00"
+      ],
+      "rows": [
+        {
+          "label": "On landing · Kochi airport (COK)",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Athirappilly Falls",
+          "text": "The Chalakudy River drops about 25 m over a wide rock face. Walk down to the base for the full view, about 20 minutes each way.",
+          "notes": [
+            [
+              "CARE",
+              "Rocks near the water are slippery. Stay behind the barriers, especially in the monsoon."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Vazhachal Falls",
+          "text": "A second cascade 5 km upstream."
+        }
+      ],
+      "places": [
+        "Athirappilly Falls",
+        "Vazhachal Falls"
+      ],
+      "note": "Hornbills are often seen along the Vazhachal road early in the morning.",
+      "route": [
+        "Athirappilly Falls",
+        "Vazhachal Falls"
+      ],
+      "photo_query": "Athirappilly Falls"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up the coast to Kozhikode",
+      "summary": "Drive to Kozhikode, with the beach and Mananchira Square in the evening.",
+      "strip": [
+        "About 170 km, 4 to 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive north",
+          "text": "Via Thrissur, where you can stop at the Vadakkunnathan temple from outside.",
+          "notes": [
+            [
+              "WEAR",
+              "Most Kerala temples admit Hindus only. Men remove shirts inside, women wear saree or salwar."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Kozhikode beach and Mananchira Square",
+          "text": "Sunset at the old lighthouse, then the square and its large temple tank.",
+          "notes": [
+            [
+              "EAT",
+              "Kozhikode is famous for halwa on SM Street (Mittai Theruvu) and banana chips fried in coconut oil."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kozhikode Beach",
+        "Mananchira Square",
+        "SM Street Kozhikode"
+      ],
+      "note": "Kozhikode cooking is mostly non-vegetarian. We book a vegetarian restaurant for you in advance.",
+      "route": [
+        "Kozhikode Beach",
+        "Mananchira Square",
+        "SM Street Kozhikode"
+      ],
+      "photo_query": "Kozhikode Beach"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Kappad beach and up the ghat to Wayanad",
+      "summary": "Kappad beach, then the Thamarassery ghat road to Wayanad with the Lakkidi viewpoint.",
+      "strip": [
+        "About 90 km, 3 hours",
+        "Wayanad about 700 to 900 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Kappad beach",
+          "text": "A stone pillar marks where Vasco da Gama landed in 1498."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Thamarassery ghat and Lakkidi viewpoint",
+          "text": "Nine hairpin bends up to the Wayanad plateau. The Chain Tree is a short stop by the road."
+        },
+        {
+          "label": "Evening",
+          "title": "Check in at your plantation resort",
+          "text": "Coffee, pepper and cardamom estates around the resort."
+        }
+      ],
+      "places": [
+        "Kappad Beach",
+        "Lakkidi View Point",
+        "Chain Tree Wayanad"
+      ],
+      "note": "Weekend traffic on the ghat can add an hour. We leave Kozhikode by 10:00.",
+      "route": [
+        "Kappad Beach",
+        "Lakkidi View Point",
+        "Chain Tree Wayanad"
+      ],
+      "photo_query": "Kappad Beach"
+    },
+    {
+      "pill": "Full day",
+      "title": "Edakkal Caves, Banasura Sagar and Pookode Lake",
+      "summary": "Full day of sightseeing in Wayanad.",
+      "strip": [
+        "Edakkal closed Mondays",
+        "Climb about 1 km to the caves",
+        "Drives about 3 hours in total"
+      ],
+      "rows": [
+        {
+          "label": "About 09:00",
+          "title": "Edakkal Caves",
+          "text": "Rock shelters on Ambukuthi Mala with carvings thousands of years old. A steep path and steps, about 45 minutes up.",
+          "notes": [
+            [
+              "TIME",
+              "Open about 09:00 to 16:00 and closed on Mondays. Daily visitor numbers are capped, so arrive early."
+            ],
+            [
+              "CARE",
+              "Not suitable for people with knee or heart problems."
+            ]
+          ]
+        },
+        {
+          "label": "Optional · Ambalavayal",
+          "title": "Wayanad Heritage Museum",
+          "text": "Tribal tools, weapons and stone carvings, 10 minutes from Edakkal."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Banasura Sagar Dam",
+          "text": "India's largest earth dam, with speedboat rides among small islands."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Pookode Lake",
+          "text": "A natural freshwater lake in the forest with pedal boats, near your resort."
+        }
+      ],
+      "places": [
+        "Edakkal Caves",
+        "Wayanad Heritage Museum",
+        "Banasura Sagar Dam",
+        "Pookode Lake"
+      ],
+      "note": "Soochipara (Sentinel Rock) Falls is in the Meppadi area, affected by the 2024 landslides. We check whether it is open before we offer it.",
+      "route": [
+        "Edakkal Caves",
+        "Wayanad Heritage Museum",
+        "Banasura Sagar Dam",
+        "Pookode Lake"
+      ],
+      "photo_query": "Edakkal Caves"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Down to Kannur and the drive-in beach",
+      "summary": "Drive to Kannur via Muzhappilangad beach.",
+      "strip": [
+        "About 100 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Down the Periya ghat",
+          "text": "Through coffee estates to the coast."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Muzhappilangad drive-in beach",
+          "text": "A 4 km firm sand beach where cars can drive along the waterline."
+        },
+        {
+          "label": "Evening",
+          "title": "Theyyam (seasonal)",
+          "text": "From about November to May, village shrines around Kannur stage Theyyam, a ritual dance in which the performer becomes the deity. We find the night's performance for you.",
+          "notes": [
+            [
+              "WEAR",
+              "This is worship, not a show. Dress modestly, stay at the edge and do not use flash."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Muzhappilangad Drive-in Beach",
+        "St. Angelo Fort Kannur"
+      ],
+      "note": "Theyyam often starts late at night and runs till dawn. One or two hours is plenty.",
+      "route": [
+        "Muzhappilangad Drive-in Beach",
+        "St. Angelo Fort Kannur"
+      ],
+      "photo_query": "Muzhappilangad Drive-in Beach"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "North to Bekal",
+      "summary": "Drive to Bekal and check in to your beach resort.",
+      "strip": [
+        "About 90 km, 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "St Angelo Fort, Kannur",
+          "text": "A Portuguese fort from 1505 on the sea."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive Bekal",
+          "text": "Check in and relax by the sea."
+        }
+      ],
+      "places": [
+        "St. Angelo Fort Kannur",
+        "Bekal"
+      ],
+      "note": "Bekal's resorts are on the Kappil and Pallikere beaches, quieter than any in south Kerala.",
+      "route": [
+        "St. Angelo Fort Kannur",
+        "Bekal"
+      ],
+      "photo_query": "St. Angelo Fort Kannur"
+    },
+    {
+      "pill": "Easy day",
+      "title": "Bekal Fort and Kappil beach",
+      "summary": "Bekal Fort, Kappil beach and an optional Valiyaparamba backwater cruise.",
+      "strip": [
+        "Fort open about 08:00 to 17:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bekal Fort",
+          "text": "A keyhole-shaped laterite fort of about 1650 with an observation tower over the sea.",
+          "notes": [
+            [
+              "TIME",
+              "Go before 10:00 for softer light and fewer people."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kappil beach",
+          "text": "Palm groves and a quiet beach."
+        },
+        {
+          "label": "Optional",
+          "title": "Valiyaparamba backwaters",
+          "text": "A houseboat or country-boat cruise on North Kerala's largest backwater, about 30 km away."
+        }
+      ],
+      "places": [
+        "Bekal Fort",
+        "Kappil Beach",
+        "Valiyaparamba Backwaters"
+      ],
+      "note": "Swim only where the resort says it is safe. The Arabian Sea has strong currents from May to September.",
+      "route": [
+        "Bekal Fort",
+        "Kappil Beach",
+        "Valiyaparamba Backwaters"
+      ],
+      "photo_query": "Bekal Fort"
+    },
+    {
+      "pill": "Departure",
+      "title": "Bekal to Mangaluru airport",
+      "summary": "Transfer to Mangaluru airport for your flight.",
+      "strip": [
+        "About 70 km, 1 hour 30 minutes to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "After breakfast",
+          "title": "Drive to Mangaluru (IXE)",
+          "text": "Into Karnataka on the coastal highway.",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before your flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Mangalore International Airport"
+      ],
+      "note": "Mangaluru also has trains to Mumbai and Goa if you would rather go by rail.",
+      "photo_query": "Mangalore International Airport"
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked resorts at each stop",
+    "room": "Deluxe rooms or cottages",
+    "meals": "Breakfast daily",
+    "area": "Athirappilly, Kozhikode, Wayanad, Kannur and Bekal",
+    "about": "Rainforest lodges at Athirappilly, plantation resorts in Wayanad and beach resorts at Bekal. Premium options include Taj Bekal and Vythiri Village in Wayanad."
+  },
+  "included": [
+    "7 nights in the resorts listed or similar",
+    "Daily breakfast",
+    "Private air-conditioned car from Kochi to Mangaluru",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights",
+    "Entry fees, boating and cave tickets",
+    "Theyyam offerings",
+    "Lunches and dinners",
+    "Travel insurance"
+  ],
+  "best_time": "October to March: dry, green and about 22° to 32°. Theyyam season runs from about November to May. The monsoon (June to September) is lush but rough at sea, and ghat roads see landslides.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant, about 22° to 32°; cool nights in Wayanad."
+    ],
+    [
+      "April to May",
+      "Good",
+      "Hot and humid on the coast, about 34°; Theyyam continues."
+    ],
+    [
+      "June to September",
+      "Monsoon",
+      "Heavy rain, waterfalls at full flow, beaches closed for swimming."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Why does the tour end in Mangaluru, not Kochi?",
+      "a": "Bekal is about 70 km from Mangaluru but over 350 km from Kochi. Flying home from Mangaluru saves a full day of driving."
+    },
+    {
+      "q": "Can we see Theyyam?",
+      "a": "Yes, from about November to May. Performances follow the temple calendar, so we confirm the nearest one a few days before."
+    },
+    {
+      "q": "Is Wayanad safe after the 2024 landslides?",
+      "a": "The landslides struck the Mundakkai and Chooralmala area. The rest of Wayanad, including Kalpetta, Vythiri, Edakkal and Banasura, is open. We avoid hill areas after very heavy rain."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "North Kerala tour package",
+    "Wayanad Bekal itinerary",
+    "Malabar tour 8 days",
+    "Kannur Theyyam tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

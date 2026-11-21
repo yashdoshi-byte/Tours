@@ -1,0 +1,552 @@
+{
+  "slug": "kerala-munnar-thekkady-kumarakom-8-days",
+  "title": "Classic Kerala in 8 Days: Kochi, Munnar, Thekkady and the Kumarakom Backwaters",
+  "meta_title": "Kerala Tour 8 Days: Kochi, Munnar, Thekkady, Kumarakom",
+  "meta_description": "8-day Kerala itinerary: Fort Kochi, Munnar tea hills and Eravikulam, Periyar boating and spice gardens in Thekkady, and Kumarakom backwaters on Vembanad Lake.",
+  "destination": "Kerala, India",
+  "country": "India",
+  "duration": "8 days / 7 nights",
+  "nights": 7,
+  "style": "Hills · Wildlife · Backwaters",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Kerala backwaters",
+  "tagline": "Tea hills, spice forests and a slow evening on Vembanad Lake",
+  "facts": [
+    [
+      "Stay",
+      "Kochi 1, Munnar 2, Thekkady 2, Kumarakom 2"
+    ],
+    [
+      "Pace",
+      "Easy, drives of 3 to 4 hours"
+    ],
+    [
+      "Ideal for",
+      "Honeymooners and families"
+    ],
+    [
+      "Best months",
+      "September to March"
+    ],
+    [
+      "Arrive / leave",
+      "Kochi airport"
+    ]
+  ],
+  "intro": "The Kerala everyone dreams of, in a comfortable loop from Kochi. Start with the spice-trade lanes of Fort Kochi, climb to the tea estates of Munnar, look for elephants on Periyar Lake at Thekkady, and finish with two slow days on the backwaters of Kumarakom. We fixed the original plan, which named Kovalam on the last day: the return is to Kochi airport, about two and a half hours from Kumarakom.",
+  "highlights": [
+    "Chinese fishing nets, St Francis Church, Mattancherry Palace and Jew Town in Fort Kochi",
+    "Cheeyappara Falls on the road to Munnar",
+    "Eravikulam National Park and the Nilgiri tahr",
+    "Mattupetty Dam, Echo Point and tea estates in Munnar",
+    "Periyar Lake boat ride and a spice plantation walk in Thekkady",
+    "Kumarakom Bird Sanctuary and a sunset on Vembanad Lake"
+  ],
+  "stays": [
+    {
+      "place": "Kochi",
+      "nights": 1,
+      "hotel": "Fort Kochi heritage hotel"
+    },
+    {
+      "place": "Munnar",
+      "nights": 2,
+      "hotel": "Tea-estate resort"
+    },
+    {
+      "place": "Thekkady",
+      "nights": 2,
+      "hotel": "Spice-garden resort"
+    },
+    {
+      "place": "Kumarakom",
+      "nights": 2,
+      "hotel": "Lake resort"
+    }
+  ],
+  "route": [
+    "Kochi",
+    "Cheeyappara Falls",
+    "Munnar",
+    "Thekkady",
+    "Kumarakom",
+    "Kochi Airport"
+  ],
+  "links": [
+    {
+      "title": "Kerala Tourism (official)",
+      "url": "https://www.keralatourism.org/"
+    },
+    {
+      "title": "Eravikulam National Park, online tickets (Kerala Forest Department)",
+      "url": "https://eravikulam.org/"
+    },
+    {
+      "title": "Periyar Tiger Reserve (official)",
+      "url": "https://www.periyartigerreserve.org/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Land in Kochi and walk Fort Kochi",
+      "summary": "Arrival and a half-day tour of Fort Kochi and Mattancherry.",
+      "strip": [
+        "Airport to Fort Kochi about 1 hour 30 minutes",
+        "Sunset about 18:15"
+      ],
+      "rows": [
+        {
+          "label": "On landing · Kochi airport (COK)",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Mattancherry Palace and Jew Town",
+          "text": "Murals of the Ramayana in the Dutch Palace, then the antique shops and the Paradesi Synagogue of 1568.",
+          "notes": [
+            [
+              "TIME",
+              "Mattancherry Palace is closed on Fridays. The synagogue is closed on Fridays, Saturdays and Jewish holidays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "St Francis Church and the Chinese fishing nets",
+          "text": "Vasco da Gama was first buried in this church. Watch the nets being lowered at sunset.",
+          "notes": [
+            [
+              "TIME",
+              "St Francis Church does not take visitors during Sunday services."
+            ]
+          ]
+        },
+        {
+          "label": "Optional · 18:00",
+          "title": "Kathakali performance",
+          "text": "Watch the actors put on their make-up from about 17:00, then an hour of the story."
+        }
+      ],
+      "places": [
+        "Mattancherry Palace",
+        "Paradesi Synagogue",
+        "St. Francis Church Kochi",
+        "Chinese Fishing Nets Fort Kochi"
+      ],
+      "note": "Fort Kochi is best explored on foot or by e-rickshaw. Wear comfortable sandals.",
+      "route": [
+        "Mattancherry Palace",
+        "Paradesi Synagogue",
+        "St. Francis Church Kochi",
+        "Chinese Fishing Nets Fort Kochi"
+      ],
+      "photo_query": "Mattancherry Palace"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up to Munnar past Cheeyappara Falls",
+      "summary": "Drive to Munnar with stops at Cheeyappara and Valara falls and a spice garden.",
+      "strip": [
+        "About 130 km, 4 hours",
+        "Munnar about 1,600 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Leave Kochi after breakfast",
+          "text": "East through Kothamangalam into the hills."
+        },
+        {
+          "label": "Midday",
+          "title": "Cheeyappara and Valara falls",
+          "text": "Seven-step falls right on the highway near Adimali."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tea estates into Munnar",
+          "text": "Check in and an evening walk."
+        }
+      ],
+      "places": [
+        "Cheeyappara Waterfalls",
+        "Valara Waterfalls",
+        "Munnar"
+      ],
+      "note": "Munnar nights are about 12° to 15° in winter. Keep a light jacket handy.",
+      "route": [
+        "Cheeyappara Waterfalls",
+        "Valara Waterfalls",
+        "Munnar"
+      ],
+      "photo_query": "Cheeyappara Waterfalls"
+    },
+    {
+      "pill": "Full day",
+      "title": "Eravikulam, Mattupetty and the tea hills",
+      "summary": "Eravikulam National Park, the Tea Museum, Mattupetty Dam, Echo Point and Kundala Lake.",
+      "strip": [
+        "Eravikulam closed about February to March",
+        "Drives about 3 hours in total"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Eravikulam National Park (Rajamala)",
+          "text": "A forest bus takes you up to the grasslands where the Nilgiri tahr grazes near the road.",
+          "notes": [
+            [
+              "TIME",
+              "Closed for the tahr calving season, usually February to March. Book tickets online in advance in peak season."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Tata Tea Museum",
+          "text": "How tea is processed, with a working factory unit.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Mattupetty Dam, Echo Point and Kundala Lake",
+          "text": "Speed boats and pedal boats, and the Indo-Swiss dairy farm."
+        },
+        {
+          "label": "Optional",
+          "title": "Photo Point and Pothamedu viewpoint",
+          "text": "Tea, coffee and cardamom slopes below."
+        }
+      ],
+      "places": [
+        "Eravikulam National Park",
+        "Tata Tea Museum",
+        "Mattupetty Dam",
+        "Echo Point Munnar",
+        "Kundala Lake"
+      ],
+      "note": "The Neelakurinji flower blooms on these hills only once in 12 years; the next mass bloom is expected around 2030.",
+      "route": [
+        "Eravikulam National Park",
+        "Tata Tea Museum",
+        "Mattupetty Dam",
+        "Echo Point Munnar",
+        "Kundala Lake"
+      ],
+      "photo_query": "Eravikulam National Park"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Through cardamom hills to Thekkady",
+      "summary": "Drive from Munnar to Thekkady through cardamom plantations.",
+      "strip": [
+        "About 90 km, 3 hours",
+        "Thekkady about 900 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Lockhart Gap viewpoint",
+          "text": "Mist and a long view down the valley on the way out."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive Thekkady",
+          "text": "Check in near Kumily."
+        },
+        {
+          "label": "Evening",
+          "title": "Kalaripayattu show",
+          "text": "Kerala's martial art, about an hour, in Kumily."
+        }
+      ],
+      "places": [
+        "Lockhart Gap",
+        "Kumily"
+      ],
+      "note": "Thekkady sits on the Tamil Nadu border; Kumily town is good for spices and tea.",
+      "route": [
+        "Lockhart Gap",
+        "Kumily"
+      ],
+      "photo_query": "Lockhart Gap"
+    },
+    {
+      "pill": "Full day",
+      "title": "Periyar Lake, spices and the forest",
+      "summary": "Periyar boat ride, a spice plantation walk and an optional jeep safari or bamboo rafting.",
+      "strip": [
+        "Boat at 07:30, 1 hour 30 minutes",
+        "Tickets sold at the counter only"
+      ],
+      "rows": [
+        {
+          "label": "About 07:00",
+          "title": "Periyar Lake boat ride",
+          "flag": "be early",
+          "text": "Elephants, gaur and sambar come down to the water. The first boat is the best for wildlife.",
+          "notes": [
+            [
+              "TIME",
+              "Tickets are sold at the boat landing or online through the forest department and sell out by about 07:00 in peak season."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Spice plantation walk",
+          "text": "Pepper, cardamom, nutmeg, cinnamon and vanilla, with the farmer's family."
+        },
+        {
+          "label": "Optional",
+          "title": "Jeep safari or bamboo rafting",
+          "text": "Forest department eco-tourism programmes, booked a day ahead."
+        }
+      ],
+      "places": [
+        "Periyar Lake Boat Landing",
+        "Thekkady Spice Plantation"
+      ],
+      "note": "Wear dull colours on the boat and keep quiet. Leeches appear on forest walks after rain: long socks help.",
+      "route": [
+        "Periyar Lake Boat Landing",
+        "Thekkady Spice Plantation"
+      ],
+      "photo_query": "Periyar Lake Boat Landing"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Down to the backwaters at Kumarakom",
+      "summary": "Drive to Kumarakom and relax at your lake resort.",
+      "strip": [
+        "About 130 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Through rubber plantations to Kottayam",
+          "text": "The road drops from the hills to the paddy country."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kumarakom lake resort",
+          "text": "Free to swim, take an Ayurvedic massage or sit by the lake."
+        }
+      ],
+      "places": [
+        "Kumarakom"
+      ],
+      "note": "Ask the resort for a Kerala sadya vegetarian lunch on a banana leaf.",
+      "photo_query": "Kumarakom"
+    },
+    {
+      "pill": "Easy day",
+      "title": "Birds, canals and a sunset on Vembanad Lake",
+      "summary": "Kumarakom Bird Sanctuary and a shikara or houseboat cruise.",
+      "strip": [
+        "Bird sanctuary from 06:00",
+        "Cruise about 2 to 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Kumarakom Bird Sanctuary",
+          "text": "A path through mangroves and canals; best for birds between November and February."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Shikara or day houseboat cruise",
+          "text": "Through narrow canals and out onto Vembanad Lake for sunset.",
+          "notes": [
+            [
+              "TIP",
+              "In October, water lilies carpet the paddy canals around Kumarakom."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kumarakom Bird Sanctuary",
+        "Vembanad Lake"
+      ],
+      "note": "If you would like an overnight houseboat instead of the second resort night, ask us. Choose an air-conditioned houseboat from March to May.",
+      "route": [
+        "Kumarakom Bird Sanctuary",
+        "Vembanad Lake"
+      ],
+      "photo_query": "Kumarakom Bird Sanctuary"
+    },
+    {
+      "pill": "Departure",
+      "title": "Kumarakom to Kochi airport",
+      "summary": "Transfer to Kochi airport.",
+      "strip": [
+        "About 85 km, 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "After breakfast",
+          "title": "Drive to Kochi airport (COK)",
+          "text": "Through Kottayam and Ernakulam.",
+          "notes": [
+            [
+              "TIME",
+              "Leave 5 hours before an international flight, 4 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Cochin International Airport"
+      ],
+      "note": "Kochi airport is solar-powered and has good vegetarian food courts if you have time to spare.",
+      "photo_query": "Cochin International Airport"
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked resorts at each stop",
+    "room": "Deluxe rooms, or valley-view and lake-view cottages",
+    "meals": "Breakfast daily",
+    "area": "Fort Kochi, Munnar, Thekkady and Kumarakom",
+    "about": "We choose heritage hotels in Fort Kochi, tea-estate resorts in Munnar, spice-garden resorts in Thekkady and lakeside resorts in Kumarakom, at the level you prefer."
+  },
+  "included": [
+    "7 nights in the resorts listed or similar",
+    "Daily breakfast",
+    "Private air-conditioned car for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights",
+    "Entry fees, boat rides, shows and safaris",
+    "Houseboat upgrade",
+    "Lunches and dinners",
+    "Travel insurance"
+  ],
+  "best_time": "September to March. September and October are green and fresh after the monsoon; December and January are cool and busy. Eravikulam usually closes in February and March for the tahr calving season.",
+  "seasons": [
+    [
+      "September to March",
+      "Best",
+      "About 20° to 32° on the coast, 10° to 22° in Munnar."
+    ],
+    [
+      "April to May",
+      "Hot",
+      "Humid on the coast; Munnar is pleasant."
+    ],
+    [
+      "June to August",
+      "Monsoon",
+      "Heavy rain, Ayurveda season and low rates."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Can we spend a night on a houseboat?",
+      "a": "Yes. We can replace one Kumarakom night with a private houseboat on Vembanad Lake, with all meals cooked on board."
+    },
+    {
+      "q": "Is Kerala good for Jain or pure-vegetarian travellers?",
+      "a": "Yes. Sadya meals are vegetarian, and our hotels prepare Jain food with notice. Coconut oil is used in most cooking; ask for sunflower oil if you prefer."
+    },
+    {
+      "q": "Can we add Kovalam or Varkala?",
+      "a": "Yes. Add two or three nights at Kovalam or Varkala after Kumarakom and fly home from Thiruvananthapuram instead of Kochi."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Kerala tour package 7 nights",
+    "Munnar Thekkady Kumarakom itinerary",
+    "Kerala honeymoon itinerary",
+    "Kochi Munnar tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

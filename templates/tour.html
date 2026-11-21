@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero" style="background-image:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.55)),url('{{ t.hero_image }}')">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ site.main_site }}">Home</a> › <a href="{{ root }}">Tours</a> › <span>{{ t.destination }}</span></nav>
+    <h1>{{ t.title }}</h1>
+    <p class="meta">{{ t.duration }} · {{ t.style }}</p>
+  </div>
+</section>
+<div class="wrap layout">
+  <article>
+    <p class="lead">{{ t.intro }}</p>
+    <h2>Trip highlights</h2>
+    <ul class="ticks">{% for h in t.highlights %}<li>{{ h }}</li>{% endfor %}</ul>
+
+    <h2>Day-by-day itinerary</h2>
+    <ol class="days">
+    {% for d in t.days %}
+      <li class="day">
+        <h3><span class="dnum">Day {{ loop.index }}</span> {{ d.title }}</h3>
+        {% if d.places %}<p class="places">{{ d.places|join(' · ') }}</p>{% endif %}
+        <p>{{ d.body }}</p>
+        {% if d.tip %}<p class="tip"><strong>Local tip:</strong> {{ d.tip }}</p>{% endif %}
+      </li>
+    {% endfor %}
+    </ol>
+
+    <h2>Where you stay</h2>
+    <div class="card">
+      <h3>{{ t.hotel.name }}</h3>
+      <p>{{ t.hotel.room }} · {{ t.hotel.meals }} · {{ t.hotel.area }}</p>
+    </div>
+
+    <div class="two">
+      <div><h2>What's included</h2><ul class="ticks">{% for i in t.included %}<li>{{ i }}</li>{% endfor %}</ul></div>
+      <div><h2>Not included</h2><ul class="cross">{% for i in t.excluded %}<li>{{ i }}</li>{% endfor %}</ul></div>
+    </div>
+
+    <h2>Best time to go</h2>
+    <p>{{ t.best_time }}</p>
+
+    <h2>Frequently asked questions</h2>
+    {% for f in t.faqs %}<details class="faq"><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
+  </article>
+  <aside>
+    <div class="side card">
+      <p class="side-dur">{{ t.duration }}</p>
+      <p class="side-price">{{ t.price_note }}</p>
+      <a class="btn" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a quote on WhatsApp</a>
+      <a class="btn ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
+      <p class="small">Call <a href="tel:{{ site.phone_link }}">{{ site.phone }}</a><br>Tailor-made by certified destination specialists.</p>
+    </div>
+  </aside>
+</div>
+{% if others %}
+<section class="wrap more">
+  <h2>More curated journeys</h2>
+  <div class="grid">{% for o in others %}{% include "card.html" %}{% endfor %}</div>
+</section>
+{% endif %}
+{% endblock %}

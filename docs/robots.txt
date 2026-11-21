@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yashdoshi-byte.github.io/tours/sitemap.xml

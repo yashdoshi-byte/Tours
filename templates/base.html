@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ meta_title }}</title>
+<meta name="description" content="{{ meta_description }}">
+<link rel="canonical" href="{{ canonical }}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta property="og:type" content="{{ og_type }}">
+<meta property="og:site_name" content="{{ site.brand }}">
+<meta property="og:title" content="{{ meta_title }}">
+<meta property="og:description" content="{{ meta_description }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ og_image }}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="https://bluediamondvoyage.com/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}assets/style.css">
+{% for ld in jsonld %}<script type="application/ld+json">{{ ld }}</script>
+{% endfor %}</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="logo" href="{{ site.main_site }}">Blue Diamond <span>Voyage</span></a>
+    <nav>
+      <a href="{{ root }}">All tours</a>
+      <a href="{{ site.main_site }}/destinations">Destinations</a>
+      <a href="{{ site.main_site }}/contact" class="btn-sm">Enquire</a>
+    </nav>
+  </div>
+</header>
+<main>
+{% block content %}{% endblock %}
+</main>
+<footer class="footer">
+  <div class="wrap">
+    <p><strong>{{ site.brand }}</strong> · Tailor-made travel since 2000 · {{ site.address }}</p>
+    <p><a href="tel:{{ site.phone_link }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a href="{{ site.main_site }}">bluediamondvoyage.com</a></p>
+  </div>
+</footer>
+<a class="wa-float" href="{{ site.whatsapp }}" aria-label="Chat on WhatsApp">WhatsApp us</a>
+</body>
+</html>

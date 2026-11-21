@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero short">
+  <div class="wrap">
+    <h1>Curated tour itineraries</h1>
+    <p class="meta">Day-by-day journeys designed by Blue Diamond Voyage, with real timings, hand-picked hotels and local know-how.</p>
+  </div>
+</section>
+<section class="wrap more">
+  <div class="grid">{% for o in tours %}{% include "card.html" %}{% endfor %}</div>
+</section>
+{% endblock %}

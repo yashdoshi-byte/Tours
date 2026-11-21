@@ -2,7 +2,7 @@
 
 SEO-friendly itinerary pages for Blue Diamond Voyage, published with GitHub Pages from the `docs/` folder.
 
-Live: https://yashdoshi-byte.github.io/tours/
+Live: https://yashdoshi-byte.github.io/Tours/
 
 ## Add or edit a tour
 1. Copy `data/tours/bali-honeymoon-nusa-dua.json` to `data/tours/<new-slug>.json` and fill in the fields

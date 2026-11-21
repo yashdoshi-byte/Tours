@@ -1,0 +1,1095 @@
+{
+  "slug": "india-food-culture-15-days",
+  "title": "India Food & Culture Tour: Delhi, Amritsar, Lucknow, Indore, Ahmedabad, Rajkot and Mumbai",
+  "meta_title": "India Food & Culture Tour 15 Days: Delhi to Mumbai",
+  "meta_description": "15-day India food and culture tour: Old Delhi, the Golden Temple langar, Lucknow, Indore's Sarafa, Gujarati thalis in Rajkot and Mumbai's khau gallis.",
+  "destination": "Delhi to Mumbai, India",
+  "country": "India",
+  "duration": "15 days / 14 nights",
+  "nights": 14,
+  "style": "Food · Culture · Heritage",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Spice market in Old Delhi",
+  "tagline": "Seven cities, seven kitchens, from Paranthe Wali Gali to Mumbai's khau gallis",
+  "facts": [
+    [
+      "Cities",
+      "Delhi, Amritsar, Lucknow, Indore, Ahmedabad, Rajkot, Mumbai"
+    ],
+    [
+      "Travel",
+      "Train to Amritsar, 4 short flights, 1 drive"
+    ],
+    [
+      "Pace",
+      "Moderate, with free evenings"
+    ],
+    [
+      "Best months",
+      "November to February"
+    ],
+    [
+      "Food",
+      "Vegetarian-friendly at every stop"
+    ]
+  ],
+  "intro": "A journey through India by its plate. Each city gives you its signature kitchen and the monuments and markets that explain it: Mughal Delhi, Sikh Amritsar, Nawabi Lucknow, the night food market of Indore, Gandhi's Ahmedabad, our home town of Rajkot, and Mumbai's Irani cafés and street stalls. We changed two days of the original plan: Delhi to Amritsar is now a morning train instead of a nine-hour drive, and Somnath, about four hours from Rajkot each way, is an optional overnight instead of a day trip.",
+  "highlights": [
+    "Paranthe Wali Gali, Khari Baoli spice market and the Red Fort in Old Delhi",
+    "State canteens of Andhra and Odisha, and Dilli Haat's regional food stalls",
+    "The Golden Temple, its langar kitchen that serves tens of thousands a day, and the Partition Museum",
+    "Lucknow's Imambaras, chikankari workshops and basket chaat",
+    "Mandu's Afghan palaces and Indore's Sarafa night market",
+    "Kathiyawadi breakfast and a royal lunch at Gondal, then Mumbai's Parsi cafés and Juhu beach"
+  ],
+  "stays": [
+    {
+      "place": "Delhi",
+      "nights": 3,
+      "hotel": "Central Delhi hotel"
+    },
+    {
+      "place": "Amritsar",
+      "nights": 2,
+      "hotel": "Hotel near the Golden Temple"
+    },
+    {
+      "place": "Lucknow",
+      "nights": 2,
+      "hotel": "Hazratganj hotel"
+    },
+    {
+      "place": "Indore",
+      "nights": 2,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Ahmedabad",
+      "nights": 1,
+      "hotel": "Riverfront hotel"
+    },
+    {
+      "place": "Rajkot",
+      "nights": 2,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Mumbai",
+      "nights": 2,
+      "hotel": "South Mumbai hotel"
+    }
+  ],
+  "route": [
+    "Delhi",
+    "Amritsar",
+    "Lucknow",
+    "Indore",
+    "Mandu",
+    "Ahmedabad",
+    "Rajkot",
+    "Gondal",
+    "Mumbai"
+  ],
+  "links": [
+    {
+      "title": "Golden Temple, Shiromani Gurdwara Parbandhak Committee (official)",
+      "url": "https://sgpc.net/"
+    },
+    {
+      "title": "Partition Museum, Amritsar (official)",
+      "url": "https://www.partitionmuseum.org/"
+    },
+    {
+      "title": "Sabarmati Ashram (official)",
+      "url": "https://www.gandhiashramsabarmati.org/"
+    },
+    {
+      "title": "Red Fort tickets, Archaeological Survey of India",
+      "url": "https://asi.payumoney.com/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Connaught Place and a first taste of Delhi",
+      "summary": "Arrival, Connaught Place and dinner at Moti Mahal.",
+      "strip": [
+        "Airport to Connaught Place about 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at the airport."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Connaught Place",
+          "text": "Colonial arcades in a double ring of shops and cafés."
+        },
+        {
+          "label": "Afternoon · United Coffee House",
+          "title": "Coffee and snacks at a 1942 café",
+          "text": "Order the Cona coffee and vegetable cutlets.",
+          "meal": [
+            "Snack",
+            "Not included",
+            "About INR 400 to 600 per person"
+          ]
+        },
+        {
+          "label": "Evening · Moti Mahal, Daryaganj",
+          "title": "Dinner where butter chicken was born",
+          "text": "Meat-eaters order the butter chicken; vegetarians the dal makhani and shahi paneer, which are just as famous.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 1,200 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Connaught Place",
+        "United Coffee House",
+        "Moti Mahal Daryaganj"
+      ],
+      "note": "Delhi evenings in December and January are about 8° to 10° and smoggy. Bring a light jacket and a mask.",
+      "route": [
+        "Connaught Place",
+        "United Coffee House",
+        "Moti Mahal Daryaganj"
+      ],
+      "photo_query": "Connaught Place"
+    },
+    {
+      "pill": "Full day",
+      "title": "Old Delhi: parathas, the Red Fort and the spice market",
+      "summary": "Old Delhi food walk, Red Fort, Jama Masjid, Khari Baoli and New Delhi's landmarks.",
+      "strip": [
+        "Old Delhi on foot and by rickshaw",
+        "Red Fort closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "About 08:30 · Paranthe Wali Gali",
+          "title": "Breakfast of stuffed parathas",
+          "text": "Fried parathas with potato, paneer or lentil filling, pickles and curd. All the shops here are vegetarian.",
+          "meal": [
+            "Breakfast",
+            "Not included",
+            "About INR 250 per person"
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "Red Fort",
+          "text": "The Mughal palace of 1648. Enter by the Lahori Gate.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays. Buy tickets online to skip the queue."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Jama Masjid",
+          "text": "India's largest mosque; climb the south minaret for the view.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover arms and legs; women are given a robe at the gate. Closed to visitors at prayer times."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Khari Baoli spice market",
+          "text": "Asia's largest spice market, by cycle rickshaw.",
+          "notes": [
+            [
+              "CARE",
+              "The lanes are packed. Keep your bag in front and phone in a zipped pocket."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch · Andhra Bhavan canteen",
+          "title": "Andhra thali",
+          "text": "Unlimited vegetarian thali served on a steel plate.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 250 per person"
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "India Gate and Kartavya Path",
+          "text": "Drive past Rashtrapati Bhavan and the National War Memorial."
+        },
+        {
+          "label": "Evening · Jama Masjid lanes",
+          "title": "Old Delhi dinner",
+          "text": "Karim's for meat-eaters; vegetarians go to Haldiram's in Chandni Chowk or the jalebi at Old Famous Jalebi Wala.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 500 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Paranthe Wali Gali",
+        "Red Fort",
+        "Jama Masjid Delhi",
+        "Khari Baoli",
+        "Andhra Bhavan Canteen",
+        "India Gate"
+      ],
+      "note": "Old Delhi is best before noon. Wear closed shoes: the lanes are wet and crowded.",
+      "route": [
+        "Paranthe Wali Gali",
+        "Red Fort",
+        "Jama Masjid Delhi",
+        "Khari Baoli",
+        "Andhra Bhavan Canteen",
+        "India Gate"
+      ],
+      "photo_query": "Paranthe Wali Gali"
+    },
+    {
+      "pill": "Full day",
+      "title": "Akshardham, Dilli Haat and Hauz Khas",
+      "summary": "Swaminarayan Akshardham, lunch at Dilli Haat and an evening in Hauz Khas.",
+      "strip": [
+        "Akshardham closed Mondays",
+        "No phones inside Akshardham"
+      ],
+      "rows": [
+        {
+          "label": "Morning · Odisha Bhavan canteen",
+          "title": "Odia breakfast",
+          "text": "Pakhala (fermented rice) and dalma, a lentil and vegetable stew.",
+          "meal": [
+            "Breakfast",
+            "Not included",
+            "About INR 200 per person"
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "Swaminarayan Akshardham",
+          "text": "A carved pink sandstone and marble temple complex.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays. Phones, cameras and bags are not allowed and must be deposited at the cloakroom."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch · Dilli Haat, INA",
+          "title": "Regional food stalls",
+          "text": "Each state has a stall: try Rajasthani dal baati or Bengali vegetable chop.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 400 per person"
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Hauz Khas village and lake",
+          "text": "A 14th-century madrasa and tank, now surrounded by boutiques and cafés."
+        }
+      ],
+      "places": [
+        "Odisha Bhawan",
+        "Swaminarayan Akshardham",
+        "Dilli Haat INA",
+        "Hauz Khas Village"
+      ],
+      "note": "Tomorrow's train leaves early. We pack breakfast for you, and the driver collects you at 06:30.",
+      "route": [
+        "Odisha Bhawan",
+        "Swaminarayan Akshardham",
+        "Dilli Haat INA",
+        "Hauz Khas Village"
+      ],
+      "photo_query": "Odisha Bhawan"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Morning train to Amritsar and the Golden Temple at night",
+      "summary": "Shatabdi or Vande Bharat train to Amritsar and an evening at the Golden Temple.",
+      "strip": [
+        "Train about 6 hours",
+        "Palki Sahib ceremony about 21:30 to 22:00 in winter"
+      ],
+      "rows": [
+        {
+          "label": "About 07:00 · New Delhi station",
+          "title": "Board the train to Amritsar",
+          "flag": "be on time",
+          "text": "Meals are served on board.",
+          "notes": [
+            [
+              "TIME",
+              "Be on the platform 30 minutes early. Bags are scanned at the entrance."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in near the Golden Temple",
+          "text": "Rest."
+        },
+        {
+          "label": "Evening",
+          "title": "Harmandir Sahib (Golden Temple)",
+          "text": "Walk around the sarovar as the lights come on, and stay for the Palki Sahib ceremony, when the Guru Granth Sahib is carried to rest.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover your head (scarves are given at the gate), remove shoes and socks, wash your feet. No tobacco or alcohol."
+            ],
+            [
+              "TIME",
+              "The temple is open 24 hours."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "New Delhi Railway Station",
+        "Amritsar Junction",
+        "Golden Temple"
+      ],
+      "note": "We changed this day from a drive to the train: Delhi to Amritsar by road is about 450 km and 9 hours, which would leave no time for the temple.",
+      "route": [
+        "New Delhi Railway Station",
+        "Amritsar Junction",
+        "Golden Temple"
+      ],
+      "photo_query": "New Delhi Railway Station"
+    },
+    {
+      "pill": "Full day",
+      "title": "Langar, the Partition Museum and the Attari border",
+      "summary": "Langar at the Golden Temple, the Partition Museum, kulchas and the Attari-Wagah border ceremony.",
+      "strip": [
+        "Border about 30 km, 45 minutes",
+        "Leave for the border about 14:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning · Guru Ram Das Langar",
+          "title": "Langar at the Golden Temple",
+          "text": "Sit on the floor with thousands of others for a simple vegetarian meal. You can help in the kitchen.",
+          "meal": [
+            "Lunch",
+            "Included",
+            "Free, offered by the gurdwara; a donation is welcome"
+          ]
+        },
+        {
+          "label": "Late morning · Town Hall",
+          "title": "Partition Museum",
+          "text": "Letters, objects and voices from 1947.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Jallianwala Bagh",
+          "text": "The memorial garden of 1919, beside the temple."
+        },
+        {
+          "label": "Afternoon · Attari",
+          "title": "Beating Retreat ceremony",
+          "text": "The flag-lowering ceremony at the border.",
+          "notes": [
+            [
+              "CARE",
+              "Since May 2025 the ceremony has run in a reduced form, without the handshake and with the gates closed. We check the status the day before."
+            ]
+          ]
+        },
+        {
+          "label": "Evening · Kesar Da Dhaba",
+          "title": "Punjabi dinner",
+          "text": "A pure-vegetarian dhaba from 1916: dal, paneer, parathas and phirni in clay bowls.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 500 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Guru Ram Das Langar",
+        "Partition Museum Amritsar",
+        "Jallianwala Bagh",
+        "Attari Wagah Border",
+        "Kesar Da Dhaba"
+      ],
+      "note": "Try an Amritsari kulcha with chole for breakfast or lunch. Kulcha Land on Ranjit Avenue is a local favourite.",
+      "route": [
+        "Guru Ram Das Langar",
+        "Partition Museum Amritsar",
+        "Jallianwala Bagh",
+        "Attari Wagah Border",
+        "Kesar Da Dhaba"
+      ],
+      "photo_query": "Guru Ram Das Langar"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Lucknow, the city of Nawabs",
+      "summary": "Flight to Lucknow and an evening at the Bara and Chota Imambara.",
+      "strip": [
+        "Flight about 1 hour 30 minutes",
+        "Imambaras close about 17:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight Amritsar to Lucknow",
+          "text": "Usually direct."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bara Imambara and the Bhool Bhulaiya",
+          "text": "A 1784 hall with no beams, and a maze on the roof. Go with a licensed guide.",
+          "notes": [
+            [
+              "WEAR",
+              "Remove shoes at the entrance; dress modestly."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Chota Imambara",
+          "text": "Chandeliers and the Husainabad clock tower."
+        },
+        {
+          "label": "Evening · Aminabad",
+          "title": "Lucknowi dinner",
+          "text": "Wahid or Tunday Kababi for meat-eaters; vegetarians try Royal Café's basket chaat in Hazratganj.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 500 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Bara Imambara",
+        "Chota Imambara",
+        "Royal Cafe Hazratganj"
+      ],
+      "note": "Lucknow manners are famous. 'Pehle aap' (after you) is the city's motto.",
+      "route": [
+        "Bara Imambara",
+        "Chota Imambara",
+        "Royal Cafe Hazratganj"
+      ],
+      "photo_query": "Bara Imambara"
+    },
+    {
+      "pill": "Full day",
+      "title": "La Martinière and the chikankari workshops",
+      "summary": "La Martinière, the chikankari market of Chowk and an evening in Hazratganj.",
+      "strip": [
+        "Mostly short drives",
+        "La Martinière by permission"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "La Martinière College",
+          "text": "The palace of Major-General Claude Martin, now a school. Visits from outside, or inside with prior permission."
+        },
+        {
+          "label": "Late morning · Chowk",
+          "title": "Chikankari workshops",
+          "text": "Watch the white-on-white embroidery being stitched by hand.",
+          "notes": [
+            [
+              "BUY",
+              "Buy chikankari kurtas and saris in Chowk or at government emporiums in Hazratganj."
+            ]
+          ]
+        },
+        {
+          "label": "Evening · Hazratganj",
+          "title": "Free evening",
+          "text": "Prakash Kulfi in Aminabad for kulfi falooda."
+        }
+      ],
+      "places": [
+        "La Martiniere College",
+        "Chowk Lucknow",
+        "Hazratganj"
+      ],
+      "note": "Shops in old Lucknow close on Sundays.",
+      "route": [
+        "La Martiniere College",
+        "Chowk Lucknow",
+        "Hazratganj"
+      ],
+      "photo_query": "La Martiniere College"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Indore and a thali lunch",
+      "summary": "Flight to Indore, thali lunch and 56 Dukaan in the evening.",
+      "strip": [
+        "Flight about 1 hour 30 minutes, often via Delhi or Mumbai"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight Lucknow to Indore",
+          "text": "Check in on arrival."
+        },
+        {
+          "label": "Lunch · Guru Kripa",
+          "title": "Malwa thali",
+          "text": "Dal bafla and seasonal vegetables.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 400 per person"
+          ]
+        },
+        {
+          "label": "Evening · 56 Dukaan",
+          "title": "Street snacks",
+          "text": "Poha-jalebi, khopra pattice and dahi vada. Most of Indore's food is vegetarian."
+        }
+      ],
+      "places": [
+        "Guru Kripa Indore",
+        "56 Dukan Indore"
+      ],
+      "note": "Indore is India's cleanest city, eight years running. Bins are everywhere: use them.",
+      "route": [
+        "Guru Kripa Indore",
+        "56 Dukan Indore"
+      ],
+      "photo_query": "Guru Kripa Indore"
+    },
+    {
+      "pill": "Full day",
+      "title": "Mandu's Afghan palaces and Sarafa night market",
+      "summary": "Day trip to Mandu and the Sarafa night food market.",
+      "strip": [
+        "About 100 km each way, 2 hours 30 minutes",
+        "Sarafa from about 21:00"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Drive to Mandu",
+          "text": "Over the Vindhya hills."
+        },
+        {
+          "label": "Late morning",
+          "title": "Jahaz Mahal, Hindola Mahal and Hoshang Shah's tomb",
+          "text": "15th-century Afghan palaces between two lakes.",
+          "notes": [
+            [
+              "TIME",
+              "Monuments open sunrise to sunset."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rani Roopmati's Pavilion",
+          "text": "Views over the Narmada plains, then the drive back."
+        },
+        {
+          "label": "From about 21:00 · Sarafa Bazaar",
+          "title": "Night food market",
+          "text": "When the jewellers close, food stalls open: bhutte ka kees, garadu and malpua.",
+          "notes": [
+            [
+              "EAT",
+              "Garadu is fried yam, not suitable for Jain diets. Ask for bhutte ka kees instead."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Jahaz Mahal Mandu",
+        "Rani Roopmati Pavilion",
+        "Sarafa Bazaar Indore"
+      ],
+      "note": "Mandu is lovely in the monsoon, but hot from April to June.",
+      "route": [
+        "Jahaz Mahal Mandu",
+        "Rani Roopmati Pavilion",
+        "Sarafa Bazaar Indore"
+      ],
+      "photo_query": "Jahaz Mahal Mandu"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Ahmedabad: Gandhi's ashram and Manek Chowk",
+      "summary": "Flight to Ahmedabad, Sabarmati Ashram, the riverfront and Manek Chowk.",
+      "strip": [
+        "Flight about 1 hour",
+        "Manek Chowk food from about 20:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight Indore to Ahmedabad",
+          "text": "Check in on arrival."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Sabarmati Ashram",
+          "text": "Gandhi's home from 1917 to 1930.",
+          "notes": [
+            [
+              "TIME",
+              "Open daily about 08:30 to 18:30."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sabarmati Riverfront and Atal Bridge",
+          "text": "A walk at sunset."
+        },
+        {
+          "label": "From about 20:00 · Manek Chowk",
+          "title": "Night food square",
+          "text": "The vegetable market becomes a food court: pav bhaji, chocolate sandwiches and kulfi.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Sabarmati Ashram",
+        "Atal Bridge Ahmedabad",
+        "Manek Chowk"
+      ],
+      "note": "Gujarat is a dry state. Food everywhere is vegetarian-friendly.",
+      "route": [
+        "Sabarmati Ashram",
+        "Atal Bridge Ahmedabad",
+        "Manek Chowk"
+      ],
+      "photo_query": "Sabarmati Ashram"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Drive to Rajkot, our home town",
+      "summary": "Drive to Rajkot, lunch at Saraza and an evening of Rajkot street food.",
+      "strip": [
+        "About 220 km, 4 hours",
+        "Leave about 07:30"
+      ],
+      "rows": [
+        {
+          "label": "About 07:30",
+          "title": "Drive to Rajkot",
+          "text": "Breakfast at a highway Kathiyawadi stop."
+        },
+        {
+          "label": "Lunch · Saraza",
+          "title": "Modern Gujarati lunch",
+          "text": "A Rajkot restaurant blending traditional and contemporary Gujarati cooking.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 800 per person"
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Snack factory visit (by arrangement)",
+          "text": "See how Rajkot's famous farsan snacks are made, when a visit can be arranged."
+        },
+        {
+          "label": "Evening",
+          "title": "Rajkot street food",
+          "text": "Ghughra, chaat and Rajkot's chikki and ice-cream."
+        }
+      ],
+      "places": [
+        "Rajkot"
+      ],
+      "note": "Rajkot's shops close for an afternoon rest, about 13:00 to 16:00. Plan shopping for the evening.",
+      "photo_query": "Rajkot"
+    },
+    {
+      "pill": "Full day",
+      "title": "Gathiya-jalebi and a royal lunch in Gondal",
+      "summary": "Kathiyawadi breakfast, Gondal palaces and a royal lunch, and a Kathiyawadi thali dinner.",
+      "strip": [
+        "Gondal about 40 km, 1 hour",
+        "Back in Rajkot by evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Gathiya and jalebi breakfast",
+          "text": "Rajkot's classic breakfast at a street-side farsan shop.",
+          "meal": [
+            "Breakfast",
+            "Not included",
+            "About INR 150 per person"
+          ]
+        },
+        {
+          "label": "Late morning · Gondal",
+          "title": "Naulakha Palace and the vintage car collection",
+          "text": "The 17th-century palace of the Gondal royal family, and its cars and carriages."
+        },
+        {
+          "label": "Midday · Gondal",
+          "title": "Royal lunch",
+          "text": "A traditional Kathiyawadi meal at the Orchard or Riverside Palace, by arrangement.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "By arrangement"
+          ]
+        },
+        {
+          "label": "Evening · Rajkot",
+          "title": "Thakkar thali",
+          "text": "Bajra rotla, kadhi, sev tameta and chaas.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 400 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Naulakha Palace Gondal",
+        "Orchard Palace Gondal",
+        "Rajkot"
+      ],
+      "note": "Somnath is about 190 km from Rajkot, four hours each way. If you would like to see the evening aarti, add one night in Somnath.",
+      "route": [
+        "Naulakha Palace Gondal",
+        "Orchard Palace Gondal",
+        "Rajkot"
+      ],
+      "photo_query": "Naulakha Palace Gondal"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Mumbai: Colaba and a khau galli",
+      "summary": "Flight to Mumbai, Leopold Café, Colaba Causeway and a khau galli dinner.",
+      "strip": [
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight Rajkot to Mumbai",
+          "text": "From Rajkot's new Hirasar airport."
+        },
+        {
+          "label": "Lunch · Leopold Café, Colaba",
+          "title": "A Colaba institution from 1871",
+          "text": "Vegetarian sandwiches and fresh lime soda.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 800 per person"
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Colaba Causeway",
+          "text": "Street shopping.",
+          "notes": [
+            [
+              "CARE",
+              "Agree prices before buying and watch for pickpockets."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Khau galli dinner",
+          "text": "Vada pav, pav bhaji and bhel at Ghatkopar's khau galli (vegetarian) or Mohammed Ali Road (meat).",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Leopold Cafe",
+        "Colaba Causeway",
+        "Ghatkopar Khau Galli"
+      ],
+      "note": "Mumbai traffic is slow. Allow an hour between Colaba and Ghatkopar.",
+      "route": [
+        "Leopold Cafe",
+        "Colaba Causeway",
+        "Ghatkopar Khau Galli"
+      ],
+      "photo_query": "Leopold Cafe"
+    },
+    {
+      "pill": "Full day",
+      "title": "Irani cafés and a South Mumbai heritage walk",
+      "summary": "Kyani & Co. breakfast, a heritage walk, lunch at Britannia, Marine Drive and Juhu beach.",
+      "strip": [
+        "Walk about 3 km",
+        "Britannia closed Sundays"
+      ],
+      "rows": [
+        {
+          "label": "Morning · Kyani & Co.",
+          "title": "Irani café breakfast",
+          "text": "Bun maska, chai and mawa cake.",
+          "meal": [
+            "Breakfast",
+            "Not included",
+            "About INR 250 per person"
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "Heritage walk",
+          "text": "Gateway of India, Chhatrapati Shivaji Maharaj Terminus, the Fort precinct and the Kala Ghoda art district with a guide."
+        },
+        {
+          "label": "Lunch · Britannia & Co., Ballard Estate",
+          "title": "Parsi lunch",
+          "text": "Famous for berry pulao; vegetarians order the veg berry pulao and caramel custard.",
+          "notes": [
+            [
+              "TIME",
+              "Lunch only, closed on Sundays."
+            ]
+          ],
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 1,000 per person"
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Marine Drive",
+          "text": "Walk the Queen's Necklace."
+        },
+        {
+          "label": "Evening",
+          "title": "Juhu beach",
+          "text": "Pani puri, bhel and pav bhaji at the beach stalls.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Kyani and Co",
+        "Chhatrapati Shivaji Maharaj Terminus",
+        "Britannia and Co Restaurant",
+        "Marine Drive",
+        "Juhu Beach"
+      ],
+      "note": "Eat at the busiest stalls and choose dry snacks if your stomach is tired after two weeks.",
+      "route": [
+        "Kyani and Co",
+        "Chhatrapati Shivaji Maharaj Terminus",
+        "Britannia and Co Restaurant",
+        "Marine Drive",
+        "Juhu Beach"
+      ],
+      "photo_query": "Kyani and Co"
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Mumbai",
+      "summary": "Transfer to Mumbai airport.",
+      "strip": [
+        "Allow 1 to 1 hour 30 minutes to the airport"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Mumbai airport",
+          "text": "Your driver meets you in the lobby.",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight in Mumbai traffic."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Chhatrapati Shivaji Maharaj International Airport"
+      ],
+      "note": "Pack sweets and spices in your checked bag, not cabin bag.",
+      "photo_query": "Chhatrapati Shivaji Maharaj International Airport"
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked city hotels",
+    "room": "Deluxe rooms",
+    "meals": "Breakfast daily",
+    "area": "Delhi, Amritsar, Lucknow, Indore, Ahmedabad, Rajkot and Mumbai",
+    "about": "Central hotels chosen so the food streets are a short drive or walk away: near Connaught Place, the Golden Temple, Hazratganj and South Mumbai."
+  },
+  "included": [
+    "14 nights in the hotels listed or similar, with breakfast",
+    "Delhi to Amritsar train (AC Chair Car or Executive)",
+    "Private car with driver in every city and from Ahmedabad to Rajkot",
+    "Local guides for Old Delhi, Lucknow and the Mumbai heritage walk",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights between cities",
+    "Meals not marked included; we list costs as a guide",
+    "Entry fees and camera fees",
+    "Travel insurance"
+  ],
+  "best_time": "November to February, when the north is cool and food walks are a pleasure. Delhi is about 20° by day and 7° at night in January, and Mumbai about 30°. March is fine; avoid April to June (40° plus in the north) and the monsoon.",
+  "seasons": [
+    [
+      "November to February",
+      "Best",
+      "Cool north, warm west. Delhi fog can delay early trains in late December and January."
+    ],
+    [
+      "March",
+      "Good",
+      "Warming up; Holi festival."
+    ],
+    [
+      "April to September",
+      "Avoid",
+      "Very hot in the north, then monsoon."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Is this tour suitable for vegetarians and Jains?",
+      "a": "Yes. Every stop has pure-vegetarian options, and most of the food in Indore, Ahmedabad and Rajkot is vegetarian. For Jain diets we name what to avoid, such as potato in parathas and garadu in Indore."
+    },
+    {
+      "q": "Why the train to Amritsar?",
+      "a": "By road it is about 450 km and 9 hours. The Shatabdi or Vande Bharat takes about 6 hours, with meals, and leaves the evening free for the Golden Temple."
+    },
+    {
+      "q": "Can we add Somnath and Dwarka?",
+      "a": "Yes. Add one night in Somnath for the evening aarti, or two nights to include Dwarka, after Rajkot."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "India food tour",
+    "Delhi Amritsar Lucknow food tour",
+    "India culinary tour 15 days",
+    "Old Delhi food walk"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

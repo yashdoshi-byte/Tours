@@ -1,0 +1,741 @@
+{
+  "slug": "kashmir-offbeat-gurez-12-days",
+  "title": "Offbeat Kashmir in 12 Days: Gulmarg, Doodhpathri, Pahalgam, Daksum and the Gurez Valley",
+  "meta_title": "Offbeat Kashmir Tour 12 Days with Gurez & Daksum",
+  "meta_description": "12-day Kashmir itinerary beyond the usual: Gulmarg Gondola, Doodhpathri meadows, Pahalgam, Daksum and Sinthan Top, a Dal Lake shikara and the Gurez Valley.",
+  "destination": "Kashmir, India",
+  "country": "India",
+  "duration": "12 days / 11 nights",
+  "nights": 11,
+  "style": "Mountains · Meadows · Offbeat",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Kashmir meadow with pine forest",
+  "tagline": "Meadows, high passes and the hidden Gurez valley on the Kishanganga",
+  "facts": [
+    [
+      "Stay",
+      "Gulmarg, Doodhpathri, Pahalgam, Daksum, Srinagar, Gurez"
+    ],
+    [
+      "Highest point",
+      "Gondola Phase 2 about 3,950 m; Razdan Pass about 3,300 m"
+    ],
+    [
+      "Pace",
+      "Moderate, some long mountain drives"
+    ],
+    [
+      "Best months",
+      "May to October"
+    ],
+    [
+      "Transfers",
+      "Private car; local cabs where required"
+    ]
+  ],
+  "intro": "This plan goes beyond the classic Srinagar-Gulmarg-Pahalgam loop. After Gulmarg's gondola you stay in the quiet meadows of Doodhpathri, then in Pahalgam, and cross to the forested valley of Daksum for a day on Sinthan Top. After a night on Dal Lake you drive over Razdan Pass into Gurez, a valley of wooden villages on the Kishanganga that is cut off by snow for half the year. We tidied the original Day 6, which ran Pahalgam to Achabal to Daksum and back to Pahalgam: you now go one way, Pahalgam to Daksum via Achabal and Kokernag.",
+  "highlights": [
+    "Gulmarg Gondola to Kongdoori and Apharwat",
+    "Doodhpathri's meadow and river, still uncrowded",
+    "Pahalgam, Betaab Valley, Aru and Chandanwari",
+    "Achabal and Kokernag Mughal-era springs on the way to Daksum",
+    "A day on Sinthan Top pass",
+    "Dal Lake shikara ride",
+    "Gurez Valley: Habba Khatoon peak, Dawar and the Kishanganga up to Chakwali"
+  ],
+  "stays": [
+    {
+      "place": "Gulmarg",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Doodhpathri",
+      "nights": 1,
+      "hotel": "Huts or guesthouse"
+    },
+    {
+      "place": "Pahalgam",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Daksum",
+      "nights": 2,
+      "hotel": "Huts or forest lodge"
+    },
+    {
+      "place": "Srinagar",
+      "nights": 1,
+      "hotel": "Houseboat or hotel"
+    },
+    {
+      "place": "Gurez",
+      "nights": 2,
+      "hotel": "Guesthouse or camp"
+    },
+    {
+      "place": "Srinagar",
+      "nights": 1,
+      "hotel": "Hotel"
+    }
+  ],
+  "route": [
+    "Srinagar",
+    "Gulmarg",
+    "Doodhpathri",
+    "Pampore",
+    "Pahalgam",
+    "Achabal",
+    "Kokernag",
+    "Daksum",
+    "Sinthan Top",
+    "Srinagar",
+    "Razdan Pass",
+    "Dawar"
+  ],
+  "links": [
+    {
+      "title": "Gulmarg Gondola tickets (J&K Cable Car Corporation)",
+      "url": "https://www.gulmarggondola.com/"
+    },
+    {
+      "title": "Jammu & Kashmir Tourism (official)",
+      "url": "https://www.jktourism.jk.gov.in/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Land in Srinagar and drive up to Gulmarg",
+      "summary": "Arrival at Srinagar airport and drive to Gulmarg.",
+      "strip": [
+        "About 50 km, 1 hour 30 minutes",
+        "Gulmarg about 2,650 m"
+      ],
+      "rows": [
+        {
+          "label": "On landing · Srinagar airport (SXR)",
+          "title": "Meet your driver",
+          "text": "With a name sign outside arrivals."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Through Tangmarg to Gulmarg",
+          "text": "Pine forest and the meadow of flowers."
+        },
+        {
+          "label": "Evening",
+          "title": "Free in Gulmarg",
+          "text": "A walk to the St Mary's Church of 1902 and the Maharaja's palace."
+        }
+      ],
+      "places": [
+        "Sheikh ul Alam International Airport",
+        "Gulmarg"
+      ],
+      "note": "Book the Gondola online for tomorrow tonight if we have not already: tickets sell out in season.",
+      "route": [
+        "Sheikh ul Alam International Airport",
+        "Gulmarg"
+      ],
+      "photo_query": "Sheikh ul Alam International Airport"
+    },
+    {
+      "pill": "Full day",
+      "title": "Gulmarg Gondola and the meadows",
+      "summary": "Gondola to Kongdoori and Apharwat, and pony rides to the springs.",
+      "strip": [
+        "Gondola from about 09:00",
+        "Phase 2 about 3,950 m"
+      ],
+      "rows": [
+        {
+          "label": "About 09:00",
+          "title": "Gulmarg Gondola Phase 1",
+          "text": "From the resort to Kongdoori at about 3,080 m.",
+          "notes": [
+            [
+              "TIME",
+              "Book online in advance; counters sell only what is left. Phase 2 closes in high wind."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Phase 2 to Apharwat",
+          "text": "Snow even in June, with views to Nanga Parbat on clear days.",
+          "notes": [
+            [
+              "CARE",
+              "Thin air at the top. Walk slowly, and skip Phase 2 with heart or breathing problems."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pony ride to Seven Springs or Alpather Lake (optional)",
+          "text": "Fix the price and route before you mount.",
+          "notes": [
+            [
+              "MONEY",
+              "Pony and guide rates are fixed by the local association; ask your driver for the card."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Gulmarg Gondola Base Station",
+        "Kongdoori",
+        "Apharwat Peak"
+      ],
+      "note": "Wear warm layers for the top even in summer.",
+      "route": [
+        "Gulmarg Gondola Base Station",
+        "Kongdoori",
+        "Apharwat Peak"
+      ],
+      "photo_query": "Gulmarg Gondola Base Station"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Doodhpathri, the valley of milk",
+      "summary": "Drive to Doodhpathri and a day in its meadows.",
+      "strip": [
+        "About 80 km, 3 hours",
+        "Doodhpathri about 2,730 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive via Magam and Khansahib",
+          "text": "The last part of the road is rough."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Doodhpathri meadow",
+          "text": "Walk along the Shaliganga river through open grassland and pine."
+        },
+        {
+          "label": "Evening",
+          "title": "Quiet night in the meadow",
+          "text": "Simple stays only, mainly tourism huts and guesthouses."
+        }
+      ],
+      "places": [
+        "Doodhpathri"
+      ],
+      "note": "Doodhpathri has basic electricity and patchy signal. It is the most peaceful night of the trip.",
+      "photo_query": "Doodhpathri"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Saffron fields and Awantipora on the way to Pahalgam",
+      "summary": "Drive to Pahalgam via the saffron fields of Pampore and the Awantipora ruins.",
+      "strip": [
+        "About 150 km, 5 hours",
+        "Pahalgam about 2,200 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Pampore saffron fields",
+          "text": "Saffron flowers bloom in late October and early November.",
+          "notes": [
+            [
+              "BUY",
+              "Buy saffron only from government-registered or GI-tagged shops."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Awantipora temple ruins",
+          "text": "9th-century temples to Vishnu and Shiva, when open."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Along the Lidder River to Pahalgam",
+          "text": "Check in."
+        }
+      ],
+      "places": [
+        "Pampore",
+        "Avantiswami Temple",
+        "Pahalgam"
+      ],
+      "note": "Pahalgam has more security checks since 2025. Keep ID handy.",
+      "route": [
+        "Pampore",
+        "Avantiswami Temple",
+        "Pahalgam"
+      ],
+      "photo_query": "Pampore"
+    },
+    {
+      "pill": "Full day",
+      "title": "Aru, Betaab Valley and Chandanwari",
+      "summary": "Local union cab to Aru, Betaab Valley and Chandanwari.",
+      "strip": [
+        "Local cab required",
+        "Each place 10 to 16 km from Pahalgam"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Aru Valley",
+          "text": "A meadow village 12 km up the Lidder, base of the Kolahoi glacier trek.",
+          "notes": [
+            [
+              "MONEY",
+              "Your own car cannot go to these spots; a local union cab is hired at a fixed rate."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Betaab Valley",
+          "text": "A river meadow surrounded by pine."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chandanwari",
+          "text": "The start of the Amarnath Yatra trail, often with snow."
+        },
+        {
+          "label": "Evening",
+          "title": "Pahalgam market",
+          "text": "Kashmiri kahwa tea."
+        }
+      ],
+      "places": [
+        "Aru Valley",
+        "Betaab Valley",
+        "Chandanwari"
+      ],
+      "note": "Some meadows above Pahalgam, including Baisaran, were closed after the April 2025 attack. We only visit places open on the day.",
+      "route": [
+        "Aru Valley",
+        "Betaab Valley",
+        "Chandanwari"
+      ],
+      "photo_query": "Aru Valley"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Mughal springs of Achabal and Kokernag to Daksum",
+      "summary": "Drive to Daksum via Achabal and Kokernag gardens.",
+      "strip": [
+        "About 100 km, 3 to 4 hours",
+        "Daksum about 2,400 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Achabal Garden",
+          "text": "A Mughal garden around a spring, laid out by Nur Jahan."
+        },
+        {
+          "label": "Midday",
+          "title": "Kokernag",
+          "text": "Springs and trout ponds in a botanical garden."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Daksum",
+          "text": "A forest valley on the Bringi river."
+        }
+      ],
+      "places": [
+        "Achabal Gardens",
+        "Kokernag",
+        "Daksum"
+      ],
+      "note": "Daksum stays are forest huts and lodges, simple but clean.",
+      "route": [
+        "Achabal Gardens",
+        "Kokernag",
+        "Daksum"
+      ],
+      "photo_query": "Achabal Gardens"
+    },
+    {
+      "pill": "Full day",
+      "title": "Sinthan Top pass",
+      "summary": "Day trip from Daksum to Sinthan Top.",
+      "strip": [
+        "About 35 km each way, 1 hour 30 minutes",
+        "Sinthan Top about 3,750 m",
+        "Open about May to October"
+      ],
+      "rows": [
+        {
+          "label": "About 09:00",
+          "title": "Drive up to Sinthan Top",
+          "text": "Switchbacks through fir forest to snowfields."
+        },
+        {
+          "label": "Midday",
+          "title": "At the top",
+          "text": "Snow, wide views and a tea stall.",
+          "notes": [
+            [
+              "CARE",
+              "Spend under an hour at the top. Snow can close the road even in May and October."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Daksum",
+          "text": "Free evening."
+        }
+      ],
+      "places": [
+        "Sinthan Top"
+      ],
+      "note": "Carry gloves and sunglasses. Snow glare is strong at this height.",
+      "photo_query": "Sinthan Top"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Back to Srinagar and a Dal Lake shikara",
+      "summary": "Drive to Srinagar and a shikara ride on Dal Lake.",
+      "strip": [
+        "About 100 km, 3 hours",
+        "Shikara about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Srinagar",
+          "text": "Via Anantnag."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Mughal gardens (optional)",
+          "text": "Nishat Bagh and Shalimar Bagh along the lake."
+        },
+        {
+          "label": "Evening",
+          "title": "Shikara ride on Dal Lake",
+          "text": "Past floating gardens and market boats to Char Chinar island.",
+          "notes": [
+            [
+              "MONEY",
+              "Shikara rates are posted at each ghat. Agree the route and time first."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Nishat Bagh",
+        "Shalimar Bagh",
+        "Dal Lake"
+      ],
+      "note": "Tonight can be on a houseboat. Ask us for a deluxe houseboat with heating.",
+      "route": [
+        "Nishat Bagh",
+        "Shalimar Bagh",
+        "Dal Lake"
+      ],
+      "photo_query": "Nishat Bagh"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Over Razdan Pass into the Gurez Valley",
+      "summary": "Drive from Srinagar to Gurez via Wular Lake and Razdan Pass.",
+      "strip": [
+        "About 125 km, 6 hours",
+        "Razdan Pass about 3,300 m",
+        "Leave about 08:00"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Leave Srinagar",
+          "text": "Past Wular Lake, one of Asia's largest freshwater lakes."
+        },
+        {
+          "label": "Midday",
+          "title": "Razdan Pass",
+          "text": "Views of Harmukh and down into the valley.",
+          "notes": [
+            [
+              "CARE",
+              "Gurez is open to Indian citizens only; registration with original ID at the Army check-posts. Carry your ID."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Dawar",
+          "text": "Gurez's main village below Habba Khatoon peak."
+        }
+      ],
+      "places": [
+        "Wular Lake",
+        "Razdan Pass",
+        "Dawar Gurez"
+      ],
+      "note": "Gurez is close to the Line of Control. Follow your driver's and the Army's instructions and do not photograph military posts.",
+      "route": [
+        "Wular Lake",
+        "Razdan Pass",
+        "Dawar Gurez"
+      ],
+      "photo_query": "Wular Lake"
+    },
+    {
+      "pill": "Full day",
+      "title": "Along the Kishanganga to Chakwali",
+      "summary": "Explore the Gurez valley up to Chakwali and back to Dawar.",
+      "strip": [
+        "Drives on mountain roads",
+        "Back in Dawar by evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Habba Khatoon spring and the Kishanganga",
+          "text": "The pyramid peak named after the 16th-century Kashmiri poet-queen."
+        },
+        {
+          "label": "Midday",
+          "title": "Wooden villages of the Dard-Shina people",
+          "text": "Log houses, waterfalls and fields along the river up to Chakwali."
+        },
+        {
+          "label": "Evening",
+          "title": "Back to Dawar",
+          "text": "Bonfire at camp, where allowed."
+        }
+      ],
+      "places": [
+        "Habba Khatoon Peak",
+        "Chakwali Gurez"
+      ],
+      "note": "Jio, BSNL and Airtel postpaid work in Dawar, with weak data.",
+      "route": [
+        "Habba Khatoon Peak",
+        "Chakwali Gurez"
+      ],
+      "photo_query": "Habba Khatoon Peak"
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Back to Srinagar",
+      "summary": "Drive back to Srinagar.",
+      "strip": [
+        "About 125 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "After breakfast",
+          "title": "Drive over Razdan Pass",
+          "text": "Check in to your Srinagar hotel."
+        },
+        {
+          "label": "Evening",
+          "title": "Lal Chowk or Polo View market",
+          "text": "Pashmina, papier-mâché and walnut wood.",
+          "notes": [
+            [
+              "BUY",
+              "Buy pashmina with a GI-tag label from government emporiums."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Srinagar"
+      ],
+      "note": "Pack tonight. Airport security in Srinagar has two checks and is slow.",
+      "photo_query": "Srinagar"
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Srinagar",
+      "summary": "Transfer to Srinagar airport.",
+      "strip": [
+        "About 15 km, 45 minutes plus security"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Srinagar airport",
+          "text": "Leave at least 3 hours before departure.",
+          "notes": [
+            [
+              "TIME",
+              "There is a security check at the airport gate and another at the terminal. Do not cut it close."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Sheikh ul Alam International Airport"
+      ],
+      "note": "Hand-carry saffron and dry fruit in sealed packs.",
+      "photo_query": "Sheikh ul Alam International Airport"
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked hotels, huts and guesthouses",
+    "room": "Best available rooms",
+    "meals": "Breakfast and dinner",
+    "area": "Gulmarg, Doodhpathri, Pahalgam, Daksum, Srinagar and Gurez",
+    "about": "Comfortable hotels in Gulmarg, Pahalgam and Srinagar. Doodhpathri, Daksum and Gurez have only simple huts, lodges and guesthouses: clean and warm, but basic."
+  },
+  "included": [
+    "11 nights in the stays listed, with breakfast and dinner",
+    "Private car for all transfers and sightseeing (excluding union-cab sectors)",
+    "Shikara ride on Dal Lake",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights",
+    "Gulmarg Gondola tickets (paid directly, subject to availability)",
+    "Local union cabs at Pahalgam and Gulmarg",
+    "Pony rides",
+    "Lunches and entry fees",
+    "Travel insurance"
+  ],
+  "entry": [
+    [
+      "Gurez registration",
+      "Registration with original ID at Army check-posts",
+      "Indian citizens only",
+      ""
+    ],
+    [
+      "Original photo ID",
+      "Carry it every day; checked often",
+      "Everyone",
+      ""
+    ],
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "best_time": "May to October. Gurez and Sinthan Top open only when the snow clears, usually from May or June to October. September and October are clear and golden, with saffron in bloom by late October.",
+  "seasons": [
+    [
+      "May to June",
+      "Good",
+      "Meadows green, snow on the passes; Gurez opening."
+    ],
+    [
+      "July to August",
+      "Good",
+      "Warm days; Amarnath Yatra crowds in Pahalgam."
+    ],
+    [
+      "September to October",
+      "Best",
+      "Clear skies, autumn colours, saffron harvest."
+    ],
+    [
+      "November to April",
+      "Winter",
+      "Gurez and Sinthan Top closed; Gulmarg is for skiing."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Is Kashmir safe to visit now?",
+      "a": "The tourist areas on this route are heavily secured, and visitors continue to travel. After the April 2025 attack in Pahalgam some meadows were closed. We follow government advisories daily and change the plan if needed."
+    },
+    {
+      "q": "Can foreign nationals visit Gurez?",
+      "a": "No. Gurez is open only to Indian citizens. Foreign guests can spend the extra days in Sonamarg instead."
+    },
+    {
+      "q": "Do I need to pay extra at Pahalgam and Gulmarg?",
+      "a": "Yes. Local union cabs, pony rides and the Gondola are paid directly. We give you the official rate cards in advance."
+    },
+    {
+      "q": "Can I stay on a houseboat?",
+      "a": "Yes. We recommend one night on a deluxe Dal Lake houseboat."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    }
+  ],
+  "related_keywords": [
+    "offbeat Kashmir tour",
+    "Gurez valley tour",
+    "Kashmir 11 nights itinerary",
+    "Daksum Sinthan Top"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

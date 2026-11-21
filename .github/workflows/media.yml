@@ -51,4 +51,11 @@ jobs:
           git add media data/cache docs
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
           git commit -m "Update tour media: photos, pins, routes and maps"
-          git push
+          if ! git push; then
+            # Someone pushed while this ran. That push starts its own run, which publishes instead.
+            git fetch -q origin "$GITHUB_REF_NAME"
+            if [ "$(git rev-parse FETCH_HEAD)" != "$GITHUB_SHA" ]; then
+              echo "The branch moved on during this run; the newer run will commit the media."; exit 0
+            fi
+            exit 1
+          fi

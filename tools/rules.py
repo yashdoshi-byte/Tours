@@ -60,7 +60,9 @@ def check_tour(t, m):
             W.append(f"day {i}: no concierge note")
         if not d.get("places"):
             W.append(f"day {i}: no places to pin on Google Maps")
-        if len(d.get("route") or []) >= 2 and not d.get("_map"):
+        if d.get("_unverified"):
+            W.append(f"day {i}: no route map until these pins are fixed: {', '.join(d['_unverified'])}")
+        elif len(d.get("route") or []) >= 2 and not d.get("_map"):
             W.append(f"day {i}: no route map yet. Run tools/media.py")
         if (d.get("photo_query") or d.get("photo")) and not d.get("_photo"):
             W.append(f"day {i}: no photo yet. Run tools/media.py")

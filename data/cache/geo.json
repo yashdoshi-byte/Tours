@@ -1,0 +1,340 @@
+{
+ "id|Goa Raja Waterfall": {
+  "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
+  "lat": -8.43843,
+  "lon": 115.37233,
+  "osm_name": "Goa Raja waterfall",
+  "type": "waterway/waterfall"
+ },
+ "id|Jimbaran Beach": {
+  "found": "Jimbaran Beach, Jalan Bukit Permai, Jimbaran, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.78089,
+  "lon": 115.16392,
+  "osm_name": "Jimbaran Beach",
+  "type": "natural/beach"
+ },
+ "id|Ngurah Rai International Airport": {
+  "found": "Ngurah Rai International Airport, Jalan Cucak Rowo, Tuban, Denpasar, Badung, Bali, 80361, Indonesia",
+  "lat": -8.74652,
+  "lon": 115.16737,
+  "osm_name": "Ngurah Rai International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "id|Nusa Dua": {
+  "found": "Nusa Dua, Kuta Selatan, Badung, Bali, 80363, Indonesia",
+  "lat": -8.80168,
+  "lon": 115.22393,
+  "osm_name": "Nusa Dua",
+  "type": "place/region"
+ },
+ "id|Nusa Dua Beach": {
+  "found": "Nusa Dua Beach, Gang Badak, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.78846,
+  "lon": 115.23022,
+  "osm_name": "Nusa Dua Beach",
+  "type": "natural/beach"
+ },
+ "id|Pura Lempuyang Luhur": {
+  "found": "Pura Lempuyang Luhur, Temple Path Steps, Tri Buana, Abang, Karangasem, Bali, 80852, Indonesia",
+  "lat": -8.39519,
+  "lon": 115.64806,
+  "osm_name": "Pura Lempuyang Luhur",
+  "type": "amenity/place_of_worship"
+ },
+ "id|Sacred Monkey Forest Sanctuary": {
+  "found": "Sacred Monkey Forest Sanctuary, Ubud, Mas, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.51873,
+  "lon": 115.25832,
+  "osm_name": "Sacred Monkey Forest Sanctuary",
+  "type": "leisure/nature_reserve"
+ },
+ "id|Tanah Lot": {
+  "found": "Tanah Lot Temple, Jalan Enjung Pura, Batugaing, Beraban, Kediri, Tabanan, Bali, 82121, Indonesia",
+  "lat": -8.62123,
+  "lon": 115.08688,
+  "osm_name": "Tanah Lot Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "id|Tanjung Benoa": {
+  "found": "Tanjung Benoa, Jalan Taman Sari, Tanjung Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.76574,
+  "lon": 115.22326,
+  "osm_name": "Tanjung Benoa",
+  "type": "natural/beach"
+ },
+ "id|Tegalalang Rice Terrace": {
+  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.42855,
+  "lon": 115.27988,
+  "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
+ "id|The Crystal Luxury Bay Resort Nusa Dua": null,
+ "id|Tirta Gangga": {
+  "found": "Tirta Gangga, Jalan Palapa, Kelurahan Matawai, Kecamatan Kota Waingapu, Sumba Timur, East Nusa Tenggara, 87111, Indonesia",
+  "lat": -9.65579,
+  "lon": 120.26173,
+  "osm_name": "Tirta Gangga",
+  "type": "shop/variety_store"
+ },
+ "id|Ubud": {
+  "found": "Ubud District, Gianyar, Bali, Indonesia",
+  "lat": -8.51702,
+  "lon": 115.25505,
+  "osm_name": "Ubud District",
+  "type": "boundary/administrative"
+ },
+ "id|Ubud Art Market": {
+  "found": "Art market, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50654,
+  "lon": 115.26165,
+  "osm_name": "Art market",
+  "type": "shop/variety_store"
+ },
+ "id|Ubud Palace": {
+  "found": "Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50695,
+  "lon": 115.26274,
+  "osm_name": "Ubud Palace",
+  "type": "highway/bus_stop"
+ },
+ "id|Uluwatu Temple": {
+  "found": "Uluwatu Temple, Jalan Raya Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.82937,
+  "lon": 115.08434,
+  "osm_name": "Uluwatu Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Goa Raja Waterfall": {
+  "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
+  "lat": -8.43843,
+  "lon": 115.37233,
+  "osm_name": "Goa Raja waterfall",
+  "type": "waterway/waterfall"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Jimbaran Beach": {
+  "found": "Jimbaran Beach, Jalan Bukit Permai, Jimbaran, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.78089,
+  "lon": 115.16392,
+  "osm_name": "Jimbaran Beach",
+  "type": "natural/beach"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ngurah Rai International Airport": {
+  "found": "Ngurah Rai International Airport, Jalan Bandara Ngurah Rai, Tuban, Denpasar, Badung, Bali, 80361, Indonesia",
+  "lat": -8.74652,
+  "lon": 115.16737,
+  "osm_name": "Ngurah Rai International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua": {
+  "found": "Nusa Dua, Kuta Selatan, Badung, Bali, 80363, Indonesia",
+  "lat": -8.80168,
+  "lon": 115.22393,
+  "osm_name": "Nusa Dua",
+  "type": "place/region"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua Beach": {
+  "found": "Nusa Dua Beach, Jalan Pratama, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.78846,
+  "lon": 115.23022,
+  "osm_name": "Nusa Dua Beach",
+  "type": "natural/beach"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Pura Lempuyang Luhur": {
+  "found": "Pura Lempuyang Luhur, Temple Path Steps, Tri Buana, Abang, Karangasem, Bali, 80852, Indonesia",
+  "lat": -8.39519,
+  "lon": 115.64806,
+  "osm_name": "Pura Lempuyang Luhur",
+  "type": "amenity/place_of_worship"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Sacred Monkey Forest Sanctuary": {
+  "found": "Sacred Monkey Forest Sanctuary, Ubud, Mas, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.51873,
+  "lon": 115.25832,
+  "osm_name": "Sacred Monkey Forest Sanctuary",
+  "type": "leisure/nature_reserve"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tanah Lot": {
+  "found": "Tanah Lot Temple, Jalan Enjung Pura, Batugaing, Beraban, Kediri, Tabanan, Bali, 82121, Indonesia",
+  "lat": -8.62123,
+  "lon": 115.08688,
+  "osm_name": "Tanah Lot Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tanjung Benoa": {
+  "found": "Tanjung Benoa, Gang Guntur, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.76574,
+  "lon": 115.22326,
+  "osm_name": "Tanjung Benoa",
+  "type": "natural/beach"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terrace": {
+  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.42855,
+  "lon": 115.27988,
+  "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tirta Gangga": {
+  "found": "Gang Tirta Gangga, Panjer, South Denpasar, Denpasar, Bali, 80225, Indonesia",
+  "lat": -8.6763,
+  "lon": 115.22761,
+  "osm_name": "Gang Tirta Gangga",
+  "type": "highway/residential"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ubud": {
+  "found": "Ubud District, Gianyar, Bali, Indonesia",
+  "lat": -8.51702,
+  "lon": 115.25505,
+  "osm_name": "Ubud District",
+  "type": "boundary/administrative"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ubud Art Market": {
+  "found": "Art market, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50654,
+  "lon": 115.26165,
+  "osm_name": "Art market",
+  "type": "shop/variety_store"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ubud Palace": {
+  "found": "Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50695,
+  "lon": 115.26274,
+  "osm_name": "Ubud Palace",
+  "type": "highway/bus_stop"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Uluwatu Temple": {
+  "found": "Uluwatu Temple, Jalan Raya Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.82937,
+  "lon": 115.08434,
+  "osm_name": "Uluwatu Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ceking Rice Terrace": null,
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Goa Raja Waterfall": {
+  "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
+  "lat": -8.43843,
+  "lon": 115.37233,
+  "osm_name": "Goa Raja waterfall",
+  "type": "waterway/waterfall"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Jimbaran Beach": {
+  "found": "Jimbaran Beach, Jalan Bukit Permai, Jimbaran, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.78089,
+  "lon": 115.16392,
+  "osm_name": "Jimbaran Beach",
+  "type": "natural/beach"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ngurah Rai International Airport": {
+  "found": "Ngurah Rai International Airport, Jalan Bandara Ngurah Rai, Tuban, Denpasar, Badung, Bali, 80361, Indonesia",
+  "lat": -8.74652,
+  "lon": 115.16737,
+  "osm_name": "Ngurah Rai International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua": {
+  "found": "Nusa Dua, Kuta Selatan, Badung, Bali, 80363, Indonesia",
+  "lat": -8.80168,
+  "lon": 115.22393,
+  "osm_name": "Nusa Dua",
+  "type": "place/region"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua Beach": {
+  "found": "Nusa Dua Beach, Jalan Pratama, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.78846,
+  "lon": 115.23022,
+  "osm_name": "Nusa Dua Beach",
+  "type": "natural/beach"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Pura Lempuyang Luhur": {
+  "found": "Pura Lempuyang Luhur, Temple Path Steps, Tri Buana, Abang, Karangasem, Bali, 80852, Indonesia",
+  "lat": -8.39519,
+  "lon": 115.64806,
+  "osm_name": "Pura Lempuyang Luhur",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Puri Saren Agung": {
+  "found": "Puri Saren Agung Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50672,
+  "lon": 115.26271,
+  "osm_name": "Puri Saren Agung Ubud Palace",
+  "type": "tourism/attraction"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Sacred Monkey Forest Sanctuary": {
+  "found": "Sacred Monkey Forest Sanctuary, Ubud, Mas, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.51873,
+  "lon": 115.25832,
+  "osm_name": "Sacred Monkey Forest Sanctuary",
+  "type": "leisure/nature_reserve"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Taman Tirta Gangga": {
+  "found": "Taman tirta gangga parkir area, 1, Padang Kerta, Ababi, Abang, Karangasem, Bali, 80861, Indonesia",
+  "lat": -8.41132,
+  "lon": 115.58805,
+  "osm_name": "Taman tirta gangga parkir area",
+  "type": "amenity/parking"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tanah Lot": {
+  "found": "Tanah Lot Temple, Jalan Enjung Pura, Batugaing, Beraban, Kediri, Tabanan, Bali, 82121, Indonesia",
+  "lat": -8.62123,
+  "lon": 115.08688,
+  "osm_name": "Tanah Lot Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tanjung Benoa": {
+  "found": "Tanjung Benoa, Gang Guntur, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.76574,
+  "lon": 115.22326,
+  "osm_name": "Tanjung Benoa",
+  "type": "natural/beach"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tegalalang Rice Terrace": {
+  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.42855,
+  "lon": 115.27988,
+  "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terrace": {
+  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.42855,
+  "lon": 115.27988,
+  "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terraces": {
+  "found": "Tegallalang Rice Terraces, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.43358,
+  "lon": 115.27946,
+  "osm_name": "Tegallalang Rice Terraces",
+  "type": "landuse/farmland"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ubud": {
+  "found": "Ubud District, Gianyar, Bali, Indonesia",
+  "lat": -8.51702,
+  "lon": 115.25505,
+  "osm_name": "Ubud District",
+  "type": "boundary/administrative"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ubud Art Market": {
+  "found": "Art market, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50654,
+  "lon": 115.26165,
+  "osm_name": "Art market",
+  "type": "shop/variety_store"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ubud Palace": {
+  "found": "Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50695,
+  "lon": 115.26274,
+  "osm_name": "Ubud Palace",
+  "type": "highway/bus_stop"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Uluwatu Temple": {
+  "found": "Uluwatu Temple, Jalan Raya Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.82937,
+  "lon": 115.08434,
+  "osm_name": "Uluwatu Temple",
+  "type": "amenity/place_of_worship"
+ }
+}

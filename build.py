@@ -24,8 +24,9 @@ if OUT.exists():
     shutil.rmtree(OUT)
 (OUT / "assets").mkdir(parents=True)
 shutil.copy(ROOT / "assets/style.css", OUT / "assets/style.css")
-if (ROOT / "assets/img").is_dir():
-    shutil.copytree(ROOT / "assets/img", OUT / "assets/img")
+shutil.copy(ROOT / "assets/site.js", OUT / "assets/site.js")
+shutil.copytree(ROOT / "assets/logo", OUT / "assets/logo")
+shutil.copytree(ROOT / "assets/deco", OUT / "assets/deco")
 (OUT / ".nojekyll").write_text("")
 
 STRICT = "--strict" in sys.argv
@@ -39,8 +40,8 @@ def coords_of(m, name):
 
 def directions(t, m, stops):
     """Google Maps driving directions through the day's stops, by exact coordinates where known."""
-    pts = [coords_of(m, n) or f'{n}, {t["destination"]}' for n in stops]
-    if len(pts) < 2:
+    pts = [coords_of(m, n) for n in stops]
+    if len(pts) < 2 or not all(pts):  # directions only through verified pins
         return None
     q = {"api": 1, "origin": pts[0], "destination": pts[-1], "travelmode": "driving"}
     if len(pts) > 2:
@@ -57,12 +58,20 @@ for t in tours:
         for f in (ROOT / "media" / t["slug"]).glob("*.webp"):
             shutil.copy(f, dst / f.name)
     t["_media"] = m
+    pts = list(m.get("coords", {}).values())  # verified pins only
+    if pts:  # where the trip is, on the 84N to 58S world map in the cover
+        lat = sum(p[0] for p in pts) / len(pts); lon = sum(p[1] for p in pts) / len(pts)
+        t["_pin"] = (round((lon + 180) / 360 * 100, 2), round((84 - lat) / 142 * 100, 2))
+    for ph in [v.get("photo") for v in m["days"].values()] + list(m.get("photos", {}).values()):
+        if ph:  # credit names only: no raw links in the caption
+            ph["author"] = re.sub(r"\s+", " ", re.sub(r"https?://\S+", "", ph.get("author") or "")).strip(" ,;-") or ph.get("provider", "")
     for i, d in enumerate(t["days"], 1):
         dm = m["days"].get(str(i), {})
         d["_map"], d["_photo"], d["_km"] = dm.get("map"), dm.get("photo"), dm.get("km")
+        d["_unverified"] = dm.get("unverified")
         d["_stops"] = dm.get("stops") or d.get("route") or []
         d["_directions"] = directions(t, m, d.get("route") or [])
-    credits = [dict(m["days"][k]["photo"], where=f"Day {k}") for k in sorted(m["days"], key=int) if m["days"][k].get("photo")]
+    credits = [dict(m["days"][k]["photo"], where=t["days"][int(k) - 1].get("photo_caption") or f"Day {k}") for k in sorted(m["days"], key=int) if m["days"][k].get("photo")]
     credits += [dict(v, where="Where you stay") for v in m.get("photos", {}).values()]
     t["_credits"] = credits
     t["_hotel_photo"] = m.get("photos", {}).get("hotel-1")
@@ -91,10 +100,11 @@ for t in tours:
         {"@type": "ListItem", "position": 1, "name": "Home", "item": site["main_site"] + "/"},
         {"@type": "ListItem", "position": 2, "name": "Tours", "item": base},
         {"@type": "ListItem", "position": 3, "name": t["title"], "item": url}]}
+    # no FAQPage schema: the FAQs are not shown on the client page
     html = env.get_template("tour.html").render(
         site=site, t=t, root="../", canonical=url, og_type="article", og_image=t["hero_image"],
         meta_title=t["meta_title"], meta_description=t["meta_description"],
-        jsonld=[dump(trip), dump(faq), dump(crumbs)], others=[o for o in tours if o["slug"] != t["slug"]][:3])
+        jsonld=[dump(trip), dump(crumbs)], others=[o for o in tours if o["slug"] != t["slug"]][:3])
     d = OUT / t["slug"]; d.mkdir()
     (d / "index.html").write_text(html)
 

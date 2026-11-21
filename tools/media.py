@@ -63,44 +63,76 @@ def words(s):
     return {w for w in re.findall(r"[a-z0-9]+", s.lower()) if len(w) > 2 and w not in GENERIC}
 
 
+def in_bbox(t, lat, lon):
+    b = t.get("bbox")  # [south, west, north, east]
+    return not b or (b[0] <= lat <= b[2] and b[1] <= lon <= b[3])
+
+
 def nominatim(q, t):
     params = {"q": q, "format": "jsonv2", "limit": 5, "addressdetails": 1, "accept-language": "en"}
     if t.get("country_code"):
         params["countrycodes"] = t["country_code"]
+    if t.get("bbox"):  # search only inside the tour's area
+        s_, w, n, e = t["bbox"]
+        params.update(viewbox=f"{w},{n},{e},{s_}", bounded=1)
     polite("nominatim", 1.1)
     r = S.get("https://nominatim.openstreetmap.org/search", params=params, timeout=30)
     r.raise_for_status()
     return r.json()
 
 
-def geocode(name, t, geo, refresh):
-    """Coordinates for a place, with a record of how sure we are."""
-    if name in t.get("geo", {}):
-        lat, lon = t["geo"][name][:2]
-        CHECKS[name] = {"lat": lat, "lon": lon, "found": "Pinned by hand in the tour file", "type": "",
-                        "status": "PINNED"}
-        return [lat, lon]
-    key = f'{t.get("country_code", "")}|{name}'
+def lookup(name, query, t, geo, refresh):
+    """One OpenStreetMap search. Returns (record, status, why)."""
+    key = f'v2|{t.get("country_code", "")}|{t.get("bbox", "")}|{query}'
     if key not in geo or refresh or not isinstance(geo[key], dict):
-        hits = nominatim(name, t)
+        hits = nominatim(query, t)
         if not hits and t.get("destination"):  # try again with the region added
-            hits = nominatim(f'{name}, {t["destination"]}', t)
-        want = words(name)
-        # prefer the hit whose own name shares the most distinctive words with ours
-        best = max(hits, key=lambda h: (len(want & words(h.get("name") or "")), -hits.index(h)), default=None)
+            hits = nominatim(f'{query}, {t["destination"]}', t)
+        want = words(query)
+        # prefer a real place (not a street) whose own name shares the most distinctive words with ours
+        best = max(hits, key=lambda h: (h.get("category") != "highway", len(want & words(h.get("name") or "")),
+                                        -hits.index(h)), default=None)
         geo[key] = None if not best else {
             "lat": round(float(best["lat"]), 5), "lon": round(float(best["lon"]), 5),
             "found": best.get("display_name", ""), "osm_name": best.get("name") or "",
             "type": f'{best.get("category", "")}/{best.get("type", "")}'}
     g = geo[key]
     if not g:
+        return None, "NOT FOUND", ""
+    want = words(query)
+    # the place's OWN name must match: a match in the address ("…, Tegallalang, Gianyar") is not enough
+    if want and len(want & words(g["osm_name"])) < max(1, (len(want) + 1) // 2):
+        return g, "CHECK", "the name it found does not match ours"
+    if g["type"].startswith("highway/") and not re.search(r"\b(jalan|jl|road|street|gang)\b", name, re.I):
+        return g, "CHECK", "OpenStreetMap returned a street with this name"
+    if not in_bbox(t, g["lat"], g["lon"]):
+        return g, "CHECK", "outside the tour's area"
+    return g, "OK", ""
+
+
+def geocode(name, t, geo, refresh):
+    """Coordinates for a place, with a record of how sure we are."""
+    if name in t.get("geo", {}):
+        g = t["geo"][name]
+        lat, lon = g[:2]
+        src = g[2] if len(g) > 2 else "the tour file"
+        CHECKS[name] = {"lat": lat, "lon": lon, "found": f"Pinned by hand from {src}", "type": "",
+                        "status": "PINNED" if in_bbox(t, lat, lon) else "CHECK"}
+        return [lat, lon]
+    queries = t.get("geo_query", {}).get(name, name)
+    queries = [queries] if isinstance(queries, str) else list(queries)
+    tried = []
+    for query in queries:  # several spellings may be given: the first one that verifies wins
+        g, status, why = lookup(name, query, t, geo, refresh)
+        tried.append((g, status, why))
+        if status == "OK":
+            break
+    g, status, why = next((x for x in tried if x[1] == "OK"), tried[0])
+    if not g:
         CHECKS[name] = {"status": "NOT FOUND", "found": "", "type": "", "lat": None, "lon": None}
         print(f"  ✗ place {name!r}: NOT FOUND. Pin it under \"geo\" in the tour file.")
         return None
-    want = words(name)
-    matched = want & (words(g["osm_name"]) | words(g["found"]))
-    status = "OK" if (not want or len(matched) >= max(1, len(want) // 2)) else "CHECK"
-    CHECKS[name] = dict(g, status=status)
+    CHECKS[name] = dict(g, status=status, why=why)
     mark = "✓" if status == "OK" else "⚠"
     print(f'  {mark} place {name!r:50} -> {g["lat"]}, {g["lon"]}  {g["found"][:70]}')
     return [g["lat"], g["lon"]]
@@ -194,19 +226,20 @@ def font(size):
     return ImageFont.load_default(size=size)
 
 
-def draw_map(points, line, path, labels=None, size=(1200, 760), numbered=True):
-    """points: [(lat, lon)] in order. line: [(lat, lon)] road geometry or None. labels: a name per point."""
+def render(points, line, labels, size, fit=None, nums=None, attribution=True, max_zoom=14):
+    """Draw one map. points: [(lat, lon)]; line: road geometry or None; fit: the points to frame
+    (default: everything); nums: the number printed on each point (default 1, 2, 3...)."""
     W, H = size
-    allp = list(points) + list(line or [])
-    pad = 150 if labels else 90
-    z = 16
+    fitp = list(fit) if fit else list(points) + list(line or [])
+    pad = 150 if labels and W > 700 else 45
+    z = 17
     while z > 2:
-        xs, ys = zip(*(px(a, b, z) for a, b in allp))
+        xs, ys = zip(*(px(a, b, z) for a, b in fitp))
         if max(xs) - min(xs) <= W - 2 * pad and max(ys) - min(ys) <= H - 2 * pad:
             break
         z -= 1
-    z = min(z, 14)
-    xs, ys = zip(*(px(a, b, z) for a, b in allp))
+    z = min(z, max_zoom)
+    xs, ys = zip(*(px(a, b, z) for a, b in fitp))
     cx, cy = (max(xs) + min(xs)) / 2, (max(ys) + min(ys)) / 2
     x0, y0 = cx - W / 2, cy - H / 2
     img = Image.new("RGB", (W, H), "#e8eef3")
@@ -214,34 +247,38 @@ def draw_map(points, line, path, labels=None, size=(1200, 760), numbered=True):
         for ty in range(int(y0 // 256), int((y0 + H) // 256) + 1):
             if 0 <= ty < 2 ** z:
                 img.paste(tile(z, tx, ty), (int(tx * 256 - x0), int(ty * 256 - y0)))
-    # soften the base map so the route reads first
-    img = Image.blend(img, Image.new("RGB", (W, H), "#ffffff"), 0.25)
+    img = Image.blend(img, Image.new("RGB", (W, H), "#ffffff"), 0.25)  # soften so the route reads first
     d = ImageDraw.Draw(img)
     to = lambda a, b: (px(a, b, z)[0] - x0, px(a, b, z)[1] - y0)
-    route = [to(a, b) for a, b in (line or points)]
+    route = [to(a, b) for a, b in line] if line else []
     if len(route) > 1:
         d.line(route, fill="#ffffff", width=9, joint="curve")
-        d.line(route, fill="#be2e21" if line else "#0b4f8a", width=5, joint="curve")
-    f = font(22)
-    fl = font(20)
-    seen, boxes, marks = {}, [], []
-    for i, (a, b) in enumerate(points, 1):
+        d.line(route, fill="#be2e21", width=5, joint="curve")
+    nums = nums or list(range(1, len(points) + 1))
+    f, fl = font(22 if W > 700 else 19), font(20 if W > 700 else 17)
+    groups = {}  # pins within 30 px share one marker: "3/4"
+    for n, (a, b), lab in zip(nums, points, labels or [""] * len(points)):
         x, y = to(a, b)
-        k = (round(x / 6), round(y / 6))
-        if k in seen:  # same pin twice (a round trip): one marker, both numbers
+        if not (-40 < x < W + 40 and -40 < y < H + 40):
             continue
-        same = [j for j, p in enumerate(points, 1) if (round(to(*p)[0] / 6), round(to(*p)[1] / 6)) == k]
-        seen[k] = True
-        label = "/".join(map(str, same)) if numbered else ""
-        r = 17 if len(label) < 3 else 24
-        marks.append((x, y, r, label, labels[i - 1] if labels else ""))
+        key = next((k for k in groups if abs(k[0] - x) < 30 and abs(k[1] - y) < 30), (x, y))
+        g = groups.setdefault(key, {"n": [], "names": []})
+        if n not in g["n"]:
+            g["n"].append(n)
+        if lab and lab not in g["names"]:
+            g["names"].append(lab)
+    marks, boxes = [], []
+    for (x, y), g in groups.items():
+        label = "/".join(map(str, g["n"]))
+        r = 17 if len(label) < 3 else 26
+        marks.append((x, y, r, label, " · ".join(g["names"])))
         boxes.append((x - r - 3, y - r - 3, x + r + 3, y + r + 3))
-    # name labels: try right, left, below, above; never on top of another pin or label
     hit = lambda bx: any(not (bx[2] < o[0] or bx[0] > o[2] or bx[3] < o[1] or bx[1] > o[3]) for o in boxes)
-    for x, y, r, _, name in marks:
+    unplaced = []
+    for x, y, r, num, name in marks:  # labels: right, left, below, above; never over a pin or label
         if not name:
             continue
-        name = name if len(name) <= 34 else name[:33] + "…"
+        name = name if len(name) <= 44 else name[:43] + "…"
         tw = d.textlength(name, font=fl) + 16
         for bx in ((x + r + 6, y - 16, x + r + 6 + tw, y + 16), (x - r - 6 - tw, y - 16, x - r - 6, y + 16),
                    (x - tw / 2, y + r + 6, x + tw / 2, y + r + 38), (x - tw / 2, y - r - 38, x + tw / 2, y - r - 6)):
@@ -250,20 +287,52 @@ def draw_map(points, line, path, labels=None, size=(1200, 760), numbered=True):
                 d.text((bx[0] + 7, (bx[1] + bx[3]) / 2), name, fill="#0d2238", font=fl, anchor="lm")
                 boxes.append(bx)
                 break
+        else:
+            unplaced.append(num)
     for x, y, r, label, _ in marks:
         d.ellipse((x - r - 3, y - r - 3, x + r + 3, y + r + 3), fill="#ffffff")
         d.ellipse((x - r, y - r, x + r, y + r), fill="#0d2238")
-        if label:
-            d.text((x, y), label, fill="#ffffff", font=f, anchor="mm")
-    # attribution required by the OpenStreetMap licence
-    att = "© OpenStreetMap contributors"
-    fa = font(14)
-    tw = d.textlength(att, font=fa)
-    d.rectangle((W - tw - 16, H - 26, W, H), fill="#ffffff")
-    d.text((W - tw - 8, H - 13), att, fill="#333333", font=fa, anchor="lm")
+        d.text((x, y), label, fill="#ffffff", font=f if len(label) < 4 else font(17), anchor="mm")
+    if attribution:  # required by the OpenStreetMap licence
+        att, fa = "© OpenStreetMap contributors", font(14)
+        tw = d.textlength(att, font=fa)
+        d.rectangle((W - tw - 16, H - 26, W, H), fill="#ffffff")
+        d.text((W - tw - 8, H - 13), att, fill="#333333", font=fa, anchor="lm")
+    return img, z, to, unplaced
+
+
+def draw_map(points, line, path, labels=None, size=(1200, 760)):
+    """The day or trip map. When several stops sit too close to tell apart (an old town, a palace and
+    the market opposite), a zoomed inset shows them, so every stop is readable."""
+    W, H = size
+    img, z, to, _ = render(points, line, labels, size)
+    # find the stops that share a marker on the main map
+    xy = [to(a, b) for a, b in points]
+    close = sorted({i for i in range(len(points)) for j in range(len(points))
+                    if i != j and abs(xy[i][0] - xy[j][0]) < 30 and abs(xy[i][1] - xy[j][1]) < 30
+                    and haversine(points[i], points[j]) > 0.05})
+    if close:  # draw again with the cluster labelled "see close-up", then add the close-up
+        main_labels = [("See close-up" if i in close else l) for i, l in enumerate(labels or [""] * len(points))]
+        img, z, to, _ = render(points, line, main_labels, size)
+        cpts = [points[i] for i in close]
+        iw, ih = 470, 330
+        inset, iz, _, _ = render(points, line, labels, (iw, ih), fit=cpts, attribution=False, max_zoom=17)
+        if iz > z:
+            cx = sum(xy[i][0] for i in close) / len(close)
+            cy = sum(xy[i][1] for i in close) / len(close)
+            # the corner furthest from the cluster
+            corners = [(16, 16), (W - iw - 16, 16), (16, H - ih - 46), (W - iw - 16, H - ih - 46)]
+            ox, oy = max(corners, key=lambda c: (c[0] + iw / 2 - cx) ** 2 + (c[1] + ih / 2 - cy) ** 2)
+            d = ImageDraw.Draw(img)
+            d.rectangle((cx - 34, cy - 34, cx + 34, cy + 34), outline="#0d2238", width=3)
+            d.line((cx, cy, ox + iw / 2, oy + ih / 2), fill="#0d2238", width=2)
+            d.rectangle((ox - 4, oy - 4, ox + iw + 4, oy + ih + 4), fill="#0d2238")
+            img.paste(inset, (ox, oy))
+            d.rectangle((ox, oy, ox + 92, oy + 26), fill="#0d2238")
+            d.text((ox + 8, oy + 13), "Close-up", fill="#ffffff", font=font(15), anchor="lm")
     path.parent.mkdir(parents=True, exist_ok=True)
-    img.save(path, "WEBP", quality=82)
-    print(f"  map    {path.name}  (zoom {z})")
+    img.save(path, "WEBP", quality=84)
+    print(f"  map    {path.name}  (zoom {z}{', with close-up' if close else ''})")
 
 
 # ---------------------------------------------------------------- photos
@@ -292,7 +361,7 @@ def usable(p, need_landscape=True):
     if need_landscape and (ii["width"] < 1200 or ii["width"] < ii["height"] * 1.25):
         return None
     return {"file": p["title"], "src": ii.get("thumburl") or ii["url"], "page": ii["descriptionurl"],
-            "author": strip(meta.get("Artist", {}).get("value", ""))[:80] or "Unknown",
+            "author": re.sub(r"https?://\S+", "", strip(meta.get("Artist", {}).get("value", ""))).strip()[:80] or "Unknown",
             "licence": strip(meta.get("LicenseShortName", {}).get("value", "")),
             "licence_url": meta.get("LicenseUrl", {}).get("value", "")}
 
@@ -453,12 +522,14 @@ def run(t, refresh=False):
                 if n not in pts:
                     pts[n] = geocode(n, t, geo, refresh)
         check_spread(t, pts)
+        # a pin that is not verified never goes on a map or into directions
+        pts = {n: (p if CHECKS.get(n, {}).get("status") in ("OK", "PINNED") else None) for n, p in pts.items()}
         out.mkdir(parents=True, exist_ok=True)
         manifest["pins_to_check"] = places_report(slug, t)
         manifest["coords"] = {n: p for n, p in pts.items() if p}
         ov = [(n, pts[n]) for n in names if pts.get(n)]
         if len(ov) >= 2:
-            fp = fingerprint([p for _, p in ov], names, 2)
+            fp = fingerprint([p for _, p in ov], names, 4)
             f = out / f"map-overview-{fp}.webp"
             if refresh or not f.exists():
                 draw_map([p for _, p in ov], None, f, labels=[short(t, n) for n, _ in ov])
@@ -467,10 +538,13 @@ def run(t, refresh=False):
         for i, d in enumerate(t["days"], 1):
             entry = {}
             stops = [(n, pts.get(n)) for n in day_stops(t, d)]
+            missing = [n for n, p in stops if not p]
             stops = [(n, p) for n, p in stops if p]
-            if len(stops) >= 2:
+            if missing:
+                entry["unverified"] = missing
+            if len(stops) >= 2 and not missing:
                 rt = road_route([p for _, p in stops], routes, refresh)
-                fp = fingerprint([p for _, p in stops], [n for n, _ in stops], bool(rt), 2)
+                fp = fingerprint([p for _, p in stops], [n for n, _ in stops], bool(rt), 4)
                 f = out / f"map-day-{i}-{fp}.webp"
                 if refresh or not f.exists():
                     draw_map([p for _, p in stops], rt and rt["line"], f, labels=[short(t, n) for n, _ in stops])

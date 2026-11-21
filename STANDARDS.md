@@ -21,6 +21,29 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
 * If the template truly cannot show something, add an optional field to the template and document it
   here. Never fork the template for one tour.
 * The cover design does not change from tour to tour.
+* The look: all shades of blue, no purple, no metal or chrome. A dark navy cover with a blue glow,
+  a floating pill menu and a gradient Enquire button (from the Landing Page 3D Toggle file on the
+  Figma Community), then a light page of white rounded cards with a left sidebar (from the BankDash
+  file). Fonts are Inter Tight for headings and Inter for text.
+* Decoration, kept subtle: a dotted world map behind the cover with a glowing pin where the trip is
+  (placed by build.py from the trip's verified pins, never typed by hand), the logo emblem in a
+  round navy badge pinned on the corner of the cover photo, and the world map again, faint, behind
+  the sign-off. No compass. Decoration never carries a fact.
+* The logo is in `assets/logo/`: the emblem in the menu, the full logo with "Get Glocal" in the
+  footer, both recoloured in the site's blues (`logo-on-dark.png`, `logo-on-light.png`). The
+  original is kept as `original.png`. Never stretch it or change its shape.
+* From the Mobile app UI Template file (Figma Community): the cover photo and the tour cards carry a
+  frosted glass panel with the place, a map-pin line and the duration, and on phones a fixed bar at
+  the bottom holds "Get a personalised quote" (WhatsApp) and a call button for the 24/7 desk.
+* From the Blue Diamond Voyage brochure template: a spaced capital label above each section heading,
+  a few script accents (Allura) on headings, round day-photo thumbnails in "At a glance", and the
+  sign-off line "Some journeys are planned. Ours are crafted." Prices from the brochure never come
+  across: the web page always says "Contact us for a personalised quote".
+* Best time to visit: give `months`, twelve values from Jan to Dec, each one of `dry` (best
+  weather), `peak` (book early), `shoulder`, `wet` or `snow`, and `best_pick`, one sentence for
+  "Our pick". Take both from the facts in `seasons`; never guess a month.
+* Every entry title must make sense on its own: "Real Alcazar, enter at the Puerta del Leon", not
+  "Visit".
 
 ## 1 · Intake: ask before building
 
@@ -140,23 +163,30 @@ The day is **stacked**: the time is a label above each entry, not a column besid
 
 ## 6 · The running order of a page
 
+The website page is a **teaser for clients**, not the travel pack. It shows only photos, the map,
+a short daily travel brief, travel hacks, the best time to visit and what is included, then asks
+the client to request the detailed itinerary. The full day plan, hotel details, visa steps, dining
+and FAQs stay in the tour data and go to the client in the detailed itinerary on request.
+
 | Section | Data field(s) | Required |
 |---|---|---|
-| Cover: style, title, tagline, quote buttons | `style`, `title`, `tagline`, `hero_image` | yes |
+| Cover: style, title, tagline, quote and "Ask for the detailed itinerary" buttons | `style`, `title`, `tagline`, `hero_image` | yes |
 | Facts bar | `duration`, `facts` | yes |
-| Journey: intro, stays ribbon, highlights | `intro`, `stays`, `highlights` | yes |
-| At a glance: one line per day, the trip map, the route | `days`, `route` | yes |
-| Day cards: photo, strip, entries, route map, pins, concierge note | `days[]` | yes |
-| Where you stay | `hotel` | yes |
+| Intro and photo gallery, one captioned photo per day | `intro`, `days[].photo_caption` | yes |
+| The journey on one map, with Google Maps pins | `route`, `map_labels` | yes |
+| Daily travel brief: transport, road distance, travel time, stops, 2 or 3 highlights | `days[].transport`, `days[].travel_time`, `days[].brief` | yes |
+| Travel hacks | `good_to_know` | yes |
+| Best time to visit | `months`, `best_pick`, `best_time` | yes |
 | Included / not included | `included`, `excluded` | yes |
-| Visa, entry and phones | `entry`, `entry_notes` | international tours |
-| Good to know, and the emergency block | `good_to_know`, `emergency` | yes |
-| Dining for dietary briefs, and the food card | `dining`, `dining_avoid`, `food_card` | when relevant |
-| If you have an hour | `extras` | optional |
-| Best time to go | `best_time`, `seasons` | yes |
-| FAQs | `faqs` | yes, 4 or more |
-| Sign-off: personalised quote | `price_note` | yes |
+| Ask for the detailed itinerary, with both 24/7 numbers | made by the template | yes |
 | Photo and map credits | made by the build | automatic |
+
+* A photo caption names what is in the photo, never more than the photo shows.
+* Road distances in the brief come from the routing step, not from memory. A brief highlight is
+  one short sentence a client must know before the attraction: a dress code, a queue, a closure, a
+  cash-only entry.
+* Still fill `days[].rows`, `hotel`, `entry`, `dining` and `faqs` in the data. They feed the
+  detailed itinerary and the rule checks.
 
 A short city break may leave out the optional sections. The page still builds.
 
@@ -178,7 +208,7 @@ These appear on nearly every page. Get the numbers for the destination, but keep
 * **Pickpockets**: name the actual squares, stations and queues.
 * **Plugs, voltage, tap water, meal times, kitchen closing hours.**
 * **Emergency block**: the local emergency number, the Indian embassy or consulate with address and
-  phone, and the Blue Diamond Voyage 24/7 desk (added automatically from `data/site.json`).
+  phone, and the Blue Diamond Voyage 24/7 desk on **both numbers, +91 97148 59797 and +91 98242 21400** (added automatically from `data/site.json`).
 
 ## 8 · Dietary briefs
 
@@ -285,19 +315,30 @@ Say web check-in opens 24 hours before, 48 for some carriers.
 The maps tell travellers where they are going, so every pin must be right.
 
 * **Coordinates are never typed from memory.** `tools/media.py` looks every place up in OpenStreetMap
-  (Nominatim), restricted to the tour's country (`country_code`), and saves it in `data/cache/geo.json`
-  with the address it matched.
-* **Every pin is verified two ways**: the name OpenStreetMap returns must share the distinctive words of
-  our place name, and the pin must lie within 250 km of the rest of the trip. A pin that fails either
+  (Nominatim), restricted to the tour's country (`country_code`) and to the tour's area
+  (`bbox`: `[south, west, north, east]`, e.g. Bali `[-8.86, 114.42, -8.05, 115.72]`), and saves it in
+  `data/cache/geo.json` with the address it matched. A pin outside the box is marked CHECK.
+* When OpenStreetMap spells a place differently, give the search name in
+  `"geo_query": {"Tegalalang Rice Terrace": ["Tegallalang Rice Terrace", "Ceking Rice Terrace"]}`. Several spellings may be listed; the first that verifies wins, and the page keeps our spelling.
+* **Every pin is verified automatically**: the place's **own name** in OpenStreetMap must share the
+  distinctive words of our name (a match in the address does not count), a street that merely shares the
+  name is rejected, and the pin must lie inside the tour's area and within 250 km of the rest of the trip.
+* **The automatic check is not enough on its own.** On Bali it once accepted "Gang Tirta Gangga", a
+  lane in Denpasar, for the water palace 80 km away. A person opens every pin on the list before publishing. A pin that fails either
   is marked **CHECK**; a place not found is marked **NOT FOUND**.
 * **The pin list is approved before publishing.** `media/<slug>/places.md` lists every place, its
   coordinates, the address matched, its status, and a Google Maps link to check it. It is also shown in
   the GitHub run summary. The build warns while any pin needs checking, and `--strict` refuses.
-* **Fix a pin in the tour file**, never in code: `"geo": {"<place>": [lat, lon]}`, with the coordinates
-  copied from the place's own Google Maps page (right-click the exact gate, jetty or entrance). Pinned
-  places show as PINNED.
+* **Fix a pin in the tour file**, never in code: `"geo": {"<place>": [lat, lon, "<where it came from>"]}`,
+  with the coordinates copied from the place's own Google Maps page (right-click the exact gate, jetty or
+  entrance), or from the hotel's own listing on its website or a booking site. Pinned places show as
+  PINNED with their source.
+* **A pin that is not verified never reaches the page.** A day whose stops are not all OK or PINNED gets
+  no map and no directions button until it is fixed, and the build warns.
 * **Pin the point the traveller actually goes to**: the temple's entrance car park, the jetty, the
   hotel lobby, the meeting point, not the middle of a park.
+* Stops too close to tell apart on the day map (a palace and the market opposite) get a zoomed
+  **close-up** panel on the same map, so every stop can be read.
 * Each day lists its stops in driving order in `route`, start and end included. The day map draws the
   **real road route** (OSRM on OpenStreetMap data), with **numbered pins and name labels**, and a legend
   with the distance by road between stops. A round trip shows one pin numbered "1/5".
@@ -353,6 +394,6 @@ The maps tell travellers where they are going, so every pin must be right.
 * Two or three Google Maps pins and one directions button are clicked by hand.
 * Hotel names and place names are spelled exactly as in the source document.
 * **No package prices, no net rates, no supplier names, no internal notes.**
-* The page carries the enquiry phone, WhatsApp, the 24/7 desk +91 98242 21400 and
-  instagram.com/bluediamondvoyage (from `data/site.json`).
+* The page carries WhatsApp, the enquiry form, **both 24/7 numbers (+91 97148 59797 and
+  +91 98242 21400)** and instagram.com/bluediamondvoyage (from `data/site.json`).
 * The change is added to the change log in the website admin guide.

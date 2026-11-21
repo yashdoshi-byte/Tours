@@ -199,6 +199,10 @@ Every tour makes two PDFs, A4, with clickable WhatsApp, phone and Google Maps li
 | `pdf/<slug>-overview.pdf` | the website page, `templates/tour.html` | with the first reply, or when sharing the tour |
 | `pdf/<slug>-detailed.pdf` | the detailed itinerary, `templates/detailed.html` | only when the client asks for the detailed itinerary |
 
+* **The cover photo.** Set `hero_from_day` to the day whose checked photo makes the best cover. Never
+  use a banner from the main website as the cover: some have a price, old dates or contact details
+  printed into the picture (the Bali banner says "From US$2,027 per person"), and a price must never
+  reach a client page or PDF. Look at the cover in both PDFs before sending.
 * The detailed itinerary is **never published on the website**. `build.py` writes it to `print/`,
   which GitHub Pages does not serve.
 * `tools/make_pdf.js` prints both. It fails if any photo does not load. Photos are re-encoded as

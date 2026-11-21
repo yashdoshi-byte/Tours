@@ -59,6 +59,10 @@ for t in tours:
         for f in (ROOT / "media" / t["slug"]).glob("*.webp"):
             shutil.copy(f, dst / f.name)
     t["_media"] = m
+    n = t.get("hero_from_day")  # the cover uses a day photo, never a banner with prices or dates printed on it
+    if n and m["days"].get(str(n), {}).get("photo"):
+        t["_hero_rel"] = f"media/{t['slug']}/{m['days'][str(n)]['photo']['img']}"
+        t["hero_image"] = base + t["_hero_rel"]
     pts = list(m.get("coords", {}).values())  # verified pins only
     if pts:  # where the trip is, on the 84N to 58S world map in the cover
         lat = sum(p[0] for p in pts) / len(pts); lon = sum(p[1] for p in pts) / len(pts)

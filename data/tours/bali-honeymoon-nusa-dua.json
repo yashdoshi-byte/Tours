@@ -10,7 +10,7 @@
   "style": "Honeymoon · Luxury · Beach & Culture",
   "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
   "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761896733641-316631208.webp",
-  "hero_alt": "Bali temple and rice terraces at sunrise",
+  "hero_alt": "The split gates of Pura Lempuyang, East Bali",
   "tagline": "Temples at dawn, the ocean at sunset, and a garden dinner for two",
   "facts": [
     [
@@ -804,5 +804,6 @@
     "wet",
     "wet"
   ],
-  "best_pick": "May, June and September: dry, sunny days and calm seas, without the July and August crowds."
+  "best_pick": "May, June and September: dry, sunny days and calm seas, without the July and August crowds.",
+  "hero_from_day": 2
 }

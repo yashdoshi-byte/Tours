@@ -1,101 +1,160 @@
 {
  "days": {
   "1": {
+   "map": "map-day-1-30a6a0d3f1.webp",
+   "stops": [
+    "Ngurah Rai International Airport",
+    "The Crystal Luxury Bay Resort Nusa Dua"
+   ],
+   "km": [
+    9.6
+   ],
    "photo": {
-    "file": "File:Nusa Dua Bali.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Nusa_Dua_Bali.jpg/1920px-Nusa_Dua_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Nusa_Dua_Bali.jpg",
     "author": "GdML",
+    "file": "File:Nusa Dua Bali.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nusa_Dua_Bali.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Nusa_Dua_Bali.jpg/1920px-Nusa_Dua_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-1-bcdcc511cd.webp"
    }
   },
   "2": {
-   "map": "map-day-2-eebcfb0292.webp",
+   "map": "map-day-2-be7945b47a.webp",
    "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
     "Pura Lempuyang Luhur",
     "Tirta Gangga",
     "Goa Raja Waterfall",
-    "Tegalalang Rice Terrace"
+    "Tegalalang Rice Terrace",
+    "The Crystal Luxury Bay Resort Nusa Dua"
    ],
    "km": [
-    906.9,
-    899.7,
-    24.4
-   ]
+    98.5,
+    82.1,
+    43.2,
+    24.4,
+    52.1
+   ],
+   "photo": {
+    "file": "File:Bali Pura Lempuyang Luhur.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bali_Pura_Lempuyang_Luhur.jpg/1920px-Bali_Pura_Lempuyang_Luhur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bali_Pura_Lempuyang_Luhur.jpg",
+    "author": "Flickr user: yeowatzup https://www.flickr.com/photos/yeowatzup/",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-3b8d3616cd.webp"
+   }
   },
   "3": {
+   "map": "map-day-3-5a7bbeebd5.webp",
+   "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
+    "Tanah Lot",
+    "The Crystal Luxury Bay Resort Nusa Dua"
+   ],
+   "km": [
+    33.7,
+    33.0
+   ],
    "photo": {
-    "file": "File:Tanah Lot, Bali, Indonesia, 20220827 0959 1118.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_0959_1118.jpg/1920px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_0959_1118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Tanah_Lot,_Bali,_Indonesia,_20220827_0959_1118.jpg",
     "author": "Jakub Hałun",
+    "file": "File:Tanah Lot, Bali, Indonesia, 20220827 0959 1118.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tanah_Lot,_Bali,_Indonesia,_20220827_0959_1118.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_0959_1118.jpg/1920px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_0959_1118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-3-d89760871a.webp"
    }
   },
   "4": {
+   "map": "map-day-4-0e242b3b7b.webp",
+   "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
+    "Tanjung Benoa",
+    "The Crystal Luxury Bay Resort Nusa Dua"
+   ],
+   "km": [
+    5.2,
+    5.8
+   ],
    "photo": {
-    "file": "File:Bali (16702994600).jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bali_%2816702994600%29.jpg/1920px-Bali_%2816702994600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Bali_(16702994600).jpg",
-    "author": "Jorge Láscar from Melbourne, Australia",
-    "licence": "CC BY 2.0",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "file": "File:Underwater Parasol (220482423).jpeg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Underwater_Parasol_%28220482423%29.jpeg/1920px-Underwater_Parasol_%28220482423%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Underwater_Parasol_(220482423).jpeg",
+    "author": "Tilonaut",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
     "provider": "Wikimedia Commons",
-    "img": "day-4-782c86799b.webp"
+    "img": "day-4-79282445bc.webp"
    }
   },
   "5": {
-   "map": "map-day-5-e64be180ee.webp",
+   "map": "map-day-5-8ac81836e4.webp",
    "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
     "Sacred Monkey Forest Sanctuary",
     "Ubud Art Market",
-    "Ubud Palace"
+    "Ubud Palace",
+    "The Crystal Luxury Bay Resort Nusa Dua"
    ],
    "km": [
+    39.0,
     5.0,
-    0.1
+    0.1,
+    42.6
    ],
    "photo": {
-    "file": "File:Macaca fascicularis, Ubud Monkey Forest, Bali, 20220822 1053 0056.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Macaca_fascicularis%2C_Ubud_Monkey_Forest%2C_Bali%2C_20220822_1053_0056.jpg/1920px-Macaca_fascicularis%2C_Ubud_Monkey_Forest%2C_Bali%2C_20220822_1053_0056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Macaca_fascicularis,_Ubud_Monkey_Forest,_Bali,_20220822_1053_0056.jpg",
     "author": "Jakub Hałun",
+    "file": "File:Macaca fascicularis, Ubud Monkey Forest, Bali, 20220822 1053 0056.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Macaca_fascicularis,_Ubud_Monkey_Forest,_Bali,_20220822_1053_0056.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Macaca_fascicularis%2C_Ubud_Monkey_Forest%2C_Bali%2C_20220822_1053_0056.jpg/1920px-Macaca_fascicularis%2C_Ubud_Monkey_Forest%2C_Bali%2C_20220822_1053_0056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-5-819d738143.webp"
    }
   },
   "6": {
-   "map": "map-day-6-79d774e7f5.webp",
+   "map": "map-day-6-7ff312f3e3.webp",
    "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
     "Uluwatu Temple",
-    "Jimbaran Beach"
+    "Jimbaran Beach",
+    "The Crystal Luxury Bay Resort Nusa Dua"
    ],
    "km": [
-    13.7
+    19.1,
+    14.0,
+    5.6
    ],
    "photo": {
-    "file": "File:Uluwatu Temple Cliff, Bali.jpg",
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Uluwatu_Temple_Cliff%2C_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Uluwatu_Temple_Cliff,_Bali.jpg",
     "author": "Ken Eckert",
+    "file": "File:Uluwatu Temple Cliff, Bali.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Uluwatu_Temple_Cliff,_Bali.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Uluwatu_Temple_Cliff%2C_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "img": "day-6-0e35ef799c.webp"
    }
   },
-  "7": {}
+  "7": {
+   "map": "map-day-7-d269cfaa5d.webp",
+   "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
+    "Ngurah Rai International Airport"
+   ],
+   "km": [
+    10.6
+   ]
+  }
  },
  "photos": {},
- "pins_to_check": 3,
+ "pins_to_check": 0,
  "coords": {
   "Ngurah Rai International Airport": [
    -8.74652,
@@ -110,8 +169,8 @@
    115.64806
   ],
   "Tirta Gangga": [
-   -9.65579,
-   120.26173
+   -8.6763,
+   115.22761
   ],
   "Tegalalang Rice Terrace": [
    -8.42855,
@@ -128,6 +187,10 @@
   "Uluwatu Temple": [
    -8.82937,
    115.08434
+  ],
+  "The Crystal Luxury Bay Resort Nusa Dua": [
+   -8.787464,
+   115.20717
   ],
   "Nusa Dua Beach": [
    -8.78846,
@@ -159,7 +222,7 @@
   ]
  },
  "overview": {
-  "map": "map-overview-8ed6d3f324.webp",
+  "map": "map-overview-bb991fe334.webp",
   "stops": [
    "Ngurah Rai International Airport",
    "Nusa Dua",

@@ -42,9 +42,8 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
 * Best time to visit: give `months`, twelve values from Jan to Dec, each one of `dry` (best
   weather), `peak` (book early), `shoulder`, `wet` or `snow`, and `best_pick`, one sentence for
   "Our pick". Take both from the facts in `seasons`; never guess a month.
-* The day plan has a Quick view / Full detail switch. Quick view keeps the times, entry titles,
-  strip and route map, and hides the text, bullets, callouts, pins and concierge note. So every
-  entry title must make sense on its own: "Real Alcazar, enter at the Puerta del Leon", not "Visit".
+* Every entry title must make sense on its own: "Real Alcazar, enter at the Puerta del Leon", not
+  "Visit".
 
 ## 1 · Intake: ask before building
 
@@ -164,23 +163,30 @@ The day is **stacked**: the time is a label above each entry, not a column besid
 
 ## 6 · The running order of a page
 
+The website page is a **teaser for clients**, not the travel pack. It shows only photos, the map,
+a short daily travel brief, travel hacks, the best time to visit and what is included, then asks
+the client to request the detailed itinerary. The full day plan, hotel details, visa steps, dining
+and FAQs stay in the tour data and go to the client in the detailed itinerary on request.
+
 | Section | Data field(s) | Required |
 |---|---|---|
-| Cover: style, title, tagline, quote buttons | `style`, `title`, `tagline`, `hero_image` | yes |
+| Cover: style, title, tagline, quote and "Ask for the detailed itinerary" buttons | `style`, `title`, `tagline`, `hero_image` | yes |
 | Facts bar | `duration`, `facts` | yes |
-| Journey: intro, stays ribbon, highlights | `intro`, `stays`, `highlights` | yes |
-| At a glance: one line per day, the trip map, the route | `days`, `route` | yes |
-| Day cards: photo, strip, entries, route map, pins, concierge note | `days[]` | yes |
-| Where you stay | `hotel` | yes |
+| Intro and photo gallery, one captioned photo per day | `intro`, `days[].photo_caption` | yes |
+| The journey on one map, with Google Maps pins | `route`, `map_labels` | yes |
+| Daily travel brief: transport, road distance, travel time, stops, 2 or 3 highlights | `days[].transport`, `days[].travel_time`, `days[].brief` | yes |
+| Travel hacks | `good_to_know` | yes |
+| Best time to visit | `months`, `best_pick`, `best_time` | yes |
 | Included / not included | `included`, `excluded` | yes |
-| Visa, entry and phones | `entry`, `entry_notes` | international tours |
-| Good to know, and the emergency block | `good_to_know`, `emergency` | yes |
-| Dining for dietary briefs, and the food card | `dining`, `dining_avoid`, `food_card` | when relevant |
-| If you have an hour | `extras` | optional |
-| Best time to go | `best_time`, `seasons` | yes |
-| FAQs | `faqs` | yes, 4 or more |
-| Sign-off: personalised quote | `price_note` | yes |
+| Ask for the detailed itinerary, with both 24/7 numbers | made by the template | yes |
 | Photo and map credits | made by the build | automatic |
+
+* A photo caption names what is in the photo, never more than the photo shows.
+* Road distances in the brief come from the routing step, not from memory. A brief highlight is
+  one short sentence a client must know before the attraction: a dress code, a queue, a closure, a
+  cash-only entry.
+* Still fill `days[].rows`, `hotel`, `entry`, `dining` and `faqs` in the data. They feed the
+  detailed itinerary and the rule checks.
 
 A short city break may leave out the optional sections. The page still builds.
 

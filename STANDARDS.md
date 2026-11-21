@@ -307,6 +307,8 @@ The maps tell travellers where they are going, so every pin must be right.
   no map and no directions button until it is fixed, and the build warns.
 * **Pin the point the traveller actually goes to**: the temple's entrance car park, the jetty, the
   hotel lobby, the meeting point, not the middle of a park.
+* Stops too close to tell apart on the day map (a palace and the market opposite) get a zoomed
+  **close-up** panel on the same map, so every stop can be read.
 * Each day lists its stops in driving order in `route`, start and end included. The day map draws the
   **real road route** (OSRM on OpenStreetMap data), with **numbered pins and name labels**, and a legend
   with the distance by road between stops. A round trip shows one pin numbered "1/5".

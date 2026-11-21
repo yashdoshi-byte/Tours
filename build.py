@@ -14,7 +14,7 @@ base = site["base_url"].rstrip("/") + "/"
 dump = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
 
 org = {"@type": "TravelAgency", "name": site["brand"], "url": site["main_site"], "logo": site["logo"],
-       "telephone": site["phone"], "email": site["email"],
+       "telephone": site["phone"], "email": site["email"], "sameAs": [site["instagram"]],
        "address": {"@type": "PostalAddress", "streetAddress": "Arpan Complex, opp. Swaminarayan Temple",
                    "addressLocality": "Rajkot", "addressRegion": "Gujarat", "addressCountry": "IN"}}
 
@@ -29,8 +29,9 @@ for t in tours:
     trip = {"@context": "https://schema.org", "@type": "TouristTrip", "name": t["title"],
             "description": t["meta_description"], "url": url, "image": t["hero_image"],
             "touristType": t["style"], "provider": org,
+            **({"dateModified": t["date_modified"]} if t.get("date_modified") else {}),
             "itinerary": {"@type": "ItemList", "numberOfItems": len(t["days"]), "itemListElement": [
-                {"@type": "ListItem", "position": i + 1, "name": f"Day {i+1}: {d['title']}", "description": d["body"]}
+                {"@type": "ListItem", "position": i + 1, "name": f"Day {i+1}: {d['title']}", "description": d.get("summary") or d.get("body", "")}
                 for i, d in enumerate(t["days"])]}}
     faq = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
         {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in t["faqs"]]}

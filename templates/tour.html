@@ -1,54 +1,199 @@
 {% extends "base.html" %}
+{% macro gmap(q) %}https://www.google.com/maps/search/?api=1&amp;query={{ q|urlencode }}{% endmacro %}
 {% block content %}
-<section class="hero" style="background-image:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.55)),url('{{ t.hero_image }}')">
+{# ---------- COVER ---------- #}
+<section class="hero" style="background-image:linear-gradient(180deg,rgba(9,28,48,.25),rgba(9,28,48,.78)),url('{{ t.hero_image }}')">
   <div class="wrap">
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ site.main_site }}">Home</a> › <a href="{{ root }}">Tours</a> › <span>{{ t.destination }}</span></nav>
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ site.main_site }}">Home</a> » <a href="{{ root }}">Tours</a> » <span>{{ t.destination }}</span></nav>
+    <p class="kicker">{{ t.style }}</p>
     <h1>{{ t.title }}</h1>
-    <p class="meta">{{ t.duration }} · {{ t.style }}</p>
+    {% if t.tagline %}<p class="tagline">{{ t.tagline }}</p>{% endif %}
+    <div class="hero-cta">
+      <a class="btn gold" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a personalised quote</a>
+      <a class="btn line" href="#day-1">See the day-by-day plan</a>
+    </div>
   </div>
 </section>
+{% if t.facts %}
+<section class="facts"><div class="wrap facts-in">
+  <div class="fact"><span>Duration</span><strong>{{ t.duration }}</strong></div>
+  {% for k, v in t.facts %}<div class="fact"><span>{{ k }}</span><strong>{{ v }}</strong></div>{% endfor %}
+</div></section>
+{% endif %}
+
 <div class="wrap layout">
   <article>
-    <p class="lead">{{ t.intro }}</p>
-    <h2>Trip highlights</h2>
-    <ul class="ticks">{% for h in t.highlights %}<li>{{ h }}</li>{% endfor %}</ul>
+    {# ---------- JOURNEY ---------- #}
+    <section class="block" id="journey">
+      <p class="lead">{{ t.intro }}</p>
+      {% if t.stays %}
+      <div class="ribbon" aria-label="Where you stay">
+        {% for s in t.stays %}<div class="rib" style="flex:{{ s.nights }}"><strong>{{ s.place }}</strong><span>{{ s.nights }} night{{ 's' if s.nights != 1 }} · {{ s.hotel }}</span></div>{% endfor %}
+      </div>
+      {% endif %}
+      <h2>Trip highlights</h2>
+      <ul class="ticks">{% for h in t.highlights %}<li>{{ h }}</li>{% endfor %}</ul>
+    </section>
 
-    <h2>Day-by-day itinerary</h2>
-    <ol class="days">
-    {% for d in t.days %}
-      <li class="day">
-        <h3><span class="dnum">Day {{ loop.index }}</span> {{ d.title }}</h3>
-        {% if d.places %}<p class="places">{{ d.places|join(' · ') }}</p>{% endif %}
+    {# ---------- OVERVIEW ---------- #}
+    <section class="block" id="overview">
+      <h2>Your week at a glance</h2>
+      <ol class="overview">
+      {% for d in t.days %}
+        <li><a href="#day-{{ loop.index }}"><span class="ov-n">Day {{ loop.index }}</span><span class="ov-t">{{ d.title }}</span>{% if d.pill %}<span class="pill sm">{{ d.pill }}</span>{% endif %}</a></li>
+      {% endfor %}
+      </ol>
+      {% if t.route %}<p class="route">Route: {% for r in t.route %}<a href="{{ gmap(r ~ ', ' ~ t.destination) }}" target="_blank" rel="noopener">{{ r }}</a>{% if not loop.last %} » {% endif %}{% endfor %}</p>{% endif %}
+    </section>
+
+    {# ---------- DAYS ---------- #}
+    <section class="block" id="itinerary">
+      <h2>Day-by-day itinerary</h2>
+      {% for d in t.days %}
+      <article class="day" id="day-{{ loop.index }}">
+        <header class="day-h">
+          <div class="day-num"><span>Day</span>{{ loop.index }}</div>
+          <div>
+            {% if d.pill %}<span class="pill">{{ d.pill }}</span>{% endif %}
+            <h3>{{ d.title }}</h3>
+          </div>
+        </header>
+        {% if d.strip %}<ul class="strip">{% for s in d.strip[:5] %}<li>{{ s }}</li>{% endfor %}</ul>{% endif %}
+        {% if d.rows %}
+        <div class="rows">
+        {% for r in d.rows %}
+          <div class="row">
+            <p class="row-label">{{ r.label }}{% if r.flag %} <span class="flag">{{ r.flag }}</span>{% endif %}</p>
+            <h4>{{ r.title }}</h4>
+            {% if r.text %}<p>{{ r.text }}</p>{% endif %}
+            {% if r.bullets %}<ul class="bul">{% for b in r.bullets %}<li>{{ b }}</li>{% endfor %}</ul>{% endif %}
+            {% for tag, txt in r.notes or [] %}<p class="call c-{{ tag|lower }}"><b>{{ tag }}</b>{{ txt }}</p>{% endfor %}
+            {% if r.meal %}<p class="meal"><b>{{ r.meal[0] }}</b> {{ r.meal[1] }}{% if r.meal[2] %} · {{ r.meal[2] }}{% endif %}</p>{% endif %}
+          </div>
+        {% endfor %}
+        </div>
+        {% else %}
         <p>{{ d.body }}</p>
-        {% if d.tip %}<p class="tip"><strong>Local tip:</strong> {{ d.tip }}</p>{% endif %}
-      </li>
-    {% endfor %}
-    </ol>
+        {% endif %}
+        {% if d.places %}<p class="pins"><span>On the map</span>{% for p in d.places %}<a href="{{ gmap(p) }}" target="_blank" rel="noopener">{{ p }}</a>{% endfor %}</p>{% endif %}
+        {% if d.note or d.tip %}<aside class="concierge"><b>From your Blue Diamond concierge</b>{{ d.note or d.tip }}</aside>{% endif %}
+      </article>
+      {% endfor %}
+    </section>
 
-    <h2>Where you stay</h2>
-    <div class="card">
-      <h3>{{ t.hotel.name }}</h3>
-      <p>{{ t.hotel.room }} · {{ t.hotel.meals }} · {{ t.hotel.area }}</p>
-    </div>
+    {# ---------- STAY ---------- #}
+    <section class="block" id="stay">
+      <h2>Where you stay</h2>
+      <div class="stay">
+        <h3>{{ t.hotel.name }}</h3>
+        {% if t.hotel.about %}<p>{{ t.hotel.about }}</p>{% endif %}
+        <dl class="staybar">
+          <div><dt>Room</dt><dd>{{ t.hotel.room }}</dd></div>
+          <div><dt>Meals</dt><dd>{{ t.hotel.meals }}</dd></div>
+          {% if t.hotel.checkin %}<div><dt>Check-in</dt><dd>{{ t.hotel.checkin }}</dd></div>{% endif %}
+          {% if t.hotel.checkout %}<div><dt>Check-out</dt><dd>{{ t.hotel.checkout }}</dd></div>{% endif %}
+          <div class="wide"><dt>Address</dt><dd>{% if t.hotel.address %}<a href="{{ gmap(t.hotel.name) }}" target="_blank" rel="noopener">{{ t.hotel.address }}</a>{% else %}{{ t.hotel.area }}{% endif %}</dd></div>
+        </dl>
+      </div>
+    </section>
 
-    <div class="two">
+    <section class="block two">
       <div><h2>What's included</h2><ul class="ticks">{% for i in t.included %}<li>{{ i }}</li>{% endfor %}</ul></div>
       <div><h2>Not included</h2><ul class="cross">{% for i in t.excluded %}<li>{{ i }}</li>{% endfor %}</ul></div>
-    </div>
+    </section>
 
-    <h2>Best time to go</h2>
-    <p>{{ t.best_time }}</p>
+    {# ---------- VISA & ENTRY ---------- #}
+    {% if t.entry %}
+    <section class="block" id="entry">
+      <h2>Visa, entry and phones</h2>
+      <div class="tbl"><table>
+        <thead><tr><th>Permit</th><th>What it is</th><th>Who</th><th>Cost</th></tr></thead>
+        <tbody>{% for a, b, c, d in t.entry %}<tr><td><b>{{ a }}</b></td><td>{{ b }}</td><td>{{ c }}</td><td>{{ d or '—' }}</td></tr>{% endfor %}</tbody>
+      </table></div>
+      <ul class="bul">{% for n in t.entry_notes %}<li>{{ n }}</li>{% endfor %}</ul>
+      <p class="call c-note"><b>NOTE</b>When you book, we arrange the paperwork with you and share every document on your trip's WhatsApp group before departure.</p>
+    </section>
+    {% endif %}
 
-    <h2>Frequently asked questions</h2>
-    {% for f in t.faqs %}<details class="faq"><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
+    {# ---------- GOOD TO KNOW ---------- #}
+    {% if t.good_to_know %}
+    <section class="block" id="good-to-know">
+      <h2>Good to know</h2>
+      <div class="gtk">
+        {% for g in t.good_to_know %}<div class="gcard g-{{ g.tag|lower }}"><span class="gtag">{{ g.tag }}</span><h3>{{ g.title }}</h3><p>{{ g.text }}</p></div>{% endfor %}
+      </div>
+      {% if t.emergency %}
+      <div class="sos">
+        <h3>In an emergency</h3>
+        {% for k, v in t.emergency %}<p><b>{{ k }}</b> {{ v }}</p>{% endfor %}
+        <p><b>Blue Diamond Voyage 24/7</b> <a href="tel:{{ site.desk_link }}">{{ site.desk }}</a></p>
+      </div>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {# ---------- DINING ---------- #}
+    {% if t.dining %}
+    <section class="block" id="dining">
+      <h2>Vegetarian and Jain dining</h2>
+      <p>{{ t.dining_intro }}</p>
+      <div class="dine">
+        {% for r in t.dining %}
+        <div class="dcard">
+          <h3>{{ r.name }}</h3>
+          <p class="dmeta">{{ r.cuisine }} · <a href="{{ gmap(r.name) }}" target="_blank" rel="noopener">{{ r.address }}</a></p>
+          <p class="{{ 'open' if r.open_daily else 'closed' }}">{{ r.open }}</p>
+          <p class="call c-eat"><b>EAT</b>{{ r.order }}</p>
+        </div>
+        {% endfor %}
+      </div>
+      {% if t.dining_avoid %}<p class="call c-care"><b>CARE</b>{{ t.dining_avoid }}</p>{% endif %}
+      {% if t.food_card %}
+      <div class="foodcard">
+        <h3>Your food card · show this to the waiter</h3>
+        {% for lang, txt in t.food_card %}<p><span>{{ lang }}</span><q>{{ txt }}</q></p>{% endfor %}
+      </div>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {# ---------- BEST TIME ---------- #}
+    <section class="block" id="best-time">
+      <h2>Best time to go</h2>
+      <p>{{ t.best_time }}</p>
+      {% if t.seasons %}<div class="tbl"><table><tbody>{% for a, b, c in t.seasons %}<tr><td><b>{{ a }}</b></td><td><span class="pill sm">{{ b }}</span></td><td>{{ c }}</td></tr>{% endfor %}</tbody></table></div>{% endif %}
+    </section>
+
+    {# ---------- FAQ ---------- #}
+    <section class="block" id="faq">
+      <h2>Frequently asked questions</h2>
+      {% for f in t.faqs %}<details class="faq"><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
+    </section>
+
+    {# ---------- CONTACT ---------- #}
+    <section class="block signoff">
+      <h2>Make this journey yours</h2>
+      <p>Every Blue Diamond Voyage itinerary is a starting point. Tell us your dates, your city and how you like to travel, and we shape the hotels, the pace and the food around you. Timings and local details were checked on {{ t.facts_checked or t.date_published }} and are reconfirmed for your dates when you book.</p>
+      <div class="hero-cta">
+        <a class="btn" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a quote on WhatsApp</a>
+        <a class="btn ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
+      </div>
+    </section>
   </article>
+
   <aside>
     <div class="side card">
       <p class="side-dur">{{ t.duration }}</p>
+      <p class="side-dest">{{ t.destination }}</p>
       <p class="side-price">{{ t.price_note }}</p>
       <a class="btn" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a quote on WhatsApp</a>
       <a class="btn ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
-      <p class="small">Call <a href="tel:{{ site.phone_link }}">{{ site.phone }}</a><br>Tailor-made by certified destination specialists.</p>
+      <p class="small">Call <a href="tel:{{ site.phone_link }}">{{ site.phone }}</a><br>Tailor-made by Blue Diamond Voyage, Rajkot, since 2000.</p>
+      <nav class="toc" aria-label="On this page">
+        <a href="#overview">At a glance</a><a href="#itinerary">Day by day</a><a href="#stay">Where you stay</a>
+        {% if t.entry %}<a href="#entry">Visa and entry</a>{% endif %}{% if t.good_to_know %}<a href="#good-to-know">Good to know</a>{% endif %}
+        {% if t.dining %}<a href="#dining">Dining</a>{% endif %}<a href="#faq">FAQs</a>
+      </nav>
     </div>
   </aside>
 </div>

@@ -17,7 +17,7 @@
 <link rel="icon" href="https://bluediamondvoyage.com/favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}assets/style.css">
 {% for ld in jsonld %}<script type="application/ld+json">{{ ld }}</script>
 {% endfor %}</head>
@@ -38,7 +38,8 @@
 <footer class="footer">
   <div class="wrap">
     <p><strong>{{ site.brand }}</strong> · Tailor-made travel since 2000 · {{ site.address }}</p>
-    <p><a href="tel:{{ site.phone_link }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a href="{{ site.main_site }}">bluediamondvoyage.com</a></p>
+    <p><a href="tel:{{ site.phone_link }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a href="{{ site.main_site }}">bluediamondvoyage.com</a> · <a href="{{ site.instagram }}">Instagram</a></p>
+    <p>24/7 travel desk for travelling clients: <a href="tel:{{ site.desk_link }}">{{ site.desk }}</a></p>
   </div>
 </footer>
 <a class="wa-float" href="{{ site.whatsapp }}" aria-label="Chat on WhatsApp">WhatsApp us</a>

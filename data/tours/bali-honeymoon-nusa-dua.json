@@ -727,7 +727,17 @@
     ]
   },
   "geo_query": {
-    "Tegalalang Rice Terrace": "Tegallalang Rice Terrace",
-    "Tirta Gangga": "Taman Tirta Gangga"
+    "Tegalalang Rice Terrace": [
+      "Tegallalang Rice Terrace",
+      "Tegalalang Rice Terrace",
+      "Ceking Rice Terrace",
+      "Tegallalang Rice Terraces"
+    ],
+    "Tirta Gangga": "Taman Tirta Gangga",
+    "Ubud Palace": [
+      "Puri Saren Agung",
+      "Ubud Palace",
+      "Puri Saren Ubud"
+    ]
   }
 }

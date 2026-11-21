@@ -289,7 +289,7 @@ The maps tell travellers where they are going, so every pin must be right.
   (`bbox`: `[south, west, north, east]`, e.g. Bali `[-8.86, 114.42, -8.05, 115.72]`), and saves it in
   `data/cache/geo.json` with the address it matched. A pin outside the box is marked CHECK.
 * When OpenStreetMap spells a place differently, give the search name in
-  `"geo_query": {"Tegalalang Rice Terrace": "Tegallalang Rice Terrace"}`; the page keeps our spelling.
+  `"geo_query": {"Tegalalang Rice Terrace": ["Tegallalang Rice Terrace", "Ceking Rice Terrace"]}`. Several spellings may be listed; the first that verifies wins, and the page keeps our spelling.
 * **Every pin is verified automatically**: the place's **own name** in OpenStreetMap must share the
   distinctive words of our name (a match in the address does not count), a street that merely shares the
   name is rejected, and the pin must lie inside the tour's area and within 250 km of the rest of the trip.

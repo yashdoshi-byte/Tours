@@ -57,7 +57,6 @@ GENERIC = set("the of and a an at in on to by de la le el temple pura hotel reso
               "station market palace bay rice terrace waterfall forest sanctuary bali island city old new "
               "museum park street road jalan".split())
 CHECKS = {}  # place -> verification record, written to media/<slug>/places.md
-CHECKS_WHY = {}
 
 
 def words(s):
@@ -82,16 +81,8 @@ def nominatim(q, t):
     return r.json()
 
 
-def geocode(name, t, geo, refresh):
-    """Coordinates for a place, with a record of how sure we are."""
-    if name in t.get("geo", {}):
-        g = t["geo"][name]
-        lat, lon = g[:2]
-        src = g[2] if len(g) > 2 else "the tour file"
-        CHECKS[name] = {"lat": lat, "lon": lon, "found": f"Pinned by hand from {src}", "type": "",
-                        "status": "PINNED" if in_bbox(t, lat, lon) else "CHECK"}
-        return [lat, lon]
-    query = t.get("geo_query", {}).get(name, name)
+def lookup(name, query, t, geo, refresh):
+    """One OpenStreetMap search. Returns (record, status, why)."""
     key = f'v2|{t.get("country_code", "")}|{t.get("bbox", "")}|{query}'
     if key not in geo or refresh or not isinstance(geo[key], dict):
         hits = nominatim(query, t)
@@ -107,19 +98,41 @@ def geocode(name, t, geo, refresh):
             "type": f'{best.get("category", "")}/{best.get("type", "")}'}
     g = geo[key]
     if not g:
+        return None, "NOT FOUND", ""
+    want = words(query)
+    # the place's OWN name must match: a match in the address ("…, Tegallalang, Gianyar") is not enough
+    if want and len(want & words(g["osm_name"])) < max(1, (len(want) + 1) // 2):
+        return g, "CHECK", "the name it found does not match ours"
+    if g["type"].startswith("highway/") and not re.search(r"\b(jalan|jl|road|street|gang)\b", name, re.I):
+        return g, "CHECK", "OpenStreetMap returned a street with this name"
+    if not in_bbox(t, g["lat"], g["lon"]):
+        return g, "CHECK", "outside the tour's area"
+    return g, "OK", ""
+
+
+def geocode(name, t, geo, refresh):
+    """Coordinates for a place, with a record of how sure we are."""
+    if name in t.get("geo", {}):
+        g = t["geo"][name]
+        lat, lon = g[:2]
+        src = g[2] if len(g) > 2 else "the tour file"
+        CHECKS[name] = {"lat": lat, "lon": lon, "found": f"Pinned by hand from {src}", "type": "",
+                        "status": "PINNED" if in_bbox(t, lat, lon) else "CHECK"}
+        return [lat, lon]
+    queries = t.get("geo_query", {}).get(name, name)
+    queries = [queries] if isinstance(queries, str) else list(queries)
+    tried = []
+    for query in queries:  # several spellings may be given: the first one that verifies wins
+        g, status, why = lookup(name, query, t, geo, refresh)
+        tried.append((g, status, why))
+        if status == "OK":
+            break
+    g, status, why = next((x for x in tried if x[1] == "OK"), tried[0])
+    if not g:
         CHECKS[name] = {"status": "NOT FOUND", "found": "", "type": "", "lat": None, "lon": None}
         print(f"  ✗ place {name!r}: NOT FOUND. Pin it under \"geo\" in the tour file.")
         return None
-    want = words(query)
-    # the place's OWN name must match: a match in the address ("…, Tegallalang, Gianyar") is not enough
-    matched = want & words(g["osm_name"])
-    status = "OK" if (not want or len(matched) >= max(1, (len(want) + 1) // 2)) else "CHECK"
-    if g["type"].startswith("highway/") and not re.search(r"\b(jalan|jl|road|street|gang)\b", name, re.I):
-        status = "CHECK"  # we asked for a place and got a street of the same name
-        CHECKS_WHY[name] = "OpenStreetMap returned a street with this name"
-    if not in_bbox(t, g["lat"], g["lon"]):
-        status = "CHECK"
-    CHECKS[name] = dict(g, status=status, why=CHECKS_WHY.pop(name, "") if status == "CHECK" else "")
+    CHECKS[name] = dict(g, status=status, why=why)
     mark = "✓" if status == "OK" else "⚠"
     print(f'  {mark} place {name!r:50} -> {g["lat"]}, {g["lon"]}  {g["found"][:70]}')
     return [g["lat"], g["lon"]]
@@ -145,8 +158,6 @@ def places_report(slug, t):
         ll = f'{c["lat"]}, {c["lon"]}' if c.get("lat") is not None else "none"
         link = f'[open](https://www.google.com/maps/search/?api=1&query={c["lat"]},{c["lon"]})' if c.get("lat") is not None else ""
         found = (c.get("found") or "").replace("|", "/")[:120] + (f' ({c["why"]})' if c.get("why") else "")
-        if c.get("status") == "CHECK" and not c.get("why"):
-            found += " (the name it found does not match ours)"
         rows.append(f'| {c["status"]} | {n} | {ll} | {found} | {link} |')
     bad = sum(c["status"] in ("CHECK", "NOT FOUND") for c in CHECKS.values())
     head = (f"# Pins for {t['title']}\n\nEvery place on this tour's maps. OK means OpenStreetMap's name matches ours; "

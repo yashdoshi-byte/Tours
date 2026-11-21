@@ -1,0 +1,1097 @@
+{
+  "slug": "great-britain-ireland-london-bath-dublin-edinburgh-15-days",
+  "title": "Great Britain and Ireland: London, Brighton, Bath, Stonehenge, Cardiff, Dublin and Edinburgh in 15 Days",
+  "meta_title": "Great Britain and Ireland Tour 15 Days: London to Edinburgh",
+  "meta_description": "15-day UK and Ireland tour: London, Brighton, Stonehenge, Bath, Cardiff Castle, Dublin and the Guinness Storehouse, Edinburgh and a Highlands day trip.",
+  "destination": "England, Wales, Ireland and Scotland",
+  "country": "United Kingdom, Ireland",
+  "duration": "15 days / 14 nights",
+  "nights": 14,
+  "style": "Cities · Heritage · Coast and Highlands",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903785533-118624649.webp",
+  "hero_alt": "Tower Bridge in London",
+  "tagline": "Four nations in one trip, from the Royal Pavilion to Edinburgh Castle",
+  "facts": [
+    [
+      "Stay",
+      "London 3, Brighton 2, Bath 2, Cardiff 2, Dublin 2, Edinburgh 3"
+    ],
+    [
+      "Travel",
+      "Train, two short flights, one private car day"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "May to September"
+    ],
+    [
+      "Ideal for",
+      "Families and groups of friends"
+    ]
+  ],
+  "intro": "Four countries in fifteen days: London's markets and theatres, the seaside of Brighton and the white cliffs of the Seven Sisters, Georgian Bath and its Roman baths, the castles of Cardiff, Dublin's pubs and history, and Edinburgh with a day in the Highlands. We made three changes to the original plan. Your first day is now an easy arrival day, with Bicester Village moved to day 3. Stonehenge is visited on the drive from Brighton to Bath, where it lies on the way, not as a 4-hour round trip from Cardiff. And you fly to Dublin from Bristol, about an hour from Cardiff, because the Holyhead ferry is a 4-hour drive away from Cardiff.",
+  "highlights": [
+    "London's sights by open-top bus, Brick Lane and a West End show",
+    "A day of designer shopping at Bicester Village",
+    "Brighton Pier, the Royal Pavilion and the Seven Sisters cliffs",
+    "Stonehenge on the way to Bath",
+    "The Roman Baths and the rooftop pool at Thermae Bath Spa",
+    "Cardiff Castle, Castell Coch and Cardiff Bay",
+    "Dublin's Guinness Storehouse, Trinity College and live music in Temple Bar",
+    "Edinburgh Castle, a Harry Potter walk and a Highlands day trip to Loch Ness and Glencoe"
+  ],
+  "stays": [
+    {
+      "place": "London",
+      "nights": 3,
+      "hotel": "Central hotel"
+    },
+    {
+      "place": "Brighton",
+      "nights": 2,
+      "hotel": "Seafront hotel"
+    },
+    {
+      "place": "Bath",
+      "nights": 2,
+      "hotel": "City-centre hotel"
+    },
+    {
+      "place": "Cardiff",
+      "nights": 2,
+      "hotel": "City-centre or Cardiff Bay hotel"
+    },
+    {
+      "place": "Dublin",
+      "nights": 2,
+      "hotel": "Hotel near Grafton Street"
+    },
+    {
+      "place": "Edinburgh",
+      "nights": 3,
+      "hotel": "Old Town or New Town hotel"
+    }
+  ],
+  "route": [
+    "London",
+    "Bicester Village",
+    "Brighton",
+    "Seven Sisters",
+    "Stonehenge",
+    "Bath",
+    "Cardiff",
+    "Bristol Airport",
+    "Dublin",
+    "Edinburgh",
+    "Glencoe",
+    "Loch Ness"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in London",
+      "summary": "Arrive, check in and an easy first evening in Covent Garden.",
+      "strip": [
+        "Heathrow to central London about 15 to 50 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Into central London",
+          "text": "Heathrow Express to Paddington or the Elizabeth line; for a group of five with luggage, a pre-booked people carrier is simpler.",
+          "notes": [
+            [
+              "MONEY",
+              "Each traveller taps their own contactless card or phone on the Tube; one card cannot pay for two people."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Covent Garden and Leicester Square",
+          "text": "Street performers in the piazza and dinner nearby."
+        }
+      ],
+      "places": [
+        "Heathrow Airport",
+        "Covent Garden",
+        "Leicester Square"
+      ],
+      "note": "Keep the first evening light; London days are long and full.",
+      "route": [
+        "Heathrow Airport",
+        "Covent Garden",
+        "Leicester Square"
+      ],
+      "photo_query": "Heathrow Airport",
+      "photo_caption": "Heathrow Airport",
+      "transport": "Train and on foot",
+      "travel_time": "Heathrow to central London about 15 to 50 minutes by train",
+      "brief": [
+        "Into central London: each traveller taps their own contactless card or phone on the Tube; one card cannot pay for two people.",
+        "Keep the first evening light; London days are long and full."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "London by open-top bus",
+      "summary": "A hop-on hop-off day around the great sights.",
+      "strip": [
+        "Bus pass valid 24 hours"
+      ],
+      "rows": [
+        {
+          "label": "From about 09:00",
+          "title": "Open-top bus tour",
+          "text": "Buckingham Palace, Westminster, the Houses of Parliament, the Tower of London and Tower Bridge; two loop routes and audio guides in several languages."
+        },
+        {
+          "label": "Hop off",
+          "title": "St Paul's Cathedral, Trafalgar Square or the South Bank",
+          "notes": [
+            [
+              "TIME",
+              "St Paul's is open to sightseers Monday to Saturday only; on Sunday it is for worship."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "A West End show",
+          "text": "Book tickets in advance for popular musicals."
+        }
+      ],
+      "places": [
+        "Buckingham Palace",
+        "Houses of Parliament",
+        "Tower Bridge",
+        "St Paul's Cathedral"
+      ],
+      "note": "Changing of the Guard at Buckingham Palace runs on set mornings only; check the day before.",
+      "route": [
+        "Buckingham Palace",
+        "Houses of Parliament",
+        "Tower Bridge",
+        "St Paul's Cathedral"
+      ],
+      "photo_query": "Buckingham Palace",
+      "photo_caption": "Buckingham Palace",
+      "transport": "Train and on foot",
+      "travel_time": "Bus pass valid 24 hours",
+      "brief": [
+        "St Paul's is open to sightseers Monday to Saturday only; on Sunday it is for worship.",
+        "Changing of the Guard at Buckingham Palace runs on set mornings only; check the day before."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Bicester Village",
+      "summary": "A day at the designer outlet village outside Oxford.",
+      "strip": [
+        "About 1 hour by train from Marylebone, or by shopping coach"
+      ],
+      "rows": [
+        {
+          "label": "Morning · London Marylebone",
+          "title": "Train to Bicester Village",
+          "text": "Trains run about every 30 minutes; the station is a 5-minute walk from the shops.",
+          "notes": [
+            [
+              "TIME",
+              "Weekends and school holidays are very crowded; go on a weekday morning if you can."
+            ]
+          ]
+        },
+        {
+          "label": "All day",
+          "title": "Over 150 boutiques",
+          "text": "Luxury and fashion brands at outlet prices, with restaurants for lunch.",
+          "notes": [
+            [
+              "MONEY",
+              "The UK has no VAT refund for tourists, so the price on the tag is the final price."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Back to London"
+        }
+      ],
+      "places": [
+        "London Marylebone",
+        "Bicester Village"
+      ],
+      "note": "Option instead for non-shoppers: Brick Lane and Borough Market in the morning, the Churchill War Rooms in the afternoon.",
+      "transport": "Train",
+      "route": [
+        "London Marylebone",
+        "Bicester Village"
+      ],
+      "photo_query": "London Marylebone",
+      "photo_caption": "London Marylebone",
+      "travel_time": "About 1 hour by train from Marylebone, or by shopping coach",
+      "brief": [
+        "Train to Bicester Village: weekends and school holidays are very crowded; go on a weekday morning if you can.",
+        "Over 150 boutiques: the UK has no VAT refund for tourists, so the price on the tag is the final price."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Brighton: the pier, the Pavilion and the Lanes",
+      "summary": "Train to the seaside and an afternoon around the city.",
+      "strip": [
+        "About 1 hour by train from London Victoria"
+      ],
+      "rows": [
+        {
+          "label": "Morning · London Victoria",
+          "title": "Train to Brighton",
+          "text": "Direct trains about every 15 minutes."
+        },
+        {
+          "label": "Afternoon",
+          "title": "The Royal Pavilion",
+          "text": "King George IV's palace in Indian and Chinese styles. It served as a hospital for Indian soldiers in the First World War; the Chattri memorial on the Downs honours them.",
+          "notes": [
+            [
+              "TIME",
+              "Allow 1 hour 30 minutes; last entry is 45 minutes before closing."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "The Lanes and Brighton Palace Pier",
+          "text": "Narrow lanes of jewellers and cafés, then the seafront."
+        }
+      ],
+      "places": [
+        "Brighton railway station",
+        "Royal Pavilion",
+        "The Lanes",
+        "Brighton Palace Pier"
+      ],
+      "note": "The beach is pebbles, not sand: bring sandals with soles.",
+      "route": [
+        "Brighton railway station",
+        "Royal Pavilion",
+        "The Lanes",
+        "Brighton Palace Pier"
+      ],
+      "photo_query": "Brighton railway station",
+      "photo_caption": "Brighton railway station",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour by train from London Victoria",
+      "brief": [
+        "The Royal Pavilion: allow 1 hour 30 minutes; last entry is 45 minutes before closing.",
+        "The beach is pebbles, not sand: bring sandals with soles."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Seven Sisters cliffs or a Brighton day",
+      "summary": "A choice: the white chalk cliffs of the South Downs, or the seafront sights.",
+      "strip": [
+        "Seven Sisters about 45 minutes by bus"
+      ],
+      "rows": [
+        {
+          "label": "Option A",
+          "title": "Seven Sisters and Birling Gap",
+          "text": "The number 12 bus to Seven Sisters Country Park, a walk along the river to the beach, and the clifftop view from Birling Gap.",
+          "notes": [
+            [
+              "CARE",
+              "Stay well back from the cliff edges and do not sit at the foot of the cliffs: the chalk falls without warning."
+            ]
+          ]
+        },
+        {
+          "label": "Option B",
+          "title": "Brighton i360 and Volk's Electric Railway",
+          "text": "A glass pod rises 138 m over the seafront; the world's oldest working electric railway runs along the beach."
+        }
+      ],
+      "places": [
+        "Seven Sisters Country Park",
+        "Birling Gap",
+        "Brighton i360"
+      ],
+      "note": "Option A needs walking shoes and about 4 to 5 hours.",
+      "transport": "Bus and on foot",
+      "route": [
+        "Seven Sisters Country Park",
+        "Birling Gap",
+        "Brighton i360"
+      ],
+      "photo_query": "Seven Sisters Country Park",
+      "photo_caption": "Seven Sisters Country Park",
+      "travel_time": "Seven Sisters about 45 minutes by bus",
+      "brief": [
+        "Seven Sisters and Birling Gap: stay well back from the cliff edges and do not sit at the foot of the cliffs: the chalk falls without warning.",
+        "Option A needs walking shoes and about 4 to 5 hours."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Stonehenge on the way to Bath",
+      "summary": "A private car west across Hampshire to Stonehenge, then on to Bath.",
+      "strip": [
+        "About 2 hours 30 minutes to Stonehenge, then 1 hour to Bath"
+      ],
+      "rows": [
+        {
+          "label": "About 08:30",
+          "title": "Private car from Brighton",
+          "text": "With room for five and the luggage."
+        },
+        {
+          "label": "Late morning",
+          "title": "Stonehenge",
+          "text": "The 5,000-year-old stone circle, with the visitor centre, Neolithic houses and an audio guide. The path circles the stones.",
+          "notes": [
+            [
+              "TIME",
+              "Entry is by timed ticket; book online in advance."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Avebury stone circle",
+          "text": "The largest stone circle in the world, with a village inside it; adds about 1 hour."
+        },
+        {
+          "label": "Late afternoon · Bath",
+          "title": "The Royal Crescent and the Circus",
+          "text": "A first walk through Georgian Bath."
+        }
+      ],
+      "places": [
+        "Stonehenge",
+        "Avebury",
+        "Royal Crescent"
+      ],
+      "note": "This replaces the original 3-hour train via London and the 4-hour Stonehenge round trip from Cardiff.",
+      "transport": "Private car with driver",
+      "route": [
+        "Stonehenge",
+        "Avebury",
+        "Royal Crescent"
+      ],
+      "photo_query": "Stonehenge",
+      "photo_caption": "Stonehenge",
+      "travel_time": "About 2 hours 30 minutes to Stonehenge, then 1 hour to Bath",
+      "brief": [
+        "Stonehenge: entry is by timed ticket; book online in advance.",
+        "This replaces the original 3-hour train via London and the 4-hour Stonehenge round trip from Cardiff."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Roman Baths, Thermae Bath Spa and a ghost walk",
+      "summary": "Roman Bath, the warm rooftop pool and Bath after dark.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "The Roman Baths",
+          "text": "The 2,000-year-old baths fed by Britain's only hot springs.",
+          "notes": [
+            [
+              "TIME",
+              "Book timed tickets; arrive at opening to avoid the crowds."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Thermae Bath Spa",
+          "text": "Bathe in naturally warm mineral water in the rooftop pool with views over the city.",
+          "notes": [
+            [
+              "TIME",
+              "Book well ahead. Sessions are 2 hours and under-16s are not admitted."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pulteney Bridge, the Jane Austen Centre or Mary Shelley's House of Frankenstein",
+          "text": "A bridge lined with shops, Bath's best-known writer, and a horror attraction on the city where Frankenstein was written."
+        },
+        {
+          "label": "Evening",
+          "title": "Ghost walk of Bath",
+          "text": "A guided walk through the city's darker stories."
+        }
+      ],
+      "places": [
+        "Roman Baths",
+        "Thermae Bath Spa",
+        "Pulteney Bridge"
+      ],
+      "note": "Bath is easy on foot; almost everything is within 15 minutes' walk.",
+      "transport": "On foot",
+      "route": [
+        "Roman Baths",
+        "Thermae Bath Spa",
+        "Pulteney Bridge"
+      ],
+      "photo_query": "Roman Baths",
+      "photo_caption": "Roman Baths",
+      "brief": [
+        "The Roman Baths: book timed tickets; arrive at opening to avoid the crowds.",
+        "Thermae Bath Spa: book well ahead."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Cardiff and Cardiff Castle",
+      "summary": "A short train into Wales, Cardiff Castle and the waterfront.",
+      "strip": [
+        "About 1 hour by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Cardiff",
+          "text": "Direct trains about every 30 minutes."
+        },
+        {
+          "label": "Midday",
+          "title": "Cardiff Castle",
+          "text": "A Roman fort, a Norman keep and lavish Victorian rooms. Allow 2 to 3 hours.",
+          "notes": [
+            [
+              "TIME",
+              "The house tour is by timed slot; book on arrival."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Cardiff Bay by water taxi",
+          "text": "From the city to Mermaid Quay, the Senedd and the Wales Millennium Centre."
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner at Mermaid Quay"
+        }
+      ],
+      "places": [
+        "Cardiff Central",
+        "Cardiff Castle",
+        "Mermaid Quay",
+        "Wales Millennium Centre"
+      ],
+      "note": "Welsh is spoken alongside English; you will see both on every sign.",
+      "route": [
+        "Cardiff Central",
+        "Cardiff Castle",
+        "Mermaid Quay",
+        "Wales Millennium Centre"
+      ],
+      "photo_query": "Cardiff Central",
+      "photo_caption": "Cardiff Central",
+      "transport": "Train and on foot",
+      "travel_time": "About 1 hour by train",
+      "brief": [
+        "Cardiff Castle: the house tour is by timed slot; book on arrival.",
+        "Welsh is spoken alongside English; you will see both on every sign."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Castell Coch and St Fagans",
+      "summary": "A fairy-tale castle in the woods and Wales's open-air museum of history.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Castell Coch",
+          "text": "A red-stone Gothic castle above the woods, 20 minutes north of the city."
+        },
+        {
+          "label": "Afternoon",
+          "title": "St Fagans National Museum of History",
+          "text": "Over 40 old Welsh buildings rebuilt in parkland, from farmhouses to a workmen's institute. Free entry."
+        },
+        {
+          "label": "Evening",
+          "title": "Cardiff's Victorian arcades",
+          "text": "Covered shopping arcades in the city centre."
+        }
+      ],
+      "places": [
+        "Castell Coch",
+        "St Fagans National Museum of History"
+      ],
+      "note": "This day replaces the Stonehenge trip, which is now on the way to Bath.",
+      "transport": "Private car or taxi",
+      "route": [
+        "Castell Coch",
+        "St Fagans National Museum of History"
+      ],
+      "photo_query": "Castell Coch",
+      "photo_caption": "Castell Coch",
+      "brief": [
+        "This day replaces the Stonehenge trip, which is now on the way to Bath."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly from Bristol to Dublin",
+      "summary": "A short flight to Ireland and an evening of live music.",
+      "strip": [
+        "About 1 hour to Bristol Airport",
+        "Flight about 1 hour 10 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Car to Bristol Airport",
+          "text": "Across the Severn bridges.",
+          "notes": [
+            [
+              "TIME",
+              "Arrive 2 hours before the flight. Your UK visa must be multiple-entry to return to Britain; the standard visitor visa is."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon · Dublin",
+          "title": "Along the River Liffey",
+          "text": "Over the Ha'penny Bridge."
+        },
+        {
+          "label": "Evening",
+          "title": "Temple Bar",
+          "text": "Traditional Irish music in the pubs; dinner nearby.",
+          "notes": [
+            [
+              "CARE",
+              "Temple Bar is busy and loud late at night. Keep phones and wallets secure."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Bristol Airport",
+        "Ha'penny Bridge",
+        "Temple Bar"
+      ],
+      "note": "Ireland uses euros. Carry a little cash for small cafés.",
+      "transport": "Car and flight",
+      "route": [
+        "Bristol Airport",
+        "Ha'penny Bridge",
+        "Temple Bar"
+      ],
+      "photo_query": "Bristol Airport",
+      "photo_caption": "Bristol Airport",
+      "travel_time": "About 1 hour to Bristol Airport",
+      "brief": [
+        "Car to Bristol Airport: arrive 2 hours before the flight.",
+        "Temple Bar is busy and loud late at night."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Dublin: cathedrals, the castle and the Guinness Storehouse",
+      "summary": "Ireland's history and its most famous drink.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Trinity College and the Book of Kells",
+          "notes": [
+            [
+              "TIME",
+              "Book timed tickets; morning slots are quieter."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "St Patrick's Cathedral and Dublin Castle",
+          "text": "Ireland's largest cathedral, founded in 1191, and the State Apartments of the castle."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Guinness Storehouse",
+          "text": "Seven floors on the brewing of Guinness, ending in the Gravity Bar with a 360-degree view of the city; soft drinks are offered instead of a pint."
+        },
+        {
+          "label": "Evening",
+          "title": "Grafton Street",
+          "text": "Buskers and dinner."
+        }
+      ],
+      "places": [
+        "Trinity College Dublin",
+        "St Patrick's Cathedral",
+        "Dublin Castle",
+        "Guinness Storehouse"
+      ],
+      "note": "Dublin's centre is compact; trams and taxis cover the rest.",
+      "transport": "On foot and tram",
+      "route": [
+        "Trinity College Dublin",
+        "St Patrick's Cathedral",
+        "Dublin Castle",
+        "Guinness Storehouse"
+      ],
+      "photo_query": "Trinity College Dublin",
+      "photo_caption": "Trinity College Dublin",
+      "brief": [
+        "Trinity College and the Book of Kells: book timed tickets; morning slots are quieter.",
+        "Dublin's centre is compact; trams and taxis cover the rest."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Edinburgh",
+      "summary": "Fly to Scotland and a first walk on Princes Street.",
+      "strip": [
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight to Edinburgh",
+          "notes": [
+            [
+              "TIME",
+              "Flights between Ireland and the UK have no passport control on arrival in the UK, but airlines check your passport and UK visa at the gate."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Princes Street Gardens and the Royal Mile",
+          "text": "The castle above the gardens, and the old street below it."
+        },
+        {
+          "label": "Optional evening",
+          "title": "The Scotch Whisky Experience",
+          "text": "A guided tasting beside the castle, with soft-drink options."
+        }
+      ],
+      "places": [
+        "Dublin Airport",
+        "Edinburgh Airport",
+        "Princes Street Gardens",
+        "Royal Mile"
+      ],
+      "note": "The tram from Edinburgh Airport to Princes Street takes about 35 minutes.",
+      "transport": "Flight and tram",
+      "route": [
+        "Dublin Airport",
+        "Edinburgh Airport",
+        "Princes Street Gardens",
+        "Royal Mile"
+      ],
+      "photo_query": "Dublin Airport",
+      "photo_caption": "Dublin Airport",
+      "travel_time": "Flight about 1 hour 15 minutes",
+      "brief": [
+        "Flight to Edinburgh: flights between Ireland and the UK have no passport control on arrival in the UK, but airlines check your passport and UK visa at the gate.",
+        "The tram from Edinburgh Airport to Princes Street takes about 35 minutes."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Edinburgh Castle, the Royal Mile and Harry Potter",
+      "summary": "Castle, closes and palaces, then a walk through the city that inspired Harry Potter.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Edinburgh Castle",
+          "text": "The Scottish Crown Jewels and the Stone of Destiny, with views to the Firth of Forth.",
+          "notes": [
+            [
+              "TIME",
+              "Book a timed ticket online."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "The Royal Mile to Holyrood",
+          "text": "Closes and courtyards down to the Palace of Holyroodhouse; the Museum of Edinburgh and The People's Story are free."
+        },
+        {
+          "label": "Evening",
+          "title": "Harry Potter walking tour",
+          "text": "Greyfriars Kirkyard, Victoria Street and the cafés linked with J.K. Rowling."
+        }
+      ],
+      "places": [
+        "Edinburgh Castle",
+        "Palace of Holyroodhouse",
+        "Greyfriars Kirkyard",
+        "Victoria Street"
+      ],
+      "note": "Holyroodhouse closes when the royal family is in residence, usually in early July.",
+      "transport": "On foot",
+      "route": [
+        "Edinburgh Castle",
+        "Palace of Holyroodhouse",
+        "Greyfriars Kirkyard",
+        "Victoria Street"
+      ],
+      "photo_query": "Edinburgh Castle",
+      "photo_caption": "Edinburgh Castle",
+      "brief": [
+        "Edinburgh Castle: book a timed ticket online.",
+        "Holyroodhouse closes when the royal family is in residence, usually in early July."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Highlands day trip: Glencoe and Loch Ness",
+      "summary": "A long guided day through the Highlands and back.",
+      "strip": [
+        "About 12 hours, back about 20:00"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Depart Edinburgh",
+          "text": "By guided coach or private driver-guide.",
+          "notes": [
+            [
+              "TIME",
+              "This is a 12-hour day with about 8 hours on the road. A private driver lets you set the pace."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Glencoe",
+          "text": "Scotland's most dramatic glen, and the site of the massacre of 1692."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Loch Ness and Fort Augustus",
+          "text": "An optional cruise on the loch."
+        },
+        {
+          "label": "Evening",
+          "title": "Farewell Scottish dinner with folk music",
+          "text": "Vegetarian haggis is on most Scottish menus."
+        }
+      ],
+      "places": [
+        "Glencoe",
+        "Fort Augustus",
+        "Loch Ness"
+      ],
+      "note": "If you prefer a shorter day, Stirling Castle and the Trossachs make a 9-hour trip.",
+      "transport": "Coach or private car with guide",
+      "route": [
+        "Glencoe",
+        "Fort Augustus",
+        "Loch Ness"
+      ],
+      "photo_query": "Glencoe",
+      "photo_caption": "Glencoe",
+      "travel_time": "About 12 hours, back about 20:00",
+      "brief": [
+        "Depart Edinburgh: this is a 12-hour day with about 8 hours on the road.",
+        "If you prefer a shorter day, Stirling Castle and the Trossachs make a 9-hour trip."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Edinburgh",
+      "summary": "Transfer to Edinburgh Airport.",
+      "strip": [
+        "Airport about 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Edinburgh Airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Edinburgh Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Edinburgh Airport",
+      "photo_caption": "Edinburgh Airport",
+      "transport": "Train and on foot",
+      "travel_time": "Airport about 30 minutes",
+      "brief": [
+        "Transfer to Edinburgh Airport: leave 3 hours before an international flight.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "place": "London",
+      "options": [
+        "Central hotel near a Tube station, with family rooms or connecting rooms"
+      ]
+    },
+    {
+      "place": "Brighton",
+      "options": [
+        "Seafront hotel"
+      ]
+    },
+    {
+      "place": "Bath",
+      "options": [
+        "City-centre hotel or serviced apartment for five"
+      ]
+    },
+    {
+      "place": "Cardiff",
+      "options": [
+        "City-centre or Cardiff Bay hotel"
+      ]
+    },
+    {
+      "place": "Dublin",
+      "options": [
+        "Hotel near Grafton Street or St Stephen's Green"
+      ]
+    },
+    {
+      "place": "Edinburgh",
+      "options": [
+        "Old Town or New Town hotel"
+      ]
+    }
+  ],
+  "included": [
+    "14 nights with breakfast",
+    "Hop-on hop-off bus in London",
+    "Private car Brighton to Bath via Stonehenge",
+    "Highlands day tour from Edinburgh",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Flights Bristol to Dublin and Dublin to Edinburgh (we book them for you)",
+    "Trains (we book them in advance for the best fares)",
+    "UK and Irish visas",
+    "Entry fees, theatre tickets and spa sessions",
+    "Meals not listed",
+    "Travel insurance"
+  ],
+  "entry": [
+    [
+      "Irish short-stay visa",
+      "Ireland is not covered by a UK visa unless the UK visa is endorsed 'BIVS' (British Irish Visa Scheme); otherwise apply for an Irish visa online",
+      "Indian passport holders",
+      "About EUR 60"
+    ],
+    [
+      "UK Standard Visitor visa",
+      "Up to 6 months, applied online with biometrics at VFS",
+      "Indian passport holders",
+      "About GBP 127"
+    ],
+    [
+      "Passport",
+      "Valid for the whole stay",
+      "Everyone",
+      ""
+    ],
+    [
+      "Electronic Travel Authorisation",
+      "Needed only by visa-exempt nationalities, not by visa holders",
+      "Non-visa nationals",
+      "About GBP 16"
+    ]
+  ],
+  "good_to_know": [
+    {
+      "tag": "TIP",
+      "title": "Two currencies",
+      "text": "England, Wales and Scotland use pounds; Ireland uses euros. Contactless cards work in both."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in pounds sterling, never in INR. Contactless cards and phones work on every bus, Tube and train ticket barrier. Many places are card-only."
+    },
+    {
+      "tag": "TIP",
+      "title": "Trains and Oyster",
+      "text": "In London, tap a contactless card or phone at the barriers instead of buying an Oyster card: daily fares are capped automatically. Book long-distance trains in advance for the lowest fares."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and weather",
+      "text": "Plugs are the three square-pin type G at 230 volts; Indian plugs need an adaptor. Weather changes fast, even in summer: pack a light rain jacket and layers."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Tipping",
+      "text": "Restaurants often add a 12.5% service charge. If not, 10% is normal. Pubs do not expect tips at the bar."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency (Ireland)",
+      "112 or 999"
+    ],
+    [
+      "Embassy of India, Dublin",
+      "69 Merrion Road, Ballsbridge, Dublin 4"
+    ],
+    [
+      "Emergency (UK)",
+      "999 or 112 · non-urgent medical help 111"
+    ],
+    [
+      "India House, London (Indian diplomatic mission)",
+      "Aldwych, London WC2B 4NA"
+    ]
+  ],
+  "best_time": "May to September for long days and outdoor sights; the Seven Sisters and the Highlands are at their best in summer.",
+  "seasons": [
+    [
+      "May to September",
+      "Best",
+      "Long days (sunset after 21:00 in Scotland in June), 15 to 22°C, the most ferries and tours running."
+    ],
+    [
+      "April and October",
+      "Good",
+      "Fewer crowds and lower hotel rates; cooler, and some island boats stop in mid-October."
+    ],
+    [
+      "November to March",
+      "Winter",
+      "Short days (dark by 16:00 in Scotland), cold and wet; Highland and island tours run less often. Christmas markets in London and Edinburgh."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet"
+  ],
+  "best_pick": "May, June and September: long days with fewer crowds than July and August.",
+  "faqs": [
+    {
+      "q": "Do we need two visas?",
+      "a": "Yes, unless your UK visa carries the BIVS endorsement, which also covers Ireland. We advise on which to apply for when we plan your dates."
+    },
+    {
+      "q": "Can we do this by car?",
+      "a": "Yes, but city parking in London, Bath and Edinburgh is difficult and costly. Trains with one private-car day work better."
+    },
+    {
+      "q": "Is it suitable for a family of five?",
+      "a": "Yes. We book family rooms or apartments and a people carrier for the arrival and the Stonehenge day."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "UK and Ireland tour package",
+    "London Bath Edinburgh tour",
+    "Great Britain family holiday",
+    "Dublin and Scotland itinerary"
+  ],
+  "links": [
+    {
+      "title": "UK Standard Visitor visa (official)",
+      "url": "https://www.gov.uk/standard-visitor"
+    },
+    {
+      "title": "Irish visa information (official)",
+      "url": "https://www.irishimmigration.ie/"
+    },
+    {
+      "title": "Stonehenge tickets (English Heritage)",
+      "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry_notes": [
+    "Apply about 3 months before travel. Standard processing is about 3 weeks; priority service costs extra.",
+    "Phone and internet: a UK or Europe eSIM keeps WhatsApp working on your own number."
+  ],
+  "dining_intro": "Britain is very easy for vegetarians, and London has some of the best Indian vegetarian food outside India. We send your dietary brief to every hotel in advance.",
+  "dining": [
+    {
+      "name": "Sagar, Covent Garden",
+      "cuisine": "South Indian vegetarian (Udupi)",
+      "address": "31 Catherine Street, Covent Garden, London",
+      "open": "Open daily for lunch and dinner",
+      "open_daily": true,
+      "order": "Masala dosa, rava dosa, idli sambar and thali. Ask for Jain dishes without onion and garlic."
+    },
+    {
+      "name": "Govinda's, Soho",
+      "cuisine": "Pure vegetarian (ISKCON)",
+      "address": "9 Soho Street, London W1D 3DL",
+      "open": "Open Monday to Saturday, lunch and early dinner",
+      "open_daily": false,
+      "order": "Daily set thali, sabji and dal. Food is sattvic: no onion or garlic."
+    }
+  ],
+  "dining_avoid": "Many British sauces, soups and gravies use meat stock, and cheese can contain animal rennet. Ask for the vegetarian or vegan menu, and say 'no onion, no garlic' for Jain meals.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, ginger, potato, carrot or any root vegetables. No meat or fish stock. Please cook it fresh. Thank you."
+    ],
+    [
+      "Hindi, for Indian restaurants",
+      "Jain khana: pyaz, lahsun, adrak, aloo, gajar nahi. Taaza banaiye, please."
+    ]
+  ],
+  "country_code": "gb,ie"
+}

@@ -1,0 +1,969 @@
+{
+  "slug": "london-lake-district-scotland-highlands-skye-13-days",
+  "title": "London, the Lake District and Scotland: Edinburgh, Oban, Mull, Iona and the Isle of Skye in 13 Days",
+  "meta_title": "London and Scotland 13 Days: Lake District, Skye, Iona",
+  "meta_description": "13-day UK tour: London, Lake Windermere, Edinburgh, Loch Lomond, Oban with Mull, Iona and Staffa, the Isle of Skye and Loch Ness, by train and small coach.",
+  "destination": "England and Scotland, United Kingdom",
+  "country": "United Kingdom",
+  "duration": "13 days / 12 nights",
+  "nights": 12,
+  "style": "Cities · Lakes · Highlands and islands",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761903785533-118624649.webp",
+  "hero_alt": "Eilean Donan Castle in the Scottish Highlands",
+  "tagline": "From West End nights to the castles and islands of the Highlands",
+  "facts": [
+    [
+      "Stay",
+      "London 3, Windermere 2, Edinburgh 2, Oban 2, Isle of Skye 2, Edinburgh 1"
+    ],
+    [
+      "Travel",
+      "Train, then a guided small-group coach tour in Scotland"
+    ],
+    [
+      "Pace",
+      "Moderate, with two long coach days"
+    ],
+    [
+      "Best months",
+      "May to September"
+    ],
+    [
+      "Arrive / leave",
+      "London Heathrow / Edinburgh"
+    ]
+  ],
+  "intro": "A classic first trip to Britain. Three nights in London with a West End show and a dinner cruise on the Thames, two slow days by Lake Windermere, then Edinburgh and a five-day guided tour of the west Highlands and islands: Loch Lomond, Oban, the isles of Mull, Iona and Staffa, Eilean Donan Castle, the Isle of Skye and Loch Ness. Loch Lomond and Eilean Donan will be familiar from Bollywood: both appear in Kuch Kuch Hota Hai. We have updated the original plan for today's London (contactless travel, current shows and cruises) and added realistic train times.",
+  "highlights": [
+    "A West End show and a Thames dinner cruise past Tower Bridge and the lit-up Houses of Parliament",
+    "A lake cruise on Windermere in the Lake District",
+    "Edinburgh's Royal Mile, castle and the Scotch Whisky Experience",
+    "Loch Lomond, Kilchurn Castle and the harbour town of Oban",
+    "Mull, Iona Abbey and the basalt columns of Fingal's Cave on Staffa",
+    "Eilean Donan Castle, the Old Man of Storr and the Quiraing on Skye",
+    "Loch Ness and Pitlochry on the way back to Edinburgh"
+  ],
+  "stays": [
+    {
+      "place": "London",
+      "nights": 3,
+      "hotel": "Central 3 or 4 star hotel"
+    },
+    {
+      "place": "Windermere",
+      "nights": 2,
+      "hotel": "Lakeside hotel or guest house"
+    },
+    {
+      "place": "Edinburgh",
+      "nights": 2,
+      "hotel": "Old Town or New Town hotel"
+    },
+    {
+      "place": "Oban",
+      "nights": 2,
+      "hotel": "Harbour-front hotel or B&B"
+    },
+    {
+      "place": "Portree, Isle of Skye",
+      "nights": 2,
+      "hotel": "Hotel or B&B in Portree"
+    },
+    {
+      "place": "Edinburgh",
+      "nights": 1,
+      "hotel": "Hotel near the Royal Mile"
+    }
+  ],
+  "route": [
+    "London",
+    "Windermere",
+    "Edinburgh",
+    "Loch Lomond",
+    "Oban",
+    "Isle of Mull",
+    "Iona",
+    "Eilean Donan Castle",
+    "Portree",
+    "Loch Ness",
+    "Pitlochry",
+    "Edinburgh"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in London and a West End show",
+      "summary": "Arrive, check in and an evening at the theatre.",
+      "strip": [
+        "Heathrow to central London about 15 to 50 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Into central London",
+          "text": "The Heathrow Express (15 minutes to Paddington) or the Elizabeth line (about 35 minutes) are quicker than a taxi at rush hour.",
+          "notes": [
+            [
+              "MONEY",
+              "Tap the same contactless card or phone at every Tube and bus barrier; daily fares are capped, so there is no need for an Oyster card."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in and a first walk",
+          "text": "Hotel rooms are usually ready from 15:00. Stroll to Trafalgar Square or along the South Bank."
+        },
+        {
+          "label": "Evening · West End",
+          "title": "A West End show",
+          "text": "We book seats for the musical of your choice in advance. Most evening shows start at 19:30.",
+          "notes": [
+            [
+              "TIME",
+              "Arrive 30 minutes early; bags are checked at the door."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Heathrow Airport",
+        "Trafalgar Square",
+        "Leicester Square"
+      ],
+      "note": "After a long flight, a show close to your hotel is easier than a late dinner across town.",
+      "route": [
+        "Heathrow Airport",
+        "Trafalgar Square",
+        "Leicester Square"
+      ],
+      "photo_query": "Heathrow Airport",
+      "photo_caption": "Heathrow Airport",
+      "transport": "Train, London Underground and on foot",
+      "travel_time": "Heathrow to central London about 15 to 50 minutes by train",
+      "brief": [
+        "Into central London: tap the same contactless card or phone at every Tube and bus barrier; daily fares are capped, so there is no need for an Oyster card.",
+        "A West End show: arrive 30 minutes early; bags are checked at the door."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "London's sights and a Thames dinner cruise",
+      "summary": "A hop-on hop-off bus day and an evening dinner cruise on the river.",
+      "strip": [
+        "Bus pass valid 24 hours",
+        "Cruise about 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "From about 09:00",
+          "title": "Hop-on hop-off open-top bus",
+          "text": "Westminster Abbey, Big Ben, Buckingham Palace, St Paul's, the Tower of London and Tower Bridge, with live English commentary or recorded commentary in other languages."
+        },
+        {
+          "label": "About 11:00",
+          "title": "Changing of the Guard at Buckingham Palace",
+          "text": "If it is on that day.",
+          "notes": [
+            [
+              "TIME",
+              "The ceremony runs on set days only, and is cancelled in very wet weather. Check the schedule the day before and stand at the railings by 10:15."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Thames dinner cruise",
+          "text": "Board at a central pier for dinner and music as the boat passes the Houses of Parliament, the London Eye, St Paul's, Tower Bridge and Canary Wharf.",
+          "notes": [
+            [
+              "WEAR",
+              "Smart casual. Take a light jacket for the open deck."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Buckingham Palace",
+        "Westminster Abbey",
+        "Tower of London",
+        "Tower Bridge"
+      ],
+      "note": "Vegetarian menus are available on dinner cruises if requested when booking.",
+      "route": [
+        "Buckingham Palace",
+        "Westminster Abbey",
+        "Tower of London",
+        "Tower Bridge"
+      ],
+      "photo_query": "Buckingham Palace",
+      "photo_caption": "Buckingham Palace",
+      "transport": "Train, London Underground and on foot",
+      "travel_time": "Bus pass valid 24 hours",
+      "brief": [
+        "Changing of the Guard at Buckingham Palace: the ceremony runs on set days only, and is cancelled in very wet weather.",
+        "Thames dinner cruise: smart casual."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Hard Rock Café, Oxford Street and Hamleys",
+      "summary": "A rock-and-roll lunch with a vault tour, then shopping.",
+      "strip": [
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "About 11:30 · Old Park Lane",
+          "title": "Hard Rock Café London and the Vault",
+          "text": "The original Hard Rock Café, with priority seating and a tour of the Vault: guitars and handwritten lyrics from Jimi Hendrix, John Lennon and Elvis Presley."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Oxford Street and Regent Street",
+          "text": "Department stores along Oxford Street, then Liberty and Carnaby Street."
+        },
+        {
+          "label": "Afternoon · Regent Street",
+          "title": "Hamleys",
+          "text": "Seven floors of the world's oldest toy shop; a must with children."
+        }
+      ],
+      "places": [
+        "Hard Rock Cafe London",
+        "Oxford Street",
+        "Hamleys"
+      ],
+      "note": "Option instead: the British Museum (free entry) or the Natural History Museum in South Kensington.",
+      "route": [
+        "Hard Rock Cafe London",
+        "Oxford Street",
+        "Hamleys"
+      ],
+      "photo_query": "Hard Rock Cafe London",
+      "photo_caption": "Hard Rock Cafe London",
+      "transport": "Train, London Underground and on foot",
+      "brief": [
+        "Option instead: the British Museum (free entry) or the Natural History Museum in South Kensington."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to the Lake District",
+      "summary": "Train north to Windermere and an evening by the lake.",
+      "strip": [
+        "About 3 hours 15 minutes by train, one change at Oxenholme"
+      ],
+      "rows": [
+        {
+          "label": "Morning · London Euston",
+          "title": "Train to Windermere",
+          "text": "Fast train to Oxenholme, then the short branch line to Windermere.",
+          "notes": [
+            [
+              "MONEY",
+              "Book seats in advance: walk-up fares on this route are very high."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in and walk down to Bowness",
+          "text": "About 25 minutes downhill from Windermere station to the lake shore at Bowness."
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset on the lake"
+        }
+      ],
+      "places": [
+        "London Euston",
+        "Windermere railway station",
+        "Bowness-on-Windermere"
+      ],
+      "note": "Keep luggage to one medium case per person: you carry it on and off the trains yourself.",
+      "transport": "Train",
+      "route": [
+        "London Euston",
+        "Windermere railway station",
+        "Bowness-on-Windermere"
+      ],
+      "photo_query": "London Euston",
+      "photo_caption": "London Euston",
+      "travel_time": "About 3 hours 15 minutes by train, one change at Oxenholme",
+      "brief": [
+        "Train to Windermere: book seats in advance: walk-up fares on this route are very high.",
+        "Keep luggage to one medium case per person: you carry it on and off the trains yourself."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Lake Windermere and the fells",
+      "summary": "A lake cruise and the villages of the central Lake District.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Windermere lake cruise",
+          "text": "Boats from Bowness to Ambleside, about 30 minutes each way."
+        },
+        {
+          "label": "Midday · Ambleside and Grasmere",
+          "title": "Lakeland villages",
+          "text": "Wordsworth's Dove Cottage in Grasmere, and Grasmere gingerbread."
+        },
+        {
+          "label": "Optional",
+          "title": "The World of Beatrix Potter",
+          "text": "In Bowness; good with younger children."
+        },
+        {
+          "label": "Optional",
+          "title": "Orrest Head walk",
+          "text": "A 20-minute climb from Windermere station to one of the best views of the lake.",
+          "notes": [
+            [
+              "WEAR",
+              "Paths can be muddy even in summer. Wear shoes with grip and carry a rain jacket."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Lake Windermere",
+        "Ambleside",
+        "Grasmere"
+      ],
+      "note": "Local buses link Windermere, Ambleside and Grasmere; your hotel can also book a private driver.",
+      "route": [
+        "Lake Windermere",
+        "Ambleside",
+        "Grasmere"
+      ],
+      "photo_query": "Lake Windermere",
+      "photo_caption": "Lake Windermere",
+      "transport": "Train, London Underground and on foot",
+      "brief": [
+        "Orrest Head walk: paths can be muddy even in summer.",
+        "Local buses link Windermere, Ambleside and Grasmere; your hotel can also book a private driver."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Edinburgh",
+      "summary": "Train north into Scotland and a first evening on the Royal Mile.",
+      "strip": [
+        "About 2 hours 45 minutes by train, change at Oxenholme"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Edinburgh",
+          "text": "The line crosses the Shap Fells and the Southern Uplands."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in and Princes Street Gardens",
+          "text": "The castle rises straight above the gardens."
+        },
+        {
+          "label": "Evening",
+          "title": "The Royal Mile",
+          "text": "From the castle esplanade down to the Canongate."
+        }
+      ],
+      "places": [
+        "Windermere railway station",
+        "Edinburgh Waverley",
+        "Princes Street Gardens",
+        "Royal Mile"
+      ],
+      "note": "Edinburgh is hilly and cobbled. Comfortable shoes matter more here than in London.",
+      "transport": "Train",
+      "route": [
+        "Windermere railway station",
+        "Edinburgh Waverley",
+        "Princes Street Gardens",
+        "Royal Mile"
+      ],
+      "photo_query": "Windermere railway station",
+      "photo_caption": "Windermere railway station",
+      "travel_time": "About 2 hours 45 minutes by train, change at Oxenholme",
+      "brief": [
+        "Edinburgh is hilly and cobbled."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Edinburgh and the Scotch Whisky Experience",
+      "summary": "A hop-on hop-off bus around the city and a tour of whisky's history.",
+      "strip": [
+        "Bus pass valid 24 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hop-on hop-off city bus",
+          "text": "Edinburgh Castle, the Palace of Holyroodhouse, the Scottish Parliament, Calton Hill and the New Town."
+        },
+        {
+          "label": "Late morning",
+          "title": "Edinburgh Castle",
+          "text": "The Scottish Crown Jewels and the Stone of Destiny.",
+          "notes": [
+            [
+              "TIME",
+              "Book a timed ticket online; summer slots sell out days ahead."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon · Castlehill",
+          "title": "The Scotch Whisky Experience",
+          "text": "A barrel ride through how whisky is made and a guided tasting, beside the castle. Non-alcoholic options are available."
+        }
+      ],
+      "places": [
+        "Edinburgh Castle",
+        "The Scotch Whisky Experience",
+        "Palace of Holyroodhouse",
+        "Calton Hill"
+      ],
+      "note": "Tomorrow's tour leaves early from the Royal Mile. Pack a small bag for 5 days; most tours let you leave a large suitcase at the Edinburgh hotel.",
+      "transport": "Open-top bus and on foot",
+      "route": [
+        "Edinburgh Castle",
+        "The Scotch Whisky Experience",
+        "Palace of Holyroodhouse",
+        "Calton Hill"
+      ],
+      "photo_query": "Edinburgh Castle",
+      "photo_caption": "Edinburgh Castle",
+      "travel_time": "Bus pass valid 24 hours",
+      "brief": [
+        "Edinburgh Castle: book a timed ticket online; summer slots sell out days ahead.",
+        "Tomorrow's tour leaves early from the Royal Mile."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Loch Lomond and the West Highlands to Oban",
+      "summary": "Your guided Highland tour begins: Loch Lomond, Luss and Kilchurn Castle.",
+      "strip": [
+        "About 4 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "About 08:30 · Royal Mile",
+          "title": "Join your small-group Highland tour",
+          "text": "A guide-driver takes a group of up to about 16 people.",
+          "notes": [
+            [
+              "TIME",
+              "Be at the departure point 15 minutes early; the coach does not wait."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Luss on Loch Lomond",
+          "text": "A conservation village on the 'bonnie banks', seen in Kuch Kuch Hota Hai."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kilchurn Castle and Loch Awe",
+          "text": "A photo stop at the ruined castle at the head of the loch."
+        },
+        {
+          "label": "Evening · Oban",
+          "title": "Oban harbour",
+          "text": "Seafood shacks on the pier; vegetarian dishes are offered in most harbour restaurants."
+        }
+      ],
+      "places": [
+        "Luss",
+        "Kilchurn Castle",
+        "Oban"
+      ],
+      "note": "Midges (tiny biting flies) are out on still summer evenings in the west. Insect repellent helps.",
+      "transport": "Small-group coach with a guide",
+      "route": [
+        "Luss",
+        "Kilchurn Castle",
+        "Oban"
+      ],
+      "photo_query": "Luss",
+      "photo_caption": "Luss",
+      "travel_time": "About 4 hours of driving with stops",
+      "brief": [
+        "Join your small-group Highland tour: be at the departure point 15 minutes early; the coach does not wait.",
+        "Midges (tiny biting flies) are out on still summer evenings in the west."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Mull, Iona and Staffa",
+      "summary": "Ferries across to Mull and the sacred island of Iona, with a boat to Fingal's Cave.",
+      "strip": [
+        "Ferry Oban to Mull about 45 minutes",
+        "Back in Oban about 19:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Ferry to the Isle of Mull",
+          "text": "Then across Mull by road to Fionnphort."
+        },
+        {
+          "label": "Midday",
+          "title": "Iona Abbey",
+          "text": "The birthplace of Christianity in Scotland and burial place of early Scottish kings, with carved Celtic crosses.",
+          "notes": [
+            [
+              "CARE",
+              "Iona Abbey is still a place of worship. Speak quietly inside and ask before photographing services."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon · optional",
+          "title": "Boat to Staffa and Fingal's Cave",
+          "text": "Basalt columns that inspired Mendelssohn's Hebrides Overture, and puffins from May to early August.",
+          "notes": [
+            [
+              "TIME",
+              "Staffa boats run from about April to mid-October and are cancelled in rough seas."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Isle of Mull",
+        "Iona Abbey",
+        "Fingal's Cave"
+      ],
+      "note": "Take seasickness tablets for Staffa, and a warm layer for the boat even in July.",
+      "transport": "Ferry, coach and boat",
+      "route": [
+        "Isle of Mull",
+        "Iona Abbey",
+        "Fingal's Cave"
+      ],
+      "photo_query": "Isle of Mull",
+      "photo_caption": "Isle of Mull",
+      "travel_time": "Ferry Oban to Mull about 45 minutes",
+      "brief": [
+        "Iona Abbey is still a place of worship.",
+        "Boat to Staffa and Fingal's Cave: staffa boats run from about April to mid-October and are cancelled in rough seas."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Glencoe, Eilean Donan Castle and over the bridge to Skye",
+      "summary": "North through the mountains to Eilean Donan and onto the Isle of Skye.",
+      "strip": [
+        "About 5 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Glencoe and Fort William",
+          "text": "Through Glencoe and past Ben Nevis, Britain's highest mountain."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Eilean Donan Castle",
+          "text": "The castle on its island at the meeting of three lochs, used in Highlander and in Kuch Kuch Hota Hai.",
+          "notes": [
+            [
+              "TIME",
+              "Castle tickets are not included; allow about 1 hour inside."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "The Skye Bridge to Portree",
+          "text": "Portree's harbour of painted houses."
+        }
+      ],
+      "places": [
+        "Glencoe",
+        "Eilean Donan Castle",
+        "Portree"
+      ],
+      "note": "Portree has few restaurants for its summer crowds. Book dinner in advance.",
+      "transport": "Small-group coach with a guide",
+      "route": [
+        "Glencoe",
+        "Eilean Donan Castle",
+        "Portree"
+      ],
+      "photo_query": "Glencoe",
+      "photo_caption": "Glencoe",
+      "travel_time": "About 5 hours of driving with stops",
+      "brief": [
+        "Eilean Donan Castle: castle tickets are not included; allow about 1 hour inside.",
+        "Portree has few restaurants for its summer crowds."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Isle of Skye",
+      "summary": "The Trotternish peninsula: the Old Man of Storr, Kilt Rock and the Quiraing, with Neist Point.",
+      "strip": [
+        "About 4 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "The Old Man of Storr",
+          "text": "A rock pinnacle above the Sound of Raasay. The walk up is about 1 hour 30 minutes return.",
+          "notes": [
+            [
+              "WEAR",
+              "Walking boots or trail shoes; the path is steep and loose in places."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Kilt Rock and Mealt Falls",
+          "text": "A waterfall dropping straight into the sea."
+        },
+        {
+          "label": "Afternoon",
+          "title": "The Quiraing pass",
+          "text": "Landslip cliffs and pinnacles, with views back to the mainland."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Neist Point",
+          "text": "Skye's most westerly point and its lighthouse."
+        }
+      ],
+      "places": [
+        "Old Man of Storr",
+        "Kilt Rock",
+        "Quiraing",
+        "Neist Point Lighthouse"
+      ],
+      "note": "Skye weather changes by the hour. Layers and a waterproof jacket are essential.",
+      "transport": "Small-group coach with a guide",
+      "route": [
+        "Old Man of Storr",
+        "Kilt Rock",
+        "Quiraing",
+        "Neist Point Lighthouse"
+      ],
+      "photo_query": "Old Man of Storr",
+      "photo_caption": "Old Man of Storr",
+      "travel_time": "About 4 hours of driving with stops",
+      "brief": [
+        "The Old Man of Storr: walking boots or trail shoes; the path is steep and loose in places.",
+        "Skye weather changes by the hour."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Loch Ness and Pitlochry back to Edinburgh",
+      "summary": "The long road south past Loch Ness and through the Grampian mountains.",
+      "strip": [
+        "About 7 hours of driving with stops",
+        "Back in Edinburgh about 19:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Loch Ness at Fort Augustus",
+          "text": "Locks of the Caledonian Canal and the loch of the legend."
+        },
+        {
+          "label": "Midday",
+          "title": "Loch Laggan and the Grampian mountains"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pitlochry",
+          "text": "A Victorian resort town with a distillery and a salmon ladder."
+        },
+        {
+          "label": "Evening",
+          "title": "Back to Edinburgh",
+          "text": "Your Edinburgh hotel for the last night."
+        }
+      ],
+      "places": [
+        "Fort Augustus",
+        "Loch Laggan",
+        "Pitlochry",
+        "Edinburgh"
+      ],
+      "note": "This is the longest day of the trip, with comfort stops about every 2 hours. Keep snacks and water in your day bag.",
+      "transport": "Small-group coach with a guide",
+      "route": [
+        "Fort Augustus",
+        "Loch Laggan",
+        "Pitlochry",
+        "Edinburgh"
+      ],
+      "photo_query": "Fort Augustus",
+      "photo_caption": "Fort Augustus",
+      "travel_time": "About 7 hours of driving with stops",
+      "brief": [
+        "This is the longest day of the trip, with comfort stops about every 2 hours."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Edinburgh",
+      "summary": "Transfer to Edinburgh Airport.",
+      "strip": [
+        "Airport about 30 minutes by tram or taxi"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Edinburgh Airport",
+          "text": "The tram from Princes Street takes about 35 minutes.",
+          "notes": [
+            [
+              "TIME",
+              "Leave 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Edinburgh Airport"
+      ],
+      "note": "Whisky and shortbread go in checked baggage.",
+      "photo_query": "Edinburgh Airport",
+      "photo_caption": "Edinburgh Airport",
+      "transport": "Train, London Underground and on foot",
+      "travel_time": "Airport about 30 minutes by tram or taxi",
+      "brief": [
+        "Transfer to Edinburgh Airport: leave 3 hours before an international flight.",
+        "Whisky and shortbread go in checked baggage."
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "place": "London",
+      "options": [
+        "Central 3 or 4 star hotel near a Tube station"
+      ]
+    },
+    {
+      "place": "Windermere",
+      "options": [
+        "Lakeside hotel or country guest house"
+      ]
+    },
+    {
+      "place": "Edinburgh",
+      "options": [
+        "Hotel in the Old Town or New Town"
+      ]
+    },
+    {
+      "place": "Oban and Skye",
+      "options": [
+        "Hotels or B&Bs chosen by the tour, with Scottish breakfast"
+      ]
+    }
+  ],
+  "included": [
+    "12 nights with breakfast",
+    "West End theatre tickets",
+    "Thames dinner cruise",
+    "Hard Rock Café lunch and Vault tour",
+    "Hop-on hop-off bus passes in London and Edinburgh",
+    "Scotch Whisky Experience tour",
+    "5-day guided small-group Highland and islands tour from Edinburgh",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "UK visa",
+    "Train tickets London to Windermere to Edinburgh (we book them for you)",
+    "Entry fees on the Highland tour, including Iona Abbey, Staffa and Eilean Donan",
+    "Meals not listed",
+    "Travel insurance",
+    "Tips and porterage"
+  ],
+  "best_time": "Late May to early September: the longest days, the warmest weather and every boat running. June and July, as in the original plan, are ideal.",
+  "seasons": [
+    [
+      "May to September",
+      "Best",
+      "Long days (sunset after 21:00 in Scotland in June), 15 to 22°C, the most ferries and tours running."
+    ],
+    [
+      "April and October",
+      "Good",
+      "Fewer crowds and lower hotel rates; cooler, and some island boats stop in mid-October."
+    ],
+    [
+      "November to March",
+      "Winter",
+      "Short days (dark by 16:00 in Scotland), cold and wet; Highland and island tours run less often. Christmas markets in London and Edinburgh."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet"
+  ],
+  "best_pick": "Late May to early September; June for the longest days.",
+  "faqs": [
+    {
+      "q": "Is the Highland tour private?",
+      "a": "This plan uses a guided small-group tour (up to about 16 guests). For a family, we can quote a private driver-guide on the same route."
+    },
+    {
+      "q": "Can children join?",
+      "a": "Yes. Most Highland tours take children from about 5 years old; Staffa is optional for younger children."
+    },
+    {
+      "q": "Do we need a BritRail pass?",
+      "a": "Not for this route. Two advance train tickets cost less than a pass."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "London and Scotland tour package",
+    "Isle of Skye tour from India",
+    "Scotland Highlands holiday",
+    "UK tour with Lake District"
+  ],
+  "links": [
+    {
+      "title": "UK Standard Visitor visa (official)",
+      "url": "https://www.gov.uk/standard-visitor"
+    },
+    {
+      "title": "National Rail journey planner",
+      "url": "https://www.nationalrail.co.uk/"
+    },
+    {
+      "title": "Edinburgh Castle tickets (official)",
+      "url": "https://www.edinburghcastle.scot/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "UK Standard Visitor visa",
+      "Up to 6 months, applied online with biometrics at VFS",
+      "Indian passport holders",
+      "About GBP 127"
+    ],
+    [
+      "Passport",
+      "Valid for the whole stay",
+      "Everyone",
+      ""
+    ],
+    [
+      "Electronic Travel Authorisation",
+      "Needed only by visa-exempt nationalities, not by visa holders",
+      "Non-visa nationals",
+      "About GBP 16"
+    ]
+  ],
+  "entry_notes": [
+    "Apply about 3 months before travel. Standard processing is about 3 weeks; priority service costs extra.",
+    "Phone and internet: a UK or Europe eSIM keeps WhatsApp working on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in pounds sterling, never in INR. Contactless cards and phones work on every bus, Tube and train ticket barrier. Many places are card-only."
+    },
+    {
+      "tag": "TIP",
+      "title": "Trains and Oyster",
+      "text": "In London, tap a contactless card or phone at the barriers instead of buying an Oyster card: daily fares are capped automatically. Book long-distance trains in advance for the lowest fares."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and weather",
+      "text": "Plugs are the three square-pin type G at 230 volts; Indian plugs need an adaptor. Weather changes fast, even in summer: pack a light rain jacket and layers."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Tipping",
+      "text": "Restaurants often add a 12.5% service charge. If not, 10% is normal. Pubs do not expect tips at the bar."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency (UK)",
+      "999 or 112 · non-urgent medical help 111"
+    ],
+    [
+      "India House, London (Indian diplomatic mission)",
+      "Aldwych, London WC2B 4NA"
+    ]
+  ],
+  "dining_intro": "Britain is very easy for vegetarians, and London has some of the best Indian vegetarian food outside India. We send your dietary brief to every hotel in advance.",
+  "dining": [
+    {
+      "name": "Sagar, Covent Garden",
+      "cuisine": "South Indian vegetarian (Udupi)",
+      "address": "31 Catherine Street, Covent Garden, London",
+      "open": "Open daily for lunch and dinner",
+      "open_daily": true,
+      "order": "Masala dosa, rava dosa, idli sambar and thali. Ask for Jain dishes without onion and garlic."
+    },
+    {
+      "name": "Govinda's, Soho",
+      "cuisine": "Pure vegetarian (ISKCON)",
+      "address": "9 Soho Street, London W1D 3DL",
+      "open": "Open Monday to Saturday, lunch and early dinner",
+      "open_daily": false,
+      "order": "Daily set thali, sabji and dal. Food is sattvic: no onion or garlic."
+    }
+  ],
+  "dining_avoid": "Many British sauces, soups and gravies use meat stock, and cheese can contain animal rennet. Ask for the vegetarian or vegan menu, and say 'no onion, no garlic' for Jain meals.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, ginger, potato, carrot or any root vegetables. No meat or fish stock. Please cook it fresh. Thank you."
+    ],
+    [
+      "Hindi, for Indian restaurants",
+      "Jain khana: pyaz, lahsun, adrak, aloo, gajar nahi. Taaza banaiye, please."
+    ]
+  ],
+  "country_code": "gb"
+}

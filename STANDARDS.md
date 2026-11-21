@@ -178,7 +178,7 @@ These appear on nearly every page. Get the numbers for the destination, but keep
 * **Pickpockets**: name the actual squares, stations and queues.
 * **Plugs, voltage, tap water, meal times, kitchen closing hours.**
 * **Emergency block**: the local emergency number, the Indian embassy or consulate with address and
-  phone, and the Blue Diamond Voyage 24/7 desk (added automatically from `data/site.json`).
+  phone, and the Blue Diamond Voyage 24/7 desk on **both numbers, +91 97148 59797 and +91 98242 21400** (added automatically from `data/site.json`).
 
 ## 8 · Dietary briefs
 
@@ -359,6 +359,6 @@ The maps tell travellers where they are going, so every pin must be right.
 * Two or three Google Maps pins and one directions button are clicked by hand.
 * Hotel names and place names are spelled exactly as in the source document.
 * **No package prices, no net rates, no supplier names, no internal notes.**
-* The page carries the enquiry phone, WhatsApp, the 24/7 desk +91 98242 21400 and
-  instagram.com/bluediamondvoyage (from `data/site.json`).
+* The page carries WhatsApp, the enquiry form, **both 24/7 numbers (+91 97148 59797 and
+  +91 98242 21400)** and instagram.com/bluediamondvoyage (from `data/site.json`).
 * The change is added to the change log in the website admin guide.

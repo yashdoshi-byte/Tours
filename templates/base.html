@@ -39,7 +39,7 @@
   <div class="wrap">
     <p><strong>{{ site.brand }}</strong> · Tailor-made travel since 2000 · {{ site.address }}</p>
     <p><a href="tel:{{ site.phone_link }}">{{ site.phone }}</a> · <a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a href="{{ site.main_site }}">bluediamondvoyage.com</a> · <a href="{{ site.instagram }}">Instagram</a></p>
-    <p>24/7 travel desk for travelling clients: <a href="tel:{{ site.desk_link }}">{{ site.desk }}</a></p>
+    <p>24/7 travel desk: {% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
   </div>
 </footer>
 <a class="wa-float" href="{{ site.whatsapp }}" aria-label="Chat on WhatsApp">WhatsApp us</a>

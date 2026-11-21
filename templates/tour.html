@@ -150,7 +150,7 @@
       <div class="sos">
         <h3>In an emergency</h3>
         {% for k, v in t.emergency %}<p><b>{{ k }}</b> {{ v }}</p>{% endfor %}
-        <p><b>Blue Diamond Voyage 24/7</b> <a href="tel:{{ site.desk_link }}">{{ site.desk }}</a></p>
+        <p><b>Blue Diamond Voyage 24/7</b> {% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
       </div>
       {% endif %}
     </section>
@@ -222,7 +222,7 @@
       <p class="side-price">{{ t.price_note }}</p>
       <a class="btn" href="{{ site.whatsapp }}?text={{ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode }}">Get a quote on WhatsApp</a>
       <a class="btn ghost" href="{{ site.main_site }}/contact">Send an enquiry</a>
-      <p class="small">Call <a href="tel:{{ site.phone_link }}">{{ site.phone }}</a><br>Tailor-made by Blue Diamond Voyage, Rajkot, since 2000.</p>
+      <p class="small">24/7: {% for n, l in site.desk_24x7 %}<a href="tel:{{ l }}">{{ n }}</a>{% if not loop.last %} · {% endif %}{% endfor %}<br>Tailor-made by Blue Diamond Voyage, Rajkot, since 2000.</p>
       <nav class="toc" aria-label="On this page">
         <a href="#overview">At a glance</a><a href="#itinerary">Day by day</a><a href="#stay">Where you stay</a>
         {% if t.entry %}<a href="#entry">Visa and entry</a>{% endif %}{% if t.good_to_know %}<a href="#good-to-know">Good to know</a>{% endif %}

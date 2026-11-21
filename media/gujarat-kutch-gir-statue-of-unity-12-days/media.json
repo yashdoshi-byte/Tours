@@ -1,0 +1,266 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "author": "HJMEHTA2110",
+    "file": "File:Hirasar New Terminal Building.jpg",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Hirasar_New_Terminal_Building.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hirasar_New_Terminal_Building.jpg/1920px-Hirasar_New_Terminal_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-5c8aad10ec.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "White Rann Dhordo"
+   ],
+   "photo": {
+    "file": "File:Aina mahal.jpg 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Aina_mahal.jpg_01.jpg/1920px-Aina_mahal.jpg_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aina_mahal.jpg_01.jpg",
+    "author": "Amrita.saha",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-3b4bc82391.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-bb35eff3c5.webp",
+   "stops": [
+    "Nirona",
+    "Bhujodi",
+    "Mandvi Beach"
+   ],
+   "km": [
+    46.4,
+    70.2
+   ],
+   "photo": {
+    "file": "File:Kompact, Nifty Nirona, and unidentified phonograph - Bayernhof Museum - DSC06139.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Kompact%2C_Nifty_Nirona%2C_and_unidentified_phonograph_-_Bayernhof_Museum_-_DSC06139.JPG/1920px-Kompact%2C_Nifty_Nirona%2C_and_unidentified_phonograph_-_Bayernhof_Museum_-_DSC06139.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kompact,_Nifty_Nirona,_and_unidentified_phonograph_-_Bayernhof_Museum_-_DSC06139.JPG",
+    "author": "Daderot",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-86fa461d32.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-b0bc3a99bf.webp",
+   "stops": [
+    "Vijay Vilas Palace",
+    "Dwarkadhish Temple"
+   ],
+   "km": [
+    454.8
+   ],
+   "photo": {
+    "file": "File:Vijay Vilas Palace-Kutch.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Vijay_Vilas_Palace-Kutch.jpg/1920px-Vijay_Vilas_Palace-Kutch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Vijay_Vilas_Palace-Kutch.jpg",
+    "author": "Dharven Panchal",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-9c0c755784.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Nageshwar Jyotirlinga"
+   ],
+   "photo": {
+    "file": "File:Guj21 Bet Dwaraka Shree Golden Dwarka Holy Place exhibits.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Guj21_Bet_Dwaraka_Shree_Golden_Dwarka_Holy_Place_exhibits.jpg/1920px-Guj21_Bet_Dwaraka_Shree_Golden_Dwarka_Holy_Place_exhibits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Guj21_Bet_Dwaraka_Shree_Golden_Dwarka_Holy_Place_exhibits.jpg",
+    "author": "VasuVR",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-68b5aa4c79.webp"
+   }
+  },
+  "6": {
+   "photo": {
+    "file": "File:G21P26 Charka at Kirti Mandir Porbandar 3D.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/G21P26_Charka_at_Kirti_Mandir_Porbandar_3D.jpg/1920px-G21P26_Charka_at_Kirti_Mandir_Porbandar_3D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:G21P26_Charka_at_Kirti_Mandir_Porbandar_3D.jpg",
+    "author": "VasuVR",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-46976b4a87.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-ff007b0206.webp",
+   "stops": [
+    "Somnath Temple",
+    "Sasan Gir"
+   ],
+   "km": [
+    42.4
+   ],
+   "photo": {
+    "author": "Hritiksharma",
+    "file": "File:Dev Somnath Temple, Dungarpur. by Hritik Sharma.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dev_Somnath_Temple,_Dungarpur._by_Hritik_Sharma.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dev_Somnath_Temple%2C_Dungarpur._by_Hritik_Sharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "img": "day-7-362ad9a225.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Gir National Park Sasan Gate"
+   ]
+  },
+  "9": {
+   "photo": {
+    "file": "File:Manek Chowk (Ahmedabad) 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manek_Chowk_%28Ahmedabad%29_01.jpg/1920px-Manek_Chowk_%28Ahmedabad%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Manek_Chowk_(Ahmedabad)_01.jpg",
+    "author": "Pravega",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-49b624df27.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Statue of Unity"
+   ],
+   "photo": {
+    "file": "File:Full Length shot of The Statue of Unity.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Full_Length_shot_of_The_Statue_of_Unity.jpg/1920px-Full_Length_shot_of_The_Statue_of_Unity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Full_Length_shot_of_The_Statue_of_Unity.jpg",
+    "author": "Veera.sj",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-951477cdd4.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Arogya Van",
+    "Statue of Unity",
+    "Sardar Sarovar Dam"
+   ]
+  },
+  "12": {
+   "unverified": [
+    "Vadodara Airport"
+   ],
+   "photo": {
+    "file": "File:Baroda vadodara airport.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Baroda_vadodara_airport.jpg/1920px-Baroda_vadodara_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Baroda_vadodara_airport.jpg",
+    "author": "Notnarayan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-9841e5ae61.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 10,
+ "coords": {
+  "Rajkot": [
+   22.30533,
+   70.80284
+  ],
+  "Bhuj": [
+   23.24724,
+   69.66834
+  ],
+  "Dhordo": [
+   23.75849,
+   69.51056
+  ],
+  "Mandvi": [
+   22.83145,
+   69.35081
+  ],
+  "Dwarka": [
+   22.24247,
+   68.96714
+  ],
+  "Porbandar": [
+   21.65052,
+   69.65654
+  ],
+  "Sasan Gir": [
+   21.16882,
+   70.60213
+  ],
+  "Rajkot International Airport Hirasar": [
+   22.38233,
+   71.0381
+  ],
+  "Aina Mahal": [
+   23.2553,
+   69.66873
+  ],
+  "Nirona": [
+   23.46524,
+   69.52418
+  ],
+  "Bhujodi": [
+   23.22484,
+   69.73458
+  ],
+  "Mandvi Beach": [
+   22.82561,
+   69.33807
+  ],
+  "Vijay Vilas Palace": [
+   22.83503,
+   69.28602
+  ],
+  "Dwarkadhish Temple": [
+   22.23777,
+   68.96751
+  ],
+  "Bet Dwarka": [
+   22.44928,
+   69.10092
+  ],
+  "Shivrajpur Beach": [
+   22.33474,
+   68.95573
+  ],
+  "Kirti Mandir Porbandar": [
+   21.64134,
+   69.60103
+  ],
+  "Somnath Temple": [
+   20.88776,
+   70.40139
+  ],
+  "Manek Chowk": [
+   21.64086,
+   69.6012
+  ]
+ },
+ "overview": {
+  "map": "map-overview-822cacc157.webp",
+  "stops": [
+   "Rajkot",
+   "Bhuj",
+   "Dhordo",
+   "Mandvi",
+   "Dwarka",
+   "Porbandar",
+   "Sasan Gir"
+  ]
+ }
+}

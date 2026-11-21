@@ -1,0 +1,250 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-298c0a40db.webp",
+   "stops": [
+    "Madrid Barajas Airport",
+    "Puerta del Sol",
+    "Plaza Mayor"
+   ],
+   "km": [
+    90.5,
+    72.5
+   ],
+   "photo": {
+    "file": "File:Terminal 4 del aeropuerto de Madrid-Barajas, España, 2013-01-09, DD 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_01.jpg/1920px-Terminal_4_del_aeropuerto_de_Madrid-Barajas%2C_Espa%C3%B1a%2C_2013-01-09%2C_DD_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Terminal_4_del_aeropuerto_de_Madrid-Barajas,_Espa%C3%B1a,_2013-01-09,_DD_01.jpg",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-a5d19dffac.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Gran Vía"
+   ],
+   "photo": {
+    "file": "File:Palacio Real de Madrid - 13.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Palacio_Real_de_Madrid_-_13.jpg/1920px-Palacio_Real_de_Madrid_-_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_Real_de_Madrid_-_13.jpg",
+    "author": "Carlos Delgado",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-0565b4de4b.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Mirador del Valle"
+   ],
+   "photo": {
+    "file": "File:Panorama of Toledo at sunset. View from the south.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Panorama_of_Toledo_at_sunset._View_from_the_south.jpg/1920px-Panorama_of_Toledo_at_sunset._View_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Toledo_at_sunset._View_from_the_south.jpg",
+    "author": "Ввласенко",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-30b414e23c.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Mezquita-Catedral de Córdoba",
+    "Seville"
+   ],
+   "photo": {
+    "file": "File:J31 296 Bf Alta Córdoba, EG (Straßenseite).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/J31_296_Bf_Alta_C%C3%B3rdoba%2C_EG_%28Stra%C3%9Fenseite%29.jpg/1920px-J31_296_Bf_Alta_C%C3%B3rdoba%2C_EG_%28Stra%C3%9Fenseite%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:J31_296_Bf_Alta_C%C3%B3rdoba,_EG_(Stra%C3%9Fenseite).jpg",
+    "author": "Falk2",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-d79eaafd05.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Real Alcázar de Sevilla",
+    "Seville Cathedral",
+    "Plaza de España",
+    "Barrio Santa Cruz"
+   ],
+   "photo": {
+    "file": "File:Eventail chinois asymétrique Alcazar Seville Spain.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Eventail_chinois_asym%C3%A9trique_Alcazar_Seville_Spain.jpg/1920px-Eventail_chinois_asym%C3%A9trique_Alcazar_Seville_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Eventail_chinois_asym%C3%A9trique_Alcazar_Seville_Spain.jpg",
+    "author": "Jebulon",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-8fd8c25902.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Granada",
+    "Albaicín",
+    "Mirador de San Nicolás"
+   ],
+   "photo": {
+    "file": "File:View of Albaicín from Alhambra. Granada, Spain.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/View_of_Albaic%C3%ADn_from_Alhambra._Granada%2C_Spain.jpg/1920px-View_of_Albaic%C3%ADn_from_Alhambra._Granada%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Albaic%C3%ADn_from_Alhambra._Granada,_Spain.jpg",
+    "author": "Ввласенко",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-a3d78191cb.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Alhambra",
+    "Nasrid Palaces",
+    "Generalife"
+   ],
+   "photo": {
+    "file": "File:Alhambra in the evening.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Alhambra_in_the_evening.jpg/1920px-Alhambra_in_the_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg",
+    "author": "Jebulon",
+    "licence": "Public domain",
+    "licence_url": "",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-e939ba7c9a.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Granada Airport",
+    "Barcelona El Prat Airport",
+    "Barri Gòtic",
+    "La Rambla"
+   ],
+   "photo": {
+    "file": "File:Granada airport tarmac.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Granada_airport_tarmac.jpg/1920px-Granada_airport_tarmac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Granada_airport_tarmac.jpg",
+    "author": "Don-vip",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-a6dd22110e.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Sagrada Família",
+    "Casa Batlló",
+    "Park Güell"
+   ],
+   "photo": {
+    "file": "File:Sagrada Família 2010.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sagrada_Fam%C3%ADlia_2010.JPG/1920px-Sagrada_Fam%C3%ADlia_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_2010.JPG",
+    "author": "Jopparn",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-09acc335c6.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Montserrat",
+    "Barceloneta"
+   ],
+   "photo": {
+    "file": "File:MontserratMonastery02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/MontserratMonastery02.jpg/1920px-MontserratMonastery02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:MontserratMonastery02.jpg",
+    "author": "Gyrofrog",
+    "licence": "CC BY-SA 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-51a0003dcf.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Barcelona El Prat Airport"
+   ],
+   "photo": {
+    "file": "File:Barcelona El Prat 05.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Barcelona_El_Prat_05.jpg/1920px-Barcelona_El_Prat_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Barcelona_El_Prat_05.jpg",
+    "author": "Ad Meskens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-51f7701b31.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 24,
+ "coords": {
+  "Madrid": [
+   40.41678,
+   -3.70351
+  ],
+  "Toledo": [
+   39.85589,
+   -4.02426
+  ],
+  "Córdoba": [
+   37.88458,
+   -4.77601
+  ],
+  "Madrid Barajas Airport": [
+   40.49523,
+   -3.57337
+  ],
+  "Puerta del Sol": [
+   39.86107,
+   -4.02396
+  ],
+  "Plaza Mayor": [
+   40.41539,
+   -3.707
+  ],
+  "Royal Palace of Madrid": [
+   40.41674,
+   -3.71362
+  ],
+  "Prado Museum": [
+   40.41379,
+   -3.69204
+  ],
+  "Toledo Cathedral": [
+   39.85736,
+   -4.02364
+  ],
+  "Sinagoga de Santa María la Blanca": [
+   39.85696,
+   -4.03029
+  ],
+  "Córdoba railway station": [
+   37.88851,
+   -4.78952
+  ],
+  "Roman bridge of Córdoba": [
+   37.87665,
+   -4.77796
+  ]
+ },
+ "overview": {
+  "map": "map-overview-279cade2f7.webp",
+  "stops": [
+   "Madrid",
+   "Toledo",
+   "Córdoba"
+  ]
+ }
+}

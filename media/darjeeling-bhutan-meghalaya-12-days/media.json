@@ -1,0 +1,290 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "file": "File:Bagdogra International Airport with Himalayas.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bagdogra_International_Airport_with_Himalayas.jpg/1920px-Bagdogra_International_Airport_with_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bagdogra_International_Airport_with_Himalayas.jpg",
+    "author": "Mahafujalam6131",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-b773f560ab.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-b37a9b4985.webp",
+   "stops": [
+    "Happy Valley Tea Estate",
+    "Chowrasta Darjeeling"
+   ],
+   "km": [
+    6.9
+   ],
+   "photo": {
+    "file": "File:Happy Valley Tea Estate, Darjeeling (8717542300).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Happy_Valley_Tea_Estate%2C_Darjeeling_%288717542300%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Happy_Valley_Tea_Estate,_Darjeeling_(8717542300).jpg",
+    "author": "Matt Stabile",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-0d813bb680.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Phuentsholing"
+   ],
+   "photo": {
+    "file": "File:S.S Tiger Hill memorial in Tel Aviv beach.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/S.S_Tiger_Hill_memorial_in_Tel_Aviv_beach.JPG/1920px-S.S_Tiger_Hill_memorial_in_Tel_Aviv_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:S.S_Tiger_Hill_memorial_in_Tel_Aviv_beach.JPG",
+    "author": "Avi1111 dr. avishai teicher",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-da726bb47d.webp"
+   }
+  },
+  "4": {
+   "photo": {
+    "file": "File:Hotel Druk, Thimphu 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Hotel_Druk%2C_Thimphu_01.jpg/1920px-Hotel_Druk%2C_Thimphu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hotel_Druk,_Thimphu_01.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-6303a168d2.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Dochula Pass"
+   ],
+   "photo": {
+    "file": "File:Buddha Dordenma statue, Thimphu 06.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Buddha_Dordenma_statue%2C_Thimphu_06.jpg/1920px-Buddha_Dordenma_statue%2C_Thimphu_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Buddha_Dordenma_statue,_Thimphu_06.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-f4f8149332.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-64799d240e.webp",
+   "stops": [
+    "Rinpung Dzong",
+    "National Museum of Bhutan"
+   ],
+   "km": [
+    2.2
+   ],
+   "photo": {
+    "file": "File:Rinpung Dzong Paro 2007-11-11 CJF.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Rinpung_Dzong_Paro_2007-11-11_CJF.JPG/1920px-Rinpung_Dzong_Paro_2007-11-11_CJF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Rinpung_Dzong_Paro_2007-11-11_CJF.JPG",
+    "author": "Christopher Fynn",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-0b363e5dfb.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-d5fe3af25c.webp",
+   "stops": [
+    "Taktsang Monastery",
+    "Kyichu Lhakhang"
+   ],
+   "km": [
+    11.6
+   ],
+   "photo": {
+    "file": "File:Paro Taktsang, Bhutan (edited).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg/1920px-Paro_Taktsang%2C_Bhutan_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+    "author": "Original: Nina R from Africa Derivative work: UnpetitproleX",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-a60287001e.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-041dd2dccd.webp",
+   "stops": [
+    "Paro International Airport",
+    "Kamakhya Temple"
+   ],
+   "km": [
+    468.6
+   ],
+   "photo": {
+    "file": "File:Paro Airport.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paro_Airport.jpg/1920px-Paro_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Paro_Airport.jpg",
+    "author": "Douglas J. McLaughlin",
+    "licence": "CC BY 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by/2.5",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-78d30195dc.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Umiam Lake",
+    "Police Bazaar Shillong"
+   ],
+   "photo": {
+    "author": "ANKAN",
+    "file": "File:Umiam Lake from View Point (2).jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_from_View_Point_(2).jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Umiam_Lake_from_View_Point_%282%29.jpg/1920px-Umiam_Lake_from_View_Point_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-9-7429118b14.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Mawlynnong",
+    "Riwai Living Root Bridge",
+    "Dawki"
+   ],
+   "photo": {
+    "author": "Madhumita Das",
+    "file": "File:Mawlynnong - Cleanest village of Asia in Meghalaya.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mawlynnong_-_Cleanest_village_of_Asia_in_Meghalaya.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mawlynnong_-_Cleanest_village_of_Asia_in_Meghalaya.jpg/1920px-Mawlynnong_-_Cleanest_village_of_Asia_in_Meghalaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-10-29165c84a9.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Nohkalikai Falls",
+    "Mawsmai Cave",
+    "Double Decker Living Root Bridge"
+   ],
+   "photo": {
+    "file": "File:NohKaLikai Falls V2 Wiki.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/NohKaLikai_Falls_V2_Wiki.jpg/1920px-NohKaLikai_Falls_V2_Wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg",
+    "author": "Vikramjit Kakati",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-02427a85e1.webp"
+   }
+  },
+  "12": {
+   "photo": {
+    "author": "BhuyanBhaskar",
+    "file": "File:Lokpriya Gopinath Bordoloi International Airport, Guwahati, Assam.jpg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lokpriya_Gopinath_Bordoloi_International_Airport,_Guwahati,_Assam.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lokpriya_Gopinath_Bordoloi_International_Airport%2C_Guwahati%2C_Assam.jpg/1920px-Lokpriya_Gopinath_Bordoloi_International_Airport%2C_Guwahati%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-12-20b138ed5a.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 12,
+ "coords": {
+  "Siliguri": [
+   26.71641,
+   88.43099
+  ],
+  "Darjeeling": [
+   27.03776,
+   88.26318
+  ],
+  "Thimphu": [
+   27.47135,
+   89.63367
+  ],
+  "Paro": [
+   27.46464,
+   89.31834
+  ],
+  "Guwahati": [
+   26.1806,
+   91.75394
+  ],
+  "Bagdogra Airport": [
+   26.68177,
+   88.33006
+  ],
+  "Happy Valley Tea Estate": [
+   27.0511,
+   88.25853
+  ],
+  "Chowrasta Darjeeling": [
+   27.04469,
+   88.26774
+  ],
+  "Tiger Hill": [
+   26.9949,
+   88.28533
+  ],
+  "Batasia Loop": [
+   27.01668,
+   88.2471
+  ],
+  "Buddha Dordenma": [
+   27.44358,
+   89.64539
+  ],
+  "Tashichho Dzong": [
+   27.48943,
+   89.63502
+  ],
+  "Rinpung Dzong": [
+   27.42669,
+   89.42267
+  ],
+  "National Museum of Bhutan": [
+   27.42878,
+   89.4255
+  ],
+  "Taktsang Monastery": [
+   27.49193,
+   89.36344
+  ],
+  "Kyichu Lhakhang": [
+   27.43519,
+   89.41339
+  ],
+  "Paro International Airport": [
+   27.40318,
+   89.42342
+  ],
+  "Kamakhya Temple": [
+   26.16511,
+   91.70593
+  ],
+  "Lokpriya Gopinath Bordoloi International Airport": [
+   26.11137,
+   91.58307
+  ]
+ },
+ "overview": {
+  "map": "map-overview-86b6c9a51e.webp",
+  "stops": [
+   "Siliguri",
+   "Darjeeling",
+   "Thimphu",
+   "Paro",
+   "Guwahati"
+  ]
+ }
+}

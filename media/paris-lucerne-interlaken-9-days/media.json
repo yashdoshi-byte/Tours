@@ -1,0 +1,242 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Charles de Gaulle Airport",
+    "Champs-Élysées",
+    "Moulin Rouge"
+   ],
+   "photo": {
+    "file": "File:Paris-Charles de Gaulle Airport Boeing 747.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg/1920px-Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg",
+    "author": "Wilfredor",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-616832cf9e.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Louvre Museum",
+    "Eiffel Tower",
+    "Arc de Triomphe",
+    "Seine"
+   ],
+   "photo": {
+    "file": "File:Cour Napoléon at night - Louvre.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg/1920px-Cour_Napol%C3%A9on_at_night_-_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_at_night_-_Louvre.jpg",
+    "author": "Benh LIEU SONG",
+    "licence": "CC BY 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by/2.5",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-6120a29d64.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Disneyland Paris"
+   ],
+   "photo": {
+    "file": "File:Feu de camp - 20150802 15h44 (10722).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Feu_de_camp_-_20150802_15h44_%2810722%29.jpg/1920px-Feu_de_camp_-_20150802_15h44_%2810722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Feu_de_camp_-_20150802_15h44_(10722).jpg",
+    "author": "Another one of my pictures: This photograph was taken by Medium69 (William Croch",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-e93a050971.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Gare de Lyon"
+   ],
+   "photo": {
+    "file": "File:P1210896 Paris XII gare de Lyon rwk.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/P1210896_Paris_XII_gare_de_Lyon_rwk.jpg/1920px-P1210896_Paris_XII_gare_de_Lyon_rwk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:P1210896_Paris_XII_gare_de_Lyon_rwk.jpg",
+    "author": "Mbzt",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-a67a6140cf.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-4b858a7a72.webp",
+   "stops": [
+    "Stanserhorn",
+    "Pilatus Kulm",
+    "Alpnachstad"
+   ],
+   "km": [
+    27.2,
+    16.4
+   ],
+   "photo": {
+    "file": "File:Stanserhorn Aussicht.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Stanserhorn_Aussicht.jpg/1920px-Stanserhorn_Aussicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stanserhorn_Aussicht.jpg",
+    "author": "Ikiwaner",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-3c68831d4d.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Chapel Bridge"
+   ],
+   "photo": {
+    "file": "File:Luzern Kapellbruecke.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Luzern_Kapellbruecke.jpg/1920px-Luzern_Kapellbruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Luzern_Kapellbruecke.jpg",
+    "author": "Ikiwaner",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-cf37557d53.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Sphinx Observatory"
+   ],
+   "photo": {
+    "file": "File:Jungfraujoch, Swiss Alps( Ank Kumar , Infosys Limited ) 11.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jungfraujoch%2C_Swiss_Alps%28_Ank_Kumar_%2C_Infosys_Limited_%29_11.jpg/1920px-Jungfraujoch%2C_Swiss_Alps%28_Ank_Kumar_%2C_Infosys_Limited_%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jungfraujoch,_Swiss_Alps(_Ank_Kumar_,_Infosys_Limited_)_11.jpg",
+    "author": "Ank Kumar",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-d0f74f4910.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-8fb55bc7a8.webp",
+   "stops": [
+    "Mürren",
+    "Schilthorn",
+    "Trümmelbach Falls"
+   ],
+   "km": [
+    56.5,
+    46.8
+   ],
+   "photo": {
+    "file": "File:Mürren view.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/M%C3%BCrren_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCrren_view.jpg",
+    "author": "Cristo Vlahos",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-f4f90a3e52.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Zurich Airport"
+   ],
+   "photo": {
+    "file": "File:Interlaken Ost.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Interlaken_Ost.jpg/1920px-Interlaken_Ost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Interlaken_Ost.jpg",
+    "author": "[Tycho] talk ,",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-47db0c49fc.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 13,
+ "coords": {
+  "Basel": [
+   47.55811,
+   7.58783
+  ],
+  "Lucerne": [
+   47.05214,
+   8.30581
+  ],
+  "Stanserhorn": [
+   46.92976,
+   8.34037
+  ],
+  "Pilatus": [
+   46.97037,
+   8.39841
+  ],
+  "Interlaken": [
+   46.68552,
+   7.85851
+  ],
+  "Jungfraujoch": [
+   46.54758,
+   7.97897
+  ],
+  "Schilthorn": [
+   46.55728,
+   7.83517
+  ],
+  "Basel SBB": [
+   47.54762,
+   7.58964
+  ],
+  "Lake Lucerne": [
+   46.98543,
+   8.49884
+  ],
+  "Pilatus Kulm": [
+   46.97926,
+   8.25564
+  ],
+  "Alpnachstad": [
+   46.95506,
+   8.27777
+  ],
+  "Lion Monument": [
+   47.05844,
+   8.31087
+  ],
+  "Interlaken Ost": [
+   46.69045,
+   7.869
+  ],
+  "Lake Brienz": [
+   46.72298,
+   7.96504
+  ],
+  "Kleine Scheidegg": [
+   46.58525,
+   7.96131
+  ],
+  "Mürren": [
+   46.55914,
+   7.89288
+  ],
+  "Trümmelbach Falls": [
+   46.57005,
+   7.91303
+  ]
+ },
+ "overview": {
+  "map": "map-overview-ab50b35faa.webp",
+  "stops": [
+   "Basel",
+   "Lucerne",
+   "Stanserhorn",
+   "Pilatus",
+   "Interlaken",
+   "Jungfraujoch",
+   "Schilthorn"
+  ]
+ }
+}

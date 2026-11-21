@@ -1,0 +1,268 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "author": "Wasiul Bahar",
+    "file": "File:Arrival area at Indira Gandhi International Airport.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arrival_area_at_Indira_Gandhi_International_Airport.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arrival_area_at_Indira_Gandhi_International_Airport.jpg/1920px-Arrival_area_at_Indira_Gandhi_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-716ba94f2c.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-89cebd42cc.webp",
+   "stops": [
+    "Red Fort",
+    "Gurdwara Sis Ganj Sahib",
+    "Chandni Chowk"
+   ],
+   "km": [
+    1.6,
+    0.3
+   ],
+   "photo": {
+    "author": "Jakub Hałun",
+    "file": "File:20191203 Czerwony Fort w Delhi 0528 6405 DxO.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg/1920px-20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-2-9e6f618c26.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-edddb3d130.webp",
+   "stops": [
+    "Humayun's Tomb",
+    "Qutub Minar",
+    "India Gate"
+   ],
+   "km": [
+    12.2,
+    12.0
+   ],
+   "photo": {
+    "file": "File:Humayun's Tomb-Delhi front view.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Humayun%27s_Tomb-Delhi_front_view.jpg/1920px-Humayun%27s_Tomb-Delhi_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb-Delhi_front_view.jpg",
+    "author": "Komal Sambhudas",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-a12a001a1e.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-044ad3532d.webp",
+   "stops": [
+    "Rock Garden Chandigarh",
+    "Sukhna Lake"
+   ],
+   "km": [
+    3.8
+   ],
+   "photo": {
+    "file": "File:Chandigarh Rock Garden 4.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chandigarh_Rock_Garden_4.jpg/1920px-Chandigarh_Rock_Garden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Chandigarh_Rock_Garden_4.jpg",
+    "author": "Ijon",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-90a5452c9e.webp"
+   }
+  },
+  "5": {
+   "photo": {
+    "file": "File:CHRIST CHURCH, KASAULI.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/CHRIST_CHURCH%2C_KASAULI.JPG/1920px-CHRIST_CHURCH%2C_KASAULI.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:CHRIST_CHURCH,_KASAULI.JPG",
+    "author": "Suman Wadhwa",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-755b000dd0.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Gilbert Trail Kasauli"
+   ]
+  },
+  "7": {
+   "unverified": [
+    "Virasat-e-Khalsa"
+   ],
+   "photo": {
+    "file": "File:Takht Sri Keshgarh Sahib.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Takht_Sri_Keshgarh_Sahib.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Takht_Sri_Keshgarh_Sahib.jpg",
+    "author": "Jasleen Kaur",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-9c69b9a753.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Qila Mubarak Patiala"
+   ],
+   "photo": {
+    "file": "File:Qila Mubarak, Patiala.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Qila_Mubarak%2C_Patiala.jpg/1920px-Qila_Mubarak%2C_Patiala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Qila_Mubarak,_Patiala.jpg",
+    "author": "Journojp",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-b8c5a46a5f.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Sheesh Mahal Patiala"
+   ],
+   "photo": {
+    "file": "File:Sheesh Mahal, Patiala.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sheesh_Mahal%2C_Patiala.jpg/1920px-Sheesh_Mahal%2C_Patiala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sheesh_Mahal,_Patiala.jpg",
+    "author": "Keshuseeker",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-9393ee950b.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Golden Temple"
+   ],
+   "photo": {
+    "file": "File:Jallianwala Bagh, Amritsar 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1920px-Jallianwala_Bagh%2C_Amritsar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-760a85c714.webp"
+   }
+  },
+  "11": {
+   "photo": {
+    "file": "File:Durgiana Temple model at Sri Guru Ram Dass Jee International Airport in Amritsar-29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Durgiana_Temple_model_at_Sri_Guru_Ram_Dass_Jee_International_Airport_in_Amritsar-29.jpg/1920px-Durgiana_Temple_model_at_Sri_Guru_Ram_Dass_Jee_International_Airport_in_Amritsar-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Durgiana_Temple_model_at_Sri_Guru_Ram_Dass_Jee_International_Airport_in_Amritsar-29.jpg",
+    "author": "Immanuelle",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-91379a5a7b.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 5,
+ "coords": {
+  "Delhi": [
+   28.6328,
+   77.21977
+  ],
+  "Chandigarh": [
+   30.73344,
+   76.77971
+  ],
+  "Kasauli": [
+   30.89995,
+   76.96197
+  ],
+  "Anandpur Sahib": [
+   31.22999,
+   76.50058
+  ],
+  "Patiala": [
+   30.20928,
+   76.33972
+  ],
+  "Amritsar": [
+   31.63567,
+   74.87875
+  ],
+  "Indira Gandhi International Airport": [
+   28.55542,
+   77.08481
+  ],
+  "Red Fort": [
+   28.65608,
+   77.2408
+  ],
+  "Gurdwara Sis Ganj Sahib": [
+   28.65596,
+   77.23242
+  ],
+  "Chandni Chowk": [
+   28.65598,
+   77.23219
+  ],
+  "Humayun's Tomb": [
+   28.59329,
+   77.25065
+  ],
+  "Qutub Minar": [
+   28.52441,
+   77.18545
+  ],
+  "India Gate": [
+   28.61293,
+   77.22949
+  ],
+  "Rock Garden Chandigarh": [
+   30.7532,
+   76.80663
+  ],
+  "Sukhna Lake": [
+   30.74198,
+   76.81767
+  ],
+  "Christ Church Kasauli": [
+   30.90097,
+   76.96512
+  ],
+  "Monkey Point Kasauli": [
+   30.87854,
+   76.97495
+  ],
+  "Takht Sri Kesgarh Sahib": [
+   31.23506,
+   76.49897
+  ],
+  "Gurdwara Dukh Niwaran Sahib": [
+   30.92529,
+   75.81997
+  ],
+  "Jallianwala Bagh": [
+   31.62085,
+   74.88013
+  ],
+  "Sri Guru Ram Dass Jee International Airport": [
+   31.70859,
+   74.80045
+  ]
+ },
+ "overview": {
+  "map": "map-overview-dea65e1330.webp",
+  "stops": [
+   "Delhi",
+   "Chandigarh",
+   "Kasauli",
+   "Anandpur Sahib",
+   "Patiala",
+   "Amritsar"
+  ]
+ }
+}

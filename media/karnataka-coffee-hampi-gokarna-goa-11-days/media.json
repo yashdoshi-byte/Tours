@@ -1,0 +1,231 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Kempegowda International Airport"
+   ],
+   "photo": {
+    "file": "File:Structural members of Kempegowda International airport (1).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Structural_members_of_Kempegowda_International_airport_%281%29.jpg/1920px-Structural_members_of_Kempegowda_International_airport_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Structural_members_of_Kempegowda_International_airport_(1).jpg",
+    "author": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-b91e89cc35.webp"
+   }
+  },
+  "2": {
+   "photo": {
+    "file": "File:Chikmagalur, India. (7793316622).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Chikmagalur%2C_India._%287793316622%29.jpg/1920px-Chikmagalur%2C_India._%287793316622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Chikmagalur,_India._(7793316622).jpg",
+    "author": "Prof. Mohamed Shareef from Mysore",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-7f5ef280bd.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Mullayanagiri"
+   ],
+   "photo": {
+    "file": "File:Landscapes of Western Ghats from Mullayyanagiri Betta.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Landscapes_of_Western_Ghats_from_Mullayyanagiri_Betta.jpg/1920px-Landscapes_of_Western_Ghats_from_Mullayyanagiri_Betta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Landscapes_of_Western_Ghats_from_Mullayyanagiri_Betta.jpg",
+    "author": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-1a1cd0dcb4.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-5fdcb03dd6.webp",
+   "stops": [
+    "Hemakuta Hill",
+    "Hampi"
+   ],
+   "km": [
+    0.3
+   ],
+   "photo": {
+    "file": "File:Hampi - Hemakuta Hill, Virupaksha Temple.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hampi_-_Hemakuta_Hill%2C_Virupaksha_Temple.jpg/1920px-Hampi_-_Hemakuta_Hill%2C_Virupaksha_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hampi_-_Hemakuta_Hill,_Virupaksha_Temple.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-475361836a.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Vittala Temple",
+    "Royal Enclosure Hampi"
+   ],
+   "photo": {
+    "file": "File:Hampi - Vittala Temple - Side Gopuram.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Hampi_-_Vittala_Temple_-_Side_Gopuram.jpg/1920px-Hampi_-_Vittala_Temple_-_Side_Gopuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hampi_-_Vittala_Temple_-_Side_Gopuram.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-351aa890aa.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Mahabaleshwar Temple Gokarna"
+   ],
+   "photo": {
+    "file": "File:KW23-0754-Gokarna-AdiGokarna-FrontFull4 3D.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/KW23-0754-Gokarna-AdiGokarna-FrontFull4_3D.jpg/1920px-KW23-0754-Gokarna-AdiGokarna-FrontFull4_3D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:KW23-0754-Gokarna-AdiGokarna-FrontFull4_3D.jpg",
+    "author": "VasuVR",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-0cb53ddfa1.webp"
+   }
+  },
+  "7": {
+   "photo": {
+    "file": "File:Om beach Gokarna.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Om_beach_Gokarna.JPG/1920px-Om_beach_Gokarna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Om_beach_Gokarna.JPG",
+    "author": "Axis of eran",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-216c637789.webp"
+   }
+  },
+  "8": {
+   "photo": {
+    "file": "File:The Terekhol River and Querim Beach, panoramic view, Goa, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg/1920px-The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Terekhol_River_and_Querim_Beach,_panoramic_view,_Goa,_India.jpg",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-0ba84df36f.webp"
+   }
+  },
+  "9": {
+   "map": "map-day-9-842934c581.webp",
+   "stops": [
+    "Basilica of Bom Jesus",
+    "Se Cathedral Goa",
+    "Fontainhas"
+   ],
+   "km": [
+    0.6,
+    12.1
+   ],
+   "photo": {
+    "author": "iMahesh",
+    "file": "File:Side Elevation of Basilica of Bom Jesus.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Side_Elevation_of_Basilica_of_Bom_Jesus.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Side_Elevation_of_Basilica_of_Bom_Jesus.jpg/1920px-Side_Elevation_of_Basilica_of_Bom_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-9-0483409a72.webp"
+   }
+  },
+  "10": {
+   "photo": {
+    "file": "File:The Terekhol River and Querim Beach, panoramic view, Goa, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg/1920px-The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Terekhol_River_and_Querim_Beach,_panoramic_view,_Goa,_India.jpg",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-0ba84df36f.webp"
+   }
+  },
+  "11": {
+   "photo": {
+    "author": "Arunpnair 787",
+    "file": "File:Mopa Airport Goa.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mopa_Airport_Goa.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mopa_Airport_Goa.jpg/1920px-Mopa_Airport_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-11-9bc4814c6f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 7,
+ "coords": {
+  "Hampi": [
+   15.3358,
+   76.46102
+  ],
+  "Gokarna": [
+   14.54396,
+   74.31844
+  ],
+  "Goa": [
+   15.30045,
+   74.08551
+  ],
+  "Chikkamagaluru": [
+   13.40587,
+   75.63876
+  ],
+  "Baba Budangiri": [
+   13.42109,
+   75.7607
+  ],
+  "Hemakuta Hill": [
+   15.33434,
+   76.45997
+  ],
+  "Virupaksha Temple": [
+   15.33517,
+   76.45868
+  ],
+  "Om Beach": [
+   14.51906,
+   74.32542
+  ],
+  "Kudle Beach": [
+   14.52845,
+   74.31586
+  ],
+  "Basilica of Bom Jesus": [
+   15.5007,
+   73.9117
+  ],
+  "Se Cathedral Goa": [
+   15.50373,
+   73.91219
+  ],
+  "Fontainhas": [
+   15.49666,
+   73.83108
+  ],
+  "Manohar International Airport": [
+   15.73672,
+   73.86901
+  ]
+ },
+ "overview": {
+  "map": "map-overview-f3fd54d4ac.webp",
+  "stops": [
+   "Hampi",
+   "Gokarna",
+   "Goa"
+  ]
+ }
+}

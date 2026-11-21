@@ -1,0 +1,303 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "author": "Sranjanm2002",
+    "file": "File:Jaipur Airport.JPG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jaipur_Airport.JPG",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jaipur_Airport.JPG/1920px-Jaipur_Airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-a5abb75d2c.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Amer Fort",
+    "City Palace Jaipur"
+   ],
+   "photo": {
+    "author": "S Sundararajan",
+    "file": "File:Amber Palace on Hill, Amber Jaipur.JPG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amber_Palace_on_Hill,_Amber_Jaipur.JPG",
+    "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Amber_Palace_on_Hill%2C_Amber_Jaipur.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "img": "day-2-0492b63fe1.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-a4aa5510f0.webp",
+   "stops": [
+    "Ajmer Sharif Dargah",
+    "Pushkar Lake"
+   ],
+   "km": [
+    12.5
+   ],
+   "photo": {
+    "file": "File:Ajmer Sharif, Dargah of Mainuddin Chisti in Ajmer, Rajasthan 30.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Ajmer_Sharif%2C_Dargah_of_Mainuddin_Chisti_in_Ajmer%2C_Rajasthan_30.jpg/1920px-Ajmer_Sharif%2C_Dargah_of_Mainuddin_Chisti_in_Ajmer%2C_Rajasthan_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ajmer_Sharif,_Dargah_of_Mainuddin_Chisti_in_Ajmer,_Rajasthan_30.jpg",
+    "author": "Pinakpani",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-3903b88b70.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-ecd4c77faf.webp",
+   "stops": [
+    "Brahma Temple Pushkar",
+    "Savitri Mata Temple"
+   ],
+   "km": [
+    1.2
+   ],
+   "photo": {
+    "file": "File:Brahma Temple, Pushkar, RJ.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Brahma_Temple%2C_Pushkar%2C_RJ.jpg/1920px-Brahma_Temple%2C_Pushkar%2C_RJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Brahma_Temple,_Pushkar,_RJ.jpg",
+    "author": "Adityavijayavargia",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-370610110d.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Ghanta Ghar Jodhpur"
+   ],
+   "photo": {
+    "file": "File:20191210 Widok z dachu w Dźodhpurze 1556 8059.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/20191210_Widok_z_dachu_w_D%C5%BAodhpurze_1556_8059.jpg/1920px-20191210_Widok_z_dachu_w_D%C5%BAodhpurze_1556_8059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:20191210_Widok_z_dachu_w_D%C5%BAodhpurze_1556_8059.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-4fef2dbf0d.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Mehrangarh Fort"
+   ],
+   "photo": {
+    "file": "File:20191210 Mehrangarh Fort, Jodhpur 1016 7834.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/20191210_Mehrangarh_Fort%2C_Jodhpur_1016_7834.jpg/1920px-20191210_Mehrangarh_Fort%2C_Jodhpur_1016_7834.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:20191210_Mehrangarh_Fort,_Jodhpur_1016_7834.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-4a91fafdbe.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Bishnoi Village"
+   ],
+   "photo": {
+    "file": "File:Umaid Bhawan, Jodhpur.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Umaid_Bhawan%2C_Jodhpur.jpg/1920px-Umaid_Bhawan%2C_Jodhpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Umaid_Bhawan,_Jodhpur.jpg",
+    "author": "Yann (talk)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-1e077eea16.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Vyas Chhatri",
+    "Jaisalmer"
+   ],
+   "photo": {
+    "file": "File:Jaisalmer-Vyas Chhatri Cenotaphs-20131010.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Jaisalmer-Vyas_Chhatri_Cenotaphs-20131010.jpg/1920px-Jaisalmer-Vyas_Chhatri_Cenotaphs-20131010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jaisalmer-Vyas_Chhatri_Cenotaphs-20131010.jpg",
+    "author": "Daniel VILLAFRUELA",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-d9f7057f9d.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Jaisalmer Fort",
+    "Patwon Ki Haveli",
+    "Gadisar Lake"
+   ],
+   "photo": {
+    "file": "File:Jaisalmer Fort, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jaisalmer_Fort%2C_India.jpg/1920px-Jaisalmer_Fort%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jaisalmer_Fort,_India.jpg",
+    "author": "Clément Bardot",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-603be317e7.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Kuldhara",
+    "Sam Sand Dunes"
+   ],
+   "photo": {
+    "file": "File:Kuldhara 9.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Kuldhara_9.jpg/1920px-Kuldhara_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kuldhara_9.jpg",
+    "author": "कृष्ण कान्त शर्मा",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-ac6db5df39.webp"
+   }
+  },
+  "11": {
+   "photo": {
+    "file": "File:Geban shah gazi dargah.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Geban_shah_gazi_dargah.jpg/1920px-Geban_shah_gazi_dargah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Geban_shah_gazi_dargah.jpg",
+    "author": "Hanif siwanchi",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-85cea56bd8.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Ranakpur Jain Temple"
+   ],
+   "photo": {
+    "file": "File:Jain Temple Ranakpur.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Jain_Temple_Ranakpur.jpg/1920px-Jain_Temple_Ranakpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jain_Temple_Ranakpur.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-3c35fc9913.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "City Palace Udaipur",
+    "Jagdish Temple"
+   ],
+   "photo": {
+    "author": "Hirumon",
+    "file": "File:City Palace Udaipur Rajasthan India.JPG",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:City_Palace_Udaipur_Rajasthan_India.JPG",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/City_Palace_Udaipur_Rajasthan_India.JPG/1920px-City_Palace_Udaipur_Rajasthan_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-13-70550300de.webp"
+   }
+  },
+  "14": {
+   "photo": {
+    "author": "Northside",
+    "file": "File:Airport-Udaipur Terminal.JPG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Airport-Udaipur_Terminal.JPG",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Airport-Udaipur_Terminal.JPG/1920px-Airport-Udaipur_Terminal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-14-d094c2ec62.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 16,
+ "coords": {
+  "Jaipur": [
+   26.91546,
+   75.81898
+  ],
+  "Ajmer": [
+   26.4691,
+   74.639
+  ],
+  "Pushkar": [
+   26.48765,
+   74.55785
+  ],
+  "Jodhpur": [
+   26.29677,
+   73.03514
+  ],
+  "Udaipur": [
+   24.57872,
+   73.68626
+  ],
+  "Jaipur International Airport": [
+   26.82811,
+   75.80799
+  ],
+  "Jantar Mantar Jaipur": [
+   26.92477,
+   75.8245
+  ],
+  "Hawa Mahal": [
+   26.92393,
+   75.82687
+  ],
+  "Ajmer Sharif Dargah": [
+   26.45631,
+   74.62796
+  ],
+  "Pushkar Lake": [
+   26.48763,
+   74.55405
+  ],
+  "Brahma Temple Pushkar": [
+   26.48735,
+   74.54883
+  ],
+  "Savitri Mata Temple": [
+   26.47784,
+   74.54216
+  ],
+  "Jaswant Thada": [
+   26.30434,
+   73.02531
+  ],
+  "Umaid Bhawan Palace": [
+   26.28131,
+   73.04715
+  ],
+  "Jalore Fort": [
+   25.33247,
+   72.61711
+  ],
+  "Lake Pichola": [
+   24.56962,
+   73.67218
+  ],
+  "Maharana Pratap Airport": [
+   24.61741,
+   73.89417
+  ]
+ },
+ "overview": {
+  "map": "map-overview-794503fd3e.webp",
+  "stops": [
+   "Jaipur",
+   "Ajmer",
+   "Pushkar",
+   "Jodhpur",
+   "Udaipur"
+  ]
+ }
+}

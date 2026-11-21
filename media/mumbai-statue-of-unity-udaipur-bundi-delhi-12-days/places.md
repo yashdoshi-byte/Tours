@@ -1,0 +1,41 @@
+# Pins for Mumbai to Delhi via the Statue of Unity, Udaipur and Bundi in 12 Days
+
+Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHECK means look at it; PINNED was set by hand. Open each CHECK link: if the pin is wrong, copy the right coordinates from Google Maps into "geo" in the tour file.
+
+**25 pin(s) to check.**
+
+| Status | Place in the itinerary | Pin | What OpenStreetMap found | Check |
+|---|---|---|---|---|
+| CHECK | Mumbai | 19.055, 72.8692 | Mumbai, Mumbai Suburban District, Maharashtra, 400051, India (620 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=19.055,72.8692) |
+| CHECK | Elephanta Caves | 18.9629, 72.93148 | Elephanta Caves, Path to caves, Raigad, Maharashtra, India (629 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.9629,72.93148) |
+| CHECK | Vadodara | 22.29731, 73.19426 | Vadodara, Vadodara Rural Taluka, Vadodara, Gujarat, 390001, India (258 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=22.29731,73.19426) |
+| CHECK | Kevadia | 21.29477, 73.14724 | Kevadia, Mandvi Taluka, Surat, Gujarat, 394163, India (369 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=21.29477,73.14724) |
+| OK | Udaipur | 24.57872, 73.68626 | Udaipur, Girwa Tehsil, Udaipur, Rajasthan, 313001, India | [open](https://www.google.com/maps/search/?api=1&query=24.57872,73.68626) |
+| OK | Bundi | 25.43677, 75.73615 | Bundi, Rajasthan, India | [open](https://www.google.com/maps/search/?api=1&query=25.43677,75.73615) |
+| CHECK | Amer Fort | 26.98547, 75.85397 | Amer Fort, Amer Road, Saraswat Ka Mohalla, Amer Chak No. 1, Jaipur Municipal Corporation, Amber Tehsil, Jaipur, Rajastha (344 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=26.98547,75.85397) |
+| CHECK | Jaipur | 26.91546, 75.81898 | Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India (336 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=26.91546,75.81898) |
+| CHECK | Delhi | 28.6328, 77.21977 | Delhi, India (571 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.6328,77.21977) |
+| CHECK | Marine Drive | 18.94994, 72.8188 | Marine Drive, Girgaon, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400020, India (632 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.94994,72.8188) |
+| CHECK | Girgaum Chowpatty | 18.95436, 72.81288 | Girgaum Chowpatty Beach, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India (632 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.95436,72.81288) |
+| CHECK | Gateway of India | 18.92197, 72.83457 | Gateway of India, Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400039, I (635 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.92197,72.83457) |
+| CHECK | Haji Ali Dargah | 18.98282, 72.80899 | Haji Ali Dargah, 23, Haji Ali Causeway, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai, Mumbai City District, Maharashtra, (629 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.98282,72.80899) |
+| CHECK | Chor Bazaar | 18.95935, 72.82991 | Chor Bazaar, Bhuleshwar, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400003, India (631 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.95935,72.82991) |
+| CHECK | Juhu Beach | 19.10265, 72.82468 | Juhu Beach, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India (615 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=19.10265,72.82468) |
+| CHECK | Mumbai Central | 18.96959, 72.81932 | Mumbai Central, J Boman Behram Marg, Tardeo, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India (630 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=18.96959,72.81932) |
+| CHECK | Vadodara Junction | 22.31107, 73.1808 | Vadodara Junction, Underpass, Alkapuri, Vadodara, Vadodara Rural Taluka, Vadodara, Gujarat, 390001, India (257 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=22.31107,73.1808) |
+| OK | Arogya Van | 23.21685, 72.66714 | Arogya Van, Gandhinagar, Gandhinagar Taluka, Gandhinagar, Gujarat, India | [open](https://www.google.com/maps/search/?api=1&query=23.21685,72.66714) |
+| CHECK | Statue of Unity | 21.83798, 73.71916 | Statue of Unity, Garudeshwar Taluka, Narmada, Gujarat, India (304 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=21.83798,73.71916) |
+| CHECK | Sardar Sarovar Dam | 21.8298, 73.74972 | Sardar Sarovar Dam, Garudeshwar Taluka, Narmada, Gujarat, India (305 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=21.8298,73.74972) |
+| CHECK | City Palace Udaipur | 24.57606, 73.68357 | City Palace, Jagdish Temple Road, Udaipur, Girwa Tehsil, Udaipur, Rajasthan, 313001, India (the name it found does not match ours) | [open](https://www.google.com/maps/search/?api=1&query=24.57606,73.68357) |
+| OK | Vintage Car Museum Udaipur | 24.57605, 73.69453 | Vintage and Classic Car Collection, Gulab Bagh Road, Udaipur, Girwa Tehsil, Udaipur, Rajasthan, 313001, India | [open](https://www.google.com/maps/search/?api=1&query=24.57605,73.69453) |
+| OK | Lake Pichola | 24.56962, 73.67218 | Lake Pichola, Udaipur, Girwa Tehsil, Udaipur, Rajasthan, 313001, India | [open](https://www.google.com/maps/search/?api=1&query=24.56962,73.67218) |
+| OK | Taragarh Fort Bundi | 25.45215, 75.63795 | Taragarh Fort, Garh Palace Road, Bundi, Bundi Tehsil, Bundi, Rajasthan, 323001, India | [open](https://www.google.com/maps/search/?api=1&query=25.45215,75.63795) |
+| OK | Garh Palace Bundi | 25.44886, 75.63531 | Garh Palace, Garh Palace Road, Bundi, Bundi Tehsil, Bundi, Rajasthan, 323001, India | [open](https://www.google.com/maps/search/?api=1&query=25.44886,75.63531) |
+| OK | Raniji ki Baori | 25.44021, 75.63943 | Raniji Ki Baori, Lanka Gate Road, Bundi, Bundi Tehsil, Bundi, Rajasthan, 323001, India | [open](https://www.google.com/maps/search/?api=1&query=25.44021,75.63943) |
+| CHECK | Jaipur Junction | 26.92079, 75.78665 | Jaipur Junction, Ram Mandir Road, Hasanpura-A, Bani Park, Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, R (334 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=26.92079,75.78665) |
+| CHECK | New Delhi Railway Station | 28.64028, 77.22041 | New Delhi Railway Station, New Delhi, Delhi, India (572 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.64028,77.22041) |
+| CHECK | Red Fort | 28.65608, 77.2408 | Red Fort, Shyama Prasad Mukherji Marg, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110003, India (574 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.65608,77.2408) |
+| CHECK | Jama Masjid Delhi | 28.65068, 77.23296 | Jama Masjid, Meena Bazaar, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110006, India (574 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.65068,77.23296) |
+| CHECK | Paranthe Wali Gali | 28.65608, 77.23048 | Paranthe Wali Gali, Dharampura, Sadar Bazar, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110006, India (574 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.65608,77.23048) |
+| CHECK | India Gate | 28.61293, 77.22949 | India Gate, Shahjahan Road, Pandara Park, Central Vista, New Delhi, Delhi, 110503, India (570 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.61293,77.22949) |
+| CHECK | Indira Gandhi International Airport | 28.55542, 77.08481 | Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Mahipalpur, Najafgarh, Delhi, South West Delhi, Delhi, 1100 (556 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=28.55542,77.08481) |

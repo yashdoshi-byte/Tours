@@ -1,0 +1,347 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "file": "File:SSJ100 Keflavik runways (5160518757).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/SSJ100_Keflavik_runways_%285160518757%29.jpg/1920px-SSJ100_Keflavik_runways_%285160518757%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:SSJ100_Keflavik_runways_(5160518757).jpg",
+    "author": "SuperJet International",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-d1849b0d31.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Bridge Between Continents"
+   ],
+   "photo": {
+    "file": "File:Bridge across continents iceland.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bridge_across_continents_iceland.jpg/1920px-Bridge_across_continents_iceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bridge_across_continents_iceland.jpg",
+    "author": "Chris 73",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-d91f0417ee.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-f18949dd65.webp",
+   "stops": [
+    "Kirkjufell",
+    "Arnarstapi",
+    "Djúpalónssandur",
+    "Akureyri"
+   ],
+   "km": [
+    50.2,
+    15.8,
+    417.5
+   ],
+   "photo": {
+    "file": "File:Kirkjufell, Iceland, 20240714 1631 0713.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg/1920px-Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-8416627f8e.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-42aa883e04.webp",
+   "stops": [
+    "Goðafoss",
+    "Dimmuborgir",
+    "Hverfjall",
+    "Námafjall",
+    "Dettifoss"
+   ],
+   "km": [
+    49.4,
+    5.8,
+    8.9,
+    64.8
+   ],
+   "photo": {
+    "file": "File:Goðafoss Waterfall, Iceland, 20240716 0921 1217.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Go%C3%B0afoss_Waterfall%2C_Iceland%2C_20240716_0921_1217.jpg/1920px-Go%C3%B0afoss_Waterfall%2C_Iceland%2C_20240716_0921_1217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Go%C3%B0afoss_Waterfall,_Iceland,_20240716_0921_1217.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-bae7105fbe.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Egilsstaðir",
+    "Reyðarfjörður"
+   ],
+   "photo": {
+    "file": "File:Egilsstaðir 2023.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Egilssta%C3%B0ir_2023.jpg/1920px-Egilssta%C3%B0ir_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Egilssta%C3%B0ir_2023.jpg",
+    "author": "Eysteinn Guðni Guðnason",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-316fd880b5.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Jökulsárlón"
+   ],
+   "photo": {
+    "file": "File:2400 Menschen leben in Höfn. 18.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2400_Menschen_leben_in_H%C3%B6fn._18.jpg/1920px-2400_Menschen_leben_in_H%C3%B6fn._18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2400_Menschen_leben_in_H%C3%B6fn._18.jpg",
+    "author": "Holger Uwe Schmitt",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-3a8872cdf4.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-0a9b403dd0.webp",
+   "stops": [
+    "Skaftafell",
+    "Svartifoss",
+    "Kirkjubæjarklaustur"
+   ],
+   "km": [
+    3.3,
+    70.0
+   ],
+   "photo": {
+    "file": "File:View from Skaftafell National Park July 2014 -4.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/View_from_Skaftafell_National_Park_July_2014_-4.jpg/1920px-View_from_Skaftafell_National_Park_July_2014_-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:View_from_Skaftafell_National_Park_July_2014_-4.jpg",
+    "author": "Martin Falbisoner",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-281340bfc5.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-2fe1c861bc.webp",
+   "stops": [
+    "Reynisfjara",
+    "Dyrhólaey",
+    "Skógafoss",
+    "Seljalandsfoss"
+   ],
+   "km": [
+    19.7,
+    27.6,
+    30.4
+   ],
+   "photo": {
+    "file": "File:Reynisfjara, Suðurland, Islandia, 2014-08-17, DD 164.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Reynisfjara%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_164.JPG/1920px-Reynisfjara%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_164.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Reynisfjara,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_164.JPG",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-30f137acf5.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Reykjavík"
+   ],
+   "photo": {
+    "file": "File:Strokkur geyser eruption, close-up view.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Strokkur_geyser_eruption%2C_close-up_view.jpg/1920px-Strokkur_geyser_eruption%2C_close-up_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Strokkur_geyser_eruption,_close-up_view.jpg",
+    "author": "Andreas Tille",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-b2ce03d858.webp"
+   }
+  },
+  "10": {
+   "map": "map-day-10-d0367a414d.webp",
+   "stops": [
+    "Hallgrímskirkja",
+    "Harpa",
+    "Keflavík International Airport"
+   ],
+   "km": [
+    1.4,
+    53.1
+   ],
+   "photo": {
+    "file": "File:Hallgrímskirkja Reykjavík Iceland HDSR 2019 10 20 9999 439.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hallgr%C3%ADmskirkja_Reykjav%C3%ADk_Iceland_HDSR_2019_10_20_9999_439.jpg/1920px-Hallgr%C3%ADmskirkja_Reykjav%C3%ADk_Iceland_HDSR_2019_10_20_9999_439.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hallgr%C3%ADmskirkja_Reykjav%C3%ADk_Iceland_HDSR_2019_10_20_9999_439.jpg",
+    "author": "Hyppolyte de Saint-Rambert",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-7251f5c54a.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 8,
+ "coords": {
+  "Keflavík": [
+   63.99977,
+   -22.55654
+  ],
+  "Snæfellsnes": [
+   64.90346,
+   -22.81897
+  ],
+  "Akureyri": [
+   65.6839,
+   -18.11218
+  ],
+  "Goðafoss": [
+   65.68282,
+   -17.55062
+  ],
+  "Mývatn": [
+   65.60325,
+   -17.01333
+  ],
+  "Dettifoss": [
+   65.81435,
+   -16.38449
+  ],
+  "Skaftafell": [
+   64.01645,
+   -16.96646
+  ],
+  "Vík": [
+   63.41882,
+   -19.00547
+  ],
+  "Skógafoss": [
+   63.5495,
+   -19.49495
+  ],
+  "Seljalandsfoss": [
+   63.61546,
+   -19.98817
+  ],
+  "Gullfoss": [
+   64.31445,
+   -20.14956
+  ],
+  "Keflavík International Airport": [
+   63.98501,
+   -22.6267
+  ],
+  "Gunnuhver": [
+   63.81944,
+   -22.68418
+  ],
+  "Seltún": [
+   63.89525,
+   -22.05552
+  ],
+  "Kleifarvatn": [
+   63.92664,
+   -21.96992
+  ],
+  "Kirkjufell": [
+   64.93995,
+   -23.30748
+  ],
+  "Arnarstapi": [
+   64.76673,
+   -23.62808
+  ],
+  "Djúpalónssandur": [
+   64.7521,
+   -23.90322
+  ],
+  "Dimmuborgir": [
+   65.58805,
+   -16.90794
+  ],
+  "Hverfjall": [
+   65.60506,
+   -16.87395
+  ],
+  "Námafjall": [
+   65.64015,
+   -16.82112
+  ],
+  "Hengifoss": [
+   65.09518,
+   -14.88955
+  ],
+  "Höfn": [
+   64.25326,
+   -15.20804
+  ],
+  "Fjallsárlón": [
+   64.0229,
+   -16.39779
+  ],
+  "Diamond Beach": [
+   64.04314,
+   -16.17825
+  ],
+  "Svartifoss": [
+   64.02772,
+   -16.97529
+  ],
+  "Kirkjubæjarklaustur": [
+   63.79306,
+   -18.04186
+  ],
+  "Reynisfjara": [
+   63.40443,
+   -19.0588
+  ],
+  "Dyrhólaey": [
+   63.39883,
+   -19.12663
+  ],
+  "Strokkur": [
+   64.3127,
+   -20.30077
+  ],
+  "Þingvellir": [
+   64.27861,
+   -21.08194
+  ],
+  "Hallgrímskirkja": [
+   64.1418,
+   -21.92671
+  ],
+  "Harpa": [
+   64.15043,
+   -21.93285
+  ]
+ },
+ "overview": {
+  "map": "map-overview-295a626154.webp",
+  "stops": [
+   "Keflavík",
+   "Snæfellsnes",
+   "Akureyri",
+   "Goðafoss",
+   "Mývatn",
+   "Dettifoss",
+   "Skaftafell",
+   "Vík",
+   "Skógafoss",
+   "Seljalandsfoss",
+   "Gullfoss"
+  ]
+ }
+}

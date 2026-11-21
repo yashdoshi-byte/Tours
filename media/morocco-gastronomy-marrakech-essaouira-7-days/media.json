@@ -1,0 +1,163 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-f21fa546bd.webp",
+   "stops": [
+    "Marrakech Menara Airport",
+    "Jemaa el-Fna"
+   ],
+   "km": [
+    6.9
+   ],
+   "photo": {
+    "file": "File:Entrance of the Airport of Marrakech.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Entrance_of_the_Airport_of_Marrakech.jpg/1920px-Entrance_of_the_Airport_of_Marrakech.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_Airport_of_Marrakech.jpg",
+    "author": "Reda Kerbush",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-2d1721822f.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-15b32b95a2.webp",
+   "stops": [
+    "Koutoubia Mosque",
+    "Bahia Palace",
+    "Jemaa el-Fna"
+   ],
+   "km": [
+    1.6,
+    2.3
+   ],
+   "photo": {
+    "file": "File:Mosquée de la Koutoubia - marakesh.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mosqu%C3%A9e_de_la_Koutoubia_-_marakesh.jpg/1920px-Mosqu%C3%A9e_de_la_Koutoubia_-_marakesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_de_la_Koutoubia_-_marakesh.jpg",
+    "author": "Baca12",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-b620e7b1f4.webp"
+   }
+  },
+  "3": {
+   "photo": {
+    "file": "File:Le jardin des majorelle 16.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Le_jardin_des_majorelle_16.JPG/1920px-Le_jardin_des_majorelle_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_jardin_des_majorelle_16.JPG",
+    "author": "Viault",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-95c7ff493a.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Argan forest"
+   ],
+   "photo": {
+    "file": "File:Argan Forest...lunch stop - Flickr - gailhampshire.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Argan_Forest...lunch_stop_-_Flickr_-_gailhampshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Argan_Forest...lunch_stop_-_Flickr_-_gailhampshire.jpg",
+    "author": "gailhampshire from Cradley, Malvern, U.K",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-f84db9a2ec.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Port of Essaouira"
+   ],
+   "photo": {
+    "file": "File:Essaouira 118.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Essaouira_118.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Essaouira_118.JPG",
+    "author": "Arnaud 25",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-80c72cdf04.webp"
+   }
+  },
+  "6": {
+   "photo": {
+    "file": "File:Essaouira beach 03.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Essaouira_beach_03.jpg/1920px-Essaouira_beach_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Essaouira_beach_03.jpg",
+    "author": "Adam Harangozó",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-0ccd166711.webp"
+   }
+  },
+  "7": {
+   "photo": {
+    "file": "File:Entrance of the Airport of Marrakech.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Entrance_of_the_Airport_of_Marrakech.jpg/1920px-Entrance_of_the_Airport_of_Marrakech.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_Airport_of_Marrakech.jpg",
+    "author": "Reda Kerbush",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-2d1721822f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 2,
+ "coords": {
+  "Marrakech": [
+   31.62651,
+   -8.00302
+  ],
+  "Essaouira": [
+   31.51183,
+   -9.76209
+  ],
+  "Marrakech Menara Airport": [
+   31.60587,
+   -8.03246
+  ],
+  "Jemaa el-Fna": [
+   31.62583,
+   -7.98892
+  ],
+  "Koutoubia Mosque": [
+   31.62375,
+   -7.99336
+  ],
+  "Bahia Palace": [
+   31.62163,
+   -7.98194
+  ],
+  "Jardin Majorelle": [
+   31.64147,
+   -8.00291
+  ],
+  "Skala de la Ville": [
+   31.5142,
+   -9.7724
+  ],
+  "Essaouira Medina": [
+   31.51328,
+   -9.76882
+  ],
+  "Essaouira Beach": [
+   31.49926,
+   -9.76416
+  ]
+ },
+ "overview": {
+  "map": "map-overview-d28bcd35c3.webp",
+  "stops": [
+   "Marrakech",
+   "Essaouira"
+  ]
+ }
+}

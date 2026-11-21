@@ -1,0 +1,199 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-c7862cd6c3.webp",
+   "stops": [
+    "Nadi International Airport",
+    "Denarau Island",
+    "Port Denarau Marina"
+   ],
+   "km": [
+    12.0,
+    1.4
+   ],
+   "photo": {
+    "file": "File:Departure gates 5 and 6 at Nadi International Airport.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Departure_gates_5_and_6_at_Nadi_International_Airport.jpg/1920px-Departure_gates_5_and_6_at_Nadi_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Departure_gates_5_and_6_at_Nadi_International_Airport.jpg",
+    "author": "Grendelkhan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-055940f8ca.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-1242176b5c.webp",
+   "stops": [
+    "Port Denarau Marina",
+    "Mamanuca Islands"
+   ],
+   "km": [
+    28.9
+   ],
+   "photo": {
+    "file": "File:Stormy sky, Danarau Marina, Fiji.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Stormy_sky%2C_Danarau_Marina%2C_Fiji.jpg/1920px-Stormy_sky%2C_Danarau_Marina%2C_Fiji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stormy_sky,_Danarau_Marina,_Fiji.jpg",
+    "author": "Bryan Davis",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-7d61d7b260.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Sabeto Hot Springs and Mud Pool"
+   ],
+   "photo": {
+    "file": "File:Sri Siva Subramaniya Swami Temple in Nadi (3).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Sri_Siva_Subramaniya_Swami_Temple_in_Nadi_%283%29.jpg/1920px-Sri_Siva_Subramaniya_Swami_Temple_in_Nadi_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sri_Siva_Subramaniya_Swami_Temple_in_Nadi_(3).jpg",
+    "author": "Radosław Botev",
+    "licence": "CC BY 3.0 pl",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-004e5ddf6b.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-61992b46aa.webp",
+   "stops": [
+    "Natadola Beach",
+    "Coral Coast"
+   ],
+   "km": [
+    154.2
+   ]
+  },
+  "5": {
+   "map": "map-day-5-6a6f0135ff.webp",
+   "stops": [
+    "Sigatoka River",
+    "Sigatoka"
+   ],
+   "km": [
+    29.3
+   ],
+   "photo": {
+    "file": "File:SigatokaRiver.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SigatokaRiver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:SigatokaRiver.jpg",
+    "author": "User:Doron",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-1f58939777.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-d09c336cd4.webp",
+   "stops": [
+    "Sigatoka Sand Dunes National Park",
+    "Coral Coast"
+   ],
+   "km": [
+    128.4
+   ],
+   "photo": {
+    "file": "File:Sigatoka Sand Dunes National Park (8).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Sigatoka_Sand_Dunes_National_Park_%288%29.jpg/1920px-Sigatoka_Sand_Dunes_National_Park_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sigatoka_Sand_Dunes_National_Park_(8).jpg",
+    "author": "Radosław Botev",
+    "licence": "CC BY 3.0 pl",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-e2ac560e0c.webp"
+   }
+  },
+  "7": {
+   "photo": {
+    "file": "File:Departure gates 5 and 6 at Nadi International Airport.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Departure_gates_5_and_6_at_Nadi_International_Airport.jpg/1920px-Departure_gates_5_and_6_at_Nadi_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Departure_gates_5_and_6_at_Nadi_International_Airport.jpg",
+    "author": "Grendelkhan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-055940f8ca.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 1,
+ "coords": {
+  "Nadi": [
+   -17.79927,
+   177.41785
+  ],
+  "Denarau": [
+   -17.77532,
+   177.37776
+  ],
+  "Mamanuca Islands": [
+   -17.74956,
+   177.17065
+  ],
+  "Sabeto": [
+   -17.79237,
+   177.43004
+  ],
+  "Natadola": [
+   -18.10298,
+   177.32188
+  ],
+  "Sigatoka": [
+   -18.13816,
+   177.50778
+  ],
+  "Coral Coast": [
+   -18.13424,
+   178.42557
+  ],
+  "Nadi International Airport": [
+   -17.76245,
+   177.43747
+  ],
+  "Denarau Island": [
+   -17.77532,
+   177.37776
+  ],
+  "Port Denarau Marina": [
+   -17.77272,
+   177.38172
+  ],
+  "Sri Siva Subramaniya Temple": [
+   -17.80725,
+   177.41507
+  ],
+  "Garden of the Sleeping Giant": [
+   -17.71162,
+   177.46922
+  ],
+  "Natadola Beach": [
+   -18.10363,
+   177.3206
+  ],
+  "Sigatoka River": [
+   -17.99695,
+   177.54366
+  ],
+  "Sigatoka Sand Dunes National Park": [
+   -18.16769,
+   177.4881
+  ]
+ },
+ "overview": {
+  "map": "map-overview-643cdff2dc.webp",
+  "stops": [
+   "Nadi",
+   "Denarau",
+   "Mamanuca Islands",
+   "Sabeto",
+   "Natadola",
+   "Sigatoka",
+   "Coral Coast"
+  ]
+ }
+}

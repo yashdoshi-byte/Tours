@@ -1,0 +1,464 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-f3528bcad5.webp",
+   "stops": [
+    "Henri Coandă International Airport",
+    "Palace of the Parliament",
+    "Lipscani"
+   ],
+   "km": [
+    20.5,
+    3.4
+   ],
+   "photo": {
+    "file": "File:Henri-Coanda-airport-Flight Bucharest -Frankfurt-april-2013 (cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Henri-Coanda-airport-Flight_Bucharest_-Frankfurt-april-2013_%28cropped%29.jpg/1920px-Henri-Coanda-airport-Flight_Bucharest_-Frankfurt-april-2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Henri-Coanda-airport-Flight_Bucharest_-Frankfurt-april-2013_(cropped).jpg",
+    "author": "Cristian Bortes",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-d8341c808e.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-ce5bcb3618.webp",
+   "stops": [
+    "Curtea de Argeș Monastery",
+    "Cozia Monastery",
+    "Sibiu"
+   ],
+   "km": [
+    43.2,
+    79.6
+   ],
+   "photo": {
+    "file": "File:Church of the Dormition, Argeș monastery (by Pudelek) 05.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Church_of_the_Dormition%2C_Arge%C8%99_monastery_%28by_Pudelek%29_05.jpg/1920px-Church_of_the_Dormition%2C_Arge%C8%99_monastery_%28by_Pudelek%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Dormition,_Arge%C8%99_monastery_(by_Pudelek)_05.jpg",
+    "author": "Pudelek",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-b25a14b1cd.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Bridge of Lies"
+   ],
+   "photo": {
+    "file": "File:2023 Piata Mare din Sibiu.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2023_Piata_Mare_din_Sibiu.jpg/1920px-2023_Piata_Mare_din_Sibiu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2023_Piata_Mare_din_Sibiu.jpg",
+    "author": "Chainwit.",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-6f35c7d4ec.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-09900b4d1a.webp",
+   "stops": [
+    "Slimnic",
+    "Mediaș",
+    "Valea Viilor",
+    "Sighișoara"
+   ],
+   "km": [
+    39.2,
+    15.5,
+    52.2
+   ],
+   "photo": {
+    "file": "File:ROM Slimnic 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/ROM_Slimnic_01.jpg/1920px-ROM_Slimnic_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:ROM_Slimnic_01.jpg",
+    "author": "-wuppertaler",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-dd177f26ab.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Church on the Hill"
+   ],
+   "photo": {
+    "file": "File:Turnul cu ceas din sighisoara.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Turnul_cu_ceas_din_sighisoara.jpg/1920px-Turnul_cu_ceas_din_sighisoara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Turnul_cu_ceas_din_sighisoara.jpg",
+    "author": "Albertdoris",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-6d3a66e5a2.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Sighetu Marmației"
+   ],
+   "photo": {
+    "file": "File:Târgu Mureș Park, Ilmenau.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/T%C3%A2rgu_Mure%C8%99_Park%2C_Ilmenau.jpg/1920px-T%C3%A2rgu_Mure%C8%99_Park%2C_Ilmenau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:T%C3%A2rgu_Mure%C8%99_Park,_Ilmenau.jpg",
+    "author": "Giorno2",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-8dc5e624d3.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-af732c345a.webp",
+   "stops": [
+    "Viseu de Sus",
+    "Merry Cemetery",
+    "Bârsana Monastery"
+   ],
+   "km": [
+    77.0,
+    42.6
+   ],
+   "photo": {
+    "file": "File:Viseu de Sus.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Viseu_de_Sus.jpg/1920px-Viseu_de_Sus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Viseu_de_Sus.jpg",
+    "author": "Mihai Lucîț",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-9430b5d3d2.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-e41488e2dd.webp",
+   "stops": [
+    "Borșa",
+    "Prislop Pass",
+    "Gura Humorului"
+   ],
+   "km": [
+    23.4,
+    111.6
+   ],
+   "photo": {
+    "file": "File:Borșa, Maramureș.02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bor%C8%99a%2C_Maramure%C8%99.02.jpg/1920px-Bor%C8%99a%2C_Maramure%C8%99.02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bor%C8%99a,_Maramure%C8%99.02.jpg",
+    "author": "Nenea hartia",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-39700f2672.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Voroneț Monastery"
+   ],
+   "photo": {
+    "file": "File:Voronet Intrare.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Voronet_Intrare.JPG/1920px-Voronet_Intrare.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Voronet_Intrare.JPG",
+    "author": "Dstefanescu",
+    "licence": "Public domain",
+    "licence_url": "",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-3cc0017271.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Bicaz Gorge"
+   ],
+   "photo": {
+    "file": "File:Curtea Domnească din Piatra Neamț 03.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Curtea_Domneasc%C4%83_din_Piatra_Neam%C8%9B_03.jpg/1920px-Curtea_Domneasc%C4%83_din_Piatra_Neam%C8%9B_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Curtea_Domneasc%C4%83_din_Piatra_Neam%C8%9B_03.jpg",
+    "author": "Radueduard",
+    "licence": "CC BY-SA 3.0 ro",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-2102989f74.webp"
+   }
+  },
+  "11": {
+   "map": "map-day-11-05da65ed41.webp",
+   "stops": [
+    "Hărman",
+    "Black Church",
+    "Bran Castle"
+   ],
+   "km": [
+    14.7,
+    31.9
+   ],
+   "photo": {
+    "file": "File:Biserica fortificată din Hărman - vedere din curtea interioară.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Biserica_fortificat%C4%83_din_H%C4%83rman_-_vedere_din_curtea_interioar%C4%83.jpg/1920px-Biserica_fortificat%C4%83_din_H%C4%83rman_-_vedere_din_curtea_interioar%C4%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Biserica_fortificat%C4%83_din_H%C4%83rman_-_vedere_din_curtea_interioar%C4%83.jpg",
+    "author": "Neighbor's goat",
+    "licence": "CC BY-SA 3.0 ro",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-d21115454d.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Râșnov Fortress"
+   ],
+   "photo": {
+    "file": "File:Râşnov Citadel (Rosenauer Burg) 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/R%C3%A2%C5%9Fnov_Citadel_%28Rosenauer_Burg%29_01.jpg/1920px-R%C3%A2%C5%9Fnov_Citadel_%28Rosenauer_Burg%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:R%C3%A2%C5%9Fnov_Citadel_(Rosenauer_Burg)_01.jpg",
+    "author": "Pudelek",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-54140da830.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Brăila",
+    "Tulcea"
+   ],
+   "photo": {
+    "file": "File:Volcanes de lodo, Buzau, Rumanía, 2016-05-29, DD 41.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Volcanes_de_lodo%2C_Buzau%2C_Ruman%C3%ADa%2C_2016-05-29%2C_DD_41.jpg/1920px-Volcanes_de_lodo%2C_Buzau%2C_Ruman%C3%ADa%2C_2016-05-29%2C_DD_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Volcanes_de_lodo,_Buzau,_Ruman%C3%ADa,_2016-05-29,_DD_41.jpg",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-13-33f01111de.webp"
+   }
+  },
+  "14": {
+   "unverified": [
+    "Danube Delta"
+   ],
+   "photo": {
+    "file": "File:RO HD Crisan 1.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/RO_HD_Crisan_1.jpg/1920px-RO_HD_Crisan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:RO_HD_Crisan_1.jpg",
+    "author": "Utilizator:Țetcu Mircea Rareș at ro.wikipedia",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-14-f514756f4c.webp"
+   }
+  },
+  "15": {
+   "unverified": [
+    "Tulcea"
+   ],
+   "photo": {
+    "file": "File:Tulcea Denkmal.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Tulcea_Denkmal.jpg/1920px-Tulcea_Denkmal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Tulcea_Denkmal.jpg",
+    "author": "Tiefkuehlfan",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-15-833289b501.webp"
+   }
+  },
+  "16": {
+   "photo": {
+    "file": "File:Henri-Coanda-airport-Flight Bucharest -Frankfurt-april-2013 (cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Henri-Coanda-airport-Flight_Bucharest_-Frankfurt-april-2013_%28cropped%29.jpg/1920px-Henri-Coanda-airport-Flight_Bucharest_-Frankfurt-april-2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Henri-Coanda-airport-Flight_Bucharest_-Frankfurt-april-2013_(cropped).jpg",
+    "author": "Cristian Bortes",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-16-d8341c808e.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 9,
+ "coords": {
+  "Bucharest": [
+   44.43614,
+   26.10268
+  ],
+  "Curtea de Argeș": [
+   45.14693,
+   24.67798
+  ],
+  "Cozia Monastery": [
+   45.27182,
+   24.31627
+  ],
+  "Sibiu": [
+   45.79739,
+   24.15192
+  ],
+  "Sighișoara": [
+   46.2202,
+   24.79345
+  ],
+  "Biertan": [
+   46.13631,
+   24.52096
+  ],
+  "Săpânța": [
+   47.91655,
+   23.66384
+  ],
+  "Gura Humorului": [
+   47.55369,
+   25.88901
+  ],
+  "Miercurea Ciuc": [
+   46.3614,
+   25.80267
+  ],
+  "Brașov": [
+   45.78602,
+   25.15407
+  ],
+  "Bran Castle": [
+   45.51508,
+   25.36724
+  ],
+  "Peleș Castle": [
+   45.35884,
+   25.54377
+  ],
+  "Crișan": [
+   46.17068,
+   22.79836
+  ],
+  "Henri Coandă International Airport": [
+   44.56834,
+   26.10255
+  ],
+  "Palace of the Parliament": [
+   44.42751,
+   26.08725
+  ],
+  "Lipscani": [
+   44.43181,
+   26.10158
+  ],
+  "Curtea de Argeș Monastery": [
+   45.1568,
+   24.67546
+  ],
+  "Piața Mare Sibiu": [
+   45.79678,
+   24.15183
+  ],
+  "Astra Museum": [
+   45.75379,
+   24.11274
+  ],
+  "Slimnic": [
+   45.91906,
+   24.15411
+  ],
+  "Mediaș": [
+   46.16252,
+   24.34739
+  ],
+  "Valea Viilor": [
+   46.08183,
+   24.27889
+  ],
+  "Sighișoara Clock Tower": [
+   46.21925,
+   24.79326
+  ],
+  "Biertan fortified church": [
+   46.13516,
+   24.52145
+  ],
+  "Târgu Mureș": [
+   46.54463,
+   24.5612
+  ],
+  "Bistrița": [
+   47.1327,
+   24.49639
+  ],
+  "Viseu de Sus": [
+   47.70996,
+   24.43115
+  ],
+  "Merry Cemetery": [
+   47.97147,
+   23.6947
+  ],
+  "Bârsana Monastery": [
+   47.79313,
+   24.09181
+  ],
+  "Borșa": [
+   47.65541,
+   24.66393
+  ],
+  "Prislop Pass": [
+   47.60918,
+   24.85591
+  ],
+  "Humor Monastery": [
+   47.59355,
+   25.85457
+  ],
+  "Moldovița Monastery": [
+   47.65704,
+   25.57152
+  ],
+  "Sucevița Monastery": [
+   47.77864,
+   25.71088
+  ],
+  "Piatra Neamț": [
+   46.93199,
+   26.3695
+  ],
+  "Lacu Roșu": [
+   46.79301,
+   25.79531
+  ],
+  "Hărman": [
+   45.71772,
+   25.6904
+  ],
+  "Black Church": [
+   45.641,
+   25.58807
+  ],
+  "Berca Mud Volcanoes": [
+   45.33843,
+   26.7107
+  ]
+ },
+ "overview": {
+  "map": "map-overview-74f9800033.webp",
+  "stops": [
+   "Bucharest",
+   "Curtea de Argeș",
+   "Cozia Monastery",
+   "Sibiu",
+   "Sighișoara",
+   "Biertan",
+   "Săpânța",
+   "Gura Humorului",
+   "Miercurea Ciuc",
+   "Brașov",
+   "Bran Castle",
+   "Peleș Castle",
+   "Crișan"
+  ]
+ }
+}

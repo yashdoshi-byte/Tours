@@ -1,0 +1,371 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-b0bb1bfd3a.webp",
+   "stops": [
+    "Lisbon Airport",
+    "Rossio",
+    "Baixa"
+   ],
+   "km": [
+    9.0,
+    1.2
+   ],
+   "photo": {
+    "file": "File:Air France F-HEPB at Lisbon Portela Airport 2025 283.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Air_France_F-HEPB_at_Lisbon_Portela_Airport_2025_283.jpg/1920px-Air_France_F-HEPB_at_Lisbon_Portela_Airport_2025_283.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Air_France_F-HEPB_at_Lisbon_Portela_Airport_2025_283.jpg",
+    "author": "Photograph by Mike Peel (www.mikepeel.net).",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-107c176b37.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-33099a0600.webp",
+   "stops": [
+    "Avenida da Liberdade",
+    "Belém Tower",
+    "Jerónimos Monastery",
+    "Alfama"
+   ],
+   "km": [
+    8.1,
+    4.2,
+    8.4
+   ],
+   "photo": {
+    "file": "File:Jules and Gabriel walking down the Metro station Avenida stairs, Avenida da Liberdade, Lisbon, Portugal julesvernex2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Jules_and_Gabriel_walking_down_the_Metro_station_Avenida_stairs%2C_Avenida_da_Liberdade%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1920px-Jules_and_Gabriel_walking_down_the_Metro_station_Avenida_stairs%2C_Avenida_da_Liberdade%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jules_and_Gabriel_walking_down_the_Metro_station_Avenida_stairs,_Avenida_da_Liberdade,_Lisbon,_Portugal_julesvernex2.jpg",
+    "author": "Jules Verne Times Two",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-9105651fb3.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Alcobaça Monastery"
+   ],
+   "photo": {
+    "file": "File:Castillo de Óbidos, Óbidos, Portugal, 2021-09-09, DD 36-42 PAN.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Castillo_de_%C3%93bidos%2C_%C3%93bidos%2C_Portugal%2C_2021-09-09%2C_DD_36-42_PAN.jpg/1920px-Castillo_de_%C3%93bidos%2C_%C3%93bidos%2C_Portugal%2C_2021-09-09%2C_DD_36-42_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_%C3%93bidos,_%C3%93bidos,_Portugal,_2021-09-09,_DD_36-42_PAN.jpg",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-714180d487.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-6cb8479721.webp",
+   "stops": [
+    "Convent of Christ",
+    "Conímbriga",
+    "University of Coimbra",
+    "Porto"
+   ],
+   "km": [
+    69.8,
+    16.0,
+    121.0
+   ],
+   "photo": {
+    "file": "File:Convento Cristo December 2008-8.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Convento_Cristo_December_2008-8.jpg/1920px-Convento_Cristo_December_2008-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Convento_Cristo_December_2008-8.jpg",
+    "author": "Alvesgaspar",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-4f90fcbd39.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-d7f5c208dd.webp",
+   "stops": [
+    "Igreja de São Francisco",
+    "Palácio da Bolsa",
+    "Vila Nova de Gaia",
+    "Ribeira"
+   ],
+   "km": [
+    408.5,
+    5.0,
+    4.5
+   ],
+   "photo": {
+    "file": "File:Evora - Igreja de Sao Francisco - Monastery - 2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Evora_-_Igreja_de_Sao_Francisco_-_Monastery_-_2.jpg/1920px-Evora_-_Igreja_de_Sao_Francisco_-_Monastery_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Evora_-_Igreja_de_Sao_Francisco_-_Monastery_-_2.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-ce99a0bec0.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-eee6c6cfbe.webp",
+   "stops": [
+    "Guimarães Castle",
+    "Palácio de Mateus",
+    "Viseu"
+   ],
+   "km": [
+    87.3,
+    87.5
+   ],
+   "photo": {
+    "file": "File:Castelo de Guimaraes.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Castelo_de_Guimaraes.jpg/1920px-Castelo_de_Guimaraes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Castelo_de_Guimaraes.jpg",
+    "author": "Filipe Fortes from New York, United States",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-f2e6a12d68.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-99dc79e13d.webp",
+   "stops": [
+    "Belmonte",
+    "Castelo de Vide",
+    "Évora"
+   ],
+   "km": [
+    155.0,
+    121.9
+   ],
+   "photo": {
+    "file": "File:Belmonte Wikivoyage Banner.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Belmonte_Wikivoyage_Banner.jpg/1920px-Belmonte_Wikivoyage_Banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Belmonte_Wikivoyage_Banner.jpg",
+    "author": "By User:Gato Preto - Own work, CC BY-SA 4.0,",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-ec6bada989.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Templo Romano de Évora"
+   ],
+   "photo": {
+    "file": "File:Evora - Roman Temple - Wall.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Evora_-_Roman_Temple_-_Wall.jpg/1920px-Evora_-_Roman_Temple_-_Wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Evora_-_Roman_Temple_-_Wall.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-a2facc6cbe.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Sagres Fortress",
+    "Cape St. Vincent",
+    "Ponta da Piedade"
+   ],
+   "photo": {
+    "file": "File:Gate and bastion of Sagres fortress - Portugal - 2015-08-03.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gate_and_bastion_of_Sagres_fortress_-_Portugal_-_2015-08-03.jpg/1920px-Gate_and_bastion_of_Sagres_fortress_-_Portugal_-_2015-08-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gate_and_bastion_of_Sagres_fortress_-_Portugal_-_2015-08-03.jpg",
+    "author": "Norbert Nagel",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-053705b569.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Sesimbra Castle",
+    "Ponte 25 de Abril"
+   ],
+   "photo": {
+    "file": "File:Castillo de Sesimbra, Portugal, 2012-08-18, DD 01.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Castillo_de_Sesimbra%2C_Portugal%2C_2012-08-18%2C_DD_01.JPG/1920px-Castillo_de_Sesimbra%2C_Portugal%2C_2012-08-18%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Sesimbra,_Portugal,_2012-08-18,_DD_01.JPG",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-d4b95e6dc3.webp"
+   }
+  },
+  "11": {
+   "photo": {
+    "file": "File:Air France F-HEPB at Lisbon Portela Airport 2025 283.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Air_France_F-HEPB_at_Lisbon_Portela_Airport_2025_283.jpg/1920px-Air_France_F-HEPB_at_Lisbon_Portela_Airport_2025_283.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Air_France_F-HEPB_at_Lisbon_Portela_Airport_2025_283.jpg",
+    "author": "Photograph by Mike Peel (www.mikepeel.net).",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-107c176b37.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 10,
+ "coords": {
+  "Lisbon": [
+   38.70775,
+   -9.13659
+  ],
+  "Óbidos": [
+   39.36195,
+   -9.15715
+  ],
+  "Alcobaça": [
+   39.55192,
+   -8.97634
+  ],
+  "Nazaré": [
+   39.60291,
+   -9.07016
+  ],
+  "Fátima": [
+   39.62555,
+   -8.66591
+  ],
+  "Tomar": [
+   39.60366,
+   -8.41505
+  ],
+  "Coimbra": [
+   40.21119,
+   -8.42915
+  ],
+  "Porto": [
+   41.15022,
+   -8.61035
+  ],
+  "Guimarães": [
+   41.44177,
+   -8.29557
+  ],
+  "Viseu": [
+   40.65747,
+   -7.91387
+  ],
+  "Belmonte": [
+   40.35833,
+   -7.35127
+  ],
+  "Castelo de Vide": [
+   39.41523,
+   -7.45542
+  ],
+  "Évora": [
+   38.57077,
+   -7.90928
+  ],
+  "Lisbon Airport": [
+   38.781,
+   -9.13186
+  ],
+  "Rossio": [
+   38.71402,
+   -9.13794
+  ],
+  "Baixa": [
+   38.71012,
+   -9.13702
+  ],
+  "Avenida da Liberdade": [
+   38.72035,
+   -9.14572
+  ],
+  "Belém Tower": [
+   38.69159,
+   -9.21593
+  ],
+  "Jerónimos Monastery": [
+   38.69775,
+   -9.20559
+  ],
+  "Alfama": [
+   38.71177,
+   -9.12838
+  ],
+  "Sanctuary of Fátima": [
+   39.63001,
+   -8.6747
+  ],
+  "Convent of Christ": [
+   39.60359,
+   -8.41993
+  ],
+  "Conímbriga": [
+   40.09898,
+   -8.4924
+  ],
+  "University of Coimbra": [
+   40.18615,
+   -8.41525
+  ],
+  "Igreja de São Francisco": [
+   38.56879,
+   -7.90842
+  ],
+  "Palácio da Bolsa": [
+   41.14131,
+   -8.616
+  ],
+  "Vila Nova de Gaia": [
+   41.12923,
+   -8.60574
+  ],
+  "Ribeira": [
+   41.1407,
+   -8.6126
+  ],
+  "Guimarães Castle": [
+   41.44791,
+   -8.29041
+  ],
+  "Palácio de Mateus": [
+   41.29685,
+   -7.71221
+  ],
+  "Évora Cathedral": [
+   38.57174,
+   -7.90672
+  ],
+  "Capela dos Ossos": [
+   39.01261,
+   -7.06976
+  ],
+  "Azeitão": [
+   38.51744,
+   -9.00868
+  ]
+ },
+ "overview": {
+  "map": "map-overview-f23020c309.webp",
+  "stops": [
+   "Lisbon",
+   "Óbidos",
+   "Alcobaça",
+   "Nazaré",
+   "Fátima",
+   "Tomar",
+   "Coimbra",
+   "Porto",
+   "Guimarães",
+   "Viseu",
+   "Belmonte",
+   "Castelo de Vide",
+   "Évora"
+  ]
+ }
+}

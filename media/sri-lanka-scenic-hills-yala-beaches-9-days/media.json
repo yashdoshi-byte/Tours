@@ -1,0 +1,312 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-1a4ebe93a7.webp",
+   "stops": [
+    "Bandaranaike International Airport",
+    "Sigiriya"
+   ],
+   "km": [
+    143.4
+   ],
+   "photo": {
+    "author": "ANKAN",
+    "file": "File:Bandaranaike International Airport (2).jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bandaranaike_International_Airport_(2).jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bandaranaike_International_Airport_%282%29.jpg/1920px-Bandaranaike_International_Airport_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-58346ad26f.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-1e8dfdb819.webp",
+   "stops": [
+    "Sigiriya",
+    "Matale",
+    "Temple of the Sacred Tooth Relic"
+   ],
+   "km": [
+    35.8,
+    53.9
+   ],
+   "photo": {
+    "author": "Bernard Gagnon",
+    "file": "File:Sigiriya.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sigiriya.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sigiriya.jpg/1920px-Sigiriya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-2-a4b53c98b9.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Sri Baktha Hanuman Temple",
+    "Gregory Lake"
+   ],
+   "photo": {
+    "file": "File:Island of Kandy lake.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Island_of_Kandy_lake.JPG/1920px-Island_of_Kandy_lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Island_of_Kandy_lake.JPG",
+    "author": "AntanO",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-ac624f15bd.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-c4d0752b99.webp",
+   "stops": [
+    "Horton Plains National Park",
+    "World's End",
+    "Baker's Falls"
+   ],
+   "km": [
+    80.5,
+    0.0
+   ],
+   "photo": {
+    "file": "File:Fog bow in Horton Plains National Park, Sir Lanka, 20260204 0744 8663.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Fog_bow_in_Horton_Plains_National_Park%2C_Sir_Lanka%2C_20260204_0744_8663.jpg/1920px-Fog_bow_in_Horton_Plains_National_Park%2C_Sir_Lanka%2C_20260204_0744_8663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Fog_bow_in_Horton_Plains_National_Park,_Sir_Lanka,_20260204_0744_8663.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-e181dc4486.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-d7a5420e30.webp",
+   "stops": [
+    "Nanu Oya",
+    "Nine Arch Bridge",
+    "Ravana Falls",
+    "Yala"
+   ],
+   "km": [
+    64.1,
+    10.9,
+    109.7
+   ],
+   "photo": {
+    "file": "File:Gare de Nanu Oya-Sri Lanka (7).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gare_de_Nanu_Oya-Sri_Lanka_%287%29.jpg/1920px-Gare_de_Nanu_Oya-Sri_Lanka_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gare_de_Nanu_Oya-Sri_Lanka_(7).jpg",
+    "author": "Ji-Elle",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-689c86983b.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-2b5ce42a28.webp",
+   "stops": [
+    "Yala National Park",
+    "Galle Fort",
+    "Bentota"
+   ],
+   "km": [
+    181.5,
+    56.1
+   ],
+   "photo": {
+    "file": "File:Buffalo in dirt in Yala National Park.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Buffalo_in_dirt_in_Yala_National_Park.jpg/1920px-Buffalo_in_dirt_in_Yala_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Buffalo_in_dirt_in_Yala_National_Park.jpg",
+    "author": "Byrdyak",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-d718e2b1d1.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Kosgoda Turtle Hatchery"
+   ],
+   "photo": {
+    "file": "File:Kosgoda turtle hatchery 01(js0.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kosgoda_turtle_hatchery_01%28js0.jpg/1920px-Kosgoda_turtle_hatchery_01%28js0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kosgoda_turtle_hatchery_01(js0.jpg",
+    "author": "Jerzy Strzelecki",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-e03e88f700.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-1bf3edb218.webp",
+   "stops": [
+    "Gangaramaya Temple",
+    "Independence Memorial Hall",
+    "Galle Face Green"
+   ],
+   "km": [
+    2.5,
+    4.8
+   ],
+   "photo": {
+    "file": "File:Mercedes-Benz W18 in Gangaramaya temple (Colombo).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Mercedes-Benz_W18_in_Gangaramaya_temple_%28Colombo%29.jpg/1920px-Mercedes-Benz_W18_in_Gangaramaya_temple_%28Colombo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W18_in_Gangaramaya_temple_(Colombo).jpg",
+    "author": "Pierre André Leclercq",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-e36103ff57.webp"
+   }
+  },
+  "9": {
+   "photo": {
+    "author": "ANKAN",
+    "file": "File:Bandaranaike International Airport (2).jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bandaranaike_International_Airport_(2).jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bandaranaike_International_Airport_%282%29.jpg/1920px-Bandaranaike_International_Airport_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-9-58346ad26f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 3,
+ "coords": {
+  "Bandaranaike International Airport": [
+   7.17893,
+   79.88573
+  ],
+  "Sigiriya": [
+   7.94981,
+   80.74635
+  ],
+  "Matale": [
+   7.69821,
+   80.66091
+  ],
+  "Kandy": [
+   7.29312,
+   80.63504
+  ],
+  "Ramboda": [
+   7.05567,
+   80.70043
+  ],
+  "Nuwara Eliya": [
+   7.0124,
+   80.75716
+  ],
+  "Horton Plains": [
+   6.80258,
+   80.80749
+  ],
+  "Ella": [
+   6.87361,
+   81.04899
+  ],
+  "Yala": [
+   6.36396,
+   81.51764
+  ],
+  "Galle": [
+   6.03281,
+   80.21496
+  ],
+  "Bentota": [
+   6.42153,
+   79.99785
+  ],
+  "Colombo": [
+   6.93886,
+   79.8542
+  ],
+  "Temple of the Sacred Tooth Relic": [
+   7.29361,
+   80.64135
+  ],
+  "Kandy Lake": [
+   7.29022,
+   80.64323
+  ],
+  "Ramboda Falls": [
+   7.05575,
+   80.69902
+  ],
+  "Horton Plains National Park": [
+   6.80671,
+   80.80213
+  ],
+  "World's End": [
+   6.77998,
+   80.79406
+  ],
+  "Baker's Falls": [
+   6.79256,
+   80.78962
+  ],
+  "Nanu Oya": [
+   6.94098,
+   80.74421
+  ],
+  "Nine Arch Bridge": [
+   6.87686,
+   81.06065
+  ],
+  "Ravana Falls": [
+   6.84117,
+   81.0551
+  ],
+  "Yala National Park": [
+   6.57097,
+   81.50728
+  ],
+  "Galle Fort": [
+   6.03047,
+   80.21692
+  ],
+  "Madu River": [
+   6.28287,
+   80.05803
+  ],
+  "Bentota Beach": [
+   6.40683,
+   80.00061
+  ],
+  "Gangaramaya Temple": [
+   6.91664,
+   79.85666
+  ],
+  "Independence Memorial Hall": [
+   6.90411,
+   79.86757
+  ],
+  "Galle Face Green": [
+   6.92496,
+   79.84446
+  ]
+ },
+ "overview": {
+  "map": "map-overview-91d934d78b.webp",
+  "stops": [
+   "Bandaranaike International Airport",
+   "Sigiriya",
+   "Matale",
+   "Kandy",
+   "Ramboda",
+   "Nuwara Eliya",
+   "Horton Plains",
+   "Ella",
+   "Yala",
+   "Galle",
+   "Bentota",
+   "Colombo"
+  ]
+ }
+}

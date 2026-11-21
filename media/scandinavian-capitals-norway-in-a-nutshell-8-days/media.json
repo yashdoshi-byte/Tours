@@ -1,0 +1,182 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Helsinki Airport",
+    "Esplanadi",
+    "Market Square Helsinki"
+   ],
+   "photo": {
+    "author": "Ввласенко",
+    "file": "File:Interior of Helsinki Airport Vantaa.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Interior_of_Helsinki_Airport_Vantaa.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Helsinki_Airport_Vantaa.jpg/1920px-Interior_of_Helsinki_Airport_Vantaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-1757f17ac3.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Senate Square",
+    "Sibelius Monument",
+    "Temppeliaukio Church",
+    "Helsinki West Harbour"
+   ],
+   "photo": {
+    "author": "Tyg728",
+    "file": "File:Helsinki Senate Square 20170130.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Helsinki_Senate_Square_20170130.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Helsinki_Senate_Square_20170130.jpg/1920px-Helsinki_Senate_Square_20170130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-2-f938d2e258.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Stockholm archipelago",
+    "Gamla Stan",
+    "Vasa Museum"
+   ],
+   "photo": {
+    "author": "Arild Vågen",
+    "file": "File:SS Stockholm August 2015 01.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:SS_Stockholm_August_2015_01.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/SS_Stockholm_August_2015_01.jpg/1920px-SS_Stockholm_August_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-3-f8c2f98d61.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-d3107d5fbb.webp",
+   "stops": [
+    "Vigeland Park",
+    "Holmenkollen",
+    "Oslo Opera House",
+    "Akershus Fortress"
+   ],
+   "km": [
+    7.4,
+    11.7,
+    4.7
+   ],
+   "photo": {
+    "file": "File:Vigeland Sculpture Park - Granite sculptures on the staircase, Oslo, Norway.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Vigeland_Sculpture_Park_-_Granite_sculptures_on_the_staircase%2C_Oslo%2C_Norway.jpg/1920px-Vigeland_Sculpture_Park_-_Granite_sculptures_on_the_staircase%2C_Oslo%2C_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Vigeland_Sculpture_Park_-_Granite_sculptures_on_the_staircase,_Oslo,_Norway.jpg",
+    "author": "Christian David",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-94a07cded9.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Myrdal",
+    "Kjosfossen",
+    "Flåm"
+   ],
+   "photo": {
+    "file": "File:Oslo central station.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Oslo_central_station.jpg/1920px-Oslo_central_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Oslo_central_station.jpg",
+    "author": "kallerna",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-493fa19a3e.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Aurlandsfjord",
+    "Nærøyfjord",
+    "Voss",
+    "Fløyen"
+   ],
+   "photo": {
+    "file": "File:Flåm - Aurlandsfjord.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Fl%C3%A5m_-_Aurlandsfjord.jpg/1920px-Fl%C3%A5m_-_Aurlandsfjord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Fl%C3%A5m_-_Aurlandsfjord.jpg",
+    "author": "Фалкон",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-13acce4791.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Bryggen",
+    "Bergen Airport",
+    "Nyhavn",
+    "Tivoli Gardens"
+   ],
+   "photo": {
+    "author": "JoachimKohler-HB",
+    "file": "File:Fassaden in Bryggen, Bergen N.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fassaden_in_Bryggen,_Bergen_N.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Fassaden_in_Bryggen%2C_Bergen_N.jpg/1920px-Fassaden_in_Bryggen%2C_Bergen_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-7-d6534f4c16.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Amalienborg",
+    "The Little Mermaid",
+    "Copenhagen Airport"
+   ],
+   "photo": {
+    "file": "File:Amalienborg panorama juli 2013.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Amalienborg_panorama_juli_2013.jpg/1920px-Amalienborg_panorama_juli_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Amalienborg_panorama_juli_2013.jpg",
+    "author": "Janeway666",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-107aea4835.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 29,
+ "coords": {
+  "Oslo": [
+   59.91333,
+   10.73897
+  ],
+  "Oslo Airport": [
+   60.19315,
+   11.09682
+  ],
+  "Vigeland Park": [
+   59.92468,
+   10.70774
+  ],
+  "Holmenkollen": [
+   59.96035,
+   10.66497
+  ],
+  "Oslo Opera House": [
+   59.90752,
+   10.75268
+  ],
+  "Akershus Fortress": [
+   59.9076,
+   10.73721
+  ],
+  "Oslo S": [
+   59.91103,
+   10.75314
+  ]
+ }
+}

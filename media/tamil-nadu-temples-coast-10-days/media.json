@@ -1,0 +1,229 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Chennai International Airport"
+   ],
+   "photo": {
+    "file": "File:Indigo ATR72 VT-IYG Approach Chennai Aug22 A7C 02270.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Indigo_ATR72_VT-IYG_Approach_Chennai_Aug22_A7C_02270.jpg/1920px-Indigo_ATR72_VT-IYG_Approach_Chennai_Aug22_A7C_02270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Indigo_ATR72_VT-IYG_Approach_Chennai_Aug22_A7C_02270.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-01fb8132da.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Shore Temple Mahabalipuram",
+    "Pancha Rathas"
+   ],
+   "photo": {
+    "file": "File:Mamallapuram, Shore Temple, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mamallapuram%2C_Shore_Temple%2C_India.jpg/1920px-Mamallapuram%2C_Shore_Temple%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mamallapuram,_Shore_Temple,_India.jpg",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-37800d3788.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-0f170894f8.webp",
+   "stops": [
+    "Auroville Visitors Centre",
+    "Thanjavur"
+   ],
+   "km": [
+    203.4
+   ],
+   "photo": {
+    "file": "File:... at visitor's centre, Auroville (48918729501).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/..._at_visitor%27s_centre%2C_Auroville_%2848918729501%29.jpg/1920px-..._at_visitor%27s_centre%2C_Auroville_%2848918729501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:..._at_visitor%27s_centre,_Auroville_(48918729501).jpg",
+    "author": "Dinesh Valke from Thane, India",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-63cd9e33be.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Brihadeeswarar Temple",
+    "Airavatesvara Temple Darasuram"
+   ],
+   "photo": {
+    "file": "File:Brihadisvara Temple during Maha Shivaratri-WUS03611 (edit).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/1920px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg",
+    "author": "Original: Rainer Halama Derivative work: UnpetitproleX",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-1c12abddf9.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-3362f0ad2a.webp",
+   "stops": [
+    "Meenakshi Amman Temple",
+    "Pamban Bridge",
+    "Rameswaram"
+   ],
+   "km": [
+    161.8,
+    12.5
+   ],
+   "photo": {
+    "file": "File:Miniature of Meenakshi Amman Temple 1.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Miniature_of_Meenakshi_Amman_Temple_1.jpg/1920px-Miniature_of_Meenakshi_Amman_Temple_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Miniature_of_Meenakshi_Amman_Temple_1.jpg",
+    "author": "IM3847",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-499a43ae26.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-da15e59a0b.webp",
+   "stops": [
+    "Ramanathaswamy Temple",
+    "Dhanushkodi"
+   ],
+   "km": [
+    19.6
+   ],
+   "photo": {
+    "file": "File:Ramanathaswamy temple Entrance.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ramanathaswamy_temple_Entrance.jpg/1920px-Ramanathaswamy_temple_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple_Entrance.jpg",
+    "author": "Wanderlusts",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-1c8aecf543.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Vivekananda Rock Memorial",
+    "Thiruvalluvar Statue",
+    "Kanyakumari Beach"
+   ],
+   "photo": {
+    "file": "File:Rock memorial of Vivekananda.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rock_memorial_of_Vivekananda.jpg/1920px-Rock_memorial_of_Vivekananda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Rock_memorial_of_Vivekananda.jpg",
+    "author": "Shivani",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-fd2d3887ad.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Padmanabhapuram Palace",
+    "Thiruvananthapuram"
+   ],
+   "photo": {
+    "file": "File:Interior Courtyard Padmanabhapuram Palace Mar24 A7C 10143.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Interior_Courtyard_Padmanabhapuram_Palace_Mar24_A7C_10143.jpg/1920px-Interior_Courtyard_Padmanabhapuram_Palace_Mar24_A7C_10143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Interior_Courtyard_Padmanabhapuram_Palace_Mar24_A7C_10143.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-74ff62ae70.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Sree Padmanabhaswamy Temple",
+    "Napier Museum"
+   ],
+   "photo": {
+    "file": "File:Sree Padmanabhaswamy Temple Lakshadeepam.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Sree_Padmanabhaswamy_Temple_Lakshadeepam.jpg/1920px-Sree_Padmanabhaswamy_Temple_Lakshadeepam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sree_Padmanabhaswamy_Temple_Lakshadeepam.jpg",
+    "author": "Arun RJ",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-8f9cce1e8a.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Trivandrum International Airport"
+   ],
+   "photo": {
+    "file": "File:Trivandrum International airport.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Trivandrum_International_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Trivandrum_International_airport.jpg",
+    "author": "Votv007",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-78da139291.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 17,
+ "coords": {
+  "Thanjavur": [
+   10.65904,
+   79.20143
+  ],
+  "Madurai": [
+   9.92612,
+   78.1141
+  ],
+  "Rameswaram": [
+   9.28447,
+   79.31256
+  ],
+  "Promenade Beach Pondicherry": [
+   11.93217,
+   79.83606
+  ],
+  "Auroville Visitors Centre": [
+   12.00383,
+   79.80084
+  ],
+  "Thanjavur Palace": [
+   10.79178,
+   79.13712
+  ],
+  "Meenakshi Amman Temple": [
+   9.91954,
+   78.11883
+  ],
+  "Pamban Bridge": [
+   9.28339,
+   79.20528
+  ],
+  "Ramanathaswamy Temple": [
+   9.2881,
+   79.31738
+  ],
+  "Dhanushkodi": [
+   9.17781,
+   79.41776
+  ]
+ },
+ "overview": {
+  "map": "map-overview-5b4ed249a0.webp",
+  "stops": [
+   "Thanjavur",
+   "Madurai",
+   "Rameswaram"
+  ]
+ }
+}

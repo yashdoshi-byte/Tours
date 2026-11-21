@@ -1,0 +1,264 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "author": "Ranjithsiji",
+    "file": "File:Cochin International Airport Gate.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cochin_International_Airport_Gate.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cochin_International_Airport_Gate.jpg/1920px-Cochin_International_Airport_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-464e9e42f4.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-c1eb3dcb5a.webp",
+   "stops": [
+    "Chinese Fishing Nets Fort Kochi",
+    "Mattancherry Palace",
+    "Paradesi Synagogue"
+   ],
+   "km": [
+    3.0,
+    0.1
+   ],
+   "photo": {
+    "file": "File:Chinese Fishing Nets - 2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Chinese_Fishing_Nets_-_2.jpg/1920px-Chinese_Fishing_Nets_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Nets_-_2.jpg",
+    "author": "Ingo Mehling",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-5e6bcdb142.webp"
+   }
+  },
+  "3": {
+   "photo": {
+    "file": "File:Alappuzha Tourism.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Alappuzha_Tourism.jpg/1920px-Alappuzha_Tourism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alappuzha_Tourism.jpg",
+    "author": "Ganesh Mohan T",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-2949644b2d.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Alappuzha Houseboat Terminal"
+   ]
+  },
+  "5": {
+   "photo": {
+    "file": "File:Alleppey beach.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Alleppey_beach.jpg/1920px-Alleppey_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Alleppey_beach.jpg",
+    "author": "Mohanrangaphotography",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-d42ef1c423.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-237df50714.webp",
+   "stops": [
+    "Cheeyappara Waterfalls",
+    "Munnar"
+   ],
+   "km": [
+    44.3
+   ],
+   "photo": {
+    "author": "Ranjithsiji",
+    "file": "File:Cheeyappara Waterfalls IMG 20260626 183055097.jpg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheeyappara_Waterfalls_IMG_20260626_183055097.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cheeyappara_Waterfalls_IMG_20260626_183055097.jpg/1920px-Cheeyappara_Waterfalls_IMG_20260626_183055097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-6-db80daf0d8.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-a72db1daed.webp",
+   "stops": [
+    "Eravikulam National Park",
+    "Tata Tea Museum",
+    "Mattupetty Dam"
+   ],
+   "km": [
+    21.1,
+    11.7
+   ],
+   "photo": {
+    "author": "Rainer Halama",
+    "file": "File:Eravikulam National Park-WUS07189.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eravikulam_National_Park-WUS07189.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Eravikulam_National_Park-WUS07189.jpg/1920px-Eravikulam_National_Park-WUS07189.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-7-38f621fd40.webp"
+   }
+  },
+  "8": {
+   "photo": {
+    "file": "File:Munnar Top station.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Munnar_Top_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Munnar_Top_station.jpg",
+    "author": "Bimal K C from Cochin, India",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-cf6dca69b4.webp"
+   }
+  },
+  "9": {
+   "photo": {
+    "file": "File:Kumily Banner.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kumily_Banner.jpg/1920px-Kumily_Banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kumily_Banner.jpg",
+    "author": "Rameshng",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-4ea02601df.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Periyar Lake Boat Landing"
+   ]
+  },
+  "11": {
+   "photo": {
+    "file": "File:Kerala backwaters, Vembanad Lake, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kerala_backwaters%2C_Vembanad_Lake%2C_India.jpg/1920px-Kerala_backwaters%2C_Vembanad_Lake%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kerala_backwaters,_Vembanad_Lake,_India.jpg",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-4a5a5f4b15.webp"
+   }
+  },
+  "12": {
+   "photo": {
+    "author": "Ganesh Mohan T",
+    "file": "File:Kumarakom Bird Sanctuary 01.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kumarakom_Bird_Sanctuary_01.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kumarakom_Bird_Sanctuary_01.jpg/1920px-Kumarakom_Bird_Sanctuary_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-12-f2c74b9a82.webp"
+   }
+  },
+  "13": {
+   "photo": {
+    "author": "Ranjithsiji",
+    "file": "File:Cochin International Airport Gate.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cochin_International_Airport_Gate.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cochin_International_Airport_Gate.jpg/1920px-Cochin_International_Airport_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-13-464e9e42f4.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 3,
+ "coords": {
+  "Kochi": [
+   9.9679,
+   76.24444
+  ],
+  "Alleppey": [
+   9.19893,
+   76.4856
+  ],
+  "Munnar": [
+   10.087,
+   77.06009
+  ],
+  "Thekkady": [
+   9.5805,
+   77.18114
+  ],
+  "Kumarakom": [
+   9.59605,
+   76.43054
+  ],
+  "Cochin International Airport": [
+   10.15449,
+   76.39249
+  ],
+  "Chinese Fishing Nets Fort Kochi": [
+   9.96819,
+   76.24217
+  ],
+  "Mattancherry Palace": [
+   9.95835,
+   76.25918
+  ],
+  "Paradesi Synagogue": [
+   9.95748,
+   76.2593
+  ],
+  "Alappuzha": [
+   9.50034,
+   76.41234
+  ],
+  "Alappuzha Beach": [
+   9.48438,
+   76.3195
+  ],
+  "Cheeyappara Waterfalls": [
+   10.05412,
+   76.82987
+  ],
+  "Eravikulam National Park": [
+   10.22751,
+   77.07432
+  ],
+  "Tata Tea Museum": [
+   10.08829,
+   77.05611
+  ],
+  "Mattupetty Dam": [
+   10.1063,
+   77.12391
+  ],
+  "Top Station": [
+   10.12363,
+   77.24583
+  ],
+  "Kumily": [
+   9.6068,
+   77.1671
+  ],
+  "Vembanad Lake": [
+   9.59492,
+   76.39421
+  ],
+  "Kumarakom Bird Sanctuary": [
+   9.62736,
+   76.42859
+  ]
+ },
+ "overview": {
+  "map": "map-overview-596c6aadd3.webp",
+  "stops": [
+   "Kochi",
+   "Alleppey",
+   "Munnar",
+   "Thekkady",
+   "Kumarakom"
+  ]
+ }
+}

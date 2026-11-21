@@ -1,0 +1,444 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Freddie Mercury Statue"
+   ],
+   "photo": {
+    "author": "Schutz",
+    "file": "File:Geneva airport from air.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Geneva_airport_from_air.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Geneva_airport_from_air.jpg/1920px-Geneva_airport_from_air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-d864a5eb15.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-812236123a.webp",
+   "stops": [
+    "Château de Chillon",
+    "Rochers de Naye"
+   ],
+   "km": [
+    18.1
+   ],
+   "photo": {
+    "file": "File:001 Chateau de Chillon and Dents du Midi Photo by Giles Laurent.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg/1920px-001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-8822c052fa.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-a6eeaf69c0.webp",
+   "stops": [
+    "Chaplin's World",
+    "Vevey",
+    "Lavaux",
+    "Cully"
+   ],
+   "km": [
+    3.1,
+    15.2,
+    7.5
+   ],
+   "photo": {
+    "file": "File:Manoir de Ban - Corsier-sur-Vevey 02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Manoir_de_Ban_-_Corsier-sur-Vevey_02.jpg/1920px-Manoir_de_Ban_-_Corsier-sur-Vevey_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Manoir_de_Ban_-_Corsier-sur-Vevey_02.jpg",
+    "author": "Llez",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-e73e77ac23.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-38673199ec.webp",
+   "stops": [
+    "Montreux",
+    "Gstaad",
+    "Interlaken Ost",
+    "Höhematte"
+   ],
+   "km": [
+    58.0,
+    71.6,
+    2.2
+   ],
+   "photo": {
+    "file": "File:Annäherung an Montreux (2014).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ann%C3%A4herung_an_Montreux_%282014%29.jpg/1920px-Ann%C3%A4herung_an_Montreux_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ann%C3%A4herung_an_Montreux_(2014).jpg",
+    "author": "JoachimKohler-HB",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-3247b4d614.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Sphinx Observatory"
+   ],
+   "photo": {
+    "author": "Ank Kumar",
+    "file": "File:Jungfraujoch, Swiss Alps( Ank Kumar , Infosys Limited ) 11.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jungfraujoch,_Swiss_Alps(_Ank_Kumar_,_Infosys_Limited_)_11.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jungfraujoch%2C_Swiss_Alps%28_Ank_Kumar_%2C_Infosys_Limited_%29_11.jpg/1920px-Jungfraujoch%2C_Swiss_Alps%28_Ank_Kumar_%2C_Infosys_Limited_%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-5-d0f74f4910.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-d5eb56e34b.webp",
+   "stops": [
+    "Trümmelbach Falls",
+    "Lauterbrunnen",
+    "Mürren",
+    "Gimmelwald"
+   ],
+   "km": [
+    3.3,
+    7.1,
+    1.8
+   ],
+   "photo": {
+    "file": "File:Trümmelbachfälle BE - Infotafel.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tr%C3%BCmmelbachf%C3%A4lle_BE_-_Infotafel.jpg/1920px-Tr%C3%BCmmelbachf%C3%A4lle_BE_-_Infotafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Tr%C3%BCmmelbachf%C3%A4lle_BE_-_Infotafel.jpg",
+    "author": "PantaRhei",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-17642d6f04.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-2f2e411595.webp",
+   "stops": [
+    "Harder Kulm",
+    "Grindelwald First",
+    "Bachalpsee"
+   ],
+   "km": [
+    21.2,
+    13.2
+   ],
+   "photo": {
+    "file": "File:14 Harder Kulm Lac Thoune Photo by Giles Laurent.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/14_Harder_Kulm_Lac_Thoune_Photo_by_Giles_Laurent.jpg/1920px-14_Harder_Kulm_Lac_Thoune_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:14_Harder_Kulm_Lac_Thoune_Photo_by_Giles_Laurent.jpg",
+    "author": "Giles Laurent",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-cddec2e34b.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Chapel Bridge"
+   ],
+   "photo": {
+    "author": "[Tycho] talk ,",
+    "file": "File:Interlaken Ost.jpg",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Interlaken_Ost.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Interlaken_Ost.jpg/1920px-Interlaken_Ost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-8-47db0c49fc.webp"
+   }
+  },
+  "9": {
+   "map": "map-day-9-20c0ec638b.webp",
+   "stops": [
+    "Alpnachstad",
+    "Pilatus Kulm",
+    "Kriens"
+   ],
+   "km": [
+    15.9,
+    14.4
+   ],
+   "photo": {
+    "file": "File:Pilatusbahn.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pilatusbahn.jpg/1920px-Pilatusbahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pilatusbahn.jpg",
+    "author": "Christian Horcel from Miami, FL, USA",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-77c0678fc5.webp"
+   }
+  },
+  "10": {
+   "map": "map-day-10-f27a029136.webp",
+   "stops": [
+    "Rosengart Collection",
+    "Swiss Museum of Transport"
+   ],
+   "km": [
+    3.3
+   ],
+   "photo": {
+    "file": "File:Paul Cézanne - Milk-Jug and Lemon - Rosengart collection.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Paul_C%C3%A9zanne_-_Milk-Jug_and_Lemon_-_Rosengart_collection.jpg/1920px-Paul_C%C3%A9zanne_-_Milk-Jug_and_Lemon_-_Rosengart_collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_Milk-Jug_and_Lemon_-_Rosengart_collection.jpg",
+    "author": "Paul Cézanne",
+    "licence": "Public domain",
+    "licence_url": "",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-59f6d418d0.webp"
+   }
+  },
+  "11": {
+   "map": "map-day-11-75bc12a268.webp",
+   "stops": [
+    "Vitznau",
+    "Rigi Kulm",
+    "Rigi Kaltbad",
+    "Weggis"
+   ],
+   "km": [
+    22.3,
+    22.2,
+    5.2
+   ],
+   "photo": {
+    "file": "File:00 3691 Vitznau - Switzerland.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/00_3691_Vitznau_-_Switzerland.jpg/1920px-00_3691_Vitznau_-_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:00_3691_Vitznau_-_Switzerland.jpg",
+    "author": "W. Bulach",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-0b8f45eebf.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Zurich HB",
+    "Bahnhofstrasse"
+   ],
+   "photo": {
+    "author": "Dietmar Rabich",
+    "file": "File:Zürich (Schweiz), Bahnhof -- 2011 -- 1386.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_(Schweiz),_Bahnhof_--_2011_--_1386.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Z%C3%BCrich_%28Schweiz%29%2C_Bahnhof_--_2011_--_1386.jpg/1920px-Z%C3%BCrich_%28Schweiz%29%2C_Bahnhof_--_2011_--_1386.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-12-8f5c8d5dd5.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Zurich Airport"
+   ],
+   "photo": {
+    "file": "File:SBB RABe 514 DTZ Rheinfall.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/SBB_RABe_514_DTZ_Rheinfall.jpg/1920px-SBB_RABe_514_DTZ_Rheinfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:SBB_RABe_514_DTZ_Rheinfall.jpg",
+    "author": "Kabelleger / David Gubler",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-13-a2de2bb2de.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 6,
+ "coords": {
+  "Geneva Airport": [
+   46.23771,
+   6.10798
+  ],
+  "Montreux": [
+   46.43108,
+   6.91299
+  ],
+  "Vevey": [
+   46.4603,
+   6.84187
+  ],
+  "Interlaken": [
+   46.68552,
+   7.85851
+  ],
+  "Lauterbrunnen": [
+   46.5939,
+   7.9078
+  ],
+  "Grindelwald": [
+   46.62427,
+   8.03675
+  ],
+  "Lucerne": [
+   47.05214,
+   8.30581
+  ],
+  "Pilatus": [
+   46.97037,
+   8.39841
+  ],
+  "Rigi": [
+   47.05668,
+   8.48526
+  ],
+  "Zurich": [
+   47.37445,
+   8.54104
+  ],
+  "Rhine Falls": [
+   47.67836,
+   8.61487
+  ],
+  "Glion": [
+   46.43344,
+   6.92655
+  ],
+  "Château de Chillon": [
+   46.41274,
+   6.92905
+  ],
+  "Rochers de Naye": [
+   46.43182,
+   6.97605
+  ],
+  "Chaplin's World": [
+   46.47581,
+   6.85217
+  ],
+  "Lavaux": [
+   46.52299,
+   6.75197
+  ],
+  "Cully": [
+   46.48832,
+   6.72968
+  ],
+  "Gstaad": [
+   46.47216,
+   7.28875
+  ],
+  "Interlaken Ost": [
+   46.69045,
+   7.869
+  ],
+  "Höhematte": [
+   46.68601,
+   7.85733
+  ],
+  "Jungfraujoch": [
+   46.54758,
+   7.97897
+  ],
+  "Kleine Scheidegg": [
+   46.58525,
+   7.96131
+  ],
+  "Trümmelbach Falls": [
+   46.57005,
+   7.91303
+  ],
+  "Mürren": [
+   46.55914,
+   7.89288
+  ],
+  "Gimmelwald": [
+   46.54686,
+   7.894
+  ],
+  "Harder Kulm": [
+   46.69968,
+   7.85614
+  ],
+  "Grindelwald First": [
+   46.63583,
+   7.98888
+  ],
+  "Bachalpsee": [
+   46.66958,
+   8.02095
+  ],
+  "Lion Monument": [
+   47.05844,
+   8.31087
+  ],
+  "Glacier Garden": [
+   47.05892,
+   8.31041
+  ],
+  "Alpnachstad": [
+   46.95506,
+   8.27777
+  ],
+  "Pilatus Kulm": [
+   46.97926,
+   8.25564
+  ],
+  "Kriens": [
+   47.03415,
+   8.2808
+  ],
+  "Rosengart Collection": [
+   47.04968,
+   8.30732
+  ],
+  "Swiss Museum of Transport": [
+   47.05275,
+   8.33664
+  ],
+  "Vitznau": [
+   47.00912,
+   8.48466
+  ],
+  "Rigi Kulm": [
+   47.0552,
+   8.48379
+  ],
+  "Rigi Kaltbad": [
+   47.04471,
+   8.46618
+  ],
+  "Weggis": [
+   47.03225,
+   8.43464
+  ],
+  "Grossmünster": [
+   47.37012,
+   8.54391
+  ],
+  "Lindenhof": [
+   47.37292,
+   8.54018
+  ]
+ },
+ "overview": {
+  "map": "map-overview-180739c4f3.webp",
+  "stops": [
+   "Geneva Airport",
+   "Montreux",
+   "Vevey",
+   "Interlaken",
+   "Lauterbrunnen",
+   "Grindelwald",
+   "Lucerne",
+   "Pilatus",
+   "Rigi",
+   "Zurich",
+   "Rhine Falls"
+  ]
+ }
+}

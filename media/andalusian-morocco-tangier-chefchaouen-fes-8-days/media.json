@@ -1,0 +1,224 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Ain Diab Corniche"
+   ],
+   "photo": {
+    "file": "File:Mohammed V International Airport. August 2017.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mohammed_V_International_Airport._August_2017.jpg/1920px-Mohammed_V_International_Airport._August_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_V_International_Airport._August_2017.jpg",
+    "author": "JukoFF",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-70a3016daa.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-51fb361e98.webp",
+   "stops": [
+    "Hassan Tower",
+    "Mausoleum of Mohammed V",
+    "Kasbah of the Udayas",
+    "Chellah"
+   ],
+   "km": [
+    0.8,
+    3.4,
+    5.7
+   ],
+   "photo": {
+    "file": "File:Hassan Tower 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hassan_Tower_01.jpg/1920px-Hassan_Tower_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hassan_Tower_01.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-4d027dcc90.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Caves of Hercules"
+   ],
+   "photo": {
+    "file": "File:Kasbah Museum of Tangier 17092021 007.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kasbah_Museum_of_Tangier_17092021_007.jpg/1920px-Kasbah_Museum_of_Tangier_17092021_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kasbah_Museum_of_Tangier_17092021_007.jpg",
+    "author": "Yamen",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-4b1f3e85cb.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Tetouan Medina",
+    "Spanish Mosque Chefchaouen"
+   ],
+   "photo": {
+    "file": "File:Tetouan, near the Medina and Qasba.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tetouan%2C_near_the_Medina_and_Qasba.jpg/1920px-Tetouan%2C_near_the_Medina_and_Qasba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Tetouan,_near_the_Medina_and_Qasba.jpg",
+    "author": "Ideophagous",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-191c5f2036.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Fes"
+   ],
+   "photo": {
+    "file": "File:Hotel-Ras-El-Maa-Ifrane-CTH.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hotel-Ras-El-Maa-Ifrane-CTH.JPG/1920px-Hotel-Ras-El-Maa-Ifrane-CTH.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hotel-Ras-El-Maa-Ifrane-CTH.JPG",
+    "author": "CTHOE",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-cba4d4561f.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Al Quaraouiyine",
+    "Mellah of Fes"
+   ],
+   "photo": {
+    "file": "File:Al Quaraouiyine,Fèz.Morroco.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Al_Quaraouiyine%2CF%C3%A8z.Morroco.jpg/1920px-Al_Quaraouiyine%2CF%C3%A8z.Morroco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_Quaraouiyine,F%C3%A8z.Morroco.jpg",
+    "author": "Younesberrada",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-84be1b644a.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-f479efd0d4.webp",
+   "stops": [
+    "Hassan II Mosque",
+    "Mohammed V Square"
+   ],
+   "km": [
+    344.1
+   ],
+   "photo": {
+    "file": "File:Sunshine on mosque Hassan II in Casablanca, Morocco - Flickr - Milamber's portfolio.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg/1920px-Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunshine_on_mosque_Hassan_II_in_Casablanca,_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg",
+    "author": "Milamber's portfolio",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-25d3cab01d.webp"
+   }
+  },
+  "8": {
+   "photo": {
+    "file": "File:Mohammed V International Airport. August 2017.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mohammed_V_International_Airport._August_2017.jpg/1920px-Mohammed_V_International_Airport._August_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_V_International_Airport._August_2017.jpg",
+    "author": "JukoFF",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-70a3016daa.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 7,
+ "coords": {
+  "Casablanca": [
+   33.59451,
+   -7.62003
+  ],
+  "Rabat": [
+   34.02185,
+   -6.84089
+  ],
+  "Tangier": [
+   35.76949,
+   -5.80447
+  ],
+  "Cap Spartel": [
+   35.79104,
+   -5.92368
+  ],
+  "Tetouan": [
+   35.20294,
+   -5.55102
+  ],
+  "Chefchaouen": [
+   35.16877,
+   -5.26835
+  ],
+  "Mohammed V International Airport": [
+   33.36928,
+   -7.58701
+  ],
+  "Hassan Tower": [
+   34.02415,
+   -6.8228
+  ],
+  "Mausoleum of Mohammed V": [
+   34.02266,
+   -6.82142
+  ],
+  "Kasbah of the Udayas": [
+   34.03166,
+   -6.83585
+  ],
+  "Chellah": [
+   34.00637,
+   -6.82078
+  ],
+  "Tangier Kasbah": [
+   35.78875,
+   -5.81343
+  ],
+  "Ras El Maa": [
+   35.16637,
+   -5.29022
+  ],
+  "Madrasa Al-Attarine": [
+   34.06513,
+   -4.97356
+  ],
+  "Chouara Tannery": [
+   34.06592,
+   -4.97099
+  ],
+  "Royal Palace Fes": [
+   34.0305,
+   -5.02032
+  ],
+  "Hassan II Mosque": [
+   33.60822,
+   -7.63247
+  ],
+  "Mohammed V Square": [
+   35.16877,
+   -5.26835
+  ]
+ },
+ "overview": {
+  "map": "map-overview-b1f76fdff5.webp",
+  "stops": [
+   "Casablanca",
+   "Rabat",
+   "Tangier",
+   "Cap Spartel",
+   "Tetouan",
+   "Chefchaouen"
+  ]
+ }
+}

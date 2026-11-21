@@ -1,0 +1,249 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Stephen Avenue"
+   ],
+   "photo": {
+    "file": "File:YYC airport + runways.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/YYC_airport_%2B_runways.jpg/1280px-YYC_airport_%2B_runways.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:YYC_airport_%2B_runways.jpg",
+    "author": "Thomas Woodtli",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-eaa0690a3c.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Hoodoos Banff"
+   ],
+   "photo": {
+    "file": "File:Bighorn Sheep - Kananaskis.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bighorn_Sheep_-_Kananaskis.jpg/1920px-Bighorn_Sheep_-_Kananaskis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bighorn_Sheep_-_Kananaskis.jpg",
+    "author": "Jakub Fryš",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-c0a55ac3f7.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Spiral Tunnels"
+   ],
+   "photo": {
+    "file": "File:Spiral Tunnels 1908 Kodak.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Spiral_Tunnels_1908_Kodak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Spiral_Tunnels_1908_Kodak.jpg",
+    "author": "Unknown photographer",
+    "licence": "Public domain",
+    "licence_url": "",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-83f9ccbd7c.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-2f80a1625e.webp",
+   "stops": [
+    "Bow Lake",
+    "Peyto Lake",
+    "Columbia Icefield",
+    "Athabasca Falls"
+   ],
+   "km": [
+    8.1,
+    89.4,
+    76.4
+   ],
+   "photo": {
+    "file": "File:Bow Lake beim Icefields Parkway.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bow_Lake_beim_Icefields_Parkway.jpg/1920px-Bow_Lake_beim_Icefields_Parkway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bow_Lake_beim_Icefields_Parkway.jpg",
+    "author": "Florian Fuchs",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-3ec0c29cdf.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-93e318a7b3.webp",
+   "stops": [
+    "Maligne Canyon",
+    "Medicine Lake",
+    "Jasper SkyTram"
+   ],
+   "km": [
+    22.1,
+    42.0
+   ],
+   "photo": {
+    "file": "File:Maligne Canyon (28368346158).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Maligne_Canyon_%2828368346158%29.jpg/1920px-Maligne_Canyon_%2828368346158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Maligne_Canyon_(28368346158).jpg",
+    "author": "Mack Male from Edmonton, AB, Canada",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-e01b963ea7.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Mount Robson",
+    "Kamloops"
+   ],
+   "photo": {
+    "file": "File:Jasper railway station building 2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jasper_railway_station_building_2.jpg/1920px-Jasper_railway_station_building_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Jasper_railway_station_building_2.jpg",
+    "author": "Ymblanter",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-7ca9a3b89b.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Kamloops",
+    "Hell's Gate",
+    "Vancouver"
+   ],
+   "photo": {
+    "file": "File:Kamloops Subdivision with name.png",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kamloops_Subdivision_with_name.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Kamloops_Subdivision_with_name.png",
+    "author": "Kiyoteru Awaji",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-fe2751a7ea.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Stanley Park",
+    "Granville Island",
+    "Vancouver International Airport"
+   ],
+   "photo": {
+    "file": "File:Terrace in Stanley Park, Liverpool 7.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Terrace_in_Stanley_Park%2C_Liverpool_7.jpg/1920px-Terrace_in_Stanley_Park%2C_Liverpool_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Terrace_in_Stanley_Park,_Liverpool_7.jpg",
+    "author": "Rodhullandemu",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-888898f17a.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 10,
+ "coords": {
+  "Calgary": [
+   51.04561,
+   -114.05754
+  ],
+  "Kananaskis": [
+   50.70101,
+   -114.85375
+  ],
+  "Banff": [
+   51.17508,
+   -115.57208
+  ],
+  "Yoho National Park": [
+   51.37478,
+   -116.53585
+  ],
+  "Lake Louise": [
+   51.42497,
+   -116.17754
+  ],
+  "Columbia Icefield": [
+   52.16089,
+   -117.30867
+  ],
+  "Jasper": [
+   52.87523,
+   -118.08243
+  ],
+  "Calgary International Airport": [
+   51.12226,
+   -114.01354
+  ],
+  "Calgary Tower": [
+   51.0443,
+   -114.06313
+  ],
+  "Bow Falls": [
+   51.16741,
+   -115.5609
+  ],
+  "Lake Minnewanka": [
+   51.25622,
+   -115.46093
+  ],
+  "Banff Gondola": [
+   51.14617,
+   -115.56532
+  ],
+  "Natural Bridge": [
+   51.38181,
+   -116.53024
+  ],
+  "Emerald Lake": [
+   51.44375,
+   -116.53166
+  ],
+  "Bow Lake": [
+   51.66455,
+   -116.44942
+  ],
+  "Peyto Lake": [
+   51.72519,
+   -116.5223
+  ],
+  "Athabasca Falls": [
+   52.66442,
+   -117.88352
+  ],
+  "Maligne Canyon": [
+   52.91978,
+   -118.01016
+  ],
+  "Medicine Lake": [
+   52.85869,
+   -117.76381
+  ],
+  "Jasper SkyTram": [
+   52.84361,
+   -118.12508
+  ],
+  "Jasper railway station": [
+   52.87618,
+   -118.07962
+  ],
+  "Pyramid Falls": [
+   52.35591,
+   -119.16611
+  ]
+ },
+ "overview": {
+  "map": "map-overview-98bba2114d.webp",
+  "stops": [
+   "Calgary",
+   "Kananaskis",
+   "Banff",
+   "Yoho National Park",
+   "Lake Louise",
+   "Columbia Icefield",
+   "Jasper"
+  ]
+ }
+}

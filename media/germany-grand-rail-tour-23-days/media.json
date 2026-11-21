@@ -1,0 +1,553 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Munich Airport",
+    "Marienplatz",
+    "Odeonsplatz"
+   ],
+   "photo": {
+    "author": "Julian Herzog (Website)",
+    "file": "File:Munich airport winter panorama 2015.jpg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Munich_airport_winter_panorama_2015.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Munich_airport_winter_panorama_2015.jpg/1920px-Munich_airport_winter_panorama_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-1-4e74d1d4db.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Marienplatz",
+    "Viktualienmarkt",
+    "Munich Residenz"
+   ],
+   "photo": {
+    "file": "File:München Marienplatz station.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%BCnchen_Marienplatz_station.jpg/1920px-M%C3%BCnchen_Marienplatz_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnchen_Marienplatz_station.jpg",
+    "author": "derek skey",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-7ec15afbe2.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Linderhof Palace",
+    "Oberammergau",
+    "Neuschwanstein Castle"
+   ],
+   "photo": {
+    "file": "File:Linderhof Palace 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Linderhof_Palace_01.jpg/1920px-Linderhof_Palace_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Linderhof_Palace_01.jpg",
+    "author": "Llez",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-da2e406153.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "München Hauptbahnhof"
+   ],
+   "photo": {
+    "file": "File:DB ICE 1 München Hauptbahnhof 2015 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/DB_ICE_1_M%C3%BCnchen_Hauptbahnhof_2015_01.jpg/1920px-DB_ICE_1_M%C3%BCnchen_Hauptbahnhof_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:DB_ICE_1_M%C3%BCnchen_Hauptbahnhof_2015_01.jpg",
+    "author": "Julian Herzog (Website)",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-b3d218fc9f.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Nikolaikirche"
+   ],
+   "photo": {
+    "file": "File:St. Thomas church on a winter morning.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/St._Thomas_church_on_a_winter_morning.jpg/1920px-St._Thomas_church_on_a_winter_morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:St._Thomas_church_on_a_winter_morning.jpg",
+    "author": "Dreamy Pixel",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-f9ed58444b.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Dresden Hauptbahnhof",
+    "Frauenkirche Dresden",
+    "Brühlsche Terrasse"
+   ],
+   "photo": {
+    "file": "File:Hauptbahnhof, Dresden (LRM 20240801 114219).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Hauptbahnhof%2C_Dresden_%28LRM_20240801_114219%29.jpg/1920px-Hauptbahnhof%2C_Dresden_%28LRM_20240801_114219%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hauptbahnhof,_Dresden_(LRM_20240801_114219).jpg",
+    "author": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-a404c73535.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Zwinger",
+    "Semperoper"
+   ],
+   "photo": {
+    "file": "File:Münster, Zwinger -- 2017 -- 1872-8.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/M%C3%BCnster%2C_Zwinger_--_2017_--_1872-8.jpg/1920px-M%C3%BCnster%2C_Zwinger_--_2017_--_1872-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Zwinger_--_2017_--_1872-8.jpg",
+    "author": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-375c65597c.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Berlin Hauptbahnhof",
+    "Brandenburger Tor",
+    "Checkpoint Charlie",
+    "Friedrichstadt-Palast"
+   ],
+   "photo": {
+    "file": "File:Berlin Hauptbahnhof Ostseite HDR.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Berlin_Hauptbahnhof_Ostseite_HDR.jpg/1920px-Berlin_Hauptbahnhof_Ostseite_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Berlin_Hauptbahnhof_Ostseite_HDR.jpg",
+    "author": "Ansgar Koreng",
+    "licence": "CC BY 3.0 de",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-7b9099372f.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Sanssouci Palace",
+    "Glienicke Bridge"
+   ],
+   "photo": {
+    "file": "File:20220810 Schloss Sanssouci 10.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/20220810_Schloss_Sanssouci_10.jpg/1920px-20220810_Schloss_Sanssouci_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:20220810_Schloss_Sanssouci_10.jpg",
+    "author": "Flocci Nivis",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-b5fe4ec164.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Hamburg Hauptbahnhof",
+    "Speicherstadt",
+    "Elbphilharmonie"
+   ],
+   "photo": {
+    "file": "File:Hauptbahnhof, Hamburg (LRM 20191130 154653).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Hauptbahnhof%2C_Hamburg_%28LRM_20191130_154653%29.jpg/1920px-Hauptbahnhof%2C_Hamburg_%28LRM_20191130_154653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg",
+    "author": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-16d8f42ead.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Hamburg Rathaus",
+    "Binnenalster",
+    "Miniatur Wunderland"
+   ],
+   "photo": {
+    "file": "File:Reflection of St. Michaelis Church, Hamburg, Deutschland IMG 4822 edit.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Reflection_of_St._Michaelis_Church%2C_Hamburg%2C_Deutschland_IMG_4822_edit.jpg/1920px-Reflection_of_St._Michaelis_Church%2C_Hamburg%2C_Deutschland_IMG_4822_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Reflection_of_St._Michaelis_Church,_Hamburg,_Deutschland_IMG_4822_edit.jpg",
+    "author": "Christoph Braun",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-862c5430d8.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Neues Rathaus Hannover",
+    "Maschsee"
+   ],
+   "photo": {
+    "file": "File:Hannover, der Hauptbahnhof Dm IMG 4576 2018-07-01 17.37.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover%2C_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg/1920px-Hannover%2C_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg",
+    "author": "Michielverbeek",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-e578f21329.webp"
+   }
+  },
+  "13": {
+   "map": "map-day-13-3e5645dfa7.webp",
+   "stops": [
+    "Herrenhäuser Gärten",
+    "Erlebnis-Zoo Hannover"
+   ],
+   "km": [
+    7.0
+   ],
+   "photo": {
+    "file": "File:Aerial image of the Herrenhausen Gardens.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1920px-Aerial_image_of_the_Herrenhausen_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Herrenhausen_Gardens.jpg",
+    "author": "Carsten Steger",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-13-4c1ed106da.webp"
+   }
+  },
+  "14": {
+   "unverified": [
+    "Kölner Dom"
+   ],
+   "photo": {
+    "file": "File:2024-04-15-Köln-Hauptbahnhof-3956167A3956.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2024-04-15-K%C3%B6ln-Hauptbahnhof-3956167A3956.jpg/1920px-2024-04-15-K%C3%B6ln-Hauptbahnhof-3956167A3956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:2024-04-15-K%C3%B6ln-Hauptbahnhof-3956167A3956.jpg",
+    "author": "Superbass",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-14-802e7b2fec.webp"
+   }
+  },
+  "15": {
+   "unverified": [
+    "Schokoladenmuseum Köln"
+   ],
+   "photo": {
+    "file": "File:Pano-bayer-leverkusen.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Pano-bayer-leverkusen.jpg/1920px-Pano-bayer-leverkusen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pano-bayer-leverkusen.jpg",
+    "author": "A.Savin",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-15-2466220cc9.webp"
+   }
+  },
+  "16": {
+   "map": "map-day-16-b644f8cf07.webp",
+   "stops": [
+    "Frankfurt Hauptbahnhof",
+    "Römerberg",
+    "Goethe-Haus",
+    "Main Tower"
+   ],
+   "km": [
+    106.1,
+    393.7,
+    323.6
+   ],
+   "photo": {
+    "file": "File:Hauptbahnhof Frankfurt.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hauptbahnhof_Frankfurt.jpg/1920px-Hauptbahnhof_Frankfurt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hauptbahnhof_Frankfurt.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-16-a2667c7d5c.webp"
+   }
+  },
+  "17": {
+   "map": "map-day-17-53e677b228.webp",
+   "stops": [
+    "Rüdesheim am Rhein",
+    "Loreley",
+    "St. Goar"
+   ],
+   "km": [
+    46.1,
+    7.7
+   ],
+   "photo": {
+    "file": "File:Panoramic View of Rüdesheim am Rhein 20140928 1.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Panoramic_View_of_R%C3%BCdesheim_am_Rhein_20140928_1.jpg/1920px-Panoramic_View_of_R%C3%BCdesheim_am_Rhein_20140928_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_View_of_R%C3%BCdesheim_am_Rhein_20140928_1.jpg",
+    "author": "DXR",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-17-8e8c59d2b3.webp"
+   }
+  },
+  "18": {
+   "unverified": [
+    "Heidelberger Schloss"
+   ],
+   "photo": {
+    "file": "File:Heidelberg HBF.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Heidelberg_HBF.jpg/1920px-Heidelberg_HBF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Heidelberg_HBF.jpg",
+    "author": "Griffon hd",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-18-c8c574cbff.webp"
+   }
+  },
+  "19": {
+   "unverified": [
+    "Baden-Baden",
+    "Caracalla Therme",
+    "Mummelsee"
+   ],
+   "photo": {
+    "file": "File:Baden Königshöhle 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Baden_K%C3%B6nigsh%C3%B6hle_01.jpg/1920px-Baden_K%C3%B6nigsh%C3%B6hle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Baden_K%C3%B6nigsh%C3%B6hle_01.jpg",
+    "author": "Uoaei1",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-19-7238df3d60.webp"
+   }
+  },
+  "20": {
+   "unverified": [
+    "Schlossplatz"
+   ],
+   "photo": {
+    "file": "File:Abellio-, DB- & GoAhead in Stuttgart Hbf. (2022).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Abellio-%2C_DB-_%26_GoAhead_in_Stuttgart_Hbf._%282022%29.jpg/1920px-Abellio-%2C_DB-_%26_GoAhead_in_Stuttgart_Hbf._%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Abellio-,_DB-_%26_GoAhead_in_Stuttgart_Hbf._(2022).jpg",
+    "author": "JoachimKohler-HB",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-20-0ee271fc92.webp"
+   }
+  },
+  "21": {
+   "map": "map-day-21-109fadae2b.webp",
+   "stops": [
+    "Residenzschloss Ludwigsburg",
+    "Wilhelma"
+   ],
+   "km": [
+    14.8
+   ],
+   "photo": {
+    "file": "File:Ludwigsburg Palace 05.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ludwigsburg_Palace_05.jpg/1920px-Ludwigsburg_Palace_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ludwigsburg_Palace_05.jpg",
+    "author": "Llez",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-21-6f1abc0b97.webp"
+   }
+  },
+  "22": {
+   "map": "map-day-22-a62b1e7b1a.webp",
+   "stops": [
+    "Mercedes-Benz Museum",
+    "Porsche Museum"
+   ],
+   "km": [
+    9.1
+   ],
+   "photo": {
+    "file": "File:Mercedes-Benz Museum 201312 08 blue hour.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Mercedes-Benz_Museum_201312_08_blue_hour.jpg/1920px-Mercedes-Benz_Museum_201312_08_blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Museum_201312_08_blue_hour.jpg",
+    "author": "Julian Herzog (Website)",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-22-8c65defe57.webp"
+   }
+  },
+  "23": {
+   "photo": {
+    "file": "File:A5 with Frankfurt airport on the horizon - Autobahn A5 mit Flughafen Frankfurt am Horizont - 02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/A5_with_Frankfurt_airport_on_the_horizon_-_Autobahn_A5_mit_Flughafen_Frankfurt_am_Horizont_-_02.jpg/1920px-A5_with_Frankfurt_airport_on_the_horizon_-_Autobahn_A5_mit_Flughafen_Frankfurt_am_Horizont_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:A5_with_Frankfurt_airport_on_the_horizon_-_Autobahn_A5_mit_Flughafen_Frankfurt_am_Horizont_-_02.jpg",
+    "author": "Norbert Nagel",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-23-dafa11f73f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 42,
+ "coords": {
+  "Leipzig": [
+   51.34063,
+   12.37473
+  ],
+  "Cologne": [
+   50.93836,
+   6.95997
+  ],
+  "Frankfurt": [
+   50.11064,
+   8.68209
+  ],
+  "Rüdesheim": [
+   49.84579,
+   7.81533
+  ],
+  "Heidelberg": [
+   49.40936,
+   8.69472
+  ],
+  "Stuttgart": [
+   48.77845,
+   9.18001
+  ],
+  "Frankfurt Airport": [
+   50.02441,
+   8.5552
+  ],
+  "Englischer Garten": [
+   50.57324,
+   10.41833
+  ],
+  "Leipzig Hauptbahnhof": [
+   51.34655,
+   12.38309
+  ],
+  "Mädler-Passage": [
+   51.33937,
+   12.37545
+  ],
+  "Thomaskirche": [
+   49.57671,
+   11.02439
+  ],
+  "Bach-Museum Leipzig": [
+   51.33879,
+   12.37233
+  ],
+  "Grünes Gewölbe": [
+   51.87915,
+   12.66235
+  ],
+  "Neues Museum": [
+   49.44768,
+   11.07993
+  ],
+  "St. Michaelis": [
+   52.26058,
+   10.51491
+  ],
+  "Hannover Hauptbahnhof": [
+   52.37651,
+   9.74103
+  ],
+  "Herrenhäuser Gärten": [
+   52.39109,
+   9.69588
+  ],
+  "Erlebnis-Zoo Hannover": [
+   52.38107,
+   9.77074
+  ],
+  "Köln Hauptbahnhof": [
+   50.94278,
+   6.95907
+  ],
+  "Altstadt Köln": [
+   50.94226,
+   6.95319
+  ],
+  "Rhine": [
+   50.46776,
+   7.35199
+  ],
+  "Frankfurt Hauptbahnhof": [
+   50.10665,
+   8.66258
+  ],
+  "Römerberg": [
+   49.28034,
+   8.40079
+  ],
+  "Goethe-Haus": [
+   51.76176,
+   10.66464
+  ],
+  "Main Tower": [
+   50.11254,
+   8.6722
+  ],
+  "Rüdesheim am Rhein": [
+   50.0293,
+   7.8902
+  ],
+  "Loreley": [
+   50.17966,
+   7.7139
+  ],
+  "St. Goar": [
+   50.15,
+   7.71667
+  ],
+  "Heidelberg Hauptbahnhof": [
+   49.40347,
+   8.67542
+  ],
+  "Alte Brücke": [
+   50.10864,
+   8.68773
+  ],
+  "Stuttgart Hauptbahnhof": [
+   48.78342,
+   9.18039
+  ],
+  "Residenzschloss Ludwigsburg": [
+   48.90016,
+   9.19655
+  ],
+  "Wilhelma": [
+   48.80585,
+   9.20467
+  ],
+  "Mercedes-Benz Museum": [
+   48.7882,
+   9.23399
+  ],
+  "Porsche Museum": [
+   48.8343,
+   9.15245
+  ]
+ },
+ "overview": {
+  "map": "map-overview-87359cbc13.webp",
+  "stops": [
+   "Leipzig",
+   "Cologne",
+   "Frankfurt",
+   "Rüdesheim",
+   "Heidelberg",
+   "Stuttgart",
+   "Frankfurt Airport"
+  ]
+ }
+}

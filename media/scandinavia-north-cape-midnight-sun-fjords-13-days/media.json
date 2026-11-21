@@ -1,0 +1,260 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Helsinki Airport",
+    "Esplanadi",
+    "Market Square Helsinki"
+   ],
+   "photo": {
+    "file": "File:Interior of Helsinki Airport Vantaa.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Interior_of_Helsinki_Airport_Vantaa.jpg/1920px-Interior_of_Helsinki_Airport_Vantaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Interior_of_Helsinki_Airport_Vantaa.jpg",
+    "author": "Ввласенко",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-1757f17ac3.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Senate Square",
+    "Sibelius Monument",
+    "Temppeliaukio Church",
+    "Helsinki West Harbour"
+   ],
+   "photo": {
+    "file": "File:Helsinki Senate Square 20170130.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Helsinki_Senate_Square_20170130.jpg/1920px-Helsinki_Senate_Square_20170130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Helsinki_Senate_Square_20170130.jpg",
+    "author": "Tyg728",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-f938d2e258.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-953ee99319.webp",
+   "stops": [
+    "Stockholm archipelago",
+    "Stockholm City Hall",
+    "Gamla Stan",
+    "Vasa Museum"
+   ],
+   "km": [
+    53.2,
+    2.7,
+    3.4
+   ],
+   "photo": {
+    "file": "File:SS Stockholm August 2015 01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/SS_Stockholm_August_2015_01.jpg/1920px-SS_Stockholm_August_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:SS_Stockholm_August_2015_01.jpg",
+    "author": "Arild Vågen",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-f8c2f98d61.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Oslo S",
+    "Oslo Opera House"
+   ],
+   "photo": {
+    "file": "File:Stockholm Central Station September 2013.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Stockholm_Central_Station_September_2013.jpg/1920px-Stockholm_Central_Station_September_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stockholm_Central_Station_September_2013.jpg",
+    "author": "Arild Vågen",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-ffedf32200.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Oslo Airport",
+    "Alta Airport",
+    "Hammerfest"
+   ],
+   "photo": {
+    "file": "File:Oslo Airport terminal night view.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Oslo_Airport_terminal_night_view.jpg/1920px-Oslo_Airport_terminal_night_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Oslo_Airport_terminal_night_view.jpg",
+    "author": "Avinor Oslo lufthavn/Espen Solli",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-2a002e3e29.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Hammerfest",
+    "Honningsvåg",
+    "North Cape"
+   ],
+   "photo": {
+    "file": "File:0922 NOR Hammerfest Fugneles Quay from N V-P.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/0922_NOR_Hammerfest_Fugneles_Quay_from_N_V-P.jpg/1920px-0922_NOR_Hammerfest_Fugneles_Quay_from_N_V-P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:0922_NOR_Hammerfest_Fugneles_Quay_from_N_V-P.jpg",
+    "author": "Virtual-Pano",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-a6d7e62adb.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Honningsvåg",
+    "Alta",
+    "Northern Lights Cathedral"
+   ],
+   "photo": {
+    "file": "File:0521 Approach to the harbour - Honningsvag, Norway - V-P.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/0521_Approach_to_the_harbour_-_Honningsvag%2C_Norway_-_V-P.jpg/1920px-0521_Approach_to_the_harbour_-_Honningsvag%2C_Norway_-_V-P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:0521_Approach_to_the_harbour_-_Honningsvag,_Norway_-_V-P.jpg",
+    "author": "Virtual-Pano",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-707fb9bec7.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Alta Museum",
+    "Alta Airport",
+    "Oslo"
+   ],
+   "photo": {
+    "file": "File:Alta Museum.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alta_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Alta_Museum.jpg",
+    "author": "Hans Olav Lien",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-6d1577dd67.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Myrdal",
+    "Flåm",
+    "Nærøyfjord",
+    "Bergen"
+   ],
+   "photo": {
+    "file": "File:Myrdal med Myrdal stasjon.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Myrdal_med_Myrdal_stasjon.jpg/1920px-Myrdal_med_Myrdal_stasjon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Myrdal_med_Myrdal_stasjon.jpg",
+    "author": "Jenni Douglas",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-58dc621460.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Bryggen",
+    "Fløyen",
+    "Troldhaugen"
+   ],
+   "photo": {
+    "file": "File:Fassaden in Bryggen, Bergen N.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Fassaden_in_Bryggen%2C_Bergen_N.jpg/1920px-Fassaden_in_Bryggen%2C_Bergen_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Fassaden_in_Bryggen,_Bergen_N.jpg",
+    "author": "JoachimKohler-HB",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-d6534f4c16.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Bergen Airport",
+    "Copenhagen Airport",
+    "Strøget"
+   ],
+   "photo": {
+    "file": "File:New Bergen Airport Flesland with old terminal in the background.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/New_Bergen_Airport_Flesland_with_old_terminal_in_the_background.jpg/1920px-New_Bergen_Airport_Flesland_with_old_terminal_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Bergen_Airport_Flesland_with_old_terminal_in_the_background.jpg",
+    "author": "Varde / Avinor",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-b62060816a.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Nyhavn",
+    "Amalienborg",
+    "The Little Mermaid",
+    "Tivoli Gardens"
+   ],
+   "photo": {
+    "file": "File:Kopenhagen (DK), Nyhavn -- 2017 -- 1711.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Kopenhagen_%28DK%29%2C_Nyhavn_--_2017_--_1711.jpg/1920px-Kopenhagen_%28DK%29%2C_Nyhavn_--_2017_--_1711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kopenhagen_(DK),_Nyhavn_--_2017_--_1711.jpg",
+    "author": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-a02f60a709.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Copenhagen Airport"
+   ],
+   "photo": {
+    "file": "File:Copenhagen airport from air.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Copenhagen_airport_from_air.jpg/1920px-Copenhagen_airport_from_air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Copenhagen_airport_from_air.jpg",
+    "author": "kallerna",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-13-fd69fe86c7.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 34,
+ "coords": {
+  "Stockholm": [
+   59.32512,
+   18.07109
+  ],
+  "Stockholm archipelago": [
+   59.34091,
+   18.79846
+  ],
+  "Stockholm City Hall": [
+   59.32749,
+   18.05421
+  ],
+  "Gamla Stan": [
+   59.3233,
+   18.067
+  ],
+  "Vasa Museum": [
+   59.32815,
+   18.09137
+  ],
+  "Stockholm Central": [
+   59.32987,
+   18.0575
+  ]
+ }
+}

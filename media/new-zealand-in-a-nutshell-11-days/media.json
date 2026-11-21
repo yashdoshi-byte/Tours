@@ -1,0 +1,328 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Auckland Airport",
+    "Viaduct Harbour",
+    "Sky Tower"
+   ],
+   "photo": {
+    "file": "File:Fire Rescue Vehicles from Airport Emergency Services @ Auckland International Airport - Flickr - 111 Emergency (2).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fire_Rescue_Vehicles_from_Airport_Emergency_Services_%40_Auckland_International_Airport_-_Flickr_-_111_Emergency_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Fire_Rescue_Vehicles_from_Airport_Emergency_Services_@_Auckland_International_Airport_-_Flickr_-_111_Emergency_(2).jpg",
+    "author": "111 Emergency from New Zealand",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-d5eca7fd5f.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Waitomo Glowworm Caves",
+    "Ruakuri Cave",
+    "Rotorua"
+   ],
+   "photo": {
+    "file": "File:NZL-waitomo-cave-exit.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NZL-waitomo-cave-exit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:NZL-waitomo-cave-exit.jpg",
+    "author": "Bgabel",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-e297d92659.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Agrodome",
+    "Te Puia",
+    "Rainbow Springs",
+    "Mitai Maori Village"
+   ],
+   "photo": {
+    "file": "File:Agrodome, Rotorua (482726).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Agrodome%2C_Rotorua_%28482726%29.jpg/1920px-Agrodome%2C_Rotorua_%28482726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Agrodome,_Rotorua_(482726).jpg",
+    "author": "Robert Linsdell",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-19c8b9d9ff.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Rotorua Airport"
+   ],
+   "photo": {
+    "file": "File:De Havilland Canada DHC-8-300 (ANZ) Rotorua.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/De_Havilland_Canada_DHC-8-300_%28ANZ%29_Rotorua.jpg/1920px-De_Havilland_Canada_DHC-8-300_%28ANZ%29_Rotorua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:De_Havilland_Canada_DHC-8-300_(ANZ)_Rotorua.jpg",
+    "author": "Air55",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-34465d032c.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-6e59e11af5.webp",
+   "stops": [
+    "Arthur's Pass",
+    "Hokitika",
+    "Franz Josef Glacier",
+    "Sentinel Rock"
+   ],
+   "km": [
+    125.4,
+    165.7,
+    0.0
+   ],
+   "photo": {
+    "file": "File:Otira River in Arthur's Pass National Park, New Zealand.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Otira_River_in_Arthur%27s_Pass_National_Park%2C_New_Zealand.jpg/1920px-Otira_River_in_Arthur%27s_Pass_National_Park%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Otira_River_in_Arthur%27s_Pass_National_Park,_New_Zealand.jpg",
+    "author": "Michal Klajban",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-9aa99f4309.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-81c237aaa2.webp",
+   "stops": [
+    "Lake Matheson",
+    "Fox Glacier",
+    "Haast Pass",
+    "Lake Wanaka",
+    "Queenstown"
+   ],
+   "km": [
+    11.8,
+    212.7,
+    86.4,
+    105.6
+   ],
+   "photo": {
+    "file": "File:A photo taken while on the Lake Matheson Walk 2021-04-28 16.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A_photo_taken_while_on_the_Lake_Matheson_Walk_2021-04-28_16.jpg/1920px-A_photo_taken_while_on_the_Lake_Matheson_Walk_2021-04-28_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:A_photo_taken_while_on_the_Lake_Matheson_Walk_2021-04-28_16.jpg",
+    "author": "Thomas Booker (CoderThomasB)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-d65679f29c.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Lake Manapouri",
+    "Wilmot Pass",
+    "Doubtful Sound"
+   ],
+   "photo": {
+    "file": "File:Lake Manapouri and the Monument.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lake_Manapouri_and_the_Monument.JPG/1920px-Lake_Manapouri_and_the_Monument.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lake_Manapouri_and_the_Monument.JPG",
+    "author": "Kasper moreaux",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-edd461550f.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-831be0b3c1.webp",
+   "stops": [
+    "Skyline Queenstown",
+    "Shotover Jet",
+    "Kawarau Gorge Suspension Bridge"
+   ],
+   "km": [
+    5.9,
+    23.6
+   ],
+   "photo": {
+    "file": "File:Skyline Queenstown New Zealand - panoramio.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Skyline_Queenstown_New_Zealand_-_panoramio.jpg/1920px-Skyline_Queenstown_New_Zealand_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Skyline_Queenstown_New_Zealand_-_panoramio.jpg",
+    "author": "BigBackpack",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-11c7ae6652.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Hooker Valley Track"
+   ],
+   "photo": {
+    "file": "File:Hills in Lindis Pass, New Zealand.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hills_in_Lindis_Pass%2C_New_Zealand.jpg/1920px-Hills_in_Lindis_Pass%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hills_in_Lindis_Pass,_New_Zealand.jpg",
+    "author": "Michal Klajban",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-ca7a22bbf5.webp"
+   }
+  },
+  "10": {
+   "map": "map-day-10-52e5ba84a2.webp",
+   "stops": [
+    "Church of the Good Shepherd",
+    "Lake Tekapo",
+    "Christchurch"
+   ],
+   "km": [
+    1.2,
+    225.9
+   ],
+   "photo": {
+    "file": "File:Church of the Good Shepherd, Croxteth 3.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Church_of_the_Good_Shepherd%2C_Croxteth_3.jpg/1920px-Church_of_the_Good_Shepherd%2C_Croxteth_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Church_of_the_Good_Shepherd,_Croxteth_3.jpg",
+    "author": "Rodhullandemu",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-a0fc559d6d.webp"
+   }
+  },
+  "11": {
+   "map": "map-day-11-8a3375498c.webp",
+   "stops": [
+    "International Antarctic Centre",
+    "Christchurch Airport"
+   ],
+   "km": [
+    6.7
+   ],
+   "photo": {
+    "file": "File:International Antarctic Centre - Christchurch, NZ - DSC01470.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/International_Antarctic_Centre_-_Christchurch%2C_NZ_-_DSC01470.jpg/1920px-International_Antarctic_Centre_-_Christchurch%2C_NZ_-_DSC01470.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:International_Antarctic_Centre_-_Christchurch,_NZ_-_DSC01470.jpg",
+    "author": "Daderot",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-46ff99bdad.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 18,
+ "coords": {
+  "Christchurch": [
+   -43.53095,
+   172.63643
+  ],
+  "Arthur's Pass": [
+   -42.90741,
+   171.55939
+  ],
+  "Hokitika": [
+   -42.91303,
+   170.97321
+  ],
+  "Franz Josef": [
+   -43.38738,
+   170.18193
+  ],
+  "Fox Glacier": [
+   -43.51703,
+   170.1387
+  ],
+  "Haast Pass": [
+   -44.10729,
+   169.3548
+  ],
+  "Queenstown": [
+   -45.03219,
+   168.661
+  ],
+  "Twizel": [
+   -44.25748,
+   170.09941
+  ],
+  "Aoraki Mount Cook": [
+   -43.595,
+   170.14217
+  ],
+  "Lake Tekapo": [
+   -44.00452,
+   170.47773
+  ],
+  "Christchurch Airport": [
+   -43.48524,
+   172.53548
+  ],
+  "Christchurch Botanic Gardens": [
+   -43.53026,
+   172.62056
+  ],
+  "Franz Josef Glacier": [
+   -43.47574,
+   170.19814
+  ],
+  "Sentinel Rock": [
+   -43.42503,
+   170.16895
+  ],
+  "Lake Matheson": [
+   -43.43916,
+   169.96524
+  ],
+  "Lake Wanaka": [
+   -44.50542,
+   169.13497
+  ],
+  "Skyline Queenstown": [
+   -45.02753,
+   168.65246
+  ],
+  "Shotover Jet": [
+   -44.98711,
+   168.67135
+  ],
+  "Kawarau Gorge Suspension Bridge": [
+   -45.00875,
+   168.89965
+  ],
+  "Lindis Pass": [
+   -44.58826,
+   169.64308
+  ],
+  "Lake Pukaki": [
+   -44.04776,
+   170.17423
+  ],
+  "Church of the Good Shepherd": [
+   -44.00335,
+   170.48247
+  ],
+  "International Antarctic Centre": [
+   -43.48862,
+   172.54722
+  ]
+ },
+ "overview": {
+  "map": "map-overview-7bda4c6a11.webp",
+  "stops": [
+   "Christchurch",
+   "Arthur's Pass",
+   "Hokitika",
+   "Franz Josef",
+   "Fox Glacier",
+   "Haast Pass",
+   "Queenstown",
+   "Twizel",
+   "Aoraki Mount Cook",
+   "Lake Tekapo"
+  ]
+ }
+}

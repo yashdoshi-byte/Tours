@@ -1,0 +1,160 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Munneswaram Temple",
+    "Manavari Temple"
+   ],
+   "photo": {
+    "file": "File:Bandaranaike International Airport (2).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bandaranaike_International_Airport_%282%29.jpg/1920px-Bandaranaike_International_Airport_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bandaranaike_International_Airport_(2).jpg",
+    "author": "ANKAN",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-58346ad26f.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Kanniya Hot Springs",
+    "Koneswaram Temple",
+    "Bhadrakali Amman Kovil Trincomalee"
+   ],
+   "photo": {
+    "file": "File:Trincomalee Kanniya Hot Springs (3).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Trincomalee_Kanniya_Hot_Springs_%283%29.jpg/1920px-Trincomalee_Kanniya_Hot_Springs_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Trincomalee_Kanniya_Hot_Springs_(3).jpg",
+    "author": "Pierre André LECLERCQ",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-edfcbf6edd.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Sri Muthumariamman Temple Matale"
+   ],
+   "photo": {
+    "file": "File:Sigiriya.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sigiriya.jpg/1920px-Sigiriya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sigiriya.jpg",
+    "author": "Bernard Gagnon",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-a4b53c98b9.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Sri Baktha Hanuman Temple",
+    "Gregory Lake"
+   ],
+   "photo": {
+    "file": "File:Temple of the Tooth, Sitting Buddha statues.- Kandy.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Temple_of_the_Tooth%2C_Sitting_Buddha_statues.-_Kandy.jpg/1920px-Temple_of_the_Tooth%2C_Sitting_Buddha_statues.-_Kandy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Temple_of_the_Tooth,_Sitting_Buddha_statues.-_Kandy.jpg",
+    "author": "Pierre André Leclercq",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-29c321ffa3.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Gayathri Peedam",
+    "Seetha Amman Temple",
+    "Divurumpola Temple",
+    "Panchamuga Anjaneyar Temple"
+   ]
+  },
+  "6": {
+   "photo": {
+    "file": "File:Bandaranaike International Airport (2).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bandaranaike_International_Airport_%282%29.jpg/1920px-Bandaranaike_International_Airport_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bandaranaike_International_Airport_(2).jpg",
+    "author": "ANKAN",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-58346ad26f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 13,
+ "coords": {
+  "Bandaranaike International Airport": [
+   7.17893,
+   79.88573
+  ],
+  "Munneswaram": [
+   7.58086,
+   79.81674
+  ],
+  "Sigiriya": [
+   7.94981,
+   80.74635
+  ],
+  "Trincomalee": [
+   8.57643,
+   81.2345
+  ],
+  "Matale": [
+   7.69821,
+   80.66091
+  ],
+  "Kandy": [
+   7.29312,
+   80.63504
+  ],
+  "Ramboda": [
+   7.05567,
+   80.70043
+  ],
+  "Nuwara Eliya": [
+   7.0124,
+   80.75716
+  ],
+  "Seetha Eliya": [
+   6.93551,
+   80.80429
+  ],
+  "Divurumpola": [
+   7.50737,
+   79.95834
+  ],
+  "Colombo": [
+   6.93886,
+   79.8542
+  ],
+  "Temple of the Sacred Tooth Relic": [
+   7.29361,
+   80.64135
+  ],
+  "Ramboda Falls": [
+   7.05575,
+   80.69902
+  ]
+ },
+ "overview": {
+  "map": "map-overview-90139d5748.webp",
+  "stops": [
+   "Bandaranaike International Airport",
+   "Munneswaram",
+   "Sigiriya",
+   "Trincomalee",
+   "Matale",
+   "Kandy",
+   "Ramboda",
+   "Nuwara Eliya",
+   "Seetha Eliya",
+   "Divurumpola",
+   "Colombo"
+  ]
+ }
+}

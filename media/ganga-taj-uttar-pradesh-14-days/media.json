@@ -1,0 +1,298 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "file": "File:Arrival area at Indira Gandhi International Airport.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arrival_area_at_Indira_Gandhi_International_Airport.jpg/1920px-Arrival_area_at_Indira_Gandhi_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Arrival_area_at_Indira_Gandhi_International_Airport.jpg",
+    "author": "Wasiul Bahar",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-716ba94f2c.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-a047dd1887.webp",
+   "stops": [
+    "Red Fort",
+    "Humayun's Tomb",
+    "India Gate"
+   ],
+   "km": [
+    8.6,
+    4.1
+   ],
+   "photo": {
+    "file": "File:20191203 Czerwony Fort w Delhi 0528 6405 DxO.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg/1920px-20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:20191203_Czerwony_Fort_w_Delhi_0528_6405_DxO.jpg",
+    "author": "Jakub Hałun",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-9e6f618c26.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Bara Imambara",
+    "Chota Imambara",
+    "Hazratganj"
+   ],
+   "photo": {
+    "author": "Harsh13596",
+    "file": "File:Imambara of Asaf-ud-daula .jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Imambara_of_Asaf-ud-daula_.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Imambara_of_Asaf-ud-daula_.jpg/1920px-Imambara_of_Asaf-ud-daula_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-3-f5398f9429.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Shri Ram Janmabhoomi Mandir",
+    "Ram Ki Paidi"
+   ],
+   "photo": {
+    "file": "File:Historical information board of Shri Ram Janmabhoomi Mandir, Ayodhya.png",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Historical_information_board_of_Shri_Ram_Janmabhoomi_Mandir%2C_Ayodhya.png/1920px-Historical_information_board_of_Shri_Ram_Janmabhoomi_Mandir%2C_Ayodhya.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Historical_information_board_of_Shri_Ram_Janmabhoomi_Mandir,_Ayodhya.png",
+    "author": "Gamerzer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-6d53415715.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Dashashwamedh Ghat"
+   ],
+   "photo": {
+    "file": "File:Dashashwamedh Ghat's View Varanasi.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Dashashwamedh_Ghat%27s_View_Varanasi.jpg/1920px-Dashashwamedh_Ghat%27s_View_Varanasi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dashashwamedh_Ghat%27s_View_Varanasi.jpg",
+    "author": "Maskaravivek",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-9e55b427d4.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Assi Ghat",
+    "Kashi Vishwanath Temple"
+   ],
+   "photo": {
+    "file": "File:Assi Ghat (46848).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Assi_Ghat_%2846848%29.jpg/1920px-Assi_Ghat_%2846848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Assi_Ghat_(46848).jpg",
+    "author": "Sonalyadav1234",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-5732b391af.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Dhamek Stupa",
+    "Sarnath Museum"
+   ],
+   "photo": {
+    "file": "File:The Dhamek Stupa , 500 CE ,Sarnath, Varanasi Uttar Pradesh.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Dhamek_Stupa_%2C_500_CE_%2CSarnath%2C_Varanasi_Uttar_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Dhamek_Stupa_,_500_CE_,Sarnath,_Varanasi_Uttar_Pradesh.jpg",
+    "author": "SpeakingArch",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-f34e25e836.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Assi Ghat"
+   ],
+   "photo": {
+    "file": "File:Assi Ghat (46848).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Assi_Ghat_%2846848%29.jpg/1920px-Assi_Ghat_%2846848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Assi_Ghat_(46848).jpg",
+    "author": "Sonalyadav1234",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-5732b391af.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Triveni Sangam"
+   ],
+   "photo": {
+    "file": "File:Boat Pilgrims Triveni Sangam Allahabad Jan24 A7C 08513.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Boat_Pilgrims_Triveni_Sangam_Allahabad_Jan24_A7C_08513.jpg/1920px-Boat_Pilgrims_Triveni_Sangam_Allahabad_Jan24_A7C_08513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Boat_Pilgrims_Triveni_Sangam_Allahabad_Jan24_A7C_08513.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-82c846f080.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Khusro Bagh"
+   ],
+   "photo": {
+    "file": "File:Front Anand Bhawan Allahabad Dec23 A7C 08485.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Front_Anand_Bhawan_Allahabad_Dec23_A7C_08485.jpg/1920px-Front_Anand_Bhawan_Allahabad_Dec23_A7C_08485.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Front_Anand_Bhawan_Allahabad_Dec23_A7C_08485.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-bacab1e970.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Prayagraj Junction"
+   ],
+   "photo": {
+    "file": "File:\"Prayagraj Junction\" sign in Urdu.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%22Prayagraj_Junction%22_sign_in_Urdu.jpg/1920px-%22Prayagraj_Junction%22_sign_in_Urdu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Prayagraj_Junction%22_sign_in_Urdu.jpg",
+    "author": "Psubhashish",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-a8fa6a7485.webp"
+   }
+  },
+  "12": {
+   "map": "map-day-12-cb8a188c48.webp",
+   "stops": [
+    "Taj Mahal East Gate",
+    "Agra Fort",
+    "Itimad-ud-Daulah"
+   ],
+   "km": [
+    3.8,
+    4.1
+   ],
+   "photo": {
+    "file": "File:Agra-Taj Mahal-East Gate-20131019.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Agra-Taj_Mahal-East_Gate-20131019.jpg/1920px-Agra-Taj_Mahal-East_Gate-20131019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Agra-Taj_Mahal-East_Gate-20131019.jpg",
+    "author": "Daniel VILLAFRUELA",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-c85747f948.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Shri Krishna Janmabhoomi",
+    "Banke Bihari Temple"
+   ],
+   "photo": {
+    "file": "File:Mathura Temple-Mathura-India0002.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Mathura_Temple-Mathura-India0002.JPG/1920px-Mathura_Temple-Mathura-India0002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mathura_Temple-Mathura-India0002.JPG",
+    "author": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-13-4e2f7424f3.webp"
+   }
+  },
+  "14": {
+   "photo": {
+    "file": "File:Arrival area at Indira Gandhi International Airport.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arrival_area_at_Indira_Gandhi_International_Airport.jpg/1920px-Arrival_area_at_Indira_Gandhi_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Arrival_area_at_Indira_Gandhi_International_Airport.jpg",
+    "author": "Wasiul Bahar",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-14-716ba94f2c.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 20,
+ "coords": {
+  "Delhi": [
+   28.6328,
+   77.21977
+  ],
+  "Agra": [
+   27.17526,
+   78.00982
+  ],
+  "Fatehpur Sikri": [
+   27.09724,
+   77.66523
+  ],
+  "Mathura": [
+   27.49555,
+   77.68556
+  ],
+  "Vrindavan": [
+   27.57537,
+   77.6938
+  ],
+  "Indira Gandhi International Airport": [
+   28.55542,
+   77.08481
+  ],
+  "Red Fort": [
+   28.65608,
+   77.2408
+  ],
+  "Humayun's Tomb": [
+   28.59329,
+   77.25065
+  ],
+  "India Gate": [
+   28.61293,
+   77.22949
+  ],
+  "Anand Bhawan": [
+   28.41593,
+   77.0553
+  ],
+  "Mehtab Bagh": [
+   27.17905,
+   78.04208
+  ],
+  "Taj Mahal East Gate": [
+   27.17501,
+   78.0421
+  ],
+  "Agra Fort": [
+   27.17983,
+   78.02082
+  ],
+  "Itimad-ud-Daulah": [
+   27.19278,
+   78.03144
+  ]
+ },
+ "overview": {
+  "map": "map-overview-5c7e88763b.webp",
+  "stops": [
+   "Delhi",
+   "Agra",
+   "Fatehpur Sikri",
+   "Mathura",
+   "Vrindavan"
+  ]
+ }
+}

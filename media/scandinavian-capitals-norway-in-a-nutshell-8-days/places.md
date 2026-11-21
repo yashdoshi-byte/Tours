@@ -1,0 +1,44 @@
+# Pins for Four Scandinavian Capitals and Norway in a Nutshell: Helsinki, Stockholm, Oslo, the Fjords, Bergen and Copenhagen
+
+Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHECK means look at it; PINNED was set by hand. Open each CHECK link: if the pin is wrong, copy the right coordinates from Google Maps into "geo" in the tour file.
+
+**29 pin(s) to check.**
+
+| Status | Place in the itinerary | Pin | What OpenStreetMap found | Check |
+|---|---|---|---|---|
+| CHECK | Helsinki | 60.16662, 24.94354 | Helsinki, Helsinki sub-region, Uusimaa, Mainland Finland, Finland (684 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.16662,24.94354) |
+| CHECK | Stockholm | 59.32512, 18.07109 | Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden (322 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=59.32512,18.07109) |
+| OK | Oslo | 59.91333, 10.73897 | Oslo, Norway | [open](https://www.google.com/maps/search/?api=1&query=59.91333,10.73897) |
+| CHECK | Myrdal | 60.73517, 7.12283 | Myrdal, Flåmsdalsvegen, Kårdal, Aurland, Vestland, 5718, Norway (305 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.73517,7.12283) |
+| CHECK | Flåm | 60.86295, 7.11318 | Flåm, A-feltvegen, Fretheim, Flåm, Aurland, Vestland, 5743, Norway (308 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.86295,7.11318) |
+| CHECK | Gudvangen | 60.87911, 6.83963 | Gudvangen, Aurland, Vestland, 5747, Norway (323 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.87911,6.83963) |
+| CHECK | Voss | 60.68371, 6.40791 | Voss, Vestland, Norway (343 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.68371,6.40791) |
+| CHECK | Bergen | 60.39431, 5.32592 | Bergen, Vestland, Norway (400 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.39431,5.32592) |
+| CHECK | Copenhagen | 55.68672, 12.57007 | Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1357, Denmark (498 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=55.68672,12.57007) |
+| CHECK | Helsinki Airport | 60.32182, 24.94736 | Helsinki Airport, Bergkullantie, Kiila, Kivistön suuralue, Vantaa, Helsinki sub-region, Uusimaa, Mainland Finland, 01590 (682 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.32182,24.94736) |
+| CHECK | Esplanadi | 61.50142, 23.75037 | Hämeenpuisto, Finlayson, Keskustan suuralue, Tampere, Tampere sub-region, Pirkanmaa, Mainland Finland, 33210, Finland (623 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=61.50142,23.75037) |
+| CHECK | Market Square Helsinki | 60.1672, 24.95326 | Market Square, Kaartinkaupunki, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Mainland Finland, Finla (684 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.1672,24.95326) |
+| CHECK | Senate Square | 60.16951, 24.95227 | Senate Square, Torikorttelit, Kruununhaka, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Mainland Fin (684 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.16951,24.95227) |
+| CHECK | Sibelius Monument | 60.18203, 24.91342 | Sibelius Monument, Merikannontie, Töölö, Taka-Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Ma (682 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.18203,24.91342) |
+| CHECK | Temppeliaukio Church | 60.17296, 24.92523 | Temppeliaukio Church, 3, Lutherinkatu, Leppäsuo, Etu-Töölö, Southern major district, Helsinki, Helsinki sub-region, Uusi (682 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.17296,24.92523) |
+| CHECK | Helsinki West Harbour | 60.15328, 24.91981 | West harbour, Jätkäsaari, Länsisatama, Southern major district, Helsinki, Helsinki sub-region, Uusimaa, Mainland Finland (682 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.15328,24.91981) |
+| CHECK | Stockholm archipelago | 59.34091, 18.79846 | Stockholm Archipelago, Värmdö kommun, Stockholm County, 139 74, Sweden (361 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=59.34091,18.79846) |
+| CHECK | Gamla Stan | 59.3233, 18.067 | Gamla stan, Centralbron, Gamla stan, Södermalms stadsdelsområde, Stockholm, Stockholm Municipality, Stockholm County, 11 (322 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=59.3233,18.067) |
+| CHECK | Vasa Museum | 59.32815, 18.09137 | Vasa Museum, Djurgårdsstrand, Djurgårdsstaden, Djurgården, Norra innerstadens stadsdelsområde, Stockholm, Stockholm Muni (323 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=59.32815,18.09137) |
+| OK | Oslo Airport | 60.19315, 11.09682 | Oslo Airport, Lufthavnvegen, Ullensaker, Akershus, 2060, Norway | [open](https://www.google.com/maps/search/?api=1&query=60.19315,11.09682) |
+| OK | Vigeland Park | 59.92468, 10.70774 | vigeland park, Kirkeveien, Schafteløkken, Frogner, Oslo, 0266, Norway | [open](https://www.google.com/maps/search/?api=1&query=59.92468,10.70774) |
+| OK | Holmenkollen | 59.96035, 10.66497 | Holmenkollen, Vestre Aker, Oslo, 0784, Norway | [open](https://www.google.com/maps/search/?api=1&query=59.96035,10.66497) |
+| OK | Oslo Opera House | 59.90752, 10.75268 | Oslo Opera House, Operagata, Sjøtomta, Bjørvika, Sentrum, Oslo, 0194, Norway | [open](https://www.google.com/maps/search/?api=1&query=59.90752,10.75268) |
+| OK | Akershus Fortress | 59.9076, 10.73721 | Akershus fortress, Akershusstranda, Akershus festning, Sentrum, Oslo, 0015, Norway | [open](https://www.google.com/maps/search/?api=1&query=59.9076,10.73721) |
+| OK | Oslo S | 59.91103, 10.75314 | Oslo Central Station, Main Station Hallway, Sjøtomta, Vaterland, Sentrum, Oslo, 0050, Norway | [open](https://www.google.com/maps/search/?api=1&query=59.91103,10.75314) |
+| CHECK | Kjosfossen | 60.74566, 7.13893 | Kjosfossen, Aurland, Vestland, 5718, Norway (305 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.74566,7.13893) |
+| CHECK | Aurlandsfjord | 60.90714, 7.18928 | Hotel Aurlandsfjord, Bjørgavegen, Rygg, Aurlandsvangen, Aurland, Vestland, 5745, Norway (305 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.90714,7.18928) |
+| CHECK | Nærøyfjord | 60.94393, 6.93972 | Nærøyfjord, Drægavegen, Dyrdal, Aurland, Vestland, Norway (319 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.94393,6.93972) |
+| CHECK | Fløyen | 61.37843, 5.36973 | Fløyen, Askvoll, Vestland, 6963, Norway (413 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=61.37843,5.36973) |
+| CHECK | Bryggen | 60.39773, 5.32293 | Bryggen, Skuteviken, Bergenhus, Bergen, Vestland, 5003, Norway (400 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.39773,5.32293) |
+| CHECK | Bergen Airport | 60.29653, 5.21982 | Bergen Airport, Flesland, Flyplassvegen, Ytrebygda, Bergen, Vestland, 5258, Norway (406 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=60.29653,5.21982) |
+| CHECK | Nyhavn | 55.67974, 12.59089 | Nyhavn, Kvæsthusgade, Gammelholm, Christianshavn, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1251,  (499 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=55.67974,12.59089) |
+| CHECK | Tivoli Gardens | 55.67342, 12.56918 | Tivoli Gardens, Bernstorffsgade, Postbyen, Vestervold, Meatpacking District, Copenhagen, Copenhagen Municipality, Capita (500 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=55.67342,12.56918) |
+| CHECK | Amalienborg | 55.68396, 12.59308 | Amalienborg, Frederiksgade, Frederiksstaden, Indre By, Copenhagen, Copenhagen Municipality, Capital Region of Denmark, 1 (499 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=55.68396,12.59308) |
+| CHECK | The Little Mermaid | 55.69287, 12.59929 | The Little Mermaid, Langelinie, Frederiksstaden, Indre By, Copenhagen, Copenhagen Municipality, Capital Region of Denmar (498 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=55.69287,12.59929) |
+| CHECK | Copenhagen Airport | 55.60913, 12.65098 | Copenhagen Airport, Granvej, Dragør, Dragør Municipality, Capital Region of Denmark, 2791, Denmark (507 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=55.60913,12.65098) |

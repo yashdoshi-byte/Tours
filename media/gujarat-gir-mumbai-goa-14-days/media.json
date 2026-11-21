@@ -1,0 +1,320 @@
+{
+ "days": {
+  "1": {
+   "photo": {
+    "file": "File:Sardar Vallabhbhai Patel International Airport, Ahmedabad, India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sardar_Vallabhbhai_Patel_International_Airport%2C_Ahmedabad%2C_India.jpg/1920px-Sardar_Vallabhbhai_Patel_International_Airport%2C_Ahmedabad%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sardar_Vallabhbhai_Patel_International_Airport,_Ahmedabad,_India.jpg",
+    "author": "Apurba Biswas",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-571ff2e787.webp"
+   }
+  },
+  "2": {
+   "map": "map-day-2-ee17aa08df.webp",
+   "stops": [
+    "Sabarmati Ashram",
+    "Adalaj Stepwell",
+    "Jama Masjid Ahmedabad"
+   ],
+   "km": [
+    15.5,
+    22.3
+   ],
+   "photo": {
+    "author": "Snehrashmi",
+    "file": "File:Sabarmati Ashram - Ahmedabad - Gujarat - DSC001.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg/1920px-Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-2-7a2f185fef.webp"
+   }
+  },
+  "3": {
+   "map": "map-day-3-ee6747f35f.webp",
+   "stops": [
+    "Watson Museum",
+    "Kaba Gandhi No Delo"
+   ],
+   "km": [
+    0.7
+   ],
+   "photo": {
+    "file": "File:Watson Museum.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Watson_Museum.jpg/1920px-Watson_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Watson_Museum.jpg",
+    "author": "Sneha N Shetty",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-54eb13760b.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Naulakha Palace Gondal",
+    "Jalaram Temple Virpur"
+   ],
+   "photo": {
+    "author": "Bernard Gagnon",
+    "file": "File:Naulakha Palace 07.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naulakha_Palace_07.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Naulakha_Palace_07.jpg/1920px-Naulakha_Palace_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-4-47dc76bd8e.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-bdbb3b25f0.webp",
+   "stops": [
+    "Girnar Ropeway",
+    "Sasan Gir"
+   ],
+   "km": [
+    56.8
+   ],
+   "photo": {
+    "file": "File:Girnar-Ropeway.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Girnar-Ropeway.jpg/1920px-Girnar-Ropeway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Girnar-Ropeway.jpg",
+    "author": "Piyush Jnd",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-6a653e1820.webp"
+   }
+  },
+  "6": {
+   "unverified": [
+    "Gir National Park Sasan Gate"
+   ]
+  },
+  "7": {
+   "photo": {
+    "file": "File:Dev Somnath Temple, Dungarpur. by Hritik Sharma.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dev_Somnath_Temple%2C_Dungarpur._by_Hritik_Sharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Dev_Somnath_Temple,_Dungarpur._by_Hritik_Sharma.jpg",
+    "author": "Hritiksharma",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-362ad9a225.webp"
+   }
+  },
+  "8": {
+   "unverified": [
+    "Marine Drive"
+   ],
+   "photo": {
+    "file": "File:Hirasar New Terminal Building.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hirasar_New_Terminal_Building.jpg/1920px-Hirasar_New_Terminal_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hirasar_New_Terminal_Building.jpg",
+    "author": "HJMEHTA2110",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-5c8aad10ec.webp"
+   }
+  },
+  "9": {
+   "map": "map-day-9-1ee2efd79f.webp",
+   "stops": [
+    "Gateway of India",
+    "Chhatrapati Shivaji Maharaj Terminus",
+    "Kala Ghoda"
+   ],
+   "km": [
+    2.7,
+    1.9
+   ],
+   "photo": {
+    "file": "File:Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/1920px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg",
+    "author": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-9-13f90e49ed.webp"
+   }
+  },
+  "10": {
+   "map": "map-day-10-9e1964491c.webp",
+   "stops": [
+    "Gateway of India",
+    "Elephanta Caves",
+    "Juhu Beach"
+   ],
+   "km": [
+    45.2,
+    56.0
+   ],
+   "photo": {
+    "file": "File:Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/1920px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg",
+    "author": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-10-13f90e49ed.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Manohar International Airport"
+   ],
+   "photo": {
+    "file": "File:Mopa Airport Goa.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mopa_Airport_Goa.jpg/1920px-Mopa_Airport_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mopa_Airport_Goa.jpg",
+    "author": "Arunpnair 787",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-11-9bc4814c6f.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Basilica of Bom Jesus",
+    "Fontainhas"
+   ],
+   "photo": {
+    "file": "File:Side Elevation of Basilica of Bom Jesus.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Side_Elevation_of_Basilica_of_Bom_Jesus.jpg/1920px-Side_Elevation_of_Basilica_of_Bom_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Side_Elevation_of_Basilica_of_Bom_Jesus.jpg",
+    "author": "iMahesh",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-0483409a72.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Manohar International Airport"
+   ],
+   "photo": {
+    "file": "File:Mopa Airport Goa.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mopa_Airport_Goa.jpg/1920px-Mopa_Airport_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Mopa_Airport_Goa.jpg",
+    "author": "Arunpnair 787",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-13-9bc4814c6f.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 8,
+ "coords": {
+  "Ahmedabad": [
+   23.02154,
+   72.58006
+  ],
+  "Rajkot": [
+   22.30533,
+   70.80284
+  ],
+  "Gondal": [
+   21.97218,
+   70.79552
+  ],
+  "Junagadh": [
+   21.52204,
+   70.45825
+  ],
+  "Sasan Gir": [
+   21.16882,
+   70.60213
+  ],
+  "Somnath": [
+   20.89572,
+   70.40805
+  ],
+  "Mumbai": [
+   19.055,
+   72.8692
+  ],
+  "Sardar Vallabhbhai Patel International Airport": [
+   23.07593,
+   72.63056
+  ],
+  "Sabarmati Ashram": [
+   23.06017,
+   72.58064
+  ],
+  "Adalaj Stepwell": [
+   23.16714,
+   72.58014
+  ],
+  "Jama Masjid Ahmedabad": [
+   23.02396,
+   72.58653
+  ],
+  "Watson Museum": [
+   22.30024,
+   70.80192
+  ],
+  "Kaba Gandhi No Delo": [
+   22.29701,
+   70.80496
+  ],
+  "Girnar Ropeway": [
+   21.52777,
+   70.51645
+  ],
+  "Devalia Safari Park": [
+   21.15685,
+   70.5059
+  ],
+  "Somnath Temple": [
+   20.88776,
+   70.40139
+  ],
+  "Rajkot International Airport Hirasar": [
+   22.38233,
+   71.0381
+  ],
+  "Gateway of India": [
+   18.92197,
+   72.83457
+  ],
+  "Chhatrapati Shivaji Maharaj Terminus": [
+   18.93986,
+   72.83552
+  ],
+  "Kala Ghoda": [
+   18.92846,
+   72.8326
+  ],
+  "Elephanta Caves": [
+   18.9629,
+   72.93148
+  ],
+  "Juhu Beach": [
+   19.10265,
+   72.82468
+  ]
+ },
+ "overview": {
+  "map": "map-overview-210683af7a.webp",
+  "stops": [
+   "Ahmedabad",
+   "Rajkot",
+   "Gondal",
+   "Junagadh",
+   "Sasan Gir",
+   "Somnath",
+   "Mumbai"
+  ]
+ }
+}

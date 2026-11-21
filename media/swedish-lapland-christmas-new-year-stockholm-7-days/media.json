@@ -1,0 +1,162 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Kiruna Airport",
+    "Kiruna"
+   ],
+   "photo": {
+    "file": "File:Kiruna Airport terminal (DSCF0850).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Kiruna_Airport_terminal_%28DSCF0850%29.jpg/1920px-Kiruna_Airport_terminal_%28DSCF0850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kiruna_Airport_terminal_(DSCF0850).jpg",
+    "author": "Trougnouf (Benoit Brummer)",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-532205dffd.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Kiruna"
+   ],
+   "photo": {
+    "file": "File:Kirunas nya centrum September 2017 11.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirunas_nya_centrum_September_2017_11.jpg/1920px-Kirunas_nya_centrum_September_2017_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirunas_nya_centrum_September_2017_11.jpg",
+    "author": "Arild Vågen",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-a90630e800.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Kiruna Church",
+    "Kiruna"
+   ],
+   "photo": {
+    "file": "File:Kiruna kyrka September 2017 05.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kiruna_kyrka_September_2017_05.jpg/1920px-Kiruna_kyrka_September_2017_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kiruna_kyrka_September_2017_05.jpg",
+    "author": "Arild Vågen",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-640c69a66c.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Kiruna"
+   ],
+   "photo": {
+    "file": "File:Kirunas nya centrum September 2017 11.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirunas_nya_centrum_September_2017_11.jpg/1920px-Kirunas_nya_centrum_September_2017_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirunas_nya_centrum_September_2017_11.jpg",
+    "author": "Arild Vågen",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-a90630e800.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "ICEHOTEL",
+    "Kiruna Airport"
+   ],
+   "photo": {
+    "file": "File:ICEHOTEL Main Hall (2014) by Alessandro Falca & AnnaSofia Mååg.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ICEHOTEL_Main_Hall_%282014%29_by_Alessandro_Falca_%26_AnnaSofia_M%C3%A5%C3%A5g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:ICEHOTEL_Main_Hall_(2014)_by_Alessandro_Falca_%26_AnnaSofia_M%C3%A5%C3%A5g.jpg",
+    "author": "Lars Thulin",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-8c2bb65323.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-19b754bec6.webp",
+   "stops": [
+    "Stockholm City Hall",
+    "Royal Palace Stockholm",
+    "Vasa Museum",
+    "Skansen"
+   ],
+   "km": [
+    2.8,
+    2.5,
+    1.6
+   ],
+   "photo": {
+    "file": "File:Stockholms stadshus February 2026 02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Stockholms_stadshus_February_2026_02.jpg/1920px-Stockholms_stadshus_February_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_February_2026_02.jpg",
+    "author": "ArildV",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-c437556e8e.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-00963615cd.webp",
+   "stops": [
+    "Stockholm Central",
+    "Stockholm Arlanda Airport"
+   ],
+   "km": [
+    41.7
+   ],
+   "photo": {
+    "author": "Arild Vågen",
+    "file": "File:Stockholm Central Station September 2013.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stockholm_Central_Station_September_2013.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Stockholm_Central_Station_September_2013.jpg/1920px-Stockholm_Central_Station_September_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-7-ffedf32200.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 5,
+ "coords": {
+  "Stockholm": [
+   59.32512,
+   18.07109
+  ],
+  "Gamla Stan": [
+   59.3233,
+   18.067
+  ],
+  "Stockholm City Hall": [
+   59.32749,
+   18.05421
+  ],
+  "Royal Palace Stockholm": [
+   59.32693,
+   18.07016
+  ],
+  "Vasa Museum": [
+   59.32815,
+   18.09137
+  ],
+  "Skansen": [
+   59.32662,
+   18.10528
+  ],
+  "Stockholm Central": [
+   59.32987,
+   18.0575
+  ],
+  "Stockholm Arlanda Airport": [
+   59.64679,
+   17.93704
+  ]
+ }
+}

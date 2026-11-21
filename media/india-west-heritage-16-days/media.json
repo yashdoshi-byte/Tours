@@ -1,0 +1,284 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Marine Drive",
+    "Girgaum Chowpatty"
+   ],
+   "photo": {
+    "file": "File:Marine Drive Kochi 02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Marine_Drive_Kochi_02.jpg/1920px-Marine_Drive_Kochi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Drive_Kochi_02.jpg",
+    "author": "Ganesh Mohan T",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-454de8f957.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Gateway of India",
+    "Elephanta Caves",
+    "Juhu Beach"
+   ],
+   "photo": {
+    "author": "iMahesh",
+    "file": "File:Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/1920px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-2-13f90e49ed.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Mumbai Central"
+   ],
+   "photo": {
+    "file": "File:Railway-station-mumbai-central.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Railway-station-mumbai-central.jpg/1920px-Railway-station-mumbai-central.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Railway-station-mumbai-central.jpg",
+    "author": "தகவலுழவன்",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-bd2abb131a.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-cc8cf5bc2a.webp",
+   "stops": [
+    "Arogya Van",
+    "Statue of Unity",
+    "Sardar Sarovar Dam"
+   ],
+   "km": [
+    219.3,
+    5.8
+   ]
+  },
+  "5": {
+   "unverified": [
+    "Khirasara Palace"
+   ]
+  },
+  "6": {
+   "unverified": [
+    "Girnar Ropeway",
+    "Uparkot Fort",
+    "Sasan Gir"
+   ],
+   "photo": {
+    "author": "Piyush Jnd",
+    "file": "File:Girnar-Ropeway.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Girnar-Ropeway.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Girnar-Ropeway.jpg/1920px-Girnar-Ropeway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-6-6a653e1820.webp"
+   }
+  },
+  "7": {
+   "unverified": [
+    "Gir National Park Sasan Gate",
+    "Somnath Temple"
+   ]
+  },
+  "8": {
+   "unverified": [
+    "Naulakha Palace Gondal",
+    "Manek Chowk"
+   ],
+   "photo": {
+    "author": "Bernard Gagnon",
+    "file": "File:Naulakha Palace 07.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naulakha_Palace_07.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Naulakha_Palace_07.jpg/1920px-Naulakha_Palace_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-8-47dc76bd8e.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "City Palace Udaipur"
+   ],
+   "photo": {
+    "author": "Hirumon",
+    "file": "File:City Palace Udaipur Rajasthan India.JPG",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:City_Palace_Udaipur_Rajasthan_India.JPG",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/City_Palace_Udaipur_Rajasthan_India.JPG/1920px-City_Palace_Udaipur_Rajasthan_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-9-70550300de.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Jawai Bandh",
+    "Lake Pichola"
+   ],
+   "photo": {
+    "author": "Tisha Mukherjee",
+    "file": "File:Indian leopard in Jawai Bandh April 2025 by Tisha Mukherjee 02.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_leopard_in_Jawai_Bandh_April_2025_by_Tisha_Mukherjee_02.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Indian_leopard_in_Jawai_Bandh_April_2025_by_Tisha_Mukherjee_02.jpg/1920px-Indian_leopard_in_Jawai_Bandh_April_2025_by_Tisha_Mukherjee_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-10-460101df4e.webp"
+   }
+  },
+  "11": {
+   "unverified": [
+    "Taragarh Fort Bundi",
+    "Bundi"
+   ],
+   "photo": {
+    "author": "Justin Morgan from Richmond, Virginia, USA",
+    "file": "File:Bundi fort (4180260008).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundi_fort_(4180260008).jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bundi_fort_%284180260008%29.jpg/1920px-Bundi_fort_%284180260008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-11-6a26215424.webp"
+   }
+  },
+  "12": {
+   "unverified": [
+    "Raniji ki Baori",
+    "Bundi"
+   ],
+   "photo": {
+    "file": "File:Raniji ki bawri.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Raniji_ki_bawri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Raniji_ki_bawri.jpg",
+    "author": "Rajatsh5",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-12-187a730a4b.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Ranthambore National Park"
+   ],
+   "photo": {
+    "author": "Giles Laurent",
+    "file": "File:067 Chital in Ranthambore National Park Photo by Giles Laurent.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:067_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/067_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg/1920px-067_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-13-6c88174f0c.webp"
+   }
+  },
+  "14": {
+   "unverified": [
+    "Amer Fort",
+    "Jaipur"
+   ],
+   "photo": {
+    "file": "File:Amber Palace on Hill, Amber Jaipur.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Amber_Palace_on_Hill%2C_Amber_Jaipur.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Amber_Palace_on_Hill,_Amber_Jaipur.JPG",
+    "author": "S Sundararajan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-14-0492b63fe1.webp"
+   }
+  },
+  "15": {
+   "unverified": [
+    "Jaipur Junction",
+    "Humayun's Tomb",
+    "India Gate"
+   ],
+   "photo": {
+    "file": "File:Jaipur Junction railway station - 4.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jaipur_Junction_railway_station_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Jaipur_Junction_railway_station_-_4.jpg",
+    "author": "This illustration was made by Peter Potrowl. Please credit this with : © Peter P",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-15-9099fca14f.webp"
+   }
+  },
+  "16": {
+   "unverified": [
+    "Indira Gandhi International Airport"
+   ],
+   "photo": {
+    "author": "Wasiul Bahar",
+    "file": "File:Arrival area at Indira Gandhi International Airport.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arrival_area_at_Indira_Gandhi_International_Airport.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Arrival_area_at_Indira_Gandhi_International_Airport.jpg/1920px-Arrival_area_at_Indira_Gandhi_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-16-716ba94f2c.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 34,
+ "coords": {
+  "Vadodara": [
+   22.29731,
+   73.19426
+  ],
+  "Kevadia": [
+   21.29477,
+   73.14724
+  ],
+  "Rajkot": [
+   22.30533,
+   70.80284
+  ],
+  "Gondal": [
+   21.97218,
+   70.79552
+  ],
+  "Ahmedabad": [
+   23.02154,
+   72.58006
+  ],
+  "Vadodara Junction": [
+   22.31107,
+   73.1808
+  ],
+  "Arogya Van": [
+   23.21685,
+   72.66714
+  ],
+  "Statue of Unity": [
+   21.83798,
+   73.71916
+  ],
+  "Sardar Sarovar Dam": [
+   21.8298,
+   73.74972
+  ]
+ },
+ "overview": {
+  "map": "map-overview-5945ae9e43.webp",
+  "stops": [
+   "Vadodara",
+   "Kevadia",
+   "Rajkot",
+   "Gondal",
+   "Ahmedabad"
+  ]
+ }
+}

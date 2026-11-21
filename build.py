@@ -71,7 +71,7 @@ for t in tours:
         d["_unverified"] = dm.get("unverified")
         d["_stops"] = dm.get("stops") or d.get("route") or []
         d["_directions"] = directions(t, m, d.get("route") or [])
-    credits = [dict(m["days"][k]["photo"], where=f"Day {k}") for k in sorted(m["days"], key=int) if m["days"][k].get("photo")]
+    credits = [dict(m["days"][k]["photo"], where=t["days"][int(k) - 1].get("photo_caption") or f"Day {k}") for k in sorted(m["days"], key=int) if m["days"][k].get("photo")]
     credits += [dict(v, where="Where you stay") for v in m.get("photos", {}).values()]
     t["_credits"] = credits
     t["_hotel_photo"] = m.get("photos", {}).get("hotel-1")
@@ -100,10 +100,11 @@ for t in tours:
         {"@type": "ListItem", "position": 1, "name": "Home", "item": site["main_site"] + "/"},
         {"@type": "ListItem", "position": 2, "name": "Tours", "item": base},
         {"@type": "ListItem", "position": 3, "name": t["title"], "item": url}]}
+    # no FAQPage schema: the FAQs are not shown on the client page
     html = env.get_template("tour.html").render(
         site=site, t=t, root="../", canonical=url, og_type="article", og_image=t["hero_image"],
         meta_title=t["meta_title"], meta_description=t["meta_description"],
-        jsonld=[dump(trip), dump(faq), dump(crumbs)], others=[o for o in tours if o["slug"] != t["slug"]][:3])
+        jsonld=[dump(trip), dump(crumbs)], others=[o for o in tours if o["slug"] != t["slug"]][:3])
     d = OUT / t["slug"]; d.mkdir()
     (d / "index.html").write_text(html)
 

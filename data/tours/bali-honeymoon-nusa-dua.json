@@ -124,7 +124,14 @@
         "The Crystal Luxury Bay Resort Nusa Dua",
         "Nusa Dua Beach"
       ],
-      "note": "Ask the front desk tonight for a 04:30 wake-up call and a packed breakfast. Tomorrow's pick-up for East Bali is early, and it is the reason you get the Gates of Heaven before the crowds."
+      "note": "Ask the front desk tonight for a 04:30 wake-up call and a packed breakfast. Tomorrow's pick-up for East Bali is early, and it is the reason you get the Gates of Heaven before the crowds.",
+      "photo_caption": "Sunset over Nusa Dua beach",
+      "transport": "Private SUV, airport to resort",
+      "travel_time": "About 30 minutes on the toll road",
+      "brief": [
+        "Your driver waits in arrivals with a name sign.",
+        "Do the e-VOA and the tourist levy online before you fly to skip the counters."
+      ]
     },
     {
       "pill": "Full day · long drive",
@@ -220,7 +227,15 @@
         "Goa Raja Waterfall",
         "Tegalalang Rice Terrace"
       ],
-      "note": "This is the longest day of the week. Pack a sarong and sash, a light jacket for the cool hill at Lempuyang, cash in small notes, and your power bank. Tomorrow starts slowly, on purpose."
+      "note": "This is the longest day of the week. Pack a sarong and sash, a light jacket for the cool hill at Lempuyang, cash in small notes, and your power bank. Tomorrow starts slowly, on purpose.",
+      "photo_caption": "Lempuyang, the Gates of Heaven",
+      "transport": "Private SUV with your guide",
+      "travel_time": "About 2.5 to 3 hours each way, pick-up about 04:30",
+      "brief": [
+        "Lempuyang: the Gates of Heaven photo is by queue number, so the early start matters.",
+        "Temples: covered shoulders and a sarong for everyone.",
+        "Goa Raja Waterfall has wet steps: wear shoes with grip."
+      ]
     },
     {
       "pill": "Easy day",
@@ -277,7 +292,14 @@
       "places": [
         "Tanah Lot"
       ],
-      "note": "Tanah Lot is busiest in the hour before sunset. Ask your driver to drop you at the main gate and arrange the pick-up point before you walk in, because the car park is large."
+      "note": "Tanah Lot is busiest in the hour before sunset. Ask your driver to drop you at the main gate and arrange the pick-up point before you walk in, because the car park is large.",
+      "photo_caption": "Tanah Lot sea temple",
+      "transport": "Private SUV",
+      "travel_time": "About 1 hour 15 minutes each way",
+      "brief": [
+        "Tanah Lot: only worshippers may climb the temple rock. At low tide you can reach its base for a blessing.",
+        "Watch the sunset from the cliff-top cafés."
+      ]
     },
     {
       "pill": "Activity day",
@@ -327,7 +349,14 @@
       "places": [
         "Tanjung Benoa"
       ],
-      "note": "Bring reef-safe sunscreen and a change of clothes. Contact lenses are fine under the mask, but carry spare glasses."
+      "note": "Bring reef-safe sunscreen and a change of clothes. Contact lenses are fine under the mask, but carry spare glasses.",
+      "photo_caption": "Coral and reef fish",
+      "transport": "Morning pick-up from the resort",
+      "travel_time": "A short drive to Tanjung Benoa",
+      "brief": [
+        "No experience needed. Your instructor stays beside you.",
+        "Tell us about any medical condition before booking. No flying for 18 hours after."
+      ]
     },
     {
       "pill": "Full day",
@@ -401,7 +430,15 @@
         "Ubud Art Market",
         "Ubud Palace"
       ],
-      "note": "Ubud is the best place in Bali to see a Legong dance. Ask us if you would like seats before your dinner, and we will fit the timings around it."
+      "note": "Ubud is the best place in Bali to see a Legong dance. Ask us if you would like seats before your dinner, and we will fit the timings around it.",
+      "photo_caption": "Ubud Monkey Forest",
+      "transport": "Private SUV, then on foot in Ubud",
+      "travel_time": "About 1 hour 15 minutes each way, about 3 km walking",
+      "brief": [
+        "Monkey Forest: keep sunglasses, earrings and phones out of sight.",
+        "Art Market: bargaining is expected.",
+        "Candlelight dinner for two from 18:00."
+      ]
     },
     {
       "pill": "Free day",
@@ -472,7 +509,14 @@
         "Uluwatu Temple",
         "Jimbaran Beach"
       ],
-      "note": "Tonight, pack and put your passports, phones and chargers in your hand luggage. Tell the front desk your pick-up time for tomorrow."
+      "note": "Tonight, pack and put your passports, phones and chargers in your hand luggage. Tell the front desk your pick-up time for tomorrow.",
+      "photo_caption": "Uluwatu, the cliff-top temple",
+      "transport": "Free day. Uluwatu is optional, by private car",
+      "travel_time": "Uluwatu about 30 to 45 minutes",
+      "brief": [
+        "Uluwatu entry and the Kecak dance are paid in cash or QRIS.",
+        "Arrive by about 16:30 to 17:00 for a good seat at the fire dance."
+      ]
     },
     {
       "pill": "Departure",
@@ -513,7 +557,13 @@
       "places": [
         "Ngurah Rai International Airport"
       ],
-      "note": "Keep your levy voucher and passport handy until you board. Selamat jalan, and come back soon."
+      "note": "Keep your levy voucher and passport handy until you board. Selamat jalan, and come back soon.",
+      "transport": "Private SUV, resort to airport",
+      "travel_time": "About 30 to 45 minutes",
+      "brief": [
+        "Be at the airport 3 hours before your flight.",
+        "Ask for a late check-out if you fly in the evening."
+      ]
     }
   ],
   "hotel": {

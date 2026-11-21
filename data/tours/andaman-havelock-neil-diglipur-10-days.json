@@ -1,0 +1,644 @@
+{
+  "slug": "andaman-havelock-neil-diglipur-10-days",
+  "title": "Complete Andamans: Port Blair, Diglipur, Havelock & Neil in 10 Days",
+  "meta_title": "Andaman Tour 10 Days | Havelock, Neil & Diglipur | Blue Diamond Voyage",
+  "meta_description": "10-day Andaman itinerary: Cellular Jail, Ross & Smith twin islands at Diglipur, Baratang caves, North Bay, Radhanagar Beach, Elephant Beach and Neil Island.",
+  "destination": "Andaman Islands, India",
+  "country": "India",
+  "duration": "10 days / 9 nights",
+  "nights": 9,
+  "style": "Beach · Islands · History",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "White beach and turquoise water in the Andaman Islands",
+  "tagline": "From Kalapani to the whitest beaches in Asia",
+  "facts": [
+    [
+      "Stay",
+      "Port Blair, Diglipur, Havelock, Neil"
+    ],
+    [
+      "Pace",
+      "Two long road days, then slow island time"
+    ],
+    [
+      "Ideal for",
+      "Couples, families, snorkellers"
+    ],
+    [
+      "Best months",
+      "October to May"
+    ],
+    [
+      "Transfers",
+      "Private car, private ferries"
+    ]
+  ],
+  "intro": "Most Andaman trips stop at Havelock. This one goes to the far north, to the sandbar that joins Ross and Smith islands at Diglipur, and comes back through the limestone caves of Baratang before the classic islands. Private ferries link Port Blair, Havelock and Neil, and every boat time is planned around the tides.",
+  "highlights": [
+    "Cellular Jail and its evening light-and-sound show",
+    "Ross & Smith, two islands joined by a white sandbar, near Diglipur",
+    "Mangrove creek boat and limestone caves at Baratang",
+    "North Bay coral and Ross (Netaji Subhas Chandra Bose) Island",
+    "Radhanagar (Beach No. 7) on Havelock at sunset",
+    "Elephant Beach snorkelling and the natural rock bridge on Neil Island"
+  ],
+  "stays": [
+    {
+      "place": "Port Blair",
+      "nights": 1,
+      "hotel": "Sinclairs Bayview"
+    },
+    {
+      "place": "Diglipur",
+      "nights": 2,
+      "hotel": "Pristine Beach Resort"
+    },
+    {
+      "place": "Port Blair",
+      "nights": 2,
+      "hotel": "Sinclairs Bayview"
+    },
+    {
+      "place": "Havelock",
+      "nights": 2,
+      "hotel": "Taj Exotica or Tilar Siro"
+    },
+    {
+      "place": "Neil",
+      "nights": 1,
+      "hotel": "Summer Sands"
+    },
+    {
+      "place": "Port Blair",
+      "nights": 1,
+      "hotel": "Sinclairs Bayview"
+    }
+  ],
+  "route": [
+    "Port Blair",
+    "Baratang",
+    "Rangat",
+    "Mayabunder",
+    "Diglipur",
+    "Havelock",
+    "Neil",
+    "Port Blair"
+  ],
+  "stops": [
+    {
+      "name": "Port Blair",
+      "lat": 11.623,
+      "lng": 92.726
+    },
+    {
+      "name": "Baratang (Nilambur jetty)",
+      "lat": 12.09,
+      "lng": 92.75
+    },
+    {
+      "name": "Diglipur",
+      "lat": 13.26,
+      "lng": 92.97
+    },
+    {
+      "name": "Ross & Smith Islands",
+      "lat": 13.31,
+      "lng": 93.07
+    },
+    {
+      "name": "North Bay Island",
+      "lat": 11.7,
+      "lng": 92.75
+    },
+    {
+      "name": "Havelock (Swaraj Dweep)",
+      "lat": 11.97,
+      "lng": 92.99
+    },
+    {
+      "name": "Radhanagar Beach",
+      "lat": 11.984,
+      "lng": 92.952
+    },
+    {
+      "name": "Elephant Beach",
+      "lat": 12.03,
+      "lng": 92.95
+    },
+    {
+      "name": "Neil (Shaheed Dweep)",
+      "lat": 11.83,
+      "lng": 93.03
+    }
+  ],
+  "links": [
+    {
+      "title": "Andaman & Nicobar Tourism (official)",
+      "url": "https://www.andamans.gov.in/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Port Blair and the Cellular Jail",
+      "summary": "Arrival, Cellular Jail and the evening light-and-sound show.",
+      "strip": [
+        "Airport to hotel 15 minutes",
+        "Jail entry closes about 15:45",
+        "Show about 18:00"
+      ],
+      "rows": [
+        {
+          "label": "On landing",
+          "title": "Meet your driver at Veer Savarkar Airport",
+          "text": "Rest at the hotel if you landed early."
+        },
+        {
+          "label": "About 14:30",
+          "title": "Cellular Jail (Kala Pani)",
+          "text": "The colonial prison where freedom fighters were held. Walk the radial wings and climb to the central tower.",
+          "notes": [
+            [
+              "CARE",
+              "Cars drop you about 400 m from the gate; vehicles cannot wait outside."
+            ]
+          ]
+        },
+        {
+          "label": "About 18:00",
+          "title": "Light-and-sound show",
+          "text": "The story of the freedom struggle told inside the jail.",
+          "notes": [
+            [
+              "TIME",
+              "Hindi and English shows run at set times, subject to tickets."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Cellular Jail"
+      ],
+      "note": "Tomorrow's alarm is about 03:30. Pack an overnight bag and leave the rest in the hotel cloakroom."
+    },
+    {
+      "pill": "Long road day",
+      "title": "North through the forests to Diglipur",
+      "summary": "Drive the Andaman Trunk Road to Diglipur via Baratang, Rangat and Mayabunder.",
+      "strip": [
+        "Leave about 04:00",
+        "About 300 km, 10 hours",
+        "Two vehicle ferries"
+      ],
+      "rows": [
+        {
+          "label": "About 04:00",
+          "title": "Leave Port Blair",
+          "text": "Reach the Jirkatang check post for the first forest convoy.",
+          "notes": [
+            [
+              "CARE",
+              "The road crosses the Jarawa tribal reserve in escorted convoys. Stopping, photography and any contact are strictly illegal."
+            ]
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "Middle Strait ferry",
+          "text": "A short vehicle ferry to Baratang."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rangat and Mayabunder",
+          "text": "Lunch on the way.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive Diglipur",
+          "text": "Facing Saddle Peak, the highest point in the islands."
+        }
+      ],
+      "places": [
+        "Jirkatang Check Post",
+        "Pristine Beach Resort Diglipur"
+      ],
+      "note": "Carry original photo ID (not PAN) for the convoy and ferries."
+    },
+    {
+      "pill": "Island day",
+      "title": "Ross & Smith: two islands, one sandbar",
+      "summary": "Speedboat from Aerial Bay to the twin islands of Ross & Smith.",
+      "strip": [
+        "Boat about 20 minutes",
+        "About 3 hours on the island",
+        "Tide dependent"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Aerial Bay jetty",
+          "text": "Shared speedboats run by rotation; there can be a wait.",
+          "notes": [
+            [
+              "TIME",
+              "At low tide you walk the sandbar between the islands; at high tide it disappears."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Ross & Smith Islands",
+          "text": "Swim in calm, clear water off the sandbar.",
+          "notes": [
+            [
+              "WEAR",
+              "Swimwear under clothes, towel, cap and reef-safe sunscreen. There are no shops."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to the resort",
+          "text": "Optional: Kalipur beach, where turtles nest from December to March."
+        }
+      ],
+      "places": [
+        "Aerial Bay Jetty",
+        "Ross and Smith Island"
+      ],
+      "note": "Alcohol and plastic are not allowed on the island."
+    },
+    {
+      "pill": "Long road day",
+      "title": "Baratang caves and mangroves, back to Port Blair",
+      "summary": "Drive south with a mangrove boat and the limestone caves at Baratang.",
+      "strip": [
+        "About 300 km, 10 hours",
+        "Baratang closed Mondays",
+        "1 km walk to the caves"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Leave Diglipur"
+        },
+        {
+          "label": "Midday",
+          "title": "Baratang mangrove creek and limestone caves",
+          "text": "A shared boat through mangrove tunnels, then a 1 km forest walk to the caves.",
+          "notes": [
+            [
+              "TIME",
+              "Baratang excursions do not run on Mondays; we plan the dates around it."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive Port Blair"
+        }
+      ],
+      "places": [
+        "Baratang Limestone Caves"
+      ],
+      "note": "Wear closed shoes for the caves; the path can be muddy."
+    },
+    {
+      "pill": "Island day",
+      "title": "North Bay coral and Ross Island",
+      "summary": "Shared boat to North Bay for coral and water sports, then Ross (Netaji Subhas Chandra Bose) Island.",
+      "strip": [
+        "Boats from the Water Sports Complex",
+        "Last Ross Island boat about 14:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "North Bay Island",
+          "text": "Glass-bottom boat, snorkelling or sea walk at extra cost.",
+          "notes": [
+            [
+              "MONEY",
+              "Activities are paid on the spot. Carry cash."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Ross Island",
+          "text": "Ruins of the old British headquarters, peacocks and deer."
+        }
+      ],
+      "places": [
+        "North Bay Island",
+        "Netaji Subhas Chandra Bose Island"
+      ],
+      "note": "Ross Island is closed on Wednesdays; we check the day."
+    },
+    {
+      "pill": "Ferry day",
+      "title": "Private ferry to Havelock and Radhanagar at sunset",
+      "summary": "Private ferry to Havelock and the afternoon at Radhanagar Beach.",
+      "strip": [
+        "Ferry 1.5 to 2.5 hours",
+        "Check in 1 hour before sailing"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Private ferry to Havelock",
+          "text": "Makruzz, Green Ocean or Nautika, depending on dates.",
+          "notes": [
+            [
+              "CARE",
+              "No alcohol on board. Photo ID is checked at the jetty."
+            ]
+          ]
+        },
+        {
+          "label": "About 15:00",
+          "title": "Radhanagar Beach (Beach No. 7)",
+          "text": "One of Asia's finest beaches; stay for sunset.",
+          "notes": [
+            [
+              "TIME",
+              "The beach closes at sunset."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Radhanagar Beach"
+      ],
+      "note": "Ask the Port Blair hotel for a packed breakfast if your ferry is early."
+    },
+    {
+      "pill": "Beach day",
+      "title": "Elephant Beach snorkelling",
+      "summary": "Shared boat to Elephant Beach with optional water sports.",
+      "strip": [
+        "Boat 30 to 45 minutes",
+        "About 3 hours at the beach"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Elephant Beach",
+          "text": "Snorkel over the reef; sea walk, jet ski and glass-bottom boat are optional.",
+          "notes": [
+            [
+              "MONEY",
+              "Pay for water sports at the boarding point."
+            ],
+            [
+              "CARE",
+              "Alcohol is banned on Elephant Beach."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch",
+          "title": "A beach-side café on the way back",
+          "meal": [
+            "Lunch",
+            "Not included",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Elephant Beach Havelock"
+      ],
+      "note": "Book scuba with a PADI centre on Havelock if you want a full dive; tell us before you travel."
+    },
+    {
+      "pill": "Ferry day",
+      "title": "Neil Island's beaches and rock bridge",
+      "summary": "Ferry to Neil and visits to Bharatpur, Laxmanpur and the natural bridge.",
+      "strip": [
+        "Ferry about 1 hour",
+        "Tide dependent"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Ferry to Neil (Shaheed Dweep)"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bharatpur and Laxmanpur beaches",
+          "text": "Calm water for wading."
+        },
+        {
+          "label": "Low tide",
+          "title": "Natural Bridge",
+          "text": "A rock arch reached over the reef flats.",
+          "notes": [
+            [
+              "WEAR",
+              "Water shoes: the coral is sharp."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Bharatpur Beach Neil",
+        "Laxmanpur Beach",
+        "Natural Bridge Neil Island"
+      ],
+      "note": "Neil's sunset point at Laxmanpur Beach 1 is the best of the trip."
+    },
+    {
+      "pill": "Ferry day",
+      "title": "Back to Port Blair",
+      "summary": "Ferry from Neil to Port Blair, afternoon free.",
+      "strip": [
+        "Ferry about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Ferry to Port Blair"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Optional: Chidiya Tapu sunset or Corbyn's Cove"
+        }
+      ],
+      "places": [
+        "Chidiya Tapu",
+        "Corbyn's Cove Beach"
+      ],
+      "note": "Pack shells and coral? Do not: taking them is illegal."
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "15 minutes to the airport",
+        "Be there 1.5 to 2 hours before"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Transfer to Veer Savarkar Airport",
+          "text": "The airport is small and busy; arrive early."
+        }
+      ],
+      "places": [
+        "Veer Savarkar International Airport"
+      ],
+      "note": "Thank you for travelling the Andamans with us."
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked hotels and resorts",
+    "room": "Sea-facing rooms where available",
+    "meals": "Breakfast daily",
+    "area": "Port Blair, Diglipur, Havelock and Neil",
+    "about": "There are no official star ratings in the Andamans. Our premium choice: Sinclairs Bayview, Port Blair; Pristine Beach Resort, Diglipur; Taj Exotica or CGH Earth Tilar Siro, Havelock; Summer Sands, Neil. Breakfast-only is best: menus are better than the island buffets."
+  },
+  "included": [
+    "9 nights' accommodation with breakfast",
+    "Private car for all transfers",
+    "Private ferries Port Blair–Havelock–Neil–Port Blair",
+    "Shared boats to Ross & Smith, North Bay, Ross Island and Elephant Beach",
+    "Entry permits and forest fees in the plan",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights to Port Blair",
+    "Water sports, scuba and camera fees",
+    "Lunches and dinners",
+    "Travel insurance"
+  ],
+  "entry": [
+    [
+      "Photo ID",
+      "Original Aadhaar, passport, voter ID or driving licence (PAN not accepted)",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Foreigner entry formalities",
+      "Registration on arrival; some islands need a permit",
+      "Foreign nationals",
+      ""
+    ],
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "best_time": "October to May. November to April has the calmest seas and clearest water for snorkelling. Avoid mid-May to September, when the monsoon cancels ferries. Christmas and New Year are the most expensive weeks.",
+  "seasons": [
+    [
+      "November to April",
+      "Best",
+      "About 30° / 23°, calm seas, clear water."
+    ],
+    [
+      "15 December to 15 January",
+      "Peak",
+      "Book ferries and hotels months ahead."
+    ],
+    [
+      "June to September",
+      "Avoid",
+      "Monsoon; ferries often cancelled."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Is Diglipur worth the long drive?",
+      "a": "If you want empty beaches, yes. It is two long road days, so skip it and add a Havelock night if you prefer a slower trip."
+    },
+    {
+      "q": "Can non-swimmers snorkel?",
+      "a": "Yes, with a life jacket and guide at Elephant Beach and North Bay. The sea walk needs no swimming at all."
+    },
+    {
+      "q": "Can I take photographs on the Andaman Trunk Road?",
+      "a": "No. Photography, stopping or any contact in the Jarawa reserve is a criminal offence."
+    }
+  ],
+  "related_keywords": [
+    "Andaman tour package 10 days",
+    "Havelock Neil itinerary",
+    "Diglipur Ross Smith island",
+    "Andaman honeymoon"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ]
+}

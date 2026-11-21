@@ -1,0 +1,688 @@
+{
+  "slug": "kolkata-sundarbans-shantiniketan-11-days",
+  "title": "Bengal in Depth: Kolkata, Mayapur, the Sundarbans, Mandarmani & Shantiniketan",
+  "meta_title": "Kolkata, Sundarbans & Shantiniketan Tour 11 Days | Blue Diamond Voyage",
+  "meta_description": "11-day West Bengal itinerary: Kolkata heritage and food, ISKCON Mayapur, a Sundarbans mangrove cruise, Mandarmani beach and Tagore's Shantiniketan.",
+  "destination": "West Bengal, India",
+  "country": "India",
+  "duration": "11 days / 10 nights",
+  "nights": 10,
+  "style": "Culture · Wildlife · Heritage",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Heritage street in Kolkata",
+  "tagline": "The City of Joy, the tiger's mangroves and Tagore's open-air university",
+  "facts": [
+    [
+      "Stay",
+      "Kolkata, Sundarbans, Mandarmani, Shantiniketan"
+    ],
+    [
+      "Pace",
+      "Comfortable, with two long day trips"
+    ],
+    [
+      "Ideal for",
+      "Culture lovers and families"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Transfers",
+      "Private AC car and boats"
+    ]
+  ],
+  "intro": "Bengal rewards slow travel. This route gives you Kolkata's colonial avenues, temples and food, a day at the ISKCON headquarters in Mayapur, two nights deep in the Sundarbans mangroves on a boat, a beach break at Mandarmani and the peace of Rabindranath Tagore's Shantiniketan. We changed the order of the original plan so you sleep in Kolkata between excursions instead of crossing the city twice in a day.",
+  "highlights": [
+    "Victoria Memorial, Mother House, Kalighat and the Marble Palace",
+    "A full day in Mayapur, birthplace of Sri Chaitanya Mahaprabhu and ISKCON's world headquarters",
+    "Two days cruising the Sundarbans tiger reserve with watchtowers and lunch on board",
+    "Red-crab beach at Mandarmani on the Bay of Bengal",
+    "Tagore's Shantiniketan and, on Saturdays, the Sonajhuri Haat craft market",
+    "Belur Math and Dakshineswar on the last morning"
+  ],
+  "stays": [
+    {
+      "place": "Kolkata",
+      "nights": 3,
+      "hotel": "Heritage or business hotel"
+    },
+    {
+      "place": "Sundarbans",
+      "nights": 2,
+      "hotel": "Eco-resort"
+    },
+    {
+      "place": "Mandarmani",
+      "nights": 1,
+      "hotel": "Beach resort"
+    },
+    {
+      "place": "Kolkata",
+      "nights": 1,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Shantiniketan",
+      "nights": 1,
+      "hotel": "Resort"
+    },
+    {
+      "place": "Kolkata",
+      "nights": 2,
+      "hotel": "City hotel"
+    }
+  ],
+  "route": [
+    "Kolkata",
+    "Mayapur",
+    "Godkhali",
+    "Sajnekhali",
+    "Mandarmani",
+    "Shantiniketan",
+    "Belur Math",
+    "Dakshineswar"
+  ],
+  "stops": [
+    {
+      "name": "Kolkata",
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    {
+      "name": "Mayapur",
+      "lat": 23.423,
+      "lng": 88.389
+    },
+    {
+      "name": "Godkhali jetty",
+      "lat": 22.17,
+      "lng": 88.79
+    },
+    {
+      "name": "Sajnekhali",
+      "lat": 22.12,
+      "lng": 88.83
+    },
+    {
+      "name": "Mandarmani",
+      "lat": 21.66,
+      "lng": 87.71
+    },
+    {
+      "name": "Shantiniketan",
+      "lat": 23.68,
+      "lng": 87.685
+    },
+    {
+      "name": "Belur Math",
+      "lat": 22.632,
+      "lng": 88.356
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "lat": 22.655,
+      "lng": 88.357
+    }
+  ],
+  "links": [
+    {
+      "title": "Sundarbans National Park on the UNESCO World Heritage List",
+      "url": "https://whc.unesco.org/en/list/452/"
+    },
+    {
+      "title": "Santiniketan on the UNESCO World Heritage List",
+      "url": "https://whc.unesco.org/en/list/1375/"
+    },
+    {
+      "title": "Victoria Memorial Hall (official)",
+      "url": "https://victoriamemorial-cal.org/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Kolkata, first look at the City of Joy",
+      "summary": "Arrival, check-in and a half-day city tour.",
+      "strip": [
+        "Airport to city about 1 hour",
+        "Victoria Memorial closes 17:00 (Monday shut)"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "At the airport or Howrah station."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Half-day city tour",
+          "text": "Drive past the GPO, Writers' Building, Eden Gardens and Raj Bhavan; visit Mother House, St Paul's Cathedral and Victoria Memorial.",
+          "notes": [
+            [
+              "TIME",
+              "Victoria Memorial museum is closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Kalighat Kali Temple",
+          "text": "One of the 51 Shakti peethas. Go with your guide; touts at the gate are persistent.",
+          "notes": [
+            [
+              "WEAR",
+              "Leather is not allowed inside."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Victoria Memorial",
+        "Mother House Kolkata",
+        "Kalighat Kali Temple"
+      ],
+      "note": "Try mishti doi and sandesh at a sweet shop tonight. Ask us for pure-vegetarian sweet shops if you eat Jain."
+    },
+    {
+      "pill": "Full day",
+      "title": "Old Kolkata: Jain temple, Tagore's house and Marble Palace",
+      "summary": "Full-day city tour with an optional evening river cruise.",
+      "strip": [
+        "Full day with guide",
+        "Marble Palace closed Monday and Thursday"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Pareshnath (Calcutta Jain) Temple",
+          "text": "A mirror-and-mosaic Jain temple from 1867."
+        },
+        {
+          "label": "Late morning",
+          "title": "Jorasanko Thakur Bari",
+          "text": "Rabindranath Tagore's family home, now a museum.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Marble Palace",
+          "text": "A 19th-century mansion full of European art.",
+          "notes": [
+            [
+              "TIME",
+              "Entry needs a free pass from the tourist office; we arrange it."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Optional Hooghly river cruise",
+          "text": "With snacks or dinner, past Howrah Bridge lit up."
+        }
+      ],
+      "places": [
+        "Pareshnath Jain Temple Kolkata",
+        "Jorasanko Thakur Bari",
+        "Marble Palace Kolkata"
+      ],
+      "note": "Science City and Eco Park suit families with children; tell us and we swap them in."
+    },
+    {
+      "pill": "Day trip",
+      "title": "Mayapur, home of the Hare Krishna movement",
+      "summary": "Day trip to ISKCON Mayapur and back to Kolkata.",
+      "strip": [
+        "About 130 km each way, 3.5 to 4 hours",
+        "Leave about 06:00",
+        "Back about 21:00"
+      ],
+      "rows": [
+        {
+          "label": "About 06:00",
+          "title": "Leave Kolkata",
+          "text": "Breakfast on the way."
+        },
+        {
+          "label": "About 10:00",
+          "title": "ISKCON Mayapur",
+          "text": "Srila Prabhupada's Samadhi, the Radha-Madhava and Panchatattva altars, the Chaitanya exhibition and the goshala.",
+          "notes": [
+            [
+              "TIME",
+              "The temple closes for darshan from about 13:00 to 16:00. We time your visit around the aartis."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch",
+          "title": "Govinda's prasadam restaurant",
+          "text": "Pure-vegetarian prasadam inside the campus.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 300 to 500 per person"
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chaitanya Mahaprabhu's birthplace and a boat at the river confluence",
+          "text": "Where the Jalangi meets the Ganga."
+        }
+      ],
+      "places": [
+        "ISKCON Mayapur",
+        "Yogapith Mayapur"
+      ],
+      "note": "This is a long day. If you prefer, we book a guest house in Mayapur and add a night."
+    },
+    {
+      "pill": "Road and river",
+      "title": "Into the Sundarbans mangroves",
+      "summary": "Drive to Godkhali and cruise to Sajnekhali, with a sunset cruise past the bird sanctuary.",
+      "strip": [
+        "About 100 km, 3 hours by road",
+        "Then boat about 1.5 hours",
+        "Generator power at night"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Drive to Godkhali jetty",
+          "text": "Through the villages of South 24 Parganas."
+        },
+        {
+          "label": "Late morning",
+          "title": "Boat to Sajnekhali",
+          "text": "Lunch is served on the boat.",
+          "meal": [
+            "Lunch",
+            "Included on board",
+            ""
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Sunset cruise",
+          "text": "Past the bird sanctuary near Jatirampur.",
+          "notes": [
+            [
+              "CARE",
+              "Resorts run on generators; air-conditioning usually works only from about 21:00 to 06:00."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Godkhali Ferry Ghat",
+        "Sajnekhali Watch Tower"
+      ],
+      "note": "Pack light for the Sundarbans; leave big bags at the Kolkata hotel."
+    },
+    {
+      "pill": "Full day on the water",
+      "title": "Watchtowers and creeks of the tiger reserve",
+      "summary": "Full-day boat safari: Sajnekhali, Dobanki canopy walk, Sudhanyakhali and the creeks.",
+      "strip": [
+        "Full day on the boat",
+        "Lunch on board",
+        "Permits included"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sajnekhali and Dobanki watchtowers",
+          "text": "Dobanki has a canopy walk caged in mesh above the forest floor."
+        },
+        {
+          "label": "Midday",
+          "title": "Narrow creeks and the deer rehabilitation centre",
+          "text": "Look for crocodiles, monitor lizards, kingfishers and spotted deer.",
+          "meal": [
+            "Lunch",
+            "Included on board",
+            ""
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back towards the resort",
+          "text": "Tiger sightings are rare and never guaranteed; tracks on the mud banks are common.",
+          "notes": [
+            [
+              "CARE",
+              "Never put hands in the water or step off the boat except at watchtowers."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Dobanki Watch Tower",
+        "Sudhanyakhali Watch Tower"
+      ],
+      "note": "Carry binoculars, a cap and mosquito repellent."
+    },
+    {
+      "pill": "Road day",
+      "title": "Back to Kolkata, then the beach at Mandarmani",
+      "summary": "Morning cruise, boat to Godkhali and drive to Mandarmani.",
+      "strip": [
+        "Boat 1.5 hours, road about 5 hours",
+        "Long transfer day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Last creek cruise and boat to Godkhali",
+          "meal": [
+            "Lunch",
+            "Included on board",
+            ""
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Mandarmani",
+          "text": "We go straight to the coast so you skip a night back in the city.",
+          "notes": [
+            [
+              "NOTE",
+              "In the original plan this was two separate trips from Kolkata. Going straight to Mandarmani saves about 5 hours of driving."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Mandarmani beach",
+          "text": "A long, flat beach with red crabs at low tide."
+        }
+      ],
+      "places": [
+        "Mandarmani Beach"
+      ],
+      "note": "Swim only near lifeguards; currents in the Bay of Bengal can be strong."
+    },
+    {
+      "pill": "Easy day",
+      "title": "Beach morning and back to Kolkata",
+      "summary": "Free morning at Mandarmani, drive to Kolkata.",
+      "strip": [
+        "About 180 km, 4 hours",
+        "Check-out 11:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sunrise and red crabs",
+          "text": "Walk the beach at low tide."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Kolkata",
+          "text": "Evening free for New Market or Park Street."
+        }
+      ],
+      "places": [
+        "Mandarmani Beach",
+        "New Market Kolkata"
+      ],
+      "note": "Tonight is a good night for a Bengali vegetarian thali: shukto, cholar dal, luchi and payesh."
+    },
+    {
+      "pill": "Road day",
+      "title": "Tagore's Shantiniketan",
+      "summary": "Drive to Shantiniketan and visit Visva-Bharati.",
+      "strip": [
+        "About 160 km, 4 hours",
+        "Campus museum closed Wednesday"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive north",
+          "text": "Breakfast at Shaktigarh, known for langcha sweets."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Visva-Bharati and Rabindra Bhavana museum",
+          "text": "The university Tagore founded, with classes under the trees.",
+          "notes": [
+            [
+              "TIME",
+              "The campus is closed to visitors on Wednesdays, and partly on Thursdays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Khoai and the Sonajhuri forest",
+          "text": "Baul singers often perform here at sunset."
+        }
+      ],
+      "places": [
+        "Visva-Bharati University",
+        "Rabindra Bhavana Museum",
+        "Sonajhuri Haat"
+      ],
+      "note": "The Sonajhuri Haat craft market is busiest on Saturday afternoons. Ask us to plan your dates around it."
+    },
+    {
+      "pill": "Road day",
+      "title": "Back to Kolkata",
+      "summary": "Drive to Kolkata; evening free.",
+      "strip": [
+        "About 160 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Return drive"
+        },
+        {
+          "label": "Evening",
+          "title": "Park Street or a heritage walk"
+        }
+      ],
+      "places": [
+        "Park Street Kolkata"
+      ],
+      "note": "Tomorrow's sightseeing starts at 09:00; keep packing light."
+    },
+    {
+      "pill": "Full day",
+      "title": "Belur Math, Dakshineswar and Howrah Bridge",
+      "summary": "Belur Math, Dakshineswar Kali Temple and a drive over Howrah Bridge.",
+      "strip": [
+        "Half to full day",
+        "Belur Math closed about 11:30 to 15:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Belur Math",
+          "text": "Headquarters of the Ramakrishna Mission, on the Ganga.",
+          "notes": [
+            [
+              "TIME",
+              "Open about 06:00 to 11:30 and 16:00 to 21:00 (winter 15:30). Photography inside is not allowed."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Dakshineswar Kali Temple",
+          "text": "Where Sri Ramakrishna lived. Cross by ferry to Belur if the river is calm."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Howrah Bridge and the flower market",
+          "text": "Mullick Ghat flower market is busiest in the morning."
+        }
+      ],
+      "places": [
+        "Belur Math",
+        "Dakshineswar Kali Temple",
+        "Howrah Bridge",
+        "Mullick Ghat Flower Market"
+      ],
+      "note": "This is your last full day: tell us if you want a dinner booking."
+    },
+    {
+      "pill": "Departure",
+      "title": "Leave Kolkata",
+      "summary": "Transfer to the airport or station.",
+      "strip": [
+        "About 1 hour to the airport"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Transfer",
+          "text": "Reach the airport 2 hours before domestic flights."
+        }
+      ],
+      "places": [
+        "Netaji Subhas Chandra Bose International Airport"
+      ],
+      "note": "Thank you for travelling Bengal with us."
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked hotels at each stop",
+    "room": "Deluxe rooms",
+    "meals": "Breakfast daily; full board in the Sundarbans",
+    "area": "Kolkata, Sundarbans, Mandarmani and Shantiniketan",
+    "about": "In the Sundarbans, resorts are simple eco-lodges on generator power, not city hotels. We pick the most comfortable available."
+  },
+  "included": [
+    "10 nights' accommodation",
+    "Private AC car with driver",
+    "Sundarbans boat, permits, guide and meals",
+    "Guided Kolkata tours",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights or trains to Kolkata",
+    "Monument entry and camera fees",
+    "Optional river cruise in Kolkata",
+    "Meals not listed",
+    "Travel insurance"
+  ],
+  "best_time": "October to March: cool, dry days for city walks and the best light in the Sundarbans. Durga Puja (September or October) is spectacular but crowded. Avoid April to June (very hot) and the monsoon from June to September.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "About 28° / 14°, dry and pleasant."
+    ],
+    [
+      "Durga Puja",
+      "Festival",
+      "Kolkata's biggest festival. Book hotels months ahead."
+    ],
+    [
+      "April to September",
+      "Avoid",
+      "Hot and humid, then heavy monsoon rain."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "Will we see a tiger in the Sundarbans?",
+      "a": "Possibly, but sightings are rare because the tigers live in dense mangrove. You will almost certainly see crocodiles, deer, monitor lizards and many birds."
+    },
+    {
+      "q": "Is the Sundarbans comfortable for seniors?",
+      "a": "Yes, with simple facilities. Boarding the boat involves a few steps on jetties, and AC works only at night."
+    },
+    {
+      "q": "Is Mayapur a good day trip?",
+      "a": "It is a long day, about 4 hours each way. Devotees often prefer to add a night in the ISKCON guest houses, which we can book."
+    }
+  ],
+  "related_keywords": [
+    "Kolkata Sundarbans tour",
+    "West Bengal itinerary 11 days",
+    "Shantiniketan tour",
+    "Mayapur tour from Kolkata"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ]
+}

@@ -22,6 +22,8 @@ if OUT.exists():
     shutil.rmtree(OUT)
 (OUT / "assets").mkdir(parents=True)
 shutil.copy(ROOT / "assets/style.css", OUT / "assets/style.css")
+if (ROOT / "assets/img").is_dir():
+    shutil.copytree(ROOT / "assets/img", OUT / "assets/img")
 (OUT / ".nojekyll").write_text("")
 
 for t in tours:

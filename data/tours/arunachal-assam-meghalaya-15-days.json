@@ -1,0 +1,943 @@
+{
+  "slug": "arunachal-assam-meghalaya-15-days",
+  "title": "Arunachal, Assam & Meghalaya: 15 Days from Tawang to the Living Root Bridges",
+  "meta_title": "Arunachal, Kaziranga & Meghalaya Tour 15 Days | Blue Diamond Voyage",
+  "meta_description": "15-day North East India itinerary: Dirang, Sela Pass, Tawang Monastery, Bumla, Kaziranga rhino safaris, Cherrapunji waterfalls, Mawlynnong and Dawki.",
+  "destination": "North East India",
+  "country": "India",
+  "duration": "15 days / 14 nights",
+  "nights": 14,
+  "style": "Mountains · Wildlife · Culture",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Mountain road in North East India",
+  "tagline": "Monasteries above the clouds, one-horned rhinos and the wettest hills on earth",
+  "facts": [
+    [
+      "Stay",
+      "8 towns, 14 nights"
+    ],
+    [
+      "Highest point",
+      "Sela Pass 4,170 m, Bumla 4,600 m"
+    ],
+    [
+      "Pace",
+      "Long mountain drives, rest days built in"
+    ],
+    [
+      "Best months",
+      "October to April"
+    ],
+    [
+      "Transfers",
+      "Private Innova throughout"
+    ]
+  ],
+  "intro": "A grand circuit of India's least-crowded corner. You climb from the Brahmaputra plains through the orchid forests of Bhalukpong and the apple orchards of Dirang to Tawang, home of India's largest monastery, then come down to Kaziranga for rhinos and elephants, and finish in Meghalaya's waterfalls, caves and living root bridges. The route climbs gradually, with two nights in Dirang before Tawang, so your body has time to adjust to the altitude.",
+  "highlights": [
+    "Tawang Monastery, the largest in India, founded in 1680-81",
+    "Sela Pass and Sela Lake at about 4,170 m, and the Jaswantgarh war memorial",
+    "Bumla Pass on the India-China border and Madhuri (Sangetsar) Lake, with Army permits arranged",
+    "Two jeep safaris in Kaziranga, home to most of the world's one-horned rhinos",
+    "Nohkalikai Falls, Mawsmai Cave and the Seven Sisters Falls at Cherrapunji",
+    "Mawlynnong village, the living root bridge at Riwai and the clear Umngot River at Dawki"
+  ],
+  "stays": [
+    {
+      "place": "Guwahati",
+      "nights": 1,
+      "hotel": "Vivanta Guwahati or similar"
+    },
+    {
+      "place": "Bhalukpong",
+      "nights": 1,
+      "hotel": "Prashanti Cottage"
+    },
+    {
+      "place": "Dirang",
+      "nights": 2,
+      "hotel": "Awoo Resort"
+    },
+    {
+      "place": "Tawang",
+      "nights": 3,
+      "hotel": "Hotel Yangzom"
+    },
+    {
+      "place": "Bomdila",
+      "nights": 1,
+      "hotel": "Tsepal Yangjom"
+    },
+    {
+      "place": "Kaziranga",
+      "nights": 2,
+      "hotel": "Diphlu River Lodge"
+    },
+    {
+      "place": "Shillong",
+      "nights": 3,
+      "hotel": "Vivanta Meghalaya"
+    },
+    {
+      "place": "Guwahati",
+      "nights": 1,
+      "hotel": "Vivanta Guwahati"
+    }
+  ],
+  "route": [
+    "Guwahati",
+    "Tezpur",
+    "Bhalukpong",
+    "Dirang",
+    "Sela Pass",
+    "Tawang",
+    "Bumla Pass",
+    "Bomdila",
+    "Kaziranga",
+    "Shillong",
+    "Cherrapunji",
+    "Mawlynnong",
+    "Dawki"
+  ],
+  "stops": [
+    {
+      "name": "Guwahati",
+      "lat": 26.144,
+      "lng": 91.736
+    },
+    {
+      "name": "Bhomoraguri, Tezpur",
+      "lat": 26.62,
+      "lng": 92.79
+    },
+    {
+      "name": "Bhalukpong",
+      "lat": 27.013,
+      "lng": 92.635
+    },
+    {
+      "name": "Dirang",
+      "lat": 27.358,
+      "lng": 92.241
+    },
+    {
+      "name": "Sela Pass",
+      "lat": 27.505,
+      "lng": 92.105
+    },
+    {
+      "name": "Tawang",
+      "lat": 27.586,
+      "lng": 91.859
+    },
+    {
+      "name": "Bumla Pass",
+      "lat": 27.735,
+      "lng": 91.905
+    },
+    {
+      "name": "Bomdila",
+      "lat": 27.264,
+      "lng": 92.416
+    },
+    {
+      "name": "Kaziranga (Kohora)",
+      "lat": 26.58,
+      "lng": 93.42
+    },
+    {
+      "name": "Umiam Lake",
+      "lat": 25.66,
+      "lng": 91.89
+    },
+    {
+      "name": "Shillong",
+      "lat": 25.578,
+      "lng": 91.893
+    },
+    {
+      "name": "Cherrapunji (Sohra)",
+      "lat": 25.27,
+      "lng": 91.73
+    },
+    {
+      "name": "Mawlynnong",
+      "lat": 25.2,
+      "lng": 91.92
+    },
+    {
+      "name": "Dawki",
+      "lat": 25.18,
+      "lng": 92.02
+    }
+  ],
+  "links": [
+    {
+      "title": "Route map of the whole circuit on Google Maps",
+      "url": "https://www.google.com/maps/dir/Guwahati+Airport/Bhalukpong/Dirang/Tawang/Bomdila/Kaziranga/Shillong/Cherrapunjee/Guwahati"
+    },
+    {
+      "title": "Arunachal Pradesh e-ILP (official)",
+      "url": "https://eilp.arunachal.gov.in/"
+    },
+    {
+      "title": "Kaziranga National Park (official)",
+      "url": "https://kaziranga.assam.gov.in/"
+    },
+    {
+      "title": "Kaziranga on the UNESCO World Heritage List",
+      "url": "https://whc.unesco.org/en/list/337/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Land in Guwahati, gateway to the North East",
+      "summary": "Arrival at Guwahati airport and transfer to the hotel.",
+      "strip": [
+        "About 25 km, 45 minutes",
+        "Guwahati 55 m",
+        "Rest after the flight"
+      ],
+      "rows": [
+        {
+          "label": "On landing · Guwahati airport (GAU)",
+          "title": "Meet your driver",
+          "text": "Your driver and Innova wait at arrivals for the drive into the city."
+        },
+        {
+          "label": "Evening",
+          "title": "Optional: Brahmaputra sunset cruise",
+          "text": "A one-hour cruise from Guwahati's riverfront, when the water level allows.",
+          "notes": [
+            [
+              "TIME",
+              "Cruises stop when the river is high, mostly in the monsoon."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Lokpriya Gopinath Bordoloi International Airport",
+        "Guwahati"
+      ],
+      "note": "Your Arunachal Inner Line Permit is ready before you land; keep the PDF on your phone and a printout in the car."
+    },
+    {
+      "pill": "Road day",
+      "title": "Up the Brahmaputra to the foothills of Bhalukpong",
+      "summary": "Drive to Bhalukpong with an optional dolphin boat ride at Bhomoraguri near Tezpur.",
+      "strip": [
+        "About 230 km, 5 to 6 hours",
+        "Optional 1-hour boat ride",
+        "Bhalukpong 213 m"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Leave Guwahati after breakfast",
+          "text": "North-east along the Brahmaputra plains."
+        },
+        {
+          "label": "Late morning · Bhomoraguri, Tezpur",
+          "title": "Gangetic river dolphin boat ride (optional)",
+          "text": "Local boatmen take you out on the Brahmaputra to watch for the endangered river dolphin.",
+          "notes": [
+            [
+              "TIME",
+              "Tickets are sold by the forest department one day ahead and depend on the water level."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bhalukpong and the Kameng River",
+          "text": "Cross into Arunachal at the Bhalukpong check-post. Evening at the riverside cottages.",
+          "meal": [
+            "Dinner",
+            "At the cottage",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Bhomoraguri Tezpur",
+        "Prashanti Cottage Bhalukpong"
+      ],
+      "note": "The ILP is checked at Bhalukpong. Keep it and your original ID handy at the check-post."
+    },
+    {
+      "pill": "Mountain drive",
+      "title": "Orchids of Tipi and the climb to Dirang",
+      "summary": "Drive to Dirang via the Tipi Orchid Centre and Sessa.",
+      "strip": [
+        "About 160 km, 6 to 7 hours",
+        "Dirang 1,560 m",
+        "Orchids bloom late March to May"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Tipi Orchid Research Centre",
+          "text": "Glasshouses with hundreds of Himalayan orchid species, a short stop on the highway."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Through Bomdila to Dirang",
+          "text": "The road winds up the Kameng valley through pine and rhododendron forest.",
+          "notes": [
+            [
+              "CARE",
+              "Mountain roads in Arunachal can close for a few hours after landslides. We keep buffer time in every road day."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Check in at Awoo Resort",
+          "text": "Apple and kiwi orchards around the valley.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Tipi Orchid Centre",
+        "Dirang"
+      ],
+      "note": "Drink plenty of water from today. Dirang is the first step of acclimatisation before Tawang at 3,000 m."
+    },
+    {
+      "pill": "Full day",
+      "title": "Dirang valley, Mandala Top and Sangti",
+      "summary": "Mandala Top, Dirang Dzong and monastery, and the Monpa villages of Sangti Valley.",
+      "strip": [
+        "Short drives",
+        "Mandala Top about 3,000 m",
+        "Acclimatisation day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mandala Top",
+          "text": "A ridge of 108 stupas with wide views of the Himalaya."
+        },
+        {
+          "label": "Midday",
+          "title": "Dirang Dzong and Dirang Monastery",
+          "text": "A 17th-century stone fort village, still lived in by Monpa families.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover shoulders and walk clockwise around stupas and prayer wheels."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Sangti Valley",
+          "text": "A broad river valley of fields and Monpa homesteads. Black-necked cranes winter here from November to February.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Mandala Top Dirang",
+        "Dirang Dzong",
+        "Sangti Valley"
+      ],
+      "note": "This easy day is deliberate. Walk slowly and sleep well: tomorrow you cross Sela at about 4,170 m."
+    },
+    {
+      "pill": "High pass day",
+      "title": "Over Sela Pass to Tawang",
+      "summary": "Drive to Tawang over Sela Pass, with the Jaswantgarh war memorial on the way.",
+      "strip": [
+        "About 140 km, 6 to 7 hours",
+        "Sela Pass about 4,170 m",
+        "Tawang 3,048 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sela Pass and Sela Lake",
+          "text": "The road now has the Sela Tunnel, but in good weather we drive over the old pass for the frozen lake and prayer flags.",
+          "notes": [
+            [
+              "CARE",
+              "Snow can close the pass road in winter; the tunnel keeps the route open. Spend no more than 20 to 30 minutes at the top."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Jaswantgarh War Memorial",
+          "text": "A memorial to Rifleman Jaswant Singh Rawat, who held this ridge in 1962. The Army canteen serves hot tea and snacks."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive Tawang",
+          "text": "Check in and rest.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Sela Pass",
+        "Jaswant Garh War Memorial"
+      ],
+      "note": "Pack a down jacket, gloves and a cap in the car today, whatever the season."
+    },
+    {
+      "pill": "Full day",
+      "title": "Tawang Monastery, Urgelling and the War Memorial",
+      "summary": "Tawang Monastery, Urgelling Monastery and the Tawang War Memorial.",
+      "strip": [
+        "All within 10 km",
+        "Morning prayers about 06:00",
+        "Light day at altitude"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Tawang Monastery (Galden Namgey Lhatse)",
+          "text": "Founded in 1680-81, home to about 450 monks and an 8-metre gilded Buddha. Visit the museum and library.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover arms and legs, remove hats inside the prayer hall and never point your feet at the altar."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Urgelling Monastery",
+          "text": "Birthplace of the Sixth Dalai Lama, a quiet small temple below the town."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tawang War Memorial",
+          "text": "A 27-foot stupa-style memorial to the soldiers of 1962. The evening light-and-sound show runs most days.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Tawang Monastery",
+        "Urgelling Monastery",
+        "Tawang War Memorial"
+      ],
+      "note": "Your Bumla permit is applied for today at the Deputy Commissioner's office with your ID, ready for tomorrow."
+    },
+    {
+      "pill": "High border day",
+      "title": "Bumla Pass and Madhuri Lake",
+      "summary": "Bumla Pass on the India-China border, Sangetsar (Madhuri) Lake and PTso Lake, in a local permitted vehicle.",
+      "strip": [
+        "About 37 km each way, rough road",
+        "Bumla about 4,600 m",
+        "Start about 07:00"
+      ],
+      "rows": [
+        {
+          "label": "About 07:00",
+          "title": "Local taxi to Bumla",
+          "text": "Only locally registered vehicles may go beyond Tawang, so we switch to a Tata Sumo or similar.",
+          "notes": [
+            [
+              "CARE",
+              "Bumla is open to Indian citizens only, with a permit, and is closed on some days for Army reasons. Foreign guests do the lakes only."
+            ]
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "Bumla Pass",
+          "text": "The Army shows you the border post and tells the story of 1962. Photography is allowed only where they say."
+        },
+        {
+          "label": "Midday",
+          "title": "Sangetsar (Madhuri) Lake",
+          "text": "A lake formed by the 1950 earthquake, with tree trunks still standing in the water. The Army café sells momos and tea."
+        },
+        {
+          "label": "Afternoon",
+          "title": "PTso Lake and Ani Gompa",
+          "text": "A photo stop at PTso on the way back, then a nunnery above town.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Bumla Pass",
+        "Sangetsar Lake",
+        "PT Tso Lake"
+      ],
+      "note": "Children under 10 and anyone with heart or breathing conditions should skip Bumla and keep to the lakes."
+    },
+    {
+      "pill": "Road day",
+      "title": "Back over the mountains to Bomdila",
+      "summary": "Drive to Bomdila and visit the upper and lower monasteries.",
+      "strip": [
+        "About 180 km, 6 to 7 hours",
+        "Bomdila 2,415 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Leave Tawang after breakfast",
+          "text": "Back over Sela, or through the tunnel in bad weather."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gontse Rabgyaling (Upper Gompa) and Lower Gompa",
+          "text": "Monasteries with views over the Kameng ranges."
+        },
+        {
+          "label": "Evening",
+          "title": "Bomdila market",
+          "text": "Monpa carpets, yak-wool shawls and thangkas.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Bomdila Monastery"
+      ],
+      "note": "Today is the last high-altitude night. From here you go down to the plains."
+    },
+    {
+      "pill": "Road day",
+      "title": "Down to the grasslands of Kaziranga",
+      "summary": "Drive from Bomdila to Kaziranga.",
+      "strip": [
+        "About 220 km, 6 to 7 hours",
+        "Kaziranga 60 m",
+        "Early start"
+      ],
+      "rows": [
+        {
+          "label": "About 07:00",
+          "title": "Leave Bomdila",
+          "text": "Down through Bhalukpong and across the Brahmaputra plains."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive at Diphlu River Lodge",
+          "text": "Cottages on stilts facing paddy fields.",
+          "meal": [
+            "Dinner",
+            "At the lodge",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Diphlu River Lodge"
+      ],
+      "note": "Tomorrow's safari slots are confirmed tonight. The forest department releases them the evening before."
+    },
+    {
+      "pill": "Safari day",
+      "title": "Rhinos, elephants and swamp deer in Kaziranga",
+      "summary": "Morning and afternoon jeep safaris in two ranges of Kaziranga National Park.",
+      "strip": [
+        "Morning safari about 07:00",
+        "Afternoon safari about 13:30",
+        "Park open about November to April"
+      ],
+      "rows": [
+        {
+          "label": "About 07:00",
+          "title": "Jeep safari, Central (Kohora) range",
+          "text": "Open grassland with rhinos, wild buffalo, swamp deer and elephants, often at close range.",
+          "notes": [
+            [
+              "TIME",
+              "Safaris run only when the park is open, usually 1 November to 30 April. The elephant ride is optional and depends on forest permission."
+            ]
+          ]
+        },
+        {
+          "label": "About 13:30",
+          "title": "Jeep safari, Western (Bagori) range",
+          "text": "The densest rhino area of the park."
+        },
+        {
+          "label": "Evening",
+          "title": "Kaziranga Orchid and Biodiversity Park",
+          "text": "Hundreds of orchid species and an Assamese food court.",
+          "meal": [
+            "Dinner",
+            "At the lodge",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Kaziranga National Park Central Range Kohora",
+        "Bagori Range Kaziranga",
+        "Kaziranga National Orchid and Biodiversity Park"
+      ],
+      "note": "Wear earthy colours, keep voices low and never step out of the jeep. Carry a scarf for the dust."
+    },
+    {
+      "pill": "Road day",
+      "title": "Through Assam to the hill capital of Shillong",
+      "summary": "Drive to Shillong with a stop at Umiam Lake.",
+      "strip": [
+        "About 200 km, 5 to 6 hours",
+        "Shillong 1,525 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive south to Meghalaya",
+          "text": "Through tea gardens and the Guwahati bypass."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Umiam Lake",
+          "text": "A wide reservoir among pine hills, 15 km before Shillong."
+        },
+        {
+          "label": "Evening",
+          "title": "Police Bazaar",
+          "text": "Shillong's lively centre.",
+          "meal": [
+            "Dinner",
+            "At the hotel",
+            ""
+          ]
+        }
+      ],
+      "places": [
+        "Umiam Lake",
+        "Police Bazaar Shillong"
+      ],
+      "note": "Meghalaya's caves and falls are at their best after the rains, from September to November."
+    },
+    {
+      "pill": "Full day",
+      "title": "Cherrapunji: waterfalls and caves",
+      "summary": "Day trip to Cherrapunji (Sohra): Elephant Falls, Mawsmai Cave, Seven Sisters Falls and Nohkalikai Falls.",
+      "strip": [
+        "About 55 km each way, 2 hours",
+        "Back in Shillong by evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Elephant Falls",
+          "text": "Three-tier falls just outside Shillong."
+        },
+        {
+          "label": "Midday",
+          "title": "Mawsmai Cave",
+          "text": "A short lit limestone cave. Narrow in places, with some stooping.",
+          "notes": [
+            [
+              "WEAR",
+              "Shoes with grip; the floor is wet."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Seven Sisters Falls and Nohkalikai Falls",
+          "text": "Nohkalikai drops about 340 m, one of the tallest plunge falls in India.",
+          "notes": [
+            [
+              "TIME",
+              "Many falls thin out from January to March."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Elephant Falls Shillong",
+        "Mawsmai Cave",
+        "Seven Sisters Falls",
+        "Nohkalikai Falls"
+      ],
+      "note": "Carry a light rain jacket even in winter: clouds roll in fast in Sohra."
+    },
+    {
+      "pill": "Full day",
+      "title": "Mawlynnong, the living root bridge and Dawki",
+      "summary": "Mawlynnong village, the Riwai living root bridge and the clear Umngot River at Dawki.",
+      "strip": [
+        "About 90 km to Mawlynnong, 3 hours",
+        "Dawki 30 km further",
+        "Long day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mawlynnong",
+          "text": "A tidy Khasi village famous for cleanliness, with a bamboo skywalk over the forest."
+        },
+        {
+          "label": "Late morning",
+          "title": "Riwai living root bridge",
+          "text": "Roots of rubber fig trees trained by the Khasi people into a walkable bridge. About 10 minutes down steps.",
+          "notes": [
+            [
+              "CARE",
+              "Steps are slippery after rain. Hold the railings."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Umngot River, Dawki",
+          "text": "A boat ride on water so clear the boats seem to float. The Bangladesh border is right here.",
+          "notes": [
+            [
+              "TIME",
+              "The water is clearest from November to April. Boats are paid locally."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Back to Shillong",
+          "text": "About 3 to 4 hours."
+        }
+      ],
+      "places": [
+        "Mawlynnong",
+        "Riwai Living Root Bridge",
+        "Umngot River Dawki"
+      ],
+      "note": "Carry a packed lunch today; restaurants are few on this road."
+    },
+    {
+      "pill": "Road day",
+      "title": "Back to Guwahati and the Kamakhya temple",
+      "summary": "Drive to Guwahati with Kamakhya Temple and an optional river cruise.",
+      "strip": [
+        "About 100 km, 3 to 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Late morning",
+          "title": "Kamakhya Temple",
+          "text": "One of India's most revered Shakti peethas, on Nilachal Hill.",
+          "notes": [
+            [
+              "TIME",
+              "Queues are long on Tuesdays, Saturdays and festival days. A VIP entry ticket is sold at the temple."
+            ],
+            [
+              "WEAR",
+              "Leather is not allowed inside."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Optional Brahmaputra sunset or dinner cruise",
+          "text": "When the water level allows."
+        }
+      ],
+      "places": [
+        "Kamakhya Temple",
+        "Umananda Temple"
+      ],
+      "note": "Tonight, pack your bags and keep the ILP and ID in your hand luggage for the airport."
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Guwahati",
+      "summary": "Transfer to Guwahati airport.",
+      "strip": [
+        "About 25 km, 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Transfer to the airport",
+          "text": "Reach the airport 2 hours before a domestic flight."
+        }
+      ],
+      "places": [
+        "Lokpriya Gopinath Bordoloi International Airport"
+      ],
+      "note": "Thank you for travelling the North East with us."
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked hotels and lodges at each stop",
+    "room": "Best available rooms: cottages, lodges and city hotels",
+    "meals": "Breakfast and dinner in the hills; full board with safaris at Diphlu River Lodge",
+    "area": "Guwahati, Bhalukpong, Dirang, Tawang, Bomdila, Kaziranga and Shillong",
+    "about": "Star categories do not exist in much of Arunachal. We use the best available property at each stop: Prashanti Cottage, Bhalukpong; Awoo Resort, Dirang; Hotel Yangzom, Tawang; Tsepal Yangjom, Bomdila; Diphlu River Lodge, Kaziranga; Vivanta Meghalaya, Shillong; Vivanta Guwahati. Simpler and premium options are available."
+  },
+  "included": [
+    "14 nights in the hotels listed or similar",
+    "Private Innova for all transfers and sightseeing",
+    "Local permitted vehicle for Bumla, Madhuri and PTso lakes",
+    "Arunachal Inner Line Permit (Indian citizens)",
+    "Two jeep safaris a day with park fees at Diphlu River Lodge",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights or trains to and from Guwahati",
+    "Monument, camera and boat fees, Kamakhya VIP entry",
+    "Dolphin boat ride, elephant ride and river cruises",
+    "Lunches and drinks",
+    "Travel insurance"
+  ],
+  "entry": [
+    [
+      "Arunachal Inner Line Permit (ILP)",
+      "Online e-ILP, checked at Bhalukpong",
+      "Indian citizens",
+      "About INR 100 per person"
+    ],
+    [
+      "Protected Area Permit (PAP)",
+      "Required for Arunachal and arranged through us",
+      "Foreign nationals",
+      "Varies"
+    ],
+    [
+      "Bumla Pass permit",
+      "Issued in Tawang the day before, with original ID",
+      "Indian citizens only",
+      ""
+    ],
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "best_time": "October to April. October to December gives the clearest mountain views; Kaziranga opens in November; March and April bring rhododendrons and orchids. Avoid June to September, when monsoon landslides close the Arunachal roads and Kaziranga is shut.",
+  "seasons": [
+    [
+      "October to December",
+      "Best",
+      "Clear, cold nights, about 15° / 2° in Tawang. Sela can see snow from December."
+    ],
+    [
+      "January to April",
+      "Good",
+      "Kaziranga safaris, rhododendrons in spring, waterfalls thinner in Meghalaya."
+    ],
+    [
+      "May to September",
+      "Avoid",
+      "Heavy monsoon, landslides, Kaziranga closed."
+    ]
+  ],
+  "faqs": [
+    {
+      "q": "How high does this tour go, and is altitude a problem?",
+      "a": "Tawang is at about 3,000 m, Sela Pass about 4,170 m and Bumla about 4,600 m. Two nights in Dirang first help you adjust. Walk slowly, drink water, and tell us about any heart, lung or blood-pressure condition before you book."
+    },
+    {
+      "q": "Can foreign nationals do this tour?",
+      "a": "Yes, with a Protected Area Permit for Arunachal, which we arrange. Bumla Pass is open only to Indian citizens, so foreign guests visit the lakes instead."
+    },
+    {
+      "q": "When is Kaziranga open?",
+      "a": "Usually from 1 November to 30 April. Outside those months we replace the safaris with tea-garden and village visits."
+    },
+    {
+      "q": "Can the tour be shortened?",
+      "a": "Yes. A 10-night version skips Bhalukpong and one Shillong night, or you can do Arunachal and Kaziranga only in 9 nights."
+    }
+  ],
+  "related_keywords": [
+    "Tawang tour package",
+    "Arunachal Meghalaya itinerary",
+    "North East India tour 15 days",
+    "Kaziranga Shillong tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ]
+}

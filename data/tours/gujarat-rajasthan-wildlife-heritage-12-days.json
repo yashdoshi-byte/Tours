@@ -1,0 +1,868 @@
+{
+  "slug": "gujarat-rajasthan-wildlife-heritage-12-days",
+  "title": "Gujarat and Rajasthan Wildlife and Heritage: Gir Lions, Dwarka, Jawai Leopards, Ranthambore Tigers and the Taj",
+  "meta_title": "Gujarat and Rajasthan Wildlife Tour 12 Days: Gir, Jawai",
+  "meta_description": "12-day wildlife and heritage tour: Girnar, Gir lion safari, Somnath, Porbandar and Dwarka, Kumbhalgarh, Jawai leopards, Ranthambore tigers and the Taj Mahal.",
+  "destination": "Gujarat and Rajasthan, India",
+  "country": "India",
+  "duration": "12 days / 11 nights",
+  "nights": 11,
+  "style": "Wildlife · Temples · Forts",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Fort in Rajasthan",
+  "tagline": "Asia's lions, leopards on granite hills, tigers in a ruined fort and the Taj at sunrise",
+  "facts": [
+    [
+      "Big cats",
+      "Lion, leopard, tiger"
+    ],
+    [
+      "Stay",
+      "Ahmedabad 2, Sasan Gir 2, Dwarka 1, Rajkot 1, Kumbhalgarh 1, Jawai 1, Ranthambore 2, Agra 1"
+    ],
+    [
+      "Travel",
+      "Private car and trains"
+    ],
+    [
+      "Best months",
+      "November to March"
+    ],
+    [
+      "Pace",
+      "Active, early safari starts"
+    ]
+  ],
+  "intro": "Three big cats in twelve days. Gir is the last home of the Asiatic lion, Jawai's granite hills are leopard country, and Ranthambore's tigers hunt around a 10th-century fort. Between the safaris come Girnar's temples, Somnath, Gandhi's birthplace at Porbandar, Dwarka, the great wall of Kumbhalgarh and the Taj Mahal at sunrise. We added one night to the original plan and moved some stops: Rajkot to Kumbhalgarh (about 520 km) and Ranthambore to Delhi via Agra and Fatehpur Sikri were each too long for one day. We also corrected Kumbhalgarh's palace: it is the Badal Mahal, not a Hawa Mahal.",
+  "highlights": [
+    "Girnar by ropeway, Gujarat's highest summit",
+    "A lion safari in Gir National Park",
+    "Somnath at the evening aarti, and Porbandar's Kirti Mandir",
+    "Dwarkadhish temple and Bet Dwarka",
+    "Kumbhalgarh's 36 km wall and Badal Mahal",
+    "Leopard safari at Jawai, tiger safari in Ranthambore, and the Taj Mahal at sunrise"
+  ],
+  "stays": [
+    {
+      "place": "Ahmedabad",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Sasan Gir",
+      "nights": 2,
+      "hotel": "Jungle lodge"
+    },
+    {
+      "place": "Dwarka",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Rajkot",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Ahmedabad",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Kumbhalgarh",
+      "nights": 1,
+      "hotel": "Resort"
+    },
+    {
+      "place": "Jawai",
+      "nights": 1,
+      "hotel": "Leopard camp"
+    },
+    {
+      "place": "Ranthambore",
+      "nights": 2,
+      "hotel": "Jungle resort"
+    },
+    {
+      "place": "Agra",
+      "nights": 1,
+      "hotel": "Hotel"
+    }
+  ],
+  "route": [
+    "Ahmedabad",
+    "Junagadh",
+    "Sasan Gir",
+    "Somnath",
+    "Porbandar",
+    "Dwarka",
+    "Rajkot",
+    "Ahmedabad",
+    "Kumbhalgarh",
+    "Jawai",
+    "Ranthambore",
+    "Agra",
+    "Delhi"
+  ],
+  "links": [
+    {
+      "title": "Gir National Park safari booking (Gujarat Forest Department)",
+      "url": "https://girlion.gujarat.gov.in/"
+    },
+    {
+      "title": "Ranthambore safari booking (Rajasthan Forest Department)",
+      "url": "https://fmdss.forest.rajasthan.gov.in/"
+    },
+    {
+      "title": "Taj Mahal tickets (ASI)",
+      "url": "https://asi.payumoney.com/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Ahmedabad",
+      "summary": "Arrival and a rest day.",
+      "strip": [
+        "Airport to city about 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "Transfer to your hotel."
+        },
+        {
+          "label": "Evening",
+          "title": "Manek Chowk night food square (optional)",
+          "text": "Gujarati street food from about 20:00."
+        }
+      ],
+      "places": [
+        "Sardar Vallabhbhai Patel International Airport",
+        "Manek Chowk"
+      ],
+      "note": "Gujarat is a dry state: alcohol needs a permit, which hotels issue to visitors.",
+      "route": [
+        "Sardar Vallabhbhai Patel International Airport",
+        "Manek Chowk"
+      ],
+      "photo_query": "Sardar Vallabhbhai Patel International Airport",
+      "photo_caption": "Sardar Vallabhbhai Patel International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Airport to city about 30 minutes",
+      "brief": [
+        "Gujarat is a dry state: alcohol needs a permit, which hotels issue to visitors."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Girnar by ropeway and on to Sasan Gir",
+      "summary": "Drive to Junagadh for the Girnar ropeway, then to Sasan Gir.",
+      "strip": [
+        "About 320 km to Junagadh, 6 hours",
+        "Then 60 km to Sasan, 1 hour 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Leave Ahmedabad",
+          "text": "Early, with a packed breakfast."
+        },
+        {
+          "label": "Midday · Junagadh",
+          "title": "Girnar ropeway",
+          "text": "Asia's longest temple ropeway, about 8 minutes up to the Amba Mata temple.",
+          "notes": [
+            [
+              "TIME",
+              "The ropeway stops in high wind."
+            ]
+          ]
+        },
+        {
+          "label": "Lunch",
+          "title": "Gujarati thali in Junagadh",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 400 per person"
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sasan Gir",
+          "text": "Check in at your jungle lodge."
+        }
+      ],
+      "places": [
+        "Girnar Ropeway",
+        "Sasan Gir"
+      ],
+      "note": "A long day: this is the price of seeing Girnar. We can break it with a night in Rajkot if you prefer.",
+      "route": [
+        "Girnar Ropeway",
+        "Sasan Gir"
+      ],
+      "photo_query": "Girnar Ropeway",
+      "photo_caption": "Girnar Ropeway",
+      "transport": "Private car with driver",
+      "travel_time": "About 320 km to Junagadh, 6 hours",
+      "brief": [
+        "Girnar ropeway: the ropeway stops in high wind.",
+        "A long day: this is the price of seeing Girnar."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Lion safari in Gir and the Somnath aarti",
+      "summary": "Morning lion safari in Gir, then Somnath temple and its evening aarti and show.",
+      "strip": [
+        "Safari about 06:30",
+        "Somnath about 45 km, 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Gir National Park jeep safari",
+          "flag": "be on time",
+          "text": "About three hours in an open gypsy with a forest guide.",
+          "notes": [
+            [
+              "TIME",
+              "Permits are booked online in advance in your passport or ID name. The park is closed from 16 June to 15 October."
+            ],
+            [
+              "CARE",
+              "Stay seated and silent in the jeep; never step out."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Somnath temple",
+          "text": "The first of the twelve Jyotirlingas, on the sea.",
+          "notes": [
+            [
+              "TIME",
+              "Phones, cameras and bags are not allowed inside; use the locker."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Aarti and the light-and-sound show",
+          "text": "The evening aarti about 19:00, then the show on the temple's history."
+        }
+      ],
+      "places": [
+        "Gir National Park Sasan Gate",
+        "Somnath Temple"
+      ],
+      "note": "Gir permits sell out in December and January. Book as soon as your dates are firm.",
+      "route": [
+        "Gir National Park Sasan Gate",
+        "Somnath Temple"
+      ],
+      "photo_query": "Gir National Park Sasan Gate",
+      "photo_caption": "Gir National Park Sasan Gate",
+      "transport": "Private car with driver",
+      "travel_time": "Somnath about 45 km, 1 hour",
+      "brief": [
+        "Gir National Park jeep safari: permits are booked online in advance in your passport or ID name.",
+        "Gir National Park jeep safari: stay seated and silent in the jeep; never step out.",
+        "Somnath temple: phones, cameras and bags are not allowed inside; use the locker."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Porbandar and the drive to Dwarka",
+      "summary": "Drive along the coast to Porbandar and Dwarka, with the evening at Dwarkadhish temple.",
+      "strip": [
+        "About 230 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Midday · Porbandar",
+          "title": "Kirti Mandir",
+          "text": "Gandhi's birthplace and family home."
+        },
+        {
+          "label": "Evening · Dwarka",
+          "title": "Dwarkadhish temple",
+          "text": "The evening aarti at Krishna's city.",
+          "notes": [
+            [
+              "TIME",
+              "Phones and cameras are not allowed inside."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kirti Mandir Porbandar",
+        "Dwarkadhish Temple"
+      ],
+      "note": "Dress modestly for the temples. Men may need to remove belts.",
+      "route": [
+        "Kirti Mandir Porbandar",
+        "Dwarkadhish Temple"
+      ],
+      "photo_query": "Kirti Mandir Porbandar",
+      "photo_caption": "Kirti Mandir Porbandar",
+      "transport": "Private car with driver",
+      "travel_time": "About 230 km, 5 hours",
+      "brief": [
+        "Dwarkadhish temple: phones and cameras are not allowed inside.",
+        "Dress modestly for the temples."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Bet Dwarka and on to Rajkot",
+      "summary": "Bet Dwarka by boat, optional scuba diving, and the drive to Rajkot.",
+      "strip": [
+        "Bet Dwarka about 30 km plus a short ferry",
+        "Rajkot about 230 km, 4 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bet Dwarka",
+          "text": "The island temple, now reached by the Sudarshan Setu bridge or boat."
+        },
+        {
+          "label": "Optional",
+          "title": "Scuba or snorkelling at Shivrajpur beach",
+          "text": "A Blue Flag beach near Dwarka, with dive operators in season.",
+          "notes": [
+            [
+              "CARE",
+              "Dives run only when the sea is calm, usually October to May."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive Rajkot",
+          "text": "A Kathiyawadi thali dinner."
+        }
+      ],
+      "places": [
+        "Bet Dwarka",
+        "Shivrajpur Beach",
+        "Rajkot"
+      ],
+      "note": "Rajkot is our home town. Ask us for a farsan shop for tomorrow's breakfast.",
+      "route": [
+        "Bet Dwarka",
+        "Shivrajpur Beach",
+        "Rajkot"
+      ],
+      "photo_query": "Bet Dwarka",
+      "photo_caption": "Bet Dwarka",
+      "transport": "Private car with driver",
+      "travel_time": "Bet Dwarka about 30 km plus a short ferry",
+      "brief": [
+        "Scuba or snorkelling at Shivrajpur beach: dives run only when the sea is calm, usually October to May.",
+        "Rajkot is our home town."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Kathiyawadi breakfast and the train to Ahmedabad",
+      "summary": "Kathiyawadi breakfast in Rajkot, train to Ahmedabad and a heritage walk.",
+      "strip": [
+        "Train about 4 hours",
+        "Heritage walk about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Gathiya and jalebi breakfast",
+          "meal": [
+            "Breakfast",
+            "Not included",
+            "About INR 150 per person"
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Train to Ahmedabad"
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Old Ahmedabad pol walk",
+          "text": "Carved wooden houses, bird feeders and Jain temples in a UNESCO World Heritage city."
+        }
+      ],
+      "places": [
+        "Rajkot Junction",
+        "Ahmedabad Junction"
+      ],
+      "note": "We added this night: Rajkot to Kumbhalgarh is about 10 hours by road.",
+      "route": [
+        "Rajkot Junction",
+        "Ahmedabad Junction"
+      ],
+      "photo_query": "Rajkot Junction",
+      "photo_caption": "Rajkot Junction",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 4 hours",
+      "brief": [
+        "We added this night: Rajkot to Kumbhalgarh is about 10 hours by road."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up into the Aravallis to Kumbhalgarh",
+      "summary": "Drive to Kumbhalgarh and visit the fort and Badal Mahal.",
+      "strip": [
+        "About 280 km, 5 hours 30 minutes",
+        "Fort open about 09:00 to 18:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Kumbhalgarh",
+          "text": "Via Udaipur's outskirts."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kumbhalgarh Fort and Badal Mahal",
+          "text": "A wall about 36 km long, and the 'palace of clouds' at the top.",
+          "notes": [
+            [
+              "CARE",
+              "A steep walk to Badal Mahal. Go slowly in the afternoon heat."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Light-and-sound show at the fort"
+        }
+      ],
+      "places": [
+        "Kumbhalgarh Fort",
+        "Badal Mahal Kumbhalgarh"
+      ],
+      "note": "The fort is beautiful at sunset from the walls.",
+      "route": [
+        "Kumbhalgarh Fort",
+        "Badal Mahal Kumbhalgarh"
+      ],
+      "photo_query": "Kumbhalgarh Fort",
+      "photo_caption": "Kumbhalgarh Fort",
+      "transport": "Private car with driver",
+      "travel_time": "About 280 km, 5 hours 30 minutes",
+      "brief": [
+        "Kumbhalgarh Fort and Badal Mahal: a steep walk to Badal Mahal.",
+        "The fort is beautiful at sunset from the walls."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Leopards of Jawai",
+      "summary": "Drive to Jawai and an evening leopard safari among the granite hills.",
+      "strip": [
+        "About 100 km, 2 hours 30 minutes",
+        "Safari from about 16:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Jawai",
+          "text": "Through Rabari herders' country."
+        },
+        {
+          "label": "About 16:00",
+          "title": "Leopard safari",
+          "text": "Leopards live among the granite hills near villages and temples.",
+          "notes": [
+            [
+              "CARE",
+              "Safaris are run by the camps, not the forest department. Book only with licensed camps."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Camp dinner",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the camp"
+          ]
+        }
+      ],
+      "places": [
+        "Jawai Bandh"
+      ],
+      "note": "The original plan placed this in Jalore. The leopard area is around Jawai dam, on the Pali and Jalore border.",
+      "photo_query": "Jawai Bandh",
+      "photo_caption": "Jawai Bandh",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 2 hours 30 minutes",
+      "brief": [
+        "Leopard safari: safaris are run by the camps, not the forest department.",
+        "The original plan placed this in Jalore."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The long drive to Ranthambore",
+      "summary": "Morning leopard drive and the road to Ranthambore.",
+      "strip": [
+        "About 420 km, 7 to 8 hours"
+      ],
+      "rows": [
+        {
+          "label": "About 06:00",
+          "title": "Morning leopard drive (optional)",
+          "text": "A second chance at the hills."
+        },
+        {
+          "label": "After breakfast",
+          "title": "Drive to Ranthambore",
+          "text": "Via Bhilwara and Bundi."
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive Sawai Madhopur",
+          "text": "Check in."
+        }
+      ],
+      "places": [
+        "Jawai",
+        "Ranthambore National Park"
+      ],
+      "note": "This is the longest drive of the tour. A packed lunch is carried.",
+      "route": [
+        "Jawai",
+        "Ranthambore National Park"
+      ],
+      "photo_query": "Jawai",
+      "photo_caption": "Jawai",
+      "transport": "Private car with driver",
+      "travel_time": "About 420 km, 7 to 8 hours",
+      "brief": [
+        "This is the longest drive of the tour."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Tigers of Ranthambore",
+      "summary": "Morning tiger safari and an afternoon with local communities.",
+      "strip": [
+        "Safari about 06:30",
+        "Second safari optional"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Ranthambore jeep safari",
+          "flag": "be on time",
+          "text": "In an open gypsy, in the zone allotted by the forest department.",
+          "notes": [
+            [
+              "TIME",
+              "Book online up to 90 days ahead. The core zones close from 1 July to 30 September."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Village and crafts visit",
+          "text": "Meet communities living around the park."
+        },
+        {
+          "label": "Optional",
+          "title": "Ranthambore Fort",
+          "text": "A 10th-century fort inside the park, with the Ganesh temple."
+        }
+      ],
+      "places": [
+        "Ranthambore National Park",
+        "Ranthambore Fort"
+      ],
+      "note": "Wear earth colours on safari and carry a scarf for the dust.",
+      "route": [
+        "Ranthambore National Park",
+        "Ranthambore Fort"
+      ],
+      "photo_query": "Ranthambore National Park",
+      "photo_caption": "Ranthambore National Park",
+      "transport": "Private car with driver",
+      "brief": [
+        "Ranthambore jeep safari: book online up to 90 days ahead.",
+        "Wear earth colours on safari and carry a scarf for the dust."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fatehpur Sikri and Agra",
+      "summary": "Drive to Agra via Fatehpur Sikri and Agra Fort.",
+      "strip": [
+        "About 280 km, 5 hours 30 minutes",
+        "Fatehpur Sikri on the way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive towards Agra"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fatehpur Sikri",
+          "text": "Akbar's red sandstone capital of the 1570s.",
+          "notes": [
+            [
+              "CARE",
+              "Use only the official guides; touts are persistent at the gate."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Mehtab Bagh",
+          "text": "Sunset view of the Taj across the Yamuna."
+        }
+      ],
+      "places": [
+        "Fatehpur Sikri",
+        "Mehtab Bagh"
+      ],
+      "note": "Tomorrow's sunrise visit starts at about 06:00. Early night.",
+      "route": [
+        "Fatehpur Sikri",
+        "Mehtab Bagh"
+      ],
+      "photo_query": "Fatehpur Sikri",
+      "photo_caption": "Fatehpur Sikri",
+      "transport": "Private car with driver",
+      "travel_time": "About 280 km, 5 hours 30 minutes",
+      "brief": [
+        "Fatehpur Sikri: use only the official guides; touts are persistent at the gate.",
+        "Tomorrow's sunrise visit starts at about 06:00."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "The Taj Mahal at sunrise, then Delhi",
+      "summary": "Sunrise at the Taj Mahal and the train or drive to Delhi.",
+      "strip": [
+        "Taj closed Fridays",
+        "Gatimaan Express about 1 hour 40 minutes"
+      ],
+      "rows": [
+        {
+          "label": "About 06:00",
+          "title": "Taj Mahal at sunrise",
+          "flag": "be early",
+          "text": "Enter by the East Gate.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Fridays. Buy tickets online. Only phones and water allowed inside; no food or tripods."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Agra Fort",
+          "text": "The Mughal fort where Shah Jahan spent his last years."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Train or drive to Delhi",
+          "text": "Then to the airport for your flight.",
+          "notes": [
+            [
+              "TIME",
+              "Book flights from Delhi after about 21:00."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Taj Mahal East Gate",
+        "Agra Fort",
+        "Indira Gandhi International Airport"
+      ],
+      "note": "We changed this day: Ranthambore to Delhi via Fatehpur Sikri and the Taj is over 10 hours on the road.",
+      "route": [
+        "Taj Mahal East Gate",
+        "Agra Fort",
+        "Indira Gandhi International Airport"
+      ],
+      "photo_query": "Taj Mahal East Gate",
+      "photo_caption": "Taj Mahal East Gate",
+      "transport": "Private car with driver",
+      "travel_time": "Gatimaan Express about 1 hour 40 minutes",
+      "brief": [
+        "Taj Mahal at sunrise: closed on Fridays.",
+        "Train or drive to Delhi: book flights from Delhi after about 21:00."
+      ]
+    }
+  ],
+  "hotel": {
+    "name": "Jungle lodges and heritage hotels",
+    "room": "Deluxe rooms and cottages",
+    "meals": "Breakfast daily; dinner at the Jawai camp",
+    "area": "Ahmedabad, Gir, Dwarka, Rajkot, Kumbhalgarh, Jawai, Ranthambore and Agra",
+    "about": "Jungle lodges close to the park gates in Gir and Ranthambore, a leopard camp in Jawai and good city hotels elsewhere."
+  },
+  "included": [
+    "11 nights with breakfast",
+    "Private car with driver throughout, with airport transfers",
+    "Rajkot to Ahmedabad train",
+    "One Gir and one Ranthambore safari, one Jawai leopard safari",
+    "Guided city tours in your language",
+    "A local SIM card for each traveller",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights and India e-Visa",
+    "Extra safaris and camera fees",
+    "Girnar ropeway and monument entry fees",
+    "Scuba diving",
+    "Meals not marked included",
+    "Travel insurance"
+  ],
+  "best_time": "November to March, when the parks are open and the weather is comfortable. Gir closes from 16 June to 15 October and Ranthambore's core zones from 1 July to 30 September. April to June is hot but best for tiger sightings at water holes.",
+  "seasons": [
+    [
+      "November to March",
+      "Best",
+      "Parks open, about 15° to 30°."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Over 40°; good tiger sightings but tiring."
+    ],
+    [
+      "July to October",
+      "Closed",
+      "Gir and Ranthambore core zones closed."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "February and March: parks open, warm days and good wildlife sightings.",
+  "faqs": [
+    {
+      "q": "Are lion, leopard and tiger sightings guaranteed?",
+      "a": "No safari can guarantee a sighting. Gir lion sightings are very likely; leopards at Jawai and tigers at Ranthambore are often seen but not every drive. Extra safaris raise your chances."
+    },
+    {
+      "q": "How are safaris booked?",
+      "a": "Gir and Ranthambore permits are booked online by the forest departments in your passport or ID name, as soon as dates are firm. Jawai safaris are run by the camps."
+    },
+    {
+      "q": "Why is this tour one day longer than the original?",
+      "a": "Rajkot to Kumbhalgarh and Ranthambore to Delhi via Agra were each 10 hours or more. One extra night keeps every drive under about 8 hours."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Gir Ranthambore tour",
+    "Gujarat Rajasthan wildlife tour",
+    "lion leopard tiger India tour",
+    "Jawai leopard safari"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

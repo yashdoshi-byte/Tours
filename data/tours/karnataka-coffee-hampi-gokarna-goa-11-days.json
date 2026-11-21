@@ -1,0 +1,617 @@
+{
+  "slug": "karnataka-coffee-hampi-gokarna-goa-11-days",
+  "title": "Karnataka and Goa: Coffee Hills of Chikmagalur, Hampi, Gokarna and Goa in 11 Days",
+  "meta_title": "Karnataka and Goa Tour 11 Days: Chikmagalur, Hampi",
+  "meta_description": "11-day South India route: Bengaluru, coffee estates in Chikmagalur, the ruins of Hampi, Gokarna's quiet beaches and four nights in Goa.",
+  "destination": "Karnataka and Goa, India",
+  "country": "India",
+  "duration": "11 days / 10 nights",
+  "nights": 10,
+  "style": "Culture · Nature · Beach",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Boulder landscape at Hampi",
+  "tagline": "Coffee estates, a lost empire's capital and two coasts of beaches",
+  "facts": [
+    [
+      "Stay",
+      "Bengaluru 1, Chikmagalur 2, Hampi 1, Gokarna 2, Goa 4"
+    ],
+    [
+      "Pace",
+      "Moderate, two long drives"
+    ],
+    [
+      "Ideal for",
+      "Couples and young families"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Bengaluru in, Goa out"
+    ]
+  ],
+  "intro": "A culture, nature and beach route across Karnataka to Goa. Coffee estates in the Western Ghats, the boulder-strewn ruins of the Vijayanagara capital at Hampi, the temple town and cliff beaches of Gokarna, and four nights in Goa. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. Hampi deserves two nights if you can spare one: with only one night you see the main temples but not the river side.",
+  "highlights": [
+    "A coffee-estate stay and walk in Chikmagalur",
+    "Mullayanagiri, Karnataka's highest peak",
+    "Virupaksha and Vittala temples and the stone chariot at Hampi",
+    "Sunrise from Matanga Hill",
+    "Gokarna's Om and Kudle beaches",
+    "Four nights in North or South Goa"
+  ],
+  "stays": [
+    {
+      "place": "Bengaluru",
+      "nights": 1,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Chikmagalur",
+      "nights": 2,
+      "hotel": "Coffee-estate homestay"
+    },
+    {
+      "place": "Hampi",
+      "nights": 1,
+      "hotel": "Heritage resort"
+    },
+    {
+      "place": "Gokarna",
+      "nights": 2,
+      "hotel": "Beach resort"
+    },
+    {
+      "place": "Goa",
+      "nights": 4,
+      "hotel": "Beach resort"
+    }
+  ],
+  "route": [
+    "Bengaluru",
+    "Chikmagalur",
+    "Hampi",
+    "Gokarna",
+    "Goa"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Bengaluru",
+      "summary": "Arrival in Bengaluru and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Kempegowda International Airport"
+      ],
+      "note": "Bengaluru traffic is heavy. Allow 1 hour 30 minutes from the airport.",
+      "photo_query": "Kempegowda International Airport",
+      "photo_caption": "Kempegowda International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Bengaluru traffic is heavy."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Into the coffee hills of Chikmagalur",
+      "summary": "Drive to Chikmagalur and settle into your coffee estate.",
+      "strip": [
+        "About 245 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive west",
+          "text": "Breakfast at a highway darshini for idli and filter coffee."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Coffee estate",
+          "text": "Check in."
+        }
+      ],
+      "places": [
+        "Chikkamagaluru"
+      ],
+      "note": "Leeches appear on estate walks after rain. Long socks help.",
+      "photo_query": "Chikkamagaluru",
+      "photo_caption": "Chikkamagaluru",
+      "transport": "Private car with driver",
+      "travel_time": "About 245 km, 5 hours",
+      "brief": [
+        "Leeches appear on estate walks after rain."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Coffee trails and Mullayanagiri",
+      "summary": "Coffee estate walk, Mullayanagiri peak and Baba Budangiri.",
+      "strip": [
+        "Mullayanagiri about 1,930 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Coffee estate walk",
+          "text": "From plant to roast, with a tasting."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Mullayanagiri",
+          "text": "Karnataka's highest peak; a short climb from the car park.",
+          "notes": [
+            [
+              "CARE",
+              "The road is narrow and the summit windy."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Mullayanagiri",
+        "Baba Budangiri"
+      ],
+      "note": "Buy estate coffee directly from your hosts.",
+      "route": [
+        "Mullayanagiri",
+        "Baba Budangiri"
+      ],
+      "photo_query": "Mullayanagiri",
+      "photo_caption": "Mullayanagiri",
+      "transport": "Private car with driver",
+      "brief": [
+        "Mullayanagiri: the road is narrow and the summit windy.",
+        "Buy estate coffee directly from your hosts."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Across the Deccan to Hampi",
+      "summary": "Long drive to Hampi and sunset at Hemakuta Hill.",
+      "strip": [
+        "About 300 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive north-east",
+          "text": "A packed breakfast is carried."
+        },
+        {
+          "label": "Sunset",
+          "title": "Hemakuta Hill",
+          "text": "Over the Virupaksha temple."
+        }
+      ],
+      "places": [
+        "Hemakuta Hill",
+        "Hampi"
+      ],
+      "note": "Hampi is hot by midday even in winter. Explore early and late.",
+      "route": [
+        "Hemakuta Hill",
+        "Hampi"
+      ],
+      "photo_query": "Hemakuta Hill",
+      "photo_caption": "Hemakuta Hill",
+      "transport": "Private car with driver",
+      "travel_time": "About 300 km, 6 hours",
+      "brief": [
+        "Hampi is hot by midday even in winter."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Hampi's temples, then to Gokarna",
+      "summary": "Morning in Hampi, then the drive to Gokarna.",
+      "strip": [
+        "Hampi morning",
+        "About 300 km, 6 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "About 06:00",
+          "title": "Sunrise and Vittala temple",
+          "text": "The stone chariot and the musical pillars."
+        },
+        {
+          "label": "Morning",
+          "title": "Virupaksha temple and the Royal Enclosure",
+          "notes": [
+            [
+              "WEAR",
+              "Remove shoes at Virupaksha. Cover shoulders and knees."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Gokarna"
+        }
+      ],
+      "places": [
+        "Vittala Temple",
+        "Virupaksha Temple",
+        "Royal Enclosure Hampi"
+      ],
+      "note": "Add a second Hampi night for the riverside and Anegundi.",
+      "route": [
+        "Vittala Temple",
+        "Virupaksha Temple",
+        "Royal Enclosure Hampi"
+      ],
+      "photo_query": "Vittala Temple",
+      "photo_caption": "Vittala Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 300 km, 6 hours 30 minutes",
+      "brief": [
+        "Virupaksha temple and the Royal Enclosure: remove shoes at Virupaksha.",
+        "Add a second Hampi night for the riverside and Anegundi."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Gokarna's temple and beaches",
+      "summary": "Mahabaleshwar temple and the cliff path between the beaches.",
+      "strip": [
+        "Easy walking"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mahabaleshwar temple",
+          "notes": [
+            [
+              "WEAR",
+              "Only Hindus may enter the inner shrine; men remove shirts."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Om, Kudle and Half Moon beaches",
+          "text": "By boat or the cliff path.",
+          "notes": [
+            [
+              "CARE",
+              "Swim only where lifeguards are posted; currents are strong."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Mahabaleshwar Temple Gokarna",
+        "Om Beach",
+        "Kudle Beach"
+      ],
+      "note": "Gokarna is a pilgrimage town. Dress modestly in the main street.",
+      "route": [
+        "Mahabaleshwar Temple Gokarna",
+        "Om Beach",
+        "Kudle Beach"
+      ],
+      "photo_query": "Mahabaleshwar Temple Gokarna",
+      "photo_caption": "Mahabaleshwar Temple Gokarna",
+      "transport": "Private car with driver",
+      "brief": [
+        "Mahabaleshwar temple: only Hindus may enter the inner shrine; men remove shirts.",
+        "Om, Kudle and Half Moon beaches: swim only where lifeguards are posted; currents are strong."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "A free day by the sea in Gokarna",
+      "summary": "Free day.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Your choice",
+          "title": "Beach, yoga or kayaking"
+        }
+      ],
+      "places": [
+        "Om Beach"
+      ],
+      "note": "Sunset from the cliffs above Om Beach is the best of the trip.",
+      "photo_query": "Om Beach",
+      "photo_caption": "Om Beach",
+      "transport": "Private car with driver",
+      "brief": [
+        "Sunset from the cliffs above Om Beach is the best of the trip."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Down the coast to Goa",
+      "summary": "Drive to Goa.",
+      "strip": [
+        "About 150 km, 3 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive north"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in",
+          "text": "Free by the pool or the beach."
+        }
+      ],
+      "places": [
+        "Goa"
+      ],
+      "note": "South Goa is quieter, North Goa livelier. Tell us your style.",
+      "photo_query": "Goa",
+      "photo_caption": "Goa",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 3 hours 30 minutes",
+      "brief": [
+        "South Goa is quieter, North Goa livelier."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Old Goa and the Latin quarter",
+      "summary": "Basilica of Bom Jesus, Se Cathedral and the Fontainhas quarter of Panaji.",
+      "strip": [
+        "Half day or full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Basilica of Bom Jesus and Se Cathedral",
+          "notes": [
+            [
+              "WEAR",
+              "Cover shoulders and knees."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fontainhas, Panaji",
+          "text": "Coloured Portuguese houses."
+        }
+      ],
+      "places": [
+        "Basilica of Bom Jesus",
+        "Se Cathedral Goa",
+        "Fontainhas"
+      ],
+      "note": "Goan food is seafood-rich; we send a list of vegetarian restaurants.",
+      "route": [
+        "Basilica of Bom Jesus",
+        "Se Cathedral Goa",
+        "Fontainhas"
+      ],
+      "photo_query": "Basilica of Bom Jesus",
+      "photo_caption": "Basilica of Bom Jesus",
+      "transport": "Private car with driver",
+      "brief": [
+        "Basilica of Bom Jesus and Se Cathedral: cover shoulders and knees.",
+        "Goan food is seafood-rich; we send a list of vegetarian restaurants."
+      ]
+    },
+    {
+      "pill": "Free day",
+      "title": "Goa at your own pace",
+      "summary": "Free day.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Your choice",
+          "title": "Beach, spice farm or a river cruise"
+        }
+      ],
+      "places": [
+        "Goa"
+      ],
+      "note": "Rent a scooter only if you hold a licence and wear a helmet.",
+      "photo_query": "Goa",
+      "photo_caption": "Goa",
+      "transport": "Private car with driver",
+      "brief": [
+        "Rent a scooter only if you hold a licence and wear a helmet."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Goa",
+      "summary": "Transfer to Manohar International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Manohar International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Manohar International Airport",
+      "photo_caption": "Manohar International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "10 nights with breakfast",
+    "Private car from Bengaluru to Goa",
+    "Coffee estate walk",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "October to March: cool hills and calm seas. April and May are hot; from June to September heavy rain closes Goa's beach shacks.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Hot and humid; fine for hills."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Heavy rain; some roads and sights close."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "November to February.",
+  "faqs": [
+    {
+      "q": "Is Hampi worth only one night?",
+      "a": "One night covers the main temples. Two nights let you see the riverside and Anegundi without rushing."
+    },
+    {
+      "q": "Can we fly instead of the long drives?",
+      "a": "Hubballi and Ballari (Jindal Vijaynagar) airports are near Hampi, but the drives are scenic and flights limited."
+    },
+    {
+      "q": "North or South Goa?",
+      "a": "South Goa for quiet beaches and resorts; North Goa for cafés, markets and nightlife."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Karnataka Goa itinerary",
+    "Chikmagalur Hampi Gokarna",
+    "Hampi Goa tour",
+    "South India 10 nights"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

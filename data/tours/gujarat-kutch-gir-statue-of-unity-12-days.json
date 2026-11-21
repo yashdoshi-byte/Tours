@@ -1,0 +1,679 @@
+{
+  "slug": "gujarat-kutch-gir-statue-of-unity-12-days",
+  "title": "Gujarat Grand Tour: White Rann of Kutch, Mandvi, Dwarka, Gir and the Statue of Unity",
+  "meta_title": "Gujarat Tour 12 Days: Rann of Kutch, Gir, Statue of Unity",
+  "meta_description": "12-day Gujarat tour: Rajkot, the White Rann of Kutch, Mandvi beach, Dwarka and Bet Dwarka, Porbandar, Gir lions, Ahmedabad and the Statue of Unity.",
+  "destination": "Gujarat, India",
+  "country": "India",
+  "duration": "12 days / 11 nights",
+  "nights": 11,
+  "style": "Desert · Temples · Wildlife",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "White Rann of Kutch",
+  "tagline": "Salt desert under a full moon, Krishna's Dwarka and the lions of Gir",
+  "facts": [
+    [
+      "Stay",
+      "Rajkot 1, Bhuj or Dhordo 1, Mandvi 1, Dwarka 2, Porbandar 1, Sasan Gir 2, Ahmedabad 1, Kevadia 2"
+    ],
+    [
+      "Pace",
+      "Moderate, some long drives"
+    ],
+    [
+      "Ideal for",
+      "Families"
+    ],
+    [
+      "Best months",
+      "November to February"
+    ],
+    [
+      "Arrive / leave",
+      "Rajkot in, Vadodara out"
+    ]
+  ],
+  "intro": "Gujarat in one loop. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. Two drives in the outline are long: Mandvi to Dwarka is about 380 km around the Gulf of Kutch (7 hours), and Gir to Ahmedabad about 350 km. We flag them on the day; a second night in Kutch, or a night in Jamnagar, softens the first.",
+  "highlights": [
+    "The White Rann at sunset and the Rann Utsav (November to February)",
+    "Bhuj's Aina Mahal and Kutch craft villages",
+    "Mandvi's beach and Vijay Vilas Palace",
+    "Dwarkadhish temple, Bet Dwarka and Shivrajpur beach",
+    "Kirti Mandir in Porbandar, and the lions of Gir",
+    "The Statue of Unity and its Valley of Flowers"
+  ],
+  "stays": [
+    {
+      "place": "Rajkot",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Dhordo (Rann)",
+      "nights": 1,
+      "hotel": "Tent city or resort"
+    },
+    {
+      "place": "Mandvi",
+      "nights": 1,
+      "hotel": "Beach resort"
+    },
+    {
+      "place": "Dwarka",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Porbandar",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Sasan Gir",
+      "nights": 2,
+      "hotel": "Jungle lodge"
+    },
+    {
+      "place": "Ahmedabad",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Kevadia",
+      "nights": 2,
+      "hotel": "Tent City"
+    }
+  ],
+  "route": [
+    "Rajkot",
+    "Bhuj",
+    "Dhordo",
+    "Mandvi",
+    "Dwarka",
+    "Porbandar",
+    "Sasan Gir",
+    "Ahmedabad",
+    "Kevadia",
+    "Vadodara"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Rajkot",
+      "summary": "Arrival in Rajkot and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Rajkot International Airport Hirasar"
+      ],
+      "note": "Our home town. A Kathiyawadi thali dinner tonight.",
+      "photo_query": "Rajkot International Airport Hirasar",
+      "photo_caption": "Rajkot International Airport Hirasar",
+      "transport": "Private car with driver",
+      "brief": [
+        "Our home town."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Bhuj and the White Rann at sunset",
+      "summary": "Drive to Bhuj and on to the White Rann for sunset.",
+      "strip": [
+        "About 240 km to Bhuj, 4 hours 30 minutes",
+        "Bhuj to the Rann about 85 km"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Aina Mahal and Prag Mahal, Bhuj",
+          "notes": [
+            [
+              "TIME",
+              "Aina Mahal is closed on Saturdays."
+            ]
+          ]
+        },
+        {
+          "label": "Sunset",
+          "title": "White Rann at Dhordo",
+          "notes": [
+            [
+              "TIME",
+              "A Rann permit is needed, issued online or at Bhirandiyara."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Aina Mahal",
+        "White Rann Dhordo"
+      ],
+      "note": "A full-moon night on the Rann is unforgettable. Ask us to plan around it.",
+      "route": [
+        "Aina Mahal",
+        "White Rann Dhordo"
+      ],
+      "photo_query": "Aina Mahal",
+      "photo_caption": "Aina Mahal",
+      "transport": "Private car with driver",
+      "travel_time": "About 240 km to Bhuj, 4 hours 30 minutes",
+      "brief": [
+        "Aina Mahal and Prag Mahal, Bhuj: aina Mahal is closed on Saturdays.",
+        "White Rann at Dhordo: a Rann permit is needed, issued online or at Bhirandiyara."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Kutch craft villages and Mandvi",
+      "summary": "Craft villages of Bhujodi and Nirona, then Mandvi.",
+      "strip": [
+        "About 140 km in total"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Nirona and Bhujodi craft villages",
+          "text": "Rogan art, bell-making and weaving."
+        },
+        {
+          "label": "Evening",
+          "title": "Mandvi beach"
+        }
+      ],
+      "places": [
+        "Nirona",
+        "Bhujodi",
+        "Mandvi Beach"
+      ],
+      "note": "Buy crafts directly from the artisans.",
+      "route": [
+        "Nirona",
+        "Bhujodi",
+        "Mandvi Beach"
+      ],
+      "photo_query": "Nirona",
+      "photo_caption": "Nirona",
+      "transport": "Private car with driver",
+      "travel_time": "About 140 km in total",
+      "brief": [
+        "Buy crafts directly from the artisans."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Vijay Vilas Palace and the long road to Dwarka",
+      "summary": "Vijay Vilas Palace and the drive around the Gulf of Kutch to Dwarka.",
+      "strip": [
+        "About 380 km, 7 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Vijay Vilas Palace"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Dwarka"
+        },
+        {
+          "label": "Evening",
+          "title": "Dwarkadhish temple aarti",
+          "notes": [
+            [
+              "TIME",
+              "Phones and cameras are not allowed inside."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Vijay Vilas Palace",
+        "Dwarkadhish Temple"
+      ],
+      "note": "This is the longest day. A night in Jamnagar can break it.",
+      "route": [
+        "Vijay Vilas Palace",
+        "Dwarkadhish Temple"
+      ],
+      "photo_query": "Vijay Vilas Palace",
+      "photo_caption": "Vijay Vilas Palace",
+      "transport": "Private car with driver",
+      "travel_time": "About 380 km, 7 hours",
+      "brief": [
+        "Dwarkadhish temple aarti: phones and cameras are not allowed inside.",
+        "This is the longest day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Bet Dwarka, Nageshwar and Shivrajpur",
+      "summary": "Bet Dwarka, Nageshwar Jyotirlinga and Shivrajpur's Blue Flag beach.",
+      "strip": [
+        "Short drives"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bet Dwarka via Sudarshan Setu"
+        },
+        {
+          "label": "Midday",
+          "title": "Nageshwar Jyotirlinga"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Shivrajpur beach"
+        }
+      ],
+      "places": [
+        "Bet Dwarka",
+        "Nageshwar Jyotirlinga",
+        "Shivrajpur Beach"
+      ],
+      "note": "Sunset at Dwarka's lighthouse.",
+      "route": [
+        "Bet Dwarka",
+        "Nageshwar Jyotirlinga",
+        "Shivrajpur Beach"
+      ],
+      "photo_query": "Bet Dwarka",
+      "photo_caption": "Bet Dwarka",
+      "transport": "Private car with driver",
+      "brief": [
+        "Sunset at Dwarka's lighthouse."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Porbandar, Gandhi's birthplace",
+      "summary": "Drive to Porbandar and Kirti Mandir.",
+      "strip": [
+        "About 100 km, 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Kirti Mandir and Sudama temple"
+        }
+      ],
+      "places": [
+        "Kirti Mandir Porbandar"
+      ],
+      "note": "Porbandar is optional; the night can move to Gir.",
+      "photo_query": "Kirti Mandir Porbandar",
+      "photo_caption": "Kirti Mandir Porbandar",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 2 hours",
+      "brief": [
+        "Porbandar is optional; the night can move to Gir."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Somnath and on to Sasan Gir",
+      "summary": "Drive to Somnath and Sasan Gir.",
+      "strip": [
+        "About 130 km to Somnath, then 45 km"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Somnath temple"
+        },
+        {
+          "label": "Evening",
+          "title": "Sasan Gir"
+        }
+      ],
+      "places": [
+        "Somnath Temple",
+        "Sasan Gir"
+      ],
+      "note": "Safari permits booked online in your ID name.",
+      "route": [
+        "Somnath Temple",
+        "Sasan Gir"
+      ],
+      "photo_query": "Somnath Temple",
+      "photo_caption": "Somnath Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km to Somnath, then 45 km",
+      "brief": [
+        "Safari permits booked online in your ID name."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Lions of Gir",
+      "summary": "Morning lion safari and an afternoon at leisure.",
+      "strip": [
+        "Safari about 06:30"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Gir jeep safari",
+          "notes": [
+            [
+              "TIME",
+              "Closed 16 June to 15 October."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Gir National Park Sasan Gate"
+      ],
+      "note": "A second safari can be added in the afternoon.",
+      "photo_query": "Gir National Park Sasan Gate",
+      "photo_caption": "Gir National Park Sasan Gate",
+      "transport": "Private car with driver",
+      "brief": [
+        "Gir jeep safari: closed 16 June to 15 October.",
+        "A second safari can be added in the afternoon."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The long drive to Ahmedabad",
+      "summary": "Drive to Ahmedabad and Manek Chowk in the evening.",
+      "strip": [
+        "About 350 km, 7 hours"
+      ],
+      "rows": [
+        {
+          "label": "Evening",
+          "title": "Manek Chowk"
+        }
+      ],
+      "places": [
+        "Manek Chowk"
+      ],
+      "note": "A long road day; breaks at Gondal or Rajkot.",
+      "photo_query": "Manek Chowk",
+      "photo_caption": "Manek Chowk",
+      "transport": "Private car with driver",
+      "travel_time": "About 350 km, 7 hours",
+      "brief": [
+        "A long road day; breaks at Gondal or Rajkot."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To the Statue of Unity",
+      "summary": "Drive to Kevadia and the evening laser show.",
+      "strip": [
+        "About 200 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Evening",
+          "title": "Laser show on the statue"
+        }
+      ],
+      "places": [
+        "Statue of Unity"
+      ],
+      "note": "The statue is closed on Mondays; plan the gallery for tomorrow.",
+      "photo_query": "Statue of Unity",
+      "photo_caption": "Statue of Unity",
+      "transport": "Private car with driver",
+      "travel_time": "About 200 km, 4 hours",
+      "brief": [
+        "The statue is closed on Mondays; plan the gallery for tomorrow."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Statue of Unity, the dam and the Ayurveda garden",
+      "summary": "Ayurveda garden, boat ride to the statue, the viewing gallery and the evening laser show.",
+      "strip": [
+        "Statue closed Mondays",
+        "Laser show after sunset"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Arogya Van (Ayurveda garden)",
+          "text": "Medicinal plants explained by a local guide; wellness treatments can be booked for the evening."
+        },
+        {
+          "label": "Late morning",
+          "title": "Statue of Unity viewing gallery",
+          "text": "Lifts take you to the gallery at 153 m for views of the Sardar Sarovar Dam and the Narmada.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays. Book the viewing-gallery slot online in advance."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gujarati thali and a siesta",
+          "text": "Lunch, then a rest in the heat of the day.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 400 per person"
+          ]
+        },
+        {
+          "label": "After sunset",
+          "title": "Laser and light show on the statue",
+          "text": "About 30 minutes on Sardar Patel and the dam."
+        }
+      ],
+      "places": [
+        "Arogya Van",
+        "Statue of Unity",
+        "Sardar Sarovar Dam"
+      ],
+      "note": "Kevadia has cycles and e-rickshaws to move between the parks. Wear walking shoes.",
+      "route": [
+        "Arogya Van",
+        "Statue of Unity",
+        "Sardar Sarovar Dam"
+      ],
+      "photo_query": "Arogya Van",
+      "photo_caption": "Arogya Van",
+      "transport": "Private car with driver",
+      "brief": [
+        "Statue of Unity viewing gallery: closed on Mondays.",
+        "Kevadia has cycles and e-rickshaws to move between the parks."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Vadodara",
+      "summary": "Transfer to Vadodara Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Vadodara Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Vadodara Airport",
+      "photo_caption": "Vadodara Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "White Rann permit",
+    "One Gir safari"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "November to February, when the Rann is dry and white and the Rann Utsav tent city is open. Gir closes from 16 June to 15 October.",
+  "seasons": [
+    [
+      "November to February",
+      "Best",
+      "Rann white and dry; cool nights."
+    ],
+    [
+      "March to May",
+      "Hot",
+      "Rann still open but hot."
+    ],
+    [
+      "June to October",
+      "Monsoon",
+      "Rann flooded; Gir closed."
+    ]
+  ],
+  "months": [
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "December or January around the full moon, with the Rann Utsav on.",
+  "faqs": [
+    {
+      "q": "Can we see the Rann without staying overnight?",
+      "a": "Yes, but sunset and moonrise on the salt are the highlight, so a night at Dhordo is far better."
+    },
+    {
+      "q": "Are the drives long?",
+      "a": "Two days are about 7 hours. A night in Jamnagar or a second Kutch night shortens them."
+    },
+    {
+      "q": "Can we skip Porbandar?",
+      "a": "Yes; it is optional in the outline."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Gujarat tour Rann of Kutch",
+    "Kutch Dwarka Gir tour",
+    "Statue of Unity tour",
+    "Gujarat 11 nights"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

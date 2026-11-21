@@ -1,0 +1,676 @@
+{
+  "slug": "kerala-honeymoon-ayurveda-13-days",
+  "title": "Kerala Honeymoon with Ayurveda: Kochi, Alleppey Houseboat, Munnar, Thekkady and a Wellness Retreat",
+  "meta_title": "Kerala Honeymoon 13 Days with Houseboat and Ayurveda",
+  "meta_description": "13-day Kerala honeymoon: Fort Kochi, Alleppey with a private houseboat, Munnar tea hills, Thekkady spice gardens and four nights at an Ayurveda resort.",
+  "destination": "Kerala, India",
+  "country": "India",
+  "duration": "13 days / 12 nights",
+  "nights": 12,
+  "style": "Honeymoon · Backwaters · Wellness",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Houseboat on the Kerala backwaters",
+  "tagline": "Backwaters, tea hills and four slow nights of Ayurveda",
+  "facts": [
+    [
+      "Stay",
+      "Kochi 2, Alleppey 3 (1 on a houseboat), Munnar 3, Thekkady 1, Ayurveda resort 4"
+    ],
+    [
+      "Pace",
+      "Slow and romantic"
+    ],
+    [
+      "Ideal for",
+      "Honeymooners"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Kochi"
+    ]
+  ],
+  "intro": "A romantic Kerala circuit with time to rest. Two nights in Fort Kochi, three on the backwaters of Alleppey with one on a private houseboat, three in the tea estates of Munnar, a night in the spice hills of Thekkady, and four nights at an Ayurveda resort to finish. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours.",
+  "highlights": [
+    "Fort Kochi's heritage lanes and a Kathakali evening",
+    "A private overnight houseboat on the Alleppey backwaters",
+    "Munnar's tea estates and Eravikulam National Park",
+    "Periyar Lake and a spice garden in Thekkady",
+    "Four nights of Ayurveda treatments at a lakeside resort"
+  ],
+  "stays": [
+    {
+      "place": "Kochi",
+      "nights": 2,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Alleppey",
+      "nights": 3,
+      "hotel": "Lake resort and 1 night houseboat"
+    },
+    {
+      "place": "Munnar",
+      "nights": 3,
+      "hotel": "Tea-estate resort"
+    },
+    {
+      "place": "Thekkady",
+      "nights": 1,
+      "hotel": "Spice-garden resort"
+    },
+    {
+      "place": "Kumarakom",
+      "nights": 3,
+      "hotel": "Ayurveda resort"
+    }
+  ],
+  "route": [
+    "Kochi",
+    "Alleppey",
+    "Munnar",
+    "Thekkady",
+    "Kumarakom",
+    "Kochi Airport"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Kochi",
+      "summary": "Arrival in Kochi and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Cochin International Airport"
+      ],
+      "note": "Fort Kochi is about 1 hour 30 minutes from the airport.",
+      "photo_query": "Cochin International Airport",
+      "photo_caption": "Cochin International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Fort Kochi is about 1 hour 30 minutes from the airport."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Fort Kochi and Mattancherry",
+      "summary": "Walking tour of Fort Kochi, Jew Town and Mattancherry, and a Kathakali show.",
+      "strip": [
+        "Mattancherry Palace closed Fridays"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Chinese fishing nets and St Francis Church"
+        },
+        {
+          "label": "Midday",
+          "title": "Mattancherry Palace and Jew Town",
+          "notes": [
+            [
+              "TIME",
+              "The palace is closed on Fridays; the synagogue on Fridays and Saturdays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Kathakali performance",
+          "text": "Watch the make-up from about 17:00."
+        }
+      ],
+      "places": [
+        "Chinese Fishing Nets Fort Kochi",
+        "Mattancherry Palace",
+        "Paradesi Synagogue"
+      ],
+      "note": "Fort Kochi's cafés are perfect for a slow lunch.",
+      "route": [
+        "Chinese Fishing Nets Fort Kochi",
+        "Mattancherry Palace",
+        "Paradesi Synagogue"
+      ],
+      "photo_query": "Chinese Fishing Nets Fort Kochi",
+      "photo_caption": "Chinese Fishing Nets Fort Kochi",
+      "transport": "Private car with driver",
+      "brief": [
+        "Mattancherry Palace and Jew Town: the palace is closed on Fridays; the synagogue on Fridays and Saturdays.",
+        "Fort Kochi's cafés are perfect for a slow lunch."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To the backwaters of Alleppey",
+      "summary": "Drive to Alleppey and an afternoon by the lake.",
+      "strip": [
+        "About 60 km, 1 hour 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Alleppey"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Canoe ride on the narrow canals",
+          "text": "A country canoe goes where houseboats cannot."
+        }
+      ],
+      "places": [
+        "Alappuzha"
+      ],
+      "note": "Ask for a couple's massage at the resort tonight.",
+      "photo_query": "Alappuzha",
+      "photo_caption": "Alappuzha",
+      "transport": "Private car with driver",
+      "travel_time": "About 60 km, 1 hour 30 minutes",
+      "brief": [
+        "Ask for a couple's massage at the resort tonight."
+      ]
+    },
+    {
+      "pill": "Activity day",
+      "title": "A private houseboat on Vembanad Lake",
+      "summary": "Board a private houseboat for a night on the backwaters.",
+      "strip": [
+        "Board about 12:00, leave about 09:00 next day"
+      ],
+      "rows": [
+        {
+          "label": "About 12:00",
+          "title": "Board your houseboat",
+          "text": "Lunch, dinner and breakfast are cooked on board."
+        },
+        {
+          "label": "Sunset",
+          "title": "Moored in the paddy fields",
+          "notes": [
+            [
+              "TIME",
+              "By law, houseboats stop cruising and moor at about 17:30."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Alappuzha Houseboat Terminal"
+      ],
+      "note": "Choose an air-conditioned houseboat; the AC usually runs at night only.",
+      "photo_query": "Alappuzha Houseboat Terminal",
+      "photo_caption": "Alappuzha Houseboat Terminal",
+      "transport": "Private car with driver",
+      "brief": [
+        "Moored in the paddy fields: by law, houseboats stop cruising and moor at about 17:30.",
+        "Choose an air-conditioned houseboat; the AC usually runs at night only."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Back on land: Alleppey beach and village",
+      "summary": "Disembark and a free day at the lake resort.",
+      "strip": [
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Leave the houseboat"
+        },
+        {
+          "label": "Evening",
+          "title": "Alleppey beach at sunset"
+        }
+      ],
+      "places": [
+        "Alappuzha Beach"
+      ],
+      "note": "A good day for a spa treatment.",
+      "photo_query": "Alappuzha Beach",
+      "photo_caption": "Alappuzha Beach",
+      "transport": "Private car with driver",
+      "brief": [
+        "A good day for a spa treatment."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up into the tea hills of Munnar",
+      "summary": "Drive to Munnar with stops at waterfalls.",
+      "strip": [
+        "About 170 km, 4 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive via Kottayam and Adimali"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Cheeyappara Falls"
+        }
+      ],
+      "places": [
+        "Cheeyappara Waterfalls",
+        "Munnar"
+      ],
+      "note": "Munnar nights are cool; carry a light jacket.",
+      "route": [
+        "Cheeyappara Waterfalls",
+        "Munnar"
+      ],
+      "photo_query": "Cheeyappara Waterfalls",
+      "photo_caption": "Cheeyappara Waterfalls",
+      "transport": "Private car with driver",
+      "travel_time": "About 170 km, 4 hours 30 minutes",
+      "brief": [
+        "Munnar nights are cool; carry a light jacket."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Eravikulam and the tea estates",
+      "summary": "Eravikulam National Park, the Tea Museum and Mattupetty Dam.",
+      "strip": [
+        "Eravikulam closed about February to March"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Eravikulam National Park",
+          "text": "Nilgiri tahr on the grassy slopes.",
+          "notes": [
+            [
+              "TIME",
+              "Closed for calving, usually February to March."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tea Museum and Mattupetty Dam",
+          "notes": [
+            [
+              "TIME",
+              "The Tea Museum is closed on Mondays."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Eravikulam National Park",
+        "Tata Tea Museum",
+        "Mattupetty Dam"
+      ],
+      "note": "Book Eravikulam tickets online in peak season.",
+      "route": [
+        "Eravikulam National Park",
+        "Tata Tea Museum",
+        "Mattupetty Dam"
+      ],
+      "photo_query": "Eravikulam National Park",
+      "photo_caption": "Eravikulam National Park",
+      "transport": "Private car with driver",
+      "brief": [
+        "Eravikulam National Park: closed for calving, usually February to March.",
+        "Tea Museum and Mattupetty Dam: the Tea Museum is closed on Mondays."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "A slow day in the hills",
+      "summary": "A free day, with an optional plantation walk or a picnic at Top Station.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Top Station viewpoint",
+          "text": "Views over the Tamil Nadu plains."
+        },
+        {
+          "label": "Optional",
+          "title": "Guided tea-estate walk"
+        }
+      ],
+      "places": [
+        "Top Station"
+      ],
+      "note": "Many Munnar resorts arrange a candle-lit dinner in the garden.",
+      "photo_query": "Top Station",
+      "photo_caption": "Top Station",
+      "transport": "Private car with driver",
+      "brief": [
+        "Many Munnar resorts arrange a candle-lit dinner in the garden."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Cardamom hills to Thekkady",
+      "summary": "Drive to Thekkady and a spice plantation walk.",
+      "strip": [
+        "About 90 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Spice plantation walk",
+          "text": "Pepper, cardamom and nutmeg."
+        },
+        {
+          "label": "Evening",
+          "title": "Kalaripayattu show"
+        }
+      ],
+      "places": [
+        "Kumily"
+      ],
+      "note": "Tomorrow's Periyar boat leaves about 07:30.",
+      "photo_query": "Kumily",
+      "photo_caption": "Kumily",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km, 3 hours",
+      "brief": [
+        "Tomorrow's Periyar boat leaves about 07:30."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Periyar Lake, then to your Ayurveda resort",
+      "summary": "Periyar boat ride, then drive to Kumarakom.",
+      "strip": [
+        "Boat about 1 hour 30 minutes",
+        "Drive about 130 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "About 07:30",
+          "title": "Periyar Lake boat ride",
+          "notes": [
+            [
+              "TIME",
+              "Tickets sell out early in peak season."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Kumarakom"
+        },
+        {
+          "label": "Evening",
+          "title": "Ayurveda consultation",
+          "text": "The resort doctor plans your treatments."
+        }
+      ],
+      "places": [
+        "Periyar Lake Boat Landing",
+        "Kumarakom"
+      ],
+      "note": "Ayurveda works best with light meals and no alcohol during treatment.",
+      "route": [
+        "Periyar Lake Boat Landing",
+        "Kumarakom"
+      ],
+      "photo_query": "Periyar Lake Boat Landing",
+      "photo_caption": "Periyar Lake Boat Landing",
+      "transport": "Private car with driver",
+      "travel_time": "Boat about 1 hour 30 minutes",
+      "brief": [
+        "Periyar Lake boat ride: tickets sell out early in peak season.",
+        "Ayurveda works best with light meals and no alcohol during treatment."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Ayurveda and the lake",
+      "summary": "Treatments and a sunset shikara ride.",
+      "strip": [
+        "Treatments morning and afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Abhyanga and treatments"
+        },
+        {
+          "label": "Sunset",
+          "title": "Shikara ride on Vembanad Lake"
+        }
+      ],
+      "places": [
+        "Vembanad Lake"
+      ],
+      "note": "Rest between treatments; the effect builds day by day.",
+      "photo_query": "Vembanad Lake",
+      "photo_caption": "Vembanad Lake",
+      "transport": "Private car with driver",
+      "brief": [
+        "Rest between treatments; the effect builds day by day."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Kumarakom Bird Sanctuary and more Ayurveda",
+      "summary": "Bird sanctuary at dawn, then treatments.",
+      "strip": [
+        "Sanctuary from 06:00"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Kumarakom Bird Sanctuary"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Treatments"
+        }
+      ],
+      "places": [
+        "Kumarakom Bird Sanctuary"
+      ],
+      "note": "Birding is best from November to February.",
+      "photo_query": "Kumarakom Bird Sanctuary",
+      "photo_caption": "Kumarakom Bird Sanctuary",
+      "transport": "Private car with driver",
+      "brief": [
+        "Birding is best from November to February."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Kochi",
+      "summary": "Transfer to Cochin International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Cochin International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Cochin International Airport",
+      "photo_caption": "Cochin International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "12 nights with breakfast; full board on the houseboat",
+    "Private car throughout",
+    "Ayurveda consultation (treatment package quoted separately)",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance",
+    "Ayurveda treatment packages"
+  ],
+  "best_time": "October to March. For deep Ayurveda, many resorts recommend the monsoon months of June to August, when the air is cool and moist.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Hot and humid; fine for hills."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Heavy rain; some roads and sights close."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "November to February for weather; June to August if Ayurveda is the main aim.",
+  "faqs": [
+    {
+      "q": "How many Ayurveda nights do we need?",
+      "a": "Four nights gives a good rejuvenation programme. Real detox (panchakarma) needs 14 to 21 days."
+    },
+    {
+      "q": "Can we extend with a beach?",
+      "a": "Yes. Add 2 or 3 nights at Marari or Varkala."
+    },
+    {
+      "q": "Is the houseboat private?",
+      "a": "Yes, a one-bedroom private houseboat with a crew of two or three."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Kerala honeymoon package",
+    "Kerala houseboat honeymoon",
+    "Kerala Ayurveda holiday",
+    "Munnar Alleppey honeymoon"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

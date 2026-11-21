@@ -1,0 +1,840 @@
+{
+  "slug": "uttarakhand-kumaon-himalaya-17-days",
+  "title": "Uttarakhand's Kumaon Himalaya: Corbett, the Lakes, Mukteshwar, Binsar, Munsiyari and Kausani",
+  "meta_title": "Kumaon Himalaya Tour 17 Days: Corbett to Munsiyari",
+  "meta_description": "17-day Uttarakhand journey: Delhi, Jim Corbett safaris, Bhimtal and Sattal, Mukteshwar, Binsar's forest, Munsiyari's Panchachuli views and Kausani.",
+  "destination": "Uttarakhand, India",
+  "country": "India",
+  "duration": "17 days / 16 nights",
+  "nights": 16,
+  "style": "Himalaya · Wildlife · Slow travel",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Himalayan peaks from Kumaon",
+  "tagline": "Tigers, lakes, oak forests and the Panchachuli peaks",
+  "facts": [
+    [
+      "Stay",
+      "Delhi 3, Corbett 2, Bhimtal 2, Mukteshwar 2, Binsar 2, Munsiyari 2, Kausani 2, Delhi 1"
+    ],
+    [
+      "Pace",
+      "Slow, two nights everywhere"
+    ],
+    [
+      "Ideal for",
+      "Honeymooners and nature lovers"
+    ],
+    [
+      "Best months",
+      "March to June, September to November"
+    ],
+    [
+      "Transfers",
+      "Train to Ramnagar, private car"
+    ]
+  ],
+  "intro": "A slow journey through Kumaon, two nights at each stop. Tiger country at Corbett, the lakes of Bhimtal and Sattal, the orchards of Mukteshwar, the oak and rhododendron forest of Binsar, Munsiyari facing the Panchachuli peaks, and Kausani's long Himalayan view. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. We changed the order of the hills: the outline ran Corbett, Binsar, Munsiyari, Kausani, Mukteshwar, Bhimtal, which doubles back. Our loop climbs gradually and ends at Kathgodam station.",
+  "highlights": [
+    "Jeep safaris in Jim Corbett National Park",
+    "Boating on Bhimtal and Sattal lakes",
+    "Mukteshwar's cliff-top temple and orchards",
+    "Binsar Wildlife Sanctuary and the Zero Point view",
+    "Munsiyari and the five peaks of Panchachuli",
+    "Kausani's 300 km Himalayan panorama and the Anasakti Ashram"
+  ],
+  "stays": [
+    {
+      "place": "Delhi",
+      "nights": 3,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Corbett",
+      "nights": 2,
+      "hotel": "Jungle resort"
+    },
+    {
+      "place": "Bhimtal or Sattal",
+      "nights": 2,
+      "hotel": "Lake resort"
+    },
+    {
+      "place": "Mukteshwar",
+      "nights": 2,
+      "hotel": "Boutique lodge"
+    },
+    {
+      "place": "Binsar",
+      "nights": 2,
+      "hotel": "Forest lodge"
+    },
+    {
+      "place": "Munsiyari",
+      "nights": 2,
+      "hotel": "Mountain resort"
+    },
+    {
+      "place": "Kausani",
+      "nights": 2,
+      "hotel": "Himalaya-view hotel"
+    },
+    {
+      "place": "Delhi",
+      "nights": 1,
+      "hotel": "Airport hotel"
+    }
+  ],
+  "route": [
+    "Delhi",
+    "Ramnagar",
+    "Bhimtal",
+    "Mukteshwar",
+    "Binsar",
+    "Munsiyari",
+    "Kausani",
+    "Kathgodam",
+    "Delhi"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Delhi",
+      "summary": "Arrival in Delhi and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Three Delhi nights give a gentle start.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Three Delhi nights give a gentle start."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Old and New Delhi",
+      "summary": "Old Delhi walk and New Delhi's monuments.",
+      "strip": [
+        "Red Fort closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Old Delhi by rickshaw",
+          "text": "Red Fort, Jama Masjid and Chandni Chowk."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Humayun's Tomb and India Gate"
+        }
+      ],
+      "places": [
+        "Red Fort",
+        "Jama Masjid Delhi",
+        "Humayun's Tomb"
+      ],
+      "note": "Take it slowly; there is no hurry on this trip.",
+      "route": [
+        "Red Fort",
+        "Jama Masjid Delhi",
+        "Humayun's Tomb"
+      ],
+      "photo_query": "Red Fort",
+      "photo_caption": "Red Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "Take it slowly; there is no hurry on this trip."
+      ]
+    },
+    {
+      "pill": "Free day",
+      "title": "Delhi at your own pace",
+      "summary": "Free day, or Qutub Minar and Lodhi Garden.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Qutub Minar and Mehrauli"
+        },
+        {
+          "label": "Optional",
+          "title": "Dilli Haat"
+        }
+      ],
+      "places": [
+        "Qutub Minar",
+        "Dilli Haat INA"
+      ],
+      "note": "Tomorrow's train leaves early.",
+      "route": [
+        "Qutub Minar",
+        "Dilli Haat INA"
+      ],
+      "photo_query": "Qutub Minar",
+      "photo_caption": "Qutub Minar",
+      "transport": "Private car with driver",
+      "brief": [
+        "Tomorrow's train leaves early."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Ramnagar and Corbett",
+      "summary": "Train to Ramnagar and transfer to your jungle resort.",
+      "strip": [
+        "Train about 5 to 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Train from Delhi to Ramnagar"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Jungle resort on the Kosi river"
+        }
+      ],
+      "places": [
+        "Ramnagar Railway Station",
+        "Jim Corbett National Park"
+      ],
+      "note": "Safari permits for Corbett are booked online in your ID name.",
+      "route": [
+        "Ramnagar Railway Station",
+        "Jim Corbett National Park"
+      ],
+      "photo_query": "Ramnagar Railway Station",
+      "photo_caption": "Ramnagar Railway Station",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 5 to 6 hours",
+      "brief": [
+        "Safari permits for Corbett are booked online in your ID name."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Tiger country: Jim Corbett",
+      "summary": "Morning and afternoon jeep safaris.",
+      "strip": [
+        "Safari about 06:00 and 14:00"
+      ],
+      "rows": [
+        {
+          "label": "About 06:00",
+          "title": "Jeep safari",
+          "text": "In Bijrani, Jhirna or Dhela zone.",
+          "notes": [
+            [
+              "TIME",
+              "Most zones close from mid-June to mid-October; Jhirna and Dhela stay open."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Second safari or Corbett Museum"
+        }
+      ],
+      "places": [
+        "Bijrani Safari Zone",
+        "Corbett Museum Kaladhungi"
+      ],
+      "note": "Dhikala zone needs a forest rest-house booking months ahead.",
+      "route": [
+        "Bijrani Safari Zone",
+        "Corbett Museum Kaladhungi"
+      ],
+      "photo_query": "Bijrani Safari Zone",
+      "photo_caption": "Bijrani Safari Zone",
+      "transport": "Private car with driver",
+      "brief": [
+        "Jeep safari: most zones close from mid-June to mid-October; Jhirna and Dhela stay open.",
+        "Dhikala zone needs a forest rest-house booking months ahead."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To the lakes of Bhimtal and Sattal",
+      "summary": "Drive to Bhimtal.",
+      "strip": [
+        "About 100 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Bhimtal lake",
+          "text": "Boating out to the island aquarium."
+        },
+        {
+          "label": "Evening",
+          "title": "Lakeside walk"
+        }
+      ],
+      "places": [
+        "Bhimtal Lake"
+      ],
+      "note": "Nainital is 22 km away if you want a half day there.",
+      "photo_query": "Bhimtal Lake",
+      "photo_caption": "Bhimtal Lake",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 hours",
+      "brief": [
+        "Nainital is 22 km away if you want a half day there."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Sattal and Naukuchiatal",
+      "summary": "Sattal's seven lakes and birdwatching.",
+      "strip": [
+        "Short drives"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sattal",
+          "text": "Birdwatching among oak and pine."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Naukuchiatal",
+          "text": "The lake with nine corners."
+        }
+      ],
+      "places": [
+        "Sattal",
+        "Naukuchiatal"
+      ],
+      "note": "Over 500 bird species are recorded around Sattal.",
+      "route": [
+        "Sattal",
+        "Naukuchiatal"
+      ],
+      "photo_query": "Sattal",
+      "photo_caption": "Sattal",
+      "transport": "Private car with driver",
+      "brief": [
+        "Over 500 bird species are recorded around Sattal."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up to the orchards of Mukteshwar",
+      "summary": "Drive to Mukteshwar and the cliff temple.",
+      "strip": [
+        "About 50 km, 2 hours",
+        "Mukteshwar about 2,200 m"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Mukteshwar Dham and Chauli ki Jali",
+          "text": "A 350-year-old Shiva temple and cliffs.",
+          "notes": [
+            [
+              "CARE",
+              "Chauli ki Jali has sheer drops. Keep children close."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Mukteshwar Dham",
+        "Chauli Ki Jali"
+      ],
+      "note": "Clear mornings show the Himalaya from Trishul to Nanda Devi.",
+      "route": [
+        "Mukteshwar Dham",
+        "Chauli Ki Jali"
+      ],
+      "photo_query": "Mukteshwar Dham",
+      "photo_caption": "Mukteshwar Dham",
+      "transport": "Private car with driver",
+      "travel_time": "About 50 km, 2 hours",
+      "brief": [
+        "Mukteshwar Dham and Chauli ki Jali: chauli ki Jali has sheer drops.",
+        "Clear mornings show the Himalaya from Trishul to Nanda Devi."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Mukteshwar at leisure",
+      "summary": "Orchard walks and the IVRI heritage building.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Orchard walk",
+          "text": "Apricots and apples in season."
+        },
+        {
+          "label": "Optional",
+          "title": "Rock climbing at Chauli ki Jali",
+          "text": "With an operator."
+        }
+      ],
+      "places": [
+        "Mukteshwar"
+      ],
+      "note": "A lovely place to do nothing at all.",
+      "photo_query": "Mukteshwar",
+      "photo_caption": "Mukteshwar",
+      "transport": "Private car with driver",
+      "brief": [
+        "A lovely place to do nothing at all."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Into the forest of Binsar",
+      "summary": "Drive to Binsar via Almora.",
+      "strip": [
+        "About 90 km, 3 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Almora bazaar",
+          "text": "Bal mithai, the local sweet."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Binsar sanctuary lodge"
+        }
+      ],
+      "places": [
+        "Almora",
+        "Binsar Wildlife Sanctuary"
+      ],
+      "note": "Binsar lodges run on solar power: limited electricity at night.",
+      "route": [
+        "Almora",
+        "Binsar Wildlife Sanctuary"
+      ],
+      "photo_query": "Almora",
+      "photo_caption": "Almora",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km, 3 hours 30 minutes",
+      "brief": [
+        "Binsar lodges run on solar power: limited electricity at night."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Zero Point and the forest trails",
+      "summary": "Walk to Zero Point and the Binsar Mahadev temple.",
+      "strip": [
+        "Walk about 2 km each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Zero Point",
+          "text": "A watchtower facing Nanda Devi and Trishul."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Binsar Mahadev temple"
+        }
+      ],
+      "places": [
+        "Zero Point Binsar",
+        "Binsar Mahadev Temple"
+      ],
+      "note": "Sanctuary entry fees are paid at the gate.",
+      "route": [
+        "Zero Point Binsar",
+        "Binsar Mahadev Temple"
+      ],
+      "photo_query": "Zero Point Binsar",
+      "photo_caption": "Zero Point Binsar",
+      "transport": "Private car with driver",
+      "travel_time": "Walk about 2 km each way",
+      "brief": [
+        "Sanctuary entry fees are paid at the gate."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The high road to Munsiyari",
+      "summary": "Long mountain drive to Munsiyari.",
+      "strip": [
+        "About 200 km, 7 to 8 hours",
+        "Munsiyari about 2,200 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Through Bageshwar and Thal"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Birthi Falls",
+          "text": "On the way."
+        },
+        {
+          "label": "Evening",
+          "title": "Munsiyari"
+        }
+      ],
+      "places": [
+        "Birthi Falls",
+        "Munsiyari"
+      ],
+      "note": "The longest drive of the trip. Roads can close for hours after rain.",
+      "route": [
+        "Birthi Falls",
+        "Munsiyari"
+      ],
+      "photo_query": "Birthi Falls",
+      "photo_caption": "Birthi Falls",
+      "transport": "Private car with driver",
+      "travel_time": "About 200 km, 7 to 8 hours",
+      "brief": [
+        "The longest drive of the trip."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Panchachuli and Khaliya Top",
+      "summary": "Sunrise over Panchachuli and an optional hike to Khaliya Top.",
+      "strip": [
+        "Hike about 5 to 6 hours return"
+      ],
+      "rows": [
+        {
+          "label": "Sunrise",
+          "title": "Panchachuli peaks"
+        },
+        {
+          "label": "Optional",
+          "title": "Khaliya Top hike",
+          "text": "Meadows at about 3,500 m.",
+          "notes": [
+            [
+              "CARE",
+              "Only for fit walkers, with a guide."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tribal Heritage Museum"
+        }
+      ],
+      "places": [
+        "Khaliya Top",
+        "Tribal Heritage Museum Munsiyari"
+      ],
+      "note": "Pack warm: evenings are cold all year.",
+      "route": [
+        "Khaliya Top",
+        "Tribal Heritage Museum Munsiyari"
+      ],
+      "photo_query": "Khaliya Top",
+      "photo_caption": "Khaliya Top",
+      "transport": "Private car with driver",
+      "travel_time": "Hike about 5 to 6 hours return",
+      "brief": [
+        "Khaliya Top hike: only for fit walkers, with a guide.",
+        "Pack warm: evenings are cold all year."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Back to Kausani's Himalayan view",
+      "summary": "Drive to Kausani.",
+      "strip": [
+        "About 150 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Kausani",
+          "text": "Sunset on the peaks."
+        }
+      ],
+      "places": [
+        "Kausani"
+      ],
+      "note": "Gandhi called Kausani the Switzerland of India.",
+      "photo_query": "Kausani",
+      "photo_caption": "Kausani",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 6 hours",
+      "brief": [
+        "Gandhi called Kausani the Switzerland of India."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Anasakti Ashram and the tea estate",
+      "summary": "Anasakti Ashram, the tea estate and Baijnath temples.",
+      "strip": [
+        "Short drives"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Anasakti Ashram",
+          "text": "Where Gandhi stayed in 1929."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kausani tea estate and Baijnath temples"
+        }
+      ],
+      "places": [
+        "Anasakti Ashram",
+        "Kausani Tea Estate",
+        "Baijnath Temple"
+      ],
+      "note": "Tomorrow's train from Kathgodam leaves in the afternoon.",
+      "route": [
+        "Anasakti Ashram",
+        "Kausani Tea Estate",
+        "Baijnath Temple"
+      ],
+      "photo_query": "Anasakti Ashram",
+      "photo_caption": "Anasakti Ashram",
+      "transport": "Private car with driver",
+      "brief": [
+        "Tomorrow's train from Kathgodam leaves in the afternoon."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Down to Kathgodam and the train to Delhi",
+      "summary": "Drive to Kathgodam and the train to Delhi.",
+      "strip": [
+        "About 130 km, 4 hours 30 minutes",
+        "Train about 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Kathgodam"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Train to Delhi"
+        }
+      ],
+      "places": [
+        "Kathgodam Railway Station"
+      ],
+      "note": "A night near the airport makes tomorrow easy.",
+      "photo_query": "Kathgodam Railway Station",
+      "photo_caption": "Kathgodam Railway Station",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km, 4 hours 30 minutes",
+      "brief": [
+        "A night near the airport makes tomorrow easy."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Delhi",
+      "summary": "Transfer to Indira Gandhi International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "16 nights with breakfast",
+    "Delhi to Ramnagar and Kathgodam to Delhi trains",
+    "Private car in the hills",
+    "Two Corbett jeep safaris",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "March to June and September to November. Avoid July and August, when monsoon landslides close mountain roads. Snow can fall at Munsiyari and Mukteshwar in January and February.",
+  "seasons": [
+    [
+      "March to June",
+      "Best",
+      "Rhododendrons in spring, warm days."
+    ],
+    [
+      "September to November",
+      "Best",
+      "Clearest views of the peaks."
+    ],
+    [
+      "July to August",
+      "Avoid",
+      "Monsoon landslides."
+    ],
+    [
+      "December to February",
+      "Cold",
+      "Snow possible; clear views."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "wet",
+    "wet",
+    "shoulder",
+    "peak",
+    "dry",
+    "snow"
+  ],
+  "best_pick": "October and November: the clearest Himalayan views of the year.",
+  "faqs": [
+    {
+      "q": "Can we shorten it?",
+      "a": "Yes. Drop Corbett or the lakes for a 10 to 12 night trip."
+    },
+    {
+      "q": "Is it suitable for older travellers?",
+      "a": "Yes. Two nights everywhere keeps it gentle; only the Munsiyari drive is long."
+    },
+    {
+      "q": "Will we see a tiger?",
+      "a": "Sightings are common in Corbett but never guaranteed."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Kumaon tour",
+    "Uttarakhand honeymoon",
+    "Munsiyari Binsar Kausani",
+    "Corbett Nainital tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

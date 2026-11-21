@@ -1,0 +1,749 @@
+{
+  "slug": "royal-rajasthan-grand-tour-14-days",
+  "title": "Royal Rajasthan Grand Tour: Jaipur, Pushkar, Jodhpur, Jaisalmer, Jalore and Udaipur",
+  "meta_title": "Royal Rajasthan Tour 14 Days: Jaipur to Udaipur",
+  "meta_description": "14-day Rajasthan grand tour: Jaipur's forts, Pushkar and Ajmer, Mehrangarh in Jodhpur, Jaisalmer and the Thar desert, Jalore and the lakes of Udaipur.",
+  "destination": "Rajasthan, India",
+  "country": "India",
+  "duration": "14 days / 13 nights",
+  "nights": 13,
+  "style": "Forts · Desert · Palaces",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Fort in Rajasthan",
+  "tagline": "Pink city, blue city, golden city and the city of lakes",
+  "facts": [
+    [
+      "Stay",
+      "Jaipur 2, Pushkar 2, Jodhpur 3, Jaisalmer 3, Jalore 1, Udaipur 2"
+    ],
+    [
+      "Pace",
+      "Comfortable, long drives between cities"
+    ],
+    [
+      "Ideal for",
+      "First and second-time visitors"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Jaipur in, Udaipur out"
+    ]
+  ],
+  "intro": "Rajasthan's royal cities in one sweep: Jaipur's palaces, holy Pushkar and Ajmer, Jodhpur below Mehrangarh, golden Jaisalmer and a night in the Thar, a quiet stop in Jalore and the lakes of Udaipur. Palace hotels and courtyard dinners suit this route well. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours.",
+  "highlights": [
+    "Amer Fort, City Palace and Hawa Mahal in Jaipur",
+    "Pushkar's ghats and Ajmer Sharif Dargah",
+    "Mehrangarh Fort and the blue city of Jodhpur",
+    "Jaisalmer Fort, the havelis and a night in the desert",
+    "Jalore Fort",
+    "Udaipur's City Palace and Lake Pichola"
+  ],
+  "stays": [
+    {
+      "place": "Jaipur",
+      "nights": 2,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Pushkar",
+      "nights": 2,
+      "hotel": "Resort"
+    },
+    {
+      "place": "Jodhpur",
+      "nights": 3,
+      "hotel": "Palace hotel"
+    },
+    {
+      "place": "Jaisalmer",
+      "nights": 3,
+      "hotel": "Haveli and desert camp"
+    },
+    {
+      "place": "Jalore",
+      "nights": 1,
+      "hotel": "Heritage stay"
+    },
+    {
+      "place": "Udaipur",
+      "nights": 2,
+      "hotel": "Lake-view hotel"
+    }
+  ],
+  "route": [
+    "Jaipur",
+    "Ajmer",
+    "Pushkar",
+    "Jodhpur",
+    "Jaisalmer",
+    "Jalore",
+    "Udaipur"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Jaipur",
+      "summary": "Arrival in Jaipur and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Jaipur International Airport"
+      ],
+      "note": "Evening: a walk in the bazaars around Hawa Mahal.",
+      "photo_query": "Jaipur International Airport",
+      "photo_caption": "Jaipur International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Evening: a walk in the bazaars around Hawa Mahal."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Amer Fort and the Pink City",
+      "summary": "Amer Fort, City Palace, Jantar Mantar and Hawa Mahal.",
+      "strip": [
+        "Amer opens about 08:00"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Amer Fort",
+          "notes": [
+            [
+              "CARE",
+              "Walk or take a jeep up; we do not recommend the elephant rides."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "City Palace and Jantar Mantar"
+        },
+        {
+          "label": "Evening",
+          "title": "Hawa Mahal and the bazaars"
+        }
+      ],
+      "places": [
+        "Amer Fort",
+        "City Palace Jaipur",
+        "Jantar Mantar Jaipur",
+        "Hawa Mahal"
+      ],
+      "note": "Buy block prints and blue pottery in Jaipur.",
+      "route": [
+        "Amer Fort",
+        "City Palace Jaipur",
+        "Jantar Mantar Jaipur",
+        "Hawa Mahal"
+      ],
+      "photo_query": "Amer Fort",
+      "photo_caption": "Amer Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "Amer Fort: walk or take a jeep up; we do not recommend the elephant rides.",
+        "Buy block prints and blue pottery in Jaipur."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ajmer Sharif and holy Pushkar",
+      "summary": "Drive to Pushkar via Ajmer Sharif Dargah.",
+      "strip": [
+        "About 150 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Ajmer Sharif Dargah",
+          "notes": [
+            [
+              "WEAR",
+              "Cover your head; remove shoes."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Pushkar lake aarti"
+        }
+      ],
+      "places": [
+        "Ajmer Sharif Dargah",
+        "Pushkar Lake"
+      ],
+      "note": "Pushkar is a holy town: no meat, eggs or alcohol.",
+      "route": [
+        "Ajmer Sharif Dargah",
+        "Pushkar Lake"
+      ],
+      "photo_query": "Ajmer Sharif Dargah",
+      "photo_caption": "Ajmer Sharif Dargah",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 3 hours",
+      "brief": [
+        "Ajmer Sharif Dargah: cover your head; remove shoes.",
+        "Pushkar is a holy town: no meat, eggs or alcohol."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Pushkar's ghats and Brahma temple",
+      "summary": "Brahma temple, Savitri temple ropeway and the bazaar.",
+      "strip": [
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Brahma temple",
+          "text": "One of very few temples to Brahma."
+        },
+        {
+          "label": "Sunset",
+          "title": "Savitri temple by ropeway"
+        }
+      ],
+      "places": [
+        "Brahma Temple Pushkar",
+        "Savitri Mata Temple"
+      ],
+      "note": "Decline 'free' flowers at the ghats: they lead to a demand for money.",
+      "route": [
+        "Brahma Temple Pushkar",
+        "Savitri Mata Temple"
+      ],
+      "photo_query": "Brahma Temple Pushkar",
+      "photo_caption": "Brahma Temple Pushkar",
+      "transport": "Private car with driver",
+      "brief": [
+        "Decline 'free' flowers at the ghats: they lead to a demand for money."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Jodhpur, the blue city",
+      "summary": "Drive to Jodhpur.",
+      "strip": [
+        "About 190 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Clock Tower and Sardar market"
+        }
+      ],
+      "places": [
+        "Ghanta Ghar Jodhpur"
+      ],
+      "note": "Try mirchi vada and makhaniya lassi.",
+      "photo_query": "Ghanta Ghar Jodhpur",
+      "photo_caption": "Ghanta Ghar Jodhpur",
+      "transport": "Private car with driver",
+      "travel_time": "About 190 km, 4 hours",
+      "brief": [
+        "Try mirchi vada and makhaniya lassi."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Mehrangarh and Jaswant Thada",
+      "summary": "Mehrangarh Fort, Jaswant Thada and the blue lanes.",
+      "strip": [
+        "Fort about 09:00 to 17:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mehrangarh Fort",
+          "text": "One of India's finest fort museums."
+        },
+        {
+          "label": "Midday",
+          "title": "Jaswant Thada"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Blue city walk"
+        }
+      ],
+      "places": [
+        "Mehrangarh Fort",
+        "Jaswant Thada"
+      ],
+      "note": "The fort's zip-line is a fun extra for active travellers.",
+      "route": [
+        "Mehrangarh Fort",
+        "Jaswant Thada"
+      ],
+      "photo_query": "Mehrangarh Fort",
+      "photo_caption": "Mehrangarh Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "The fort's zip-line is a fun extra for active travellers."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Umaid Bhawan and a Bishnoi village",
+      "summary": "Umaid Bhawan museum and a Bishnoi village jeep ride.",
+      "strip": [
+        "Half day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Umaid Bhawan Palace museum"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bishnoi village safari",
+          "text": "Potters, weavers and blackbuck."
+        }
+      ],
+      "places": [
+        "Umaid Bhawan Palace",
+        "Bishnoi Village"
+      ],
+      "note": "A Rajasthani thali at a family home can be arranged.",
+      "route": [
+        "Umaid Bhawan Palace",
+        "Bishnoi Village"
+      ],
+      "photo_query": "Umaid Bhawan Palace",
+      "photo_caption": "Umaid Bhawan Palace",
+      "transport": "Private car with driver",
+      "brief": [
+        "A Rajasthani thali at a family home can be arranged."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Across the Thar to Jaisalmer",
+      "summary": "Drive to Jaisalmer.",
+      "strip": [
+        "About 285 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Evening",
+          "title": "Sunset at Vyas Chhatri"
+        }
+      ],
+      "places": [
+        "Vyas Chhatri",
+        "Jaisalmer"
+      ],
+      "note": "The desert is cold at night in December and January.",
+      "route": [
+        "Vyas Chhatri",
+        "Jaisalmer"
+      ],
+      "photo_query": "Vyas Chhatri",
+      "photo_caption": "Vyas Chhatri",
+      "transport": "Private car with driver",
+      "travel_time": "About 285 km, 5 hours",
+      "brief": [
+        "The desert is cold at night in December and January."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The living fort and the havelis",
+      "summary": "Jaisalmer Fort, Patwon ki Haveli and Gadisar Lake.",
+      "strip": [
+        "Walking day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Jaisalmer Fort",
+          "text": "People still live inside the walls; there are also Jain temples.",
+          "notes": [
+            [
+              "WEAR",
+              "No leather inside the Jain temples."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Patwon ki Haveli"
+        },
+        {
+          "label": "Sunset",
+          "title": "Gadisar Lake"
+        }
+      ],
+      "places": [
+        "Jaisalmer Fort",
+        "Patwon Ki Haveli",
+        "Gadisar Lake"
+      ],
+      "note": "Pack an overnight bag for the desert camp tomorrow.",
+      "route": [
+        "Jaisalmer Fort",
+        "Patwon Ki Haveli",
+        "Gadisar Lake"
+      ],
+      "photo_query": "Jaisalmer Fort",
+      "photo_caption": "Jaisalmer Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "Jaisalmer Fort: no leather inside the Jain temples.",
+        "Pack an overnight bag for the desert camp tomorrow."
+      ]
+    },
+    {
+      "pill": "Activity day",
+      "title": "A night in the Thar desert",
+      "summary": "Kuldhara, the dunes and a desert camp.",
+      "strip": [
+        "About 45 km to the dunes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Kuldhara abandoned village"
+        },
+        {
+          "label": "Sunset",
+          "title": "Camel ride on the dunes",
+          "notes": [
+            [
+              "CARE",
+              "Choose a quieter dune area than Sam if you prefer peace."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Folk music under the stars"
+        }
+      ],
+      "places": [
+        "Kuldhara",
+        "Sam Sand Dunes"
+      ],
+      "note": "Camps are cold at night; ask for extra blankets.",
+      "route": [
+        "Kuldhara",
+        "Sam Sand Dunes"
+      ],
+      "photo_query": "Kuldhara",
+      "photo_caption": "Kuldhara",
+      "transport": "Private car with driver",
+      "travel_time": "About 45 km to the dunes",
+      "brief": [
+        "Camel ride on the dunes: choose a quieter dune area than Sam if you prefer peace.",
+        "Camps are cold at night; ask for extra blankets."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "South to Jalore",
+      "summary": "Drive to Jalore.",
+      "strip": [
+        "About 300 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Jalore Fort",
+          "text": "A steep climb to the hilltop fort."
+        }
+      ],
+      "places": [
+        "Jalore Fort"
+      ],
+      "note": "Jalore is optional; the night can move to Jawai for a leopard safari.",
+      "photo_query": "Jalore Fort",
+      "photo_caption": "Jalore Fort",
+      "transport": "Private car with driver",
+      "travel_time": "About 300 km, 6 hours",
+      "brief": [
+        "Jalore is optional; the night can move to Jawai for a leopard safari."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Udaipur via Ranakpur",
+      "summary": "Drive to Udaipur via the Ranakpur Jain temple.",
+      "strip": [
+        "About 220 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Ranakpur Jain temple",
+          "text": "1,444 carved marble pillars.",
+          "notes": [
+            [
+              "TIME",
+              "Non-Jain visitors from about 12:00 to 17:00."
+            ],
+            [
+              "WEAR",
+              "No leather, shorts or bare shoulders."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive Udaipur"
+        }
+      ],
+      "places": [
+        "Ranakpur Jain Temple",
+        "Udaipur"
+      ],
+      "note": "Ranakpur serves a simple Jain lunch at the bhojanshala.",
+      "route": [
+        "Ranakpur Jain Temple",
+        "Udaipur"
+      ],
+      "photo_query": "Ranakpur Jain Temple",
+      "photo_caption": "Ranakpur Jain Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 220 km, 5 hours",
+      "brief": [
+        "Ranakpur Jain temple: non-Jain visitors from about 12:00 to 17:00.",
+        "Ranakpur Jain temple: no leather, shorts or bare shoulders."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Udaipur's City Palace and Lake Pichola",
+      "summary": "City Palace, Jagdish temple and a boat on Lake Pichola.",
+      "strip": [
+        "Palace about 09:30 to 17:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "City Palace"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Jagdish temple and Bagore ki Haveli"
+        },
+        {
+          "label": "Sunset",
+          "title": "Boat on Lake Pichola"
+        }
+      ],
+      "places": [
+        "City Palace Udaipur",
+        "Jagdish Temple",
+        "Lake Pichola"
+      ],
+      "note": "Dharohar folk dance at Bagore ki Haveli runs most evenings.",
+      "route": [
+        "City Palace Udaipur",
+        "Jagdish Temple",
+        "Lake Pichola"
+      ],
+      "photo_query": "City Palace Udaipur",
+      "photo_caption": "City Palace Udaipur",
+      "transport": "Private car with driver",
+      "brief": [
+        "Dharohar folk dance at Bagore ki Haveli runs most evenings."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Udaipur",
+      "summary": "Transfer to Maharana Pratap Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Maharana Pratap Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Maharana Pratap Airport",
+      "photo_caption": "Maharana Pratap Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "Desert camp night with dinner"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "October to March. Avoid April to June, when the desert passes 45°.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "About 25° by day; cold desert nights in winter."
+    ],
+    [
+      "April to June",
+      "Avoid",
+      "Very hot."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Humid; Udaipur is green and lakes fill."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak"
+  ],
+  "best_pick": "November, during or after the Pushkar fair, or February.",
+  "faqs": [
+    {
+      "q": "Can we see the Pushkar camel fair?",
+      "a": "Yes, it runs around the Kartik full moon in October or November. Book well ahead."
+    },
+    {
+      "q": "Can we stay in palace hotels?",
+      "a": "Yes. Most cities on this route have heritage and palace hotels; tell us your budget."
+    },
+    {
+      "q": "Is Jalore needed?",
+      "a": "No. It breaks the long Jaisalmer to Udaipur drive. Jawai, for leopards, is a good alternative."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Rajasthan grand tour",
+    "Jaipur Jodhpur Jaisalmer Udaipur",
+    "Royal Rajasthan 13 nights",
+    "Rajasthan palace tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

@@ -1,0 +1,730 @@
+{
+  "slug": "himachal-amritsar-rajasthan-north-circuit-14-days",
+  "title": "North India Circuit: Delhi, Manali, Dharamshala, Amritsar, Bundi and Udaipur",
+  "meta_title": "North India Tour 14 Days: Manali, Amritsar, Udaipur",
+  "meta_description": "14-day north India combo: Delhi, three nights in Manali or Kasol, McLeod Ganj, the Golden Temple in Amritsar, then Bundi and the lakes of Udaipur.",
+  "destination": "Himachal, Punjab and Rajasthan, India",
+  "country": "India",
+  "duration": "14 days / 13 nights",
+  "nights": 13,
+  "style": "Mountains · Spiritual · Desert cities",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Himalayan valley in Himachal",
+  "tagline": "Himalayan valleys, the Golden Temple and Rajasthan's lakes",
+  "facts": [
+    [
+      "Stay",
+      "Delhi 1, Manali 3, Dharamshala 2, Amritsar 2, Bundi 2, Udaipur 3"
+    ],
+    [
+      "Pace",
+      "Active"
+    ],
+    [
+      "Ideal for",
+      "Active couples and friends"
+    ],
+    [
+      "Best months",
+      "March to June, September to November"
+    ],
+    [
+      "Arrive / leave",
+      "Delhi in, Udaipur out"
+    ]
+  ],
+  "intro": "Hills, holy cities and Rajasthan in one active trip. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. We changed three things in the outline: Dharamshala gets two nights instead of one; Amritsar gets two instead of three; and you fly from Amritsar to Jaipur, because Amritsar to Bundi is about 800 km by road.",
+  "highlights": [
+    "Manali's old village, Solang and the Atal Tunnel to Sissu",
+    "McLeod Ganj, the Dalai Lama's temple and Bhagsu",
+    "The Golden Temple and the Attari border",
+    "Bundi's step-wells and Taragarh Fort",
+    "Udaipur's City Palace and Lake Pichola"
+  ],
+  "stays": [
+    {
+      "place": "Delhi",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Manali",
+      "nights": 3,
+      "hotel": "Mountain resort"
+    },
+    {
+      "place": "Dharamshala",
+      "nights": 2,
+      "hotel": "Hotel in McLeod Ganj"
+    },
+    {
+      "place": "Amritsar",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Bundi",
+      "nights": 2,
+      "hotel": "Haveli"
+    },
+    {
+      "place": "Udaipur",
+      "nights": 3,
+      "hotel": "Lake-view hotel"
+    }
+  ],
+  "route": [
+    "Delhi",
+    "Manali",
+    "Atal Tunnel",
+    "Dharamshala",
+    "Amritsar",
+    "Jaipur",
+    "Bundi",
+    "Udaipur"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Delhi",
+      "summary": "Arrival in Delhi and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Tonight's overnight Volvo or tomorrow's flight to Kullu takes you to the hills.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Tonight's overnight Volvo or tomorrow's flight to Kullu takes you to the hills."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Kullu and up to Manali",
+      "summary": "Flight to Kullu (Bhuntar) and drive to Manali.",
+      "strip": [
+        "Flight about 1 hour 20 minutes",
+        "Drive about 50 km, 1 hour 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Old Manali and Hadimba temple"
+        }
+      ],
+      "places": [
+        "Kullu Manali Airport",
+        "Hadimba Devi Temple"
+      ],
+      "note": "Kullu flights are weather-dependent; the overnight bus is the backup.",
+      "route": [
+        "Kullu Manali Airport",
+        "Hadimba Devi Temple"
+      ],
+      "photo_query": "Kullu Manali Airport",
+      "photo_caption": "Kullu Manali Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour 20 minutes",
+      "brief": [
+        "Kullu flights are weather-dependent; the overnight bus is the backup."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Solang Valley and the Atal Tunnel",
+      "summary": "Solang Valley and a drive through the Atal Tunnel to Sissu.",
+      "strip": [
+        "Permit needed for Rohtang only"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Solang Valley",
+          "text": "Ropeway and paragliding in season."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Atal Tunnel to Sissu",
+          "notes": [
+            [
+              "CARE",
+              "Snow can close the road in winter; follow your driver's advice."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Solang Valley",
+        "Atal Tunnel",
+        "Sissu"
+      ],
+      "note": "Rohtang Pass needs an online permit and opens from about May.",
+      "route": [
+        "Solang Valley",
+        "Atal Tunnel",
+        "Sissu"
+      ],
+      "photo_query": "Solang Valley",
+      "photo_caption": "Solang Valley",
+      "transport": "Private car with driver",
+      "brief": [
+        "Atal Tunnel to Sissu: snow can close the road in winter; follow your driver's advice.",
+        "Rohtang Pass needs an online permit and opens from about May."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Naggar and the Kullu valley",
+      "summary": "Naggar Castle and the Roerich gallery, or a day in Kasol.",
+      "strip": [
+        "Half day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Naggar Castle"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Roerich Art Gallery",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Naggar Castle",
+        "Nicholas Roerich Art Gallery"
+      ],
+      "note": "Kasol and Tosh in the Parvati valley are an alternative base.",
+      "route": [
+        "Naggar Castle",
+        "Nicholas Roerich Art Gallery"
+      ],
+      "photo_query": "Naggar Castle",
+      "photo_caption": "Naggar Castle",
+      "transport": "Private car with driver",
+      "brief": [
+        "Roerich Art Gallery: closed on Mondays.",
+        "Kasol and Tosh in the Parvati valley are an alternative base."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Dharamshala and McLeod Ganj",
+      "summary": "Drive to Dharamshala.",
+      "strip": [
+        "About 230 km, 7 hours"
+      ],
+      "rows": [
+        {
+          "label": "Evening",
+          "title": "McLeod Ganj market"
+        }
+      ],
+      "places": [
+        "McLeod Ganj"
+      ],
+      "note": "A long hill drive. Tell your driver if you get car-sick.",
+      "photo_query": "McLeod Ganj",
+      "photo_caption": "McLeod Ganj",
+      "transport": "Private car with driver",
+      "travel_time": "About 230 km, 7 hours",
+      "brief": [
+        "A long hill drive."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Dalai Lama's temple and Bhagsu",
+      "summary": "Tsuglagkhang, Bhagsunag, the cricket stadium and the tea gardens.",
+      "strip": [
+        "Walking day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Tsuglagkhang complex",
+          "text": "The Dalai Lama's temple and the Tibet Museum."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bhagsunag falls"
+        },
+        {
+          "label": "Evening",
+          "title": "HPCA stadium"
+        }
+      ],
+      "places": [
+        "Tsuglagkhang Complex",
+        "Bhagsunag Waterfall",
+        "HPCA Stadium"
+      ],
+      "note": "Try Tibetan momos and thenthuk.",
+      "route": [
+        "Tsuglagkhang Complex",
+        "Bhagsunag Waterfall",
+        "HPCA Stadium"
+      ],
+      "photo_query": "Tsuglagkhang Complex",
+      "photo_caption": "Tsuglagkhang Complex",
+      "transport": "Private car with driver",
+      "brief": [
+        "Try Tibetan momos and thenthuk."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Down to Amritsar",
+      "summary": "Drive to Amritsar and the Golden Temple at night.",
+      "strip": [
+        "About 200 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Evening",
+          "title": "Golden Temple",
+          "notes": [
+            [
+              "WEAR",
+              "Cover your head; shoes off."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Golden Temple"
+      ],
+      "note": "The temple is open all night and especially peaceful after 22:00.",
+      "photo_query": "Golden Temple",
+      "photo_caption": "Golden Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 200 km, 5 hours",
+      "brief": [
+        "Golden Temple: cover your head; shoes off.",
+        "The temple is open all night and especially peaceful after 22:00."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Langar, Partition Museum and the border",
+      "summary": "Langar, the Partition Museum, Jallianwala Bagh and the Attari ceremony.",
+      "strip": [
+        "Border about 30 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Langar"
+        },
+        {
+          "label": "Midday",
+          "title": "Partition Museum",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Attari border ceremony",
+          "notes": [
+            [
+              "CARE",
+              "Held in a reduced form since 2025."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Partition Museum Amritsar",
+        "Attari Wagah Border"
+      ],
+      "note": "Tomorrow's flight to Jaipur is in the morning.",
+      "route": [
+        "Partition Museum Amritsar",
+        "Attari Wagah Border"
+      ],
+      "photo_query": "Partition Museum Amritsar",
+      "photo_caption": "Partition Museum Amritsar",
+      "transport": "Private car with driver",
+      "travel_time": "Border about 30 km",
+      "brief": [
+        "Partition Museum: closed on Mondays.",
+        "Attari border ceremony: held in a reduced form since 2025."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Jaipur and drive to Bundi",
+      "summary": "Flight to Jaipur and drive to Bundi.",
+      "strip": [
+        "Flight about 1 hour 30 minutes",
+        "Drive about 210 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight to Jaipur"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Bundi"
+        }
+      ],
+      "places": [
+        "Jaipur International Airport",
+        "Bundi"
+      ],
+      "note": "We use the flight: Amritsar to Bundi is about 800 km by road.",
+      "route": [
+        "Jaipur International Airport",
+        "Bundi"
+      ],
+      "photo_query": "Jaipur International Airport",
+      "photo_caption": "Jaipur International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour 30 minutes",
+      "brief": [
+        "We use the flight: Amritsar to Bundi is about 800 km by road."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Taragarh Fort and the step-wells of Bundi",
+      "summary": "Taragarh Fort, the Chitrashala and Raniji ki Baori.",
+      "strip": [
+        "Walking day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Taragarh Fort and Chitrashala",
+          "notes": [
+            [
+              "CARE",
+              "Monkeys in the fort: carry no food."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Raniji ki Baori"
+        }
+      ],
+      "places": [
+        "Taragarh Fort Bundi",
+        "Raniji ki Baori"
+      ],
+      "note": "Bundi is a place to slow down.",
+      "route": [
+        "Taragarh Fort Bundi",
+        "Raniji ki Baori"
+      ],
+      "photo_query": "Taragarh Fort Bundi",
+      "photo_caption": "Taragarh Fort Bundi",
+      "transport": "Private car with driver",
+      "brief": [
+        "Taragarh Fort and Chitrashala: monkeys in the fort: carry no food.",
+        "Bundi is a place to slow down."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Udaipur",
+      "summary": "Drive to Udaipur via Chittorgarh.",
+      "strip": [
+        "About 270 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Chittorgarh Fort"
+        }
+      ],
+      "places": [
+        "Chittorgarh Fort",
+        "Udaipur"
+      ],
+      "note": "Sunset from a rooftop café over Lake Pichola.",
+      "route": [
+        "Chittorgarh Fort",
+        "Udaipur"
+      ],
+      "photo_query": "Chittorgarh Fort",
+      "photo_caption": "Chittorgarh Fort",
+      "transport": "Private car with driver",
+      "travel_time": "About 270 km, 5 hours",
+      "brief": [
+        "Sunset from a rooftop café over Lake Pichola."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "City Palace and Lake Pichola",
+      "summary": "City Palace, Jagdish temple and a boat on the lake.",
+      "strip": [
+        "Palace about 09:30 to 17:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "City Palace"
+        },
+        {
+          "label": "Sunset",
+          "title": "Boat on Lake Pichola"
+        }
+      ],
+      "places": [
+        "City Palace Udaipur",
+        "Lake Pichola"
+      ],
+      "note": "Dharohar folk dance at Bagore ki Haveli in the evening.",
+      "route": [
+        "City Palace Udaipur",
+        "Lake Pichola"
+      ],
+      "photo_query": "City Palace Udaipur",
+      "photo_caption": "City Palace Udaipur",
+      "transport": "Private car with driver",
+      "brief": [
+        "Dharohar folk dance at Bagore ki Haveli in the evening."
+      ]
+    },
+    {
+      "pill": "Free day",
+      "title": "Udaipur at your own pace",
+      "summary": "Free day, or a cooking class.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Rajasthani cooking class"
+        },
+        {
+          "label": "Optional",
+          "title": "Sajjangarh Monsoon Palace at sunset"
+        }
+      ],
+      "places": [
+        "Sajjangarh Monsoon Palace"
+      ],
+      "note": "Buy miniature paintings from the artists' own studios.",
+      "photo_query": "Sajjangarh Monsoon Palace",
+      "photo_caption": "Sajjangarh Monsoon Palace",
+      "transport": "Private car with driver",
+      "brief": [
+        "Buy miniature paintings from the artists' own studios."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Udaipur",
+      "summary": "Transfer to Maharana Pratap Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Maharana Pratap Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Maharana Pratap Airport",
+      "photo_caption": "Maharana Pratap Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "Flights Delhi to Kullu and Amritsar to Jaipur (economy)"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance",
+    "Rohtang permit"
+  ],
+  "best_time": "March to June and September to November, good for both the hills and Rajasthan. In July and August the hills have landslides; in winter Manali has snow and the plains are pleasant.",
+  "seasons": [
+    [
+      "March to June",
+      "Best",
+      "Hills fresh; Rajasthan warming by May."
+    ],
+    [
+      "September to November",
+      "Best",
+      "Clear in the hills, pleasant in Rajasthan."
+    ],
+    [
+      "July to August",
+      "Avoid",
+      "Monsoon landslides in Himachal."
+    ],
+    [
+      "December to February",
+      "Winter",
+      "Snow in Manali; Rajasthan perfect."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "wet",
+    "wet",
+    "dry",
+    "peak",
+    "dry",
+    "snow"
+  ],
+  "best_pick": "October: clear mountain air and comfortable Rajasthan days.",
+  "faqs": [
+    {
+      "q": "Kasol or Manali?",
+      "a": "Manali has more sights and hotels; Kasol and Tosh are quieter, with cafés and walks."
+    },
+    {
+      "q": "Why fly from Amritsar?",
+      "a": "Amritsar to Bundi is about 800 km. The flight to Jaipur saves a full day."
+    },
+    {
+      "q": "Can we see snow?",
+      "a": "From December to March around Solang and Sissu; at Rohtang from May to June."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Manali Amritsar Udaipur tour",
+    "north India circuit",
+    "Himachal Rajasthan tour",
+    "Dharamshala Amritsar tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

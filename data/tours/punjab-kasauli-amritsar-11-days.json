@@ -1,0 +1,624 @@
+{
+  "slug": "punjab-kasauli-amritsar-11-days",
+  "title": "Punjab and the Hills: Delhi, Chandigarh, Kasauli, Anandpur Sahib, Patiala and Amritsar",
+  "meta_title": "Punjab and Kasauli Tour 11 Days: Delhi to Amritsar",
+  "meta_description": "11-day Punjab and hills tour: Delhi, Chandigarh's Rock Garden, the hill station of Kasauli, Anandpur Sahib, royal Patiala and the Golden Temple in Amritsar.",
+  "destination": "Delhi, Punjab and Himachal, India",
+  "country": "India",
+  "duration": "11 days / 10 nights",
+  "nights": 10,
+  "style": "Spiritual · Heritage · Hills",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Golden Temple in Amritsar",
+  "tagline": "Gurdwaras, a colonial hill station and the royal city of Patiala",
+  "facts": [
+    [
+      "Stay",
+      "Delhi 3, Chandigarh 1, Kasauli 2, Anandpur Sahib 1, Patiala 2, Amritsar 1"
+    ],
+    [
+      "Pace",
+      "Gentle"
+    ],
+    [
+      "Ideal for",
+      "Multi-generation families"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Delhi in, Amritsar out"
+    ]
+  ],
+  "intro": "Spiritual Punjab with a breath of hill air. Delhi, Le Corbusier's Chandigarh, the quiet hill station of Kasauli, the Khalsa birthplace at Anandpur Sahib, the royal city of Patiala and the Golden Temple. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. Amritsar deserves two nights: one night leaves no time for the Partition Museum and the border.",
+  "highlights": [
+    "Delhi's Gurdwara Bangla Sahib, Red Fort and Humayun's Tomb",
+    "Chandigarh's Rock Garden and Sukhna Lake",
+    "Kasauli's colonial church and Monkey Point",
+    "Takht Sri Kesgarh Sahib at Anandpur Sahib",
+    "Qila Mubarak and the Sheesh Mahal in Patiala",
+    "The Golden Temple and its langar"
+  ],
+  "stays": [
+    {
+      "place": "Delhi",
+      "nights": 3,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Chandigarh",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Kasauli",
+      "nights": 2,
+      "hotel": "Hill resort"
+    },
+    {
+      "place": "Anandpur Sahib",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Patiala",
+      "nights": 2,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Amritsar",
+      "nights": 1,
+      "hotel": "Hotel near the Golden Temple"
+    }
+  ],
+  "route": [
+    "Delhi",
+    "Chandigarh",
+    "Kasauli",
+    "Anandpur Sahib",
+    "Patiala",
+    "Amritsar"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Delhi",
+      "summary": "Arrival in Delhi and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Evening at Gurdwara Bangla Sahib.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Evening at Gurdwara Bangla Sahib."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Old Delhi and its gurdwaras",
+      "summary": "Red Fort, Gurdwara Sis Ganj Sahib and Chandni Chowk.",
+      "strip": [
+        "Red Fort closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Red Fort"
+        },
+        {
+          "label": "Midday",
+          "title": "Gurdwara Sis Ganj Sahib",
+          "notes": [
+            [
+              "WEAR",
+              "Cover your head; remove shoes."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chandni Chowk"
+        }
+      ],
+      "places": [
+        "Red Fort",
+        "Gurdwara Sis Ganj Sahib",
+        "Chandni Chowk"
+      ],
+      "note": "Old Delhi is best before noon.",
+      "route": [
+        "Red Fort",
+        "Gurdwara Sis Ganj Sahib",
+        "Chandni Chowk"
+      ],
+      "photo_query": "Red Fort",
+      "photo_caption": "Red Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "Gurdwara Sis Ganj Sahib: cover your head; remove shoes.",
+        "Old Delhi is best before noon."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "New Delhi",
+      "summary": "Humayun's Tomb, Qutub Minar and India Gate.",
+      "strip": [
+        "Full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Humayun's Tomb"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Qutub Minar"
+        },
+        {
+          "label": "Evening",
+          "title": "India Gate"
+        }
+      ],
+      "places": [
+        "Humayun's Tomb",
+        "Qutub Minar",
+        "India Gate"
+      ],
+      "note": "Tomorrow's train to Chandigarh is in the morning.",
+      "route": [
+        "Humayun's Tomb",
+        "Qutub Minar",
+        "India Gate"
+      ],
+      "photo_query": "Humayun's Tomb",
+      "photo_caption": "Humayun's Tomb",
+      "transport": "Private car with driver",
+      "brief": [
+        "Tomorrow's train to Chandigarh is in the morning."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Chandigarh, the planned city",
+      "summary": "Train to Chandigarh, the Rock Garden and Sukhna Lake.",
+      "strip": [
+        "Shatabdi about 3 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Shatabdi to Chandigarh"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Nek Chand's Rock Garden"
+        },
+        {
+          "label": "Evening",
+          "title": "Sukhna Lake"
+        }
+      ],
+      "places": [
+        "Rock Garden Chandigarh",
+        "Sukhna Lake"
+      ],
+      "note": "The Capitol Complex tour needs ID and runs on weekdays.",
+      "route": [
+        "Rock Garden Chandigarh",
+        "Sukhna Lake"
+      ],
+      "photo_query": "Rock Garden Chandigarh",
+      "photo_caption": "Rock Garden Chandigarh",
+      "transport": "Private car with driver",
+      "travel_time": "Shatabdi about 3 hours 30 minutes",
+      "brief": [
+        "The Capitol Complex tour needs ID and runs on weekdays."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up to Kasauli",
+      "summary": "Drive to Kasauli.",
+      "strip": [
+        "About 60 km, 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Mall Road and Christ Church",
+          "text": "A church of 1844."
+        }
+      ],
+      "places": [
+        "Christ Church Kasauli"
+      ],
+      "note": "Kasauli is a cantonment: some roads are closed to private cars.",
+      "photo_query": "Christ Church Kasauli",
+      "photo_caption": "Christ Church Kasauli",
+      "transport": "Private car with driver",
+      "travel_time": "About 60 km, 2 hours",
+      "brief": [
+        "Kasauli is a cantonment: some roads are closed to private cars."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Monkey Point and the pine walks",
+      "summary": "Monkey Point (Hanuman temple) and Gilbert Trail.",
+      "strip": [
+        "Walking day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Monkey Point",
+          "notes": [
+            [
+              "TIME",
+              "Inside an Air Force area: ID needed, phones and cameras are not allowed."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gilbert Trail"
+        }
+      ],
+      "places": [
+        "Monkey Point Kasauli",
+        "Gilbert Trail Kasauli"
+      ],
+      "note": "Sunset Point is lovely in clear weather.",
+      "route": [
+        "Monkey Point Kasauli",
+        "Gilbert Trail Kasauli"
+      ],
+      "photo_query": "Monkey Point Kasauli",
+      "photo_caption": "Monkey Point Kasauli",
+      "transport": "Private car with driver",
+      "brief": [
+        "Monkey Point: inside an Air Force area: ID needed, phones and cameras are not allowed.",
+        "Sunset Point is lovely in clear weather."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Anandpur Sahib, birthplace of the Khalsa",
+      "summary": "Drive to Anandpur Sahib and the Virasat-e-Khalsa museum.",
+      "strip": [
+        "About 120 km, 3 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Takht Sri Kesgarh Sahib"
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Virasat-e-Khalsa museum",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Takht Sri Kesgarh Sahib",
+        "Virasat-e-Khalsa"
+      ],
+      "note": "Hola Mohalla in March is the town's great festival.",
+      "route": [
+        "Takht Sri Kesgarh Sahib",
+        "Virasat-e-Khalsa"
+      ],
+      "photo_query": "Takht Sri Kesgarh Sahib",
+      "photo_caption": "Takht Sri Kesgarh Sahib",
+      "transport": "Private car with driver",
+      "travel_time": "About 120 km, 3 hours 30 minutes",
+      "brief": [
+        "Virasat-e-Khalsa museum: closed on Mondays.",
+        "Hola Mohalla in March is the town's great festival."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To royal Patiala",
+      "summary": "Drive to Patiala and Qila Mubarak.",
+      "strip": [
+        "About 130 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Qila Mubarak"
+        }
+      ],
+      "places": [
+        "Qila Mubarak Patiala"
+      ],
+      "note": "Buy a Patiala salwar and juttis in Adalat Bazaar.",
+      "photo_query": "Qila Mubarak Patiala",
+      "photo_caption": "Qila Mubarak Patiala",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km, 3 hours",
+      "brief": [
+        "Buy a Patiala salwar and juttis in Adalat Bazaar."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sheesh Mahal and Gurdwara Dukh Niwaran Sahib",
+      "summary": "Sheesh Mahal, Moti Bagh and the gurdwara.",
+      "strip": [
+        "Half day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sheesh Mahal"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gurdwara Dukh Niwaran Sahib"
+        }
+      ],
+      "places": [
+        "Sheesh Mahal Patiala",
+        "Gurdwara Dukh Niwaran Sahib"
+      ],
+      "note": "Tomorrow's drive to Amritsar is about 4 hours.",
+      "route": [
+        "Sheesh Mahal Patiala",
+        "Gurdwara Dukh Niwaran Sahib"
+      ],
+      "photo_query": "Sheesh Mahal Patiala",
+      "photo_caption": "Sheesh Mahal Patiala",
+      "transport": "Private car with driver",
+      "brief": [
+        "Tomorrow's drive to Amritsar is about 4 hours."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Amritsar and the Golden Temple",
+      "summary": "Drive to Amritsar, Jallianwala Bagh and the Golden Temple at night.",
+      "strip": [
+        "About 230 km, 4 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Jallianwala Bagh"
+        },
+        {
+          "label": "Evening",
+          "title": "Golden Temple and the Palki Sahib ceremony",
+          "notes": [
+            [
+              "WEAR",
+              "Cover your head, remove shoes and socks."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Jallianwala Bagh",
+        "Golden Temple"
+      ],
+      "note": "Add a night for the Partition Museum and the Attari border ceremony.",
+      "route": [
+        "Jallianwala Bagh",
+        "Golden Temple"
+      ],
+      "photo_query": "Jallianwala Bagh",
+      "photo_caption": "Jallianwala Bagh",
+      "transport": "Private car with driver",
+      "travel_time": "About 230 km, 4 hours 30 minutes",
+      "brief": [
+        "Golden Temple and the Palki Sahib ceremony: cover your head, remove shoes and socks.",
+        "Add a night for the Partition Museum and the Attari border ceremony."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Amritsar",
+      "summary": "Transfer to Sri Guru Ram Dass Jee International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Sri Guru Ram Dass Jee International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Sri Guru Ram Dass Jee International Airport",
+      "photo_caption": "Sri Guru Ram Dass Jee International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "Delhi to Chandigarh train"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "October to March. Delhi and Punjab are foggy in late December and January, which can delay trains.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Hot and humid; fine for hills."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Heavy rain; some roads and sights close."
+    ]
+  ],
+  "months": [
+    "dry",
+    "dry",
+    "peak",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak",
+    "dry"
+  ],
+  "best_pick": "March, for Hola Mohalla at Anandpur Sahib, or November.",
+  "faqs": [
+    {
+      "q": "Is this good for grandparents and children together?",
+      "a": "Yes. Drives are short, the pace is gentle and the hill stop gives a break from city heat."
+    },
+    {
+      "q": "Can we add Dharamshala?",
+      "a": "Yes, add 2 nights between Anandpur Sahib and Amritsar."
+    },
+    {
+      "q": "Why only one night in Amritsar?",
+      "a": "That is the outline; we recommend two."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Punjab tour package",
+    "Amritsar Kasauli tour",
+    "Golden Temple tour",
+    "Delhi Chandigarh Amritsar"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

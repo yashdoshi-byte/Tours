@@ -1,0 +1,652 @@
+{
+  "slug": "tamil-nadu-temples-coast-10-days",
+  "title": "Tamil Nadu Temples and Coast: Chennai, Pondicherry, Thanjavur, Madurai, Rameswaram, Kanyakumari and Trivandrum",
+  "meta_title": "Tamil Nadu Temple Tour 10 Days: Thanjavur to Kanyakumari",
+  "meta_description": "10-day Tamil Nadu temple and coast tour: Mahabalipuram, Pondicherry, the Chola temples of Thanjavur, Madurai, Rameswaram, Kanyakumari and Trivandrum.",
+  "destination": "Tamil Nadu and Kerala, India",
+  "country": "India",
+  "duration": "10 days / 9 nights",
+  "nights": 9,
+  "style": "Temples · Heritage · Coast",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "South Indian temple tower",
+  "tagline": "Chola bronzes, temple towers and the tip of India",
+  "facts": [
+    [
+      "Stay",
+      "Chennai 1, Pondicherry 1, Thanjavur 2, Rameswaram 1, Kanyakumari 2, Trivandrum 2"
+    ],
+    [
+      "Pace",
+      "Driving tour"
+    ],
+    [
+      "Ideal for",
+      "Temple and heritage lovers"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Chennai in, Trivandrum out"
+    ]
+  ],
+  "intro": "A driving route down the Tamil coast and across to Kerala. Mahabalipuram's shore temples, French Pondicherry, the great Chola temples of Thanjavur, Madurai's Meenakshi temple, the island temple of Rameswaram, sunrise at Kanyakumari and a finale in Trivandrum. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. We added Madurai's Meenakshi temple on the way from Thanjavur to Rameswaram; the outline did not include it, but the drive passes the city.",
+  "highlights": [
+    "Shore Temple and Arjuna's Penance at Mahabalipuram",
+    "The French Quarter and Auroville in Pondicherry",
+    "Brihadeeswarar temple in Thanjavur and Gangaikonda Cholapuram",
+    "Meenakshi Amman temple in Madurai",
+    "Ramanathaswamy temple's corridors and Dhanushkodi",
+    "Sunrise at Kanyakumari and the Vivekananda Rock"
+  ],
+  "stays": [
+    {
+      "place": "Chennai",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Pondicherry",
+      "nights": 1,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Thanjavur",
+      "nights": 2,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Rameswaram",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Kanyakumari",
+      "nights": 2,
+      "hotel": "Sea-view hotel"
+    },
+    {
+      "place": "Trivandrum",
+      "nights": 2,
+      "hotel": "Beach hotel"
+    }
+  ],
+  "route": [
+    "Chennai",
+    "Mahabalipuram",
+    "Pondicherry",
+    "Thanjavur",
+    "Madurai",
+    "Rameswaram",
+    "Kanyakumari",
+    "Thiruvananthapuram"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Chennai",
+      "summary": "Arrival in Chennai and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Chennai International Airport"
+      ],
+      "note": "Try a South Indian filter coffee and dosa tonight.",
+      "photo_query": "Chennai International Airport",
+      "photo_caption": "Chennai International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Try a South Indian filter coffee and dosa tonight."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Mahabalipuram's shore temples to Pondicherry",
+      "summary": "Mahabalipuram, then Pondicherry's French Quarter.",
+      "strip": [
+        "About 150 km, 3 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Shore Temple, Five Rathas and Arjuna's Penance",
+          "text": "7th-century Pallava rock carvings.",
+          "notes": [
+            [
+              "TIME",
+              "Go before 10:00 to avoid the heat."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Pondicherry promenade and the French Quarter"
+        }
+      ],
+      "places": [
+        "Shore Temple Mahabalipuram",
+        "Pancha Rathas",
+        "Promenade Beach Pondicherry"
+      ],
+      "note": "Pondicherry's cafés serve good vegetarian French-Tamil food.",
+      "route": [
+        "Shore Temple Mahabalipuram",
+        "Pancha Rathas",
+        "Promenade Beach Pondicherry"
+      ],
+      "photo_query": "Shore Temple Mahabalipuram",
+      "photo_caption": "Shore Temple Mahabalipuram",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 3 hours 30 minutes",
+      "brief": [
+        "Go before 10:00 to avoid the heat.",
+        "Pondicherry's cafés serve good vegetarian French-Tamil food."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Auroville, then to Thanjavur",
+      "summary": "Auroville's Matrimandir viewpoint and the drive to Thanjavur.",
+      "strip": [
+        "About 170 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Auroville visitor centre and Matrimandir viewpoint",
+          "notes": [
+            [
+              "TIME",
+              "Matrimandir inner visits must be booked in person a day or more ahead."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Thanjavur"
+        }
+      ],
+      "places": [
+        "Auroville Visitors Centre",
+        "Thanjavur"
+      ],
+      "note": "Thanjavur's temple is lit beautifully after dark.",
+      "route": [
+        "Auroville Visitors Centre",
+        "Thanjavur"
+      ],
+      "photo_query": "Auroville Visitors Centre",
+      "photo_caption": "Auroville Visitors Centre",
+      "transport": "Private car with driver",
+      "travel_time": "About 170 km, 4 hours",
+      "brief": [
+        "Matrimandir inner visits must be booked in person a day or more ahead.",
+        "Thanjavur's temple is lit beautifully after dark."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The great Chola temples",
+      "summary": "Brihadeeswarar temple, Thanjavur palace and an excursion to Gangaikonda Cholapuram or Darasuram.",
+      "strip": [
+        "Temple open about 06:00 to 20:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Brihadeeswarar temple",
+          "text": "Built about 1010, a UNESCO World Heritage Site.",
+          "notes": [
+            [
+              "WEAR",
+              "Remove shoes; dress modestly."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Thanjavur Palace and art gallery",
+          "text": "Chola bronzes."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Darasuram Airavatesvara temple",
+          "text": "About 40 km away."
+        }
+      ],
+      "places": [
+        "Brihadeeswarar Temple",
+        "Thanjavur Palace",
+        "Airavatesvara Temple Darasuram"
+      ],
+      "note": "Buy Thanjavur paintings and bronze from government emporiums.",
+      "route": [
+        "Brihadeeswarar Temple",
+        "Thanjavur Palace",
+        "Airavatesvara Temple Darasuram"
+      ],
+      "photo_query": "Brihadeeswarar Temple",
+      "photo_caption": "Brihadeeswarar Temple",
+      "transport": "Private car with driver",
+      "brief": [
+        "Brihadeeswarar temple: remove shoes; dress modestly.",
+        "Buy Thanjavur paintings and bronze from government emporiums."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Madurai's Meenakshi temple, then to Rameswaram",
+      "summary": "Drive to Rameswaram via Madurai and the Pamban bridge.",
+      "strip": [
+        "About 330 km, 7 hours with the Madurai stop"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Madurai"
+        },
+        {
+          "label": "Midday",
+          "title": "Meenakshi Amman temple",
+          "notes": [
+            [
+              "TIME",
+              "Phones are not allowed inside; deposit them at the gate."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Over the Pamban bridge to Rameswaram"
+        }
+      ],
+      "places": [
+        "Meenakshi Amman Temple",
+        "Pamban Bridge",
+        "Rameswaram"
+      ],
+      "note": "A long day. You can stay a night in Madurai instead and shorten it.",
+      "route": [
+        "Meenakshi Amman Temple",
+        "Pamban Bridge",
+        "Rameswaram"
+      ],
+      "photo_query": "Meenakshi Amman Temple",
+      "photo_caption": "Meenakshi Amman Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 330 km, 7 hours with the Madurai stop",
+      "brief": [
+        "Meenakshi Amman temple: phones are not allowed inside; deposit them at the gate.",
+        "A long day."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Rameswaram's corridors and Dhanushkodi, then Kanyakumari",
+      "summary": "Ramanathaswamy temple, Dhanushkodi and the drive to Kanyakumari.",
+      "strip": [
+        "About 310 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Ramanathaswamy temple",
+          "text": "The longest temple corridors in India, and the 22 wells.",
+          "notes": [
+            [
+              "WEAR",
+              "Dhoti or saree preferred; expect to get wet at the wells."
+            ]
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "Dhanushkodi",
+          "text": "The ghost town at the tip of the island."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Kanyakumari"
+        }
+      ],
+      "places": [
+        "Ramanathaswamy Temple",
+        "Dhanushkodi"
+      ],
+      "note": "Leave Dhanushkodi by noon: the drive is long.",
+      "route": [
+        "Ramanathaswamy Temple",
+        "Dhanushkodi"
+      ],
+      "photo_query": "Ramanathaswamy Temple",
+      "photo_caption": "Ramanathaswamy Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 310 km, 6 hours",
+      "brief": [
+        "Ramanathaswamy temple: dhoti or saree preferred; expect to get wet at the wells.",
+        "Leave Dhanushkodi by noon: the drive is long."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sunrise at the tip of India",
+      "summary": "Sunrise, Vivekananda Rock and Thiruvalluvar statue, and sunset.",
+      "strip": [
+        "Sunrise about 06:15"
+      ],
+      "rows": [
+        {
+          "label": "Sunrise",
+          "title": "Where three seas meet"
+        },
+        {
+          "label": "Morning",
+          "title": "Vivekananda Rock Memorial by ferry",
+          "notes": [
+            [
+              "TIME",
+              "Ferries run about 08:00 to 16:00 and stop in rough seas."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset point"
+        }
+      ],
+      "places": [
+        "Vivekananda Rock Memorial",
+        "Thiruvalluvar Statue",
+        "Kanyakumari Beach"
+      ],
+      "note": "Kanyakumari is one of the few places in India to see sunrise and sunset over the sea.",
+      "route": [
+        "Vivekananda Rock Memorial",
+        "Thiruvalluvar Statue",
+        "Kanyakumari Beach"
+      ],
+      "photo_query": "Vivekananda Rock Memorial",
+      "photo_caption": "Vivekananda Rock Memorial",
+      "transport": "Private car with driver",
+      "brief": [
+        "Vivekananda Rock Memorial by ferry: ferries run about 08:00 to 16:00 and stop in rough seas.",
+        "Kanyakumari is one of the few places in India to see sunrise and sunset over the sea."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Padmanabhapuram Palace to Trivandrum",
+      "summary": "Padmanabhapuram Palace and the drive to Trivandrum.",
+      "strip": [
+        "About 90 km, 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Padmanabhapuram Palace",
+          "text": "A wooden palace of the Travancore kings.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive Trivandrum"
+        }
+      ],
+      "places": [
+        "Padmanabhapuram Palace",
+        "Thiruvananthapuram"
+      ],
+      "note": "Kovalam beach is 15 km from the city if you prefer the sea.",
+      "route": [
+        "Padmanabhapuram Palace",
+        "Thiruvananthapuram"
+      ],
+      "photo_query": "Padmanabhapuram Palace",
+      "photo_caption": "Padmanabhapuram Palace",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km, 2 hours 30 minutes",
+      "brief": [
+        "Padmanabhapuram Palace: closed on Mondays.",
+        "Kovalam beach is 15 km from the city if you prefer the sea."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Trivandrum's temple and museums",
+      "summary": "Sree Padmanabhaswamy temple and the Napier Museum.",
+      "strip": [
+        "Temple dress code strict"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sree Padmanabhaswamy temple",
+          "notes": [
+            [
+              "WEAR",
+              "Hindus only. Men wear a dhoti and no shirt; women a saree or long skirt."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Napier Museum and art gallery"
+        }
+      ],
+      "places": [
+        "Sree Padmanabhaswamy Temple",
+        "Napier Museum"
+      ],
+      "note": "Evening at Kovalam's lighthouse beach.",
+      "route": [
+        "Sree Padmanabhaswamy Temple",
+        "Napier Museum"
+      ],
+      "photo_query": "Sree Padmanabhaswamy Temple",
+      "photo_caption": "Sree Padmanabhaswamy Temple",
+      "transport": "Private car with driver",
+      "brief": [
+        "Sree Padmanabhaswamy temple: hindus only.",
+        "Evening at Kovalam's lighthouse beach."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Trivandrum",
+      "summary": "Transfer to Trivandrum International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Trivandrum International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Trivandrum International Airport",
+      "photo_caption": "Trivandrum International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "October to March, when the coast is less humid. The north-east monsoon brings rain to Tamil Nadu from October to December.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Hot and humid; fine for hills."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Heavy rain; some roads and sights close."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet"
+  ],
+  "best_pick": "January to March: dry after the north-east monsoon and not yet hot.",
+  "faqs": [
+    {
+      "q": "Can non-Hindus enter these temples?",
+      "a": "Most can, except the inner sanctums. Sree Padmanabhaswamy in Trivandrum and some shrines admit Hindus only."
+    },
+    {
+      "q": "Is there a lot of driving?",
+      "a": "Two days are 6 to 7 hours. Adding a night in Madurai shortens them."
+    },
+    {
+      "q": "Can we start from Kerala instead?",
+      "a": "Yes. The route works in reverse from Trivandrum to Chennai."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Tamil Nadu temple tour",
+    "Thanjavur Rameswaram Kanyakumari",
+    "South India temple tour 10 days",
+    "Chennai to Trivandrum"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

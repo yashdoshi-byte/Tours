@@ -1,0 +1,734 @@
+{
+  "slug": "darjeeling-bhutan-meghalaya-12-days",
+  "title": "Darjeeling, Bhutan and Meghalaya: Thimphu, Paro, Shillong and Cherrapunji in 12 Days",
+  "meta_title": "Darjeeling, Bhutan and Meghalaya Tour 12 Days",
+  "meta_description": "12-day hills tour: Darjeeling, Phuentsholing, Thimphu and Paro with Tiger's Nest, a flight to Guwahati, Shillong and the root bridges of Cherrapunji.",
+  "destination": "North East India and Bhutan",
+  "country": "India, Bhutan",
+  "duration": "12 days / 11 nights",
+  "nights": 11,
+  "style": "Hills · Monasteries · Waterfalls",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Monastery in the eastern Himalaya",
+  "tagline": "Tea gardens, Tiger's Nest and the wettest hills on earth",
+  "facts": [
+    [
+      "Stay",
+      "Siliguri 1, Darjeeling 1, Phuentsholing 1, Thimphu 2, Paro 2, Guwahati 1, Shillong 2, Cherrapunji 1"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Ideal for",
+      "Couples and families"
+    ],
+    [
+      "Best months",
+      "October to December, March to May"
+    ],
+    [
+      "Arrive / leave",
+      "Bagdogra in, Guwahati out"
+    ]
+  ],
+  "intro": "Three hill regions in one trip. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. Darjeeling to Thimphu is too far for one day (about 320 km over mountain roads and a border), so we add a night in Phuentsholing at the border and take one night from Cherrapunji. Paro to Guwahati is best done on Drukair's direct flight.",
+  "highlights": [
+    "Darjeeling's tea gardens and the toy train",
+    "Thimphu's Buddha Dordenma and Tashichho Dzong",
+    "Dochula Pass and Punakha's views",
+    "Tiger's Nest (Taktsang) hike and Paro Dzong",
+    "Shillong's lakes and Police Bazaar",
+    "Cherrapunji's falls and the double-decker root bridge"
+  ],
+  "stays": [
+    {
+      "place": "Siliguri",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Darjeeling",
+      "nights": 1,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Phuentsholing",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Thimphu",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Paro",
+      "nights": 2,
+      "hotel": "Resort"
+    },
+    {
+      "place": "Guwahati",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Shillong",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Cherrapunji",
+      "nights": 1,
+      "hotel": "Resort"
+    }
+  ],
+  "route": [
+    "Siliguri",
+    "Darjeeling",
+    "Phuentsholing",
+    "Thimphu",
+    "Paro",
+    "Guwahati",
+    "Shillong",
+    "Cherrapunji"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Siliguri",
+      "summary": "Arrival in Siliguri and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Bagdogra Airport"
+      ],
+      "note": "Siliguri is a gateway only. Rest well for the hills.",
+      "photo_query": "Bagdogra Airport",
+      "photo_caption": "Bagdogra Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Siliguri is a gateway only."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up to Darjeeling",
+      "summary": "Drive to Darjeeling, a tea garden and the toy train joy ride.",
+      "strip": [
+        "About 70 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Happy Valley Tea Estate"
+        },
+        {
+          "label": "Evening",
+          "title": "Mall Road and Chowrasta"
+        }
+      ],
+      "places": [
+        "Happy Valley Tea Estate",
+        "Chowrasta Darjeeling"
+      ],
+      "note": "Tiger Hill sunrise tomorrow leaves at about 04:00.",
+      "route": [
+        "Happy Valley Tea Estate",
+        "Chowrasta Darjeeling"
+      ],
+      "photo_query": "Happy Valley Tea Estate",
+      "photo_caption": "Happy Valley Tea Estate",
+      "transport": "Private car with driver",
+      "travel_time": "About 70 km, 3 hours",
+      "brief": [
+        "Tiger Hill sunrise tomorrow leaves at about 04:00."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Tiger Hill sunrise and the road to Phuentsholing",
+      "summary": "Tiger Hill sunrise, Batasia Loop and the drive to the Bhutan border.",
+      "strip": [
+        "About 170 km, 5 to 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "About 04:00",
+          "title": "Tiger Hill sunrise over Kanchenjunga"
+        },
+        {
+          "label": "Morning",
+          "title": "Batasia Loop and Ghoom Monastery"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Phuentsholing",
+          "notes": [
+            [
+              "TIME",
+              "Bhutan entry permits are issued at the Phuentsholing immigration office on working days."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Tiger Hill",
+        "Batasia Loop",
+        "Phuentsholing"
+      ],
+      "note": "Indian travellers need a passport or voter ID for Bhutan. Children need a passport or birth certificate.",
+      "route": [
+        "Tiger Hill",
+        "Batasia Loop",
+        "Phuentsholing"
+      ],
+      "photo_query": "Tiger Hill",
+      "photo_caption": "Tiger Hill",
+      "transport": "Private car with driver",
+      "travel_time": "About 170 km, 5 to 6 hours",
+      "brief": [
+        "Drive to Phuentsholing: bhutan entry permits are issued at the Phuentsholing immigration office on working days.",
+        "Indian travellers need a passport or voter ID for Bhutan."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Into Bhutan: Phuentsholing to Thimphu",
+      "summary": "Drive to Thimphu.",
+      "strip": [
+        "About 150 km, 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Arrive Thimphu"
+        },
+        {
+          "label": "Evening",
+          "title": "Thimphu's main street"
+        }
+      ],
+      "places": [
+        "Thimphu"
+      ],
+      "note": "Bhutan charges a Sustainable Development Fee per night: about INR 1,200 for Indian visitors, USD 100 for most others.",
+      "photo_query": "Thimphu",
+      "photo_caption": "Thimphu",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 5 hours",
+      "brief": [
+        "Bhutan charges a Sustainable Development Fee per night: about INR 1,200 for Indian visitors, USD 100 for most others."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Thimphu and Dochula",
+      "summary": "Buddha Dordenma, Tashichho Dzong, the Folk Heritage Museum and Dochula Pass.",
+      "strip": [
+        "Dochula about 30 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Buddha Dordenma"
+        },
+        {
+          "label": "Midday",
+          "title": "Dochula Pass",
+          "text": "108 chortens and a Himalayan view."
+        },
+        {
+          "label": "Evening",
+          "title": "Tashichho Dzong",
+          "notes": [
+            [
+              "WEAR",
+              "Long sleeves and long trousers or skirts in all dzongs."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Buddha Dordenma",
+        "Dochula Pass",
+        "Tashichho Dzong"
+      ],
+      "note": "Bhutanese food is chilli-heavy; ask for 'less chilli'.",
+      "route": [
+        "Buddha Dordenma",
+        "Dochula Pass",
+        "Tashichho Dzong"
+      ],
+      "photo_query": "Buddha Dordenma",
+      "photo_caption": "Buddha Dordenma",
+      "transport": "Private car with driver",
+      "travel_time": "Dochula about 30 km",
+      "brief": [
+        "Tashichho Dzong: long sleeves and long trousers or skirts in all dzongs.",
+        "Bhutanese food is chilli-heavy; ask for 'less chilli'."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Paro and Paro Dzong",
+      "summary": "Drive to Paro, Rinpung Dzong and the National Museum.",
+      "strip": [
+        "About 55 km, 1 hour 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Rinpung Dzong and the National Museum"
+        },
+        {
+          "label": "Evening",
+          "title": "Paro town"
+        }
+      ],
+      "places": [
+        "Rinpung Dzong",
+        "National Museum of Bhutan"
+      ],
+      "note": "Tiger's Nest tomorrow: sturdy shoes and water.",
+      "route": [
+        "Rinpung Dzong",
+        "National Museum of Bhutan"
+      ],
+      "photo_query": "Rinpung Dzong",
+      "photo_caption": "Rinpung Dzong",
+      "transport": "Private car with driver",
+      "travel_time": "About 55 km, 1 hour 30 minutes",
+      "brief": [
+        "Tiger's Nest tomorrow: sturdy shoes and water."
+      ]
+    },
+    {
+      "pill": "Activity day",
+      "title": "Hike to Tiger's Nest",
+      "summary": "Hike to Taktsang Monastery.",
+      "strip": [
+        "About 5 to 6 hours return",
+        "Climb about 700 m"
+      ],
+      "rows": [
+        {
+          "label": "About 07:30",
+          "title": "Taktsang trail",
+          "text": "A pony can take you to the halfway café.",
+          "notes": [
+            [
+              "CARE",
+              "Steep and at about 3,100 m. Go slowly and turn back if unwell."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kyichu Lhakhang",
+          "text": "One of Bhutan's oldest temples."
+        }
+      ],
+      "places": [
+        "Taktsang Monastery",
+        "Kyichu Lhakhang"
+      ],
+      "note": "A hot-stone bath tonight is the Bhutanese cure for tired legs.",
+      "route": [
+        "Taktsang Monastery",
+        "Kyichu Lhakhang"
+      ],
+      "photo_query": "Taktsang Monastery",
+      "photo_caption": "Taktsang Monastery",
+      "transport": "Private car with driver",
+      "travel_time": "About 5 to 6 hours return",
+      "brief": [
+        "Taktsang trail: steep and at about 3,100 m.",
+        "A hot-stone bath tonight is the Bhutanese cure for tired legs."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly from Paro to Guwahati",
+      "summary": "Drukair flight to Guwahati and the Kamakhya temple.",
+      "strip": [
+        "Flight about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight to Guwahati",
+          "notes": [
+            [
+              "TIME",
+              "Drukair flies this route on set days only; dates are planned around it."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kamakhya temple"
+        }
+      ],
+      "places": [
+        "Paro International Airport",
+        "Kamakhya Temple"
+      ],
+      "note": "If the flight does not suit your dates, we drive back via Phuentsholing, which adds a day.",
+      "route": [
+        "Paro International Airport",
+        "Kamakhya Temple"
+      ],
+      "photo_query": "Paro International Airport",
+      "photo_caption": "Paro International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour",
+      "brief": [
+        "Flight to Guwahati: drukair flies this route on set days only; dates are planned around it.",
+        "If the flight does not suit your dates, we drive back via Phuentsholing, which adds a day."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Shillong via Umiam Lake",
+      "summary": "Drive to Shillong with a stop at Umiam Lake.",
+      "strip": [
+        "About 100 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Umiam Lake"
+        },
+        {
+          "label": "Evening",
+          "title": "Police Bazaar"
+        }
+      ],
+      "places": [
+        "Umiam Lake",
+        "Police Bazaar Shillong"
+      ],
+      "note": "Shillong has a lively live-music café scene.",
+      "route": [
+        "Umiam Lake",
+        "Police Bazaar Shillong"
+      ],
+      "photo_query": "Umiam Lake",
+      "photo_caption": "Umiam Lake",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 hours",
+      "brief": [
+        "Shillong has a lively live-music café scene."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Mawlynnong and Dawki",
+      "summary": "Day trip to Mawlynnong village, the living root bridge at Riwai and the clear Umngot river at Dawki.",
+      "strip": [
+        "About 90 km each way, 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mawlynnong"
+        },
+        {
+          "label": "Midday",
+          "title": "Riwai living root bridge"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Boat on the Umngot at Dawki",
+          "notes": [
+            [
+              "TIME",
+              "The water is clearest from November to April."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Mawlynnong",
+        "Riwai Living Root Bridge",
+        "Dawki"
+      ],
+      "note": "Dawki is on the Bangladesh border; stay on the Indian side of the river.",
+      "route": [
+        "Mawlynnong",
+        "Riwai Living Root Bridge",
+        "Dawki"
+      ],
+      "photo_query": "Mawlynnong",
+      "photo_caption": "Mawlynnong",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km each way, 2 hours 30 minutes",
+      "brief": [
+        "Boat on the Umngot at Dawki: the water is clearest from November to April.",
+        "Dawki is on the Bangladesh border; stay on the Indian side of the river."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Cherrapunji's falls and caves",
+      "summary": "Drive to Cherrapunji: Nohkalikai, Mawsmai Cave and Seven Sisters Falls.",
+      "strip": [
+        "About 55 km, 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Nohkalikai Falls and Mawsmai Cave"
+        },
+        {
+          "label": "Optional",
+          "title": "Double-decker root bridge at Nongriat",
+          "text": "About 3,500 steps down and up.",
+          "notes": [
+            [
+              "CARE",
+              "Only for fit walkers; allow 5 to 6 hours."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Nohkalikai Falls",
+        "Mawsmai Cave",
+        "Double Decker Living Root Bridge"
+      ],
+      "note": "Start the Nongriat walk by 08:00.",
+      "route": [
+        "Nohkalikai Falls",
+        "Mawsmai Cave",
+        "Double Decker Living Root Bridge"
+      ],
+      "photo_query": "Nohkalikai Falls",
+      "photo_caption": "Nohkalikai Falls",
+      "transport": "Private car with driver",
+      "travel_time": "About 55 km, 2 hours",
+      "brief": [
+        "Double-decker root bridge at Nongriat: only for fit walkers; allow 5 to 6 hours.",
+        "Start the Nongriat walk by 08:00."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Guwahati",
+      "summary": "Transfer to Lokpriya Gopinath Bordoloi International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Lokpriya Gopinath Bordoloi International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Lokpriya Gopinath Bordoloi International Airport",
+      "photo_caption": "Lokpriya Gopinath Bordoloi International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "Bhutan permits and guide",
+    "Paro to Guwahati flight (economy)"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance",
+    "Bhutan Sustainable Development Fee"
+  ],
+  "entry": [
+    [
+      "Bhutan entry permit",
+      "Issued at Phuentsholing or Paro with an approved hotel booking",
+      "Indian citizens: passport or voter ID",
+      ""
+    ],
+    [
+      "Bhutan visa",
+      "Applied online before travel",
+      "Other nationalities",
+      "About USD 40"
+    ],
+    [
+      "Sustainable Development Fee",
+      "Per person per night in Bhutan",
+      "Everyone",
+      "About INR 1,200 for Indians, USD 100 for most others"
+    ],
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "best_time": "October to December and March to May. Avoid June to September: heavy monsoon and landslides.",
+  "seasons": [
+    [
+      "October to December",
+      "Best",
+      "Clear mountain views."
+    ],
+    [
+      "March to May",
+      "Good",
+      "Rhododendrons; some haze."
+    ],
+    [
+      "June to September",
+      "Avoid",
+      "Monsoon and landslides."
+    ],
+    [
+      "January to February",
+      "Cold",
+      "Clear but freezing nights."
+    ]
+  ],
+  "months": [
+    "shoulder",
+    "shoulder",
+    "dry",
+    "dry",
+    "dry",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "peak",
+    "peak",
+    "dry"
+  ],
+  "best_pick": "October and November: clear Himalayan views and full waterfalls.",
+  "faqs": [
+    {
+      "q": "Do Indians need a passport for Bhutan?",
+      "a": "No. A passport or voter ID is enough for adults; children need a passport or birth certificate."
+    },
+    {
+      "q": "Can we skip Darjeeling?",
+      "a": "Yes. Fly into Bagdogra and drive straight to Phuentsholing."
+    },
+    {
+      "q": "Is the Tiger's Nest hike hard?",
+      "a": "It is steep, about 5 hours return. Ponies go halfway."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Bhutan Meghalaya tour",
+    "Darjeeling Bhutan Shillong",
+    "North East Bhutan tour 11 nights",
+    "Paro Thimphu Shillong"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in,bt"
+}

@@ -1,0 +1,1012 @@
+{
+  "slug": "india-west-heritage-16-days",
+  "title": "Western India in Depth: Mumbai, the Statue of Unity, Rajkot, Gir, Udaipur, Bundi, Ranthambore and Jaipur",
+  "meta_title": "Western India Heritage Tour 16 Days: Mumbai to Delhi",
+  "meta_description": "16-day tour from Mumbai to Delhi: Elephanta, the Statue of Unity, a palace stay in Rajkot, Gir lions and Somnath, Udaipur, Jawai, Bundi, Ranthambore and Amer.",
+  "destination": "Mumbai to Delhi, India",
+  "country": "India",
+  "duration": "16 days / 15 nights",
+  "nights": 15,
+  "style": "Heritage · Wildlife · Culture",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Palace in Rajasthan",
+  "tagline": "Gujarat's lions and palaces, Rajasthan's lakes and forts, at an easy pace",
+  "facts": [
+    [
+      "Stay",
+      "Mumbai 2, Kevadia 2, Rajkot 1, Sasan Gir 2, Ahmedabad 1, Udaipur 2, Bundi 2, Ranthambore 1, Jaipur 1, Delhi 1"
+    ],
+    [
+      "Travel",
+      "Trains and private car"
+    ],
+    [
+      "Pace",
+      "Relaxed, with siestas"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Ideal for",
+      "Families and slow travellers"
+    ]
+  ],
+  "intro": "This is our longest western India journey, first planned for an August trip. It runs from Mumbai to the Statue of Unity, a night in a fort-palace hotel outside Rajkot, the lions of Gir and Somnath, Gondal's palaces, Ahmedabad, then Rajasthan: Udaipur, a leopard day at Jawai, two slow days in Bundi, a tiger safari in Ranthambore and Amer Fort. We recommend it for October to March. In August Gir and Ranthambore's core zones are closed and the Elephanta ferry can stop. We also added a night in Jaipur, because Ranthambore to Jaipur to Amer to Delhi in one day is about 10 hours.",
+  "highlights": [
+    "Mumbai's Marine Drive and the Elephanta Caves",
+    "Two nights at the Statue of Unity, with the Ayurveda garden",
+    "Khirasara Palace, a fort hotel outside Rajkot",
+    "Girnar by ropeway, Gir lions and Somnath",
+    "Udaipur, Lake Pichola and a day with Jawai's leopards",
+    "Bundi's royal family, Ranthambore tigers and Amer Fort"
+  ],
+  "stays": [
+    {
+      "place": "Mumbai",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Kevadia",
+      "nights": 2,
+      "hotel": "Tent City"
+    },
+    {
+      "place": "Rajkot",
+      "nights": 1,
+      "hotel": "Khirasara Palace"
+    },
+    {
+      "place": "Sasan Gir",
+      "nights": 2,
+      "hotel": "Jungle lodge"
+    },
+    {
+      "place": "Ahmedabad",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Udaipur",
+      "nights": 2,
+      "hotel": "Lake-view hotel"
+    },
+    {
+      "place": "Bundi",
+      "nights": 2,
+      "hotel": "Resort"
+    },
+    {
+      "place": "Ranthambore",
+      "nights": 1,
+      "hotel": "Jungle resort"
+    },
+    {
+      "place": "Jaipur",
+      "nights": 1,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Delhi",
+      "nights": 1,
+      "hotel": "Hotel"
+    }
+  ],
+  "route": [
+    "Mumbai",
+    "Elephanta Caves",
+    "Vadodara",
+    "Kevadia",
+    "Rajkot",
+    "Junagadh",
+    "Sasan Gir",
+    "Somnath",
+    "Gondal",
+    "Ahmedabad",
+    "Udaipur",
+    "Jawai",
+    "Bundi",
+    "Ranthambore",
+    "Jaipur",
+    "Delhi"
+  ],
+  "links": [
+    {
+      "title": "Statue of Unity (official)",
+      "url": "https://statueofunity.in/"
+    },
+    {
+      "title": "Elephanta Caves on the UNESCO World Heritage List",
+      "url": "https://whc.unesco.org/en/list/244/"
+    },
+    {
+      "title": "Gir National Park safari booking (official)",
+      "url": "https://girlion.gujarat.gov.in/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Land in Mumbai and a night walk on Marine Drive",
+      "summary": "Arrival, rest and an evening walk with street food at Chowpatty.",
+      "strip": [
+        "Airport to hotel about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver"
+        },
+        {
+          "label": "Evening",
+          "title": "Marine Drive and Chowpatty",
+          "text": "Walk the Queen's Necklace, then street food.",
+          "notes": [
+            [
+              "CARE",
+              "Carry your own water bottle; choose busy stalls."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Marine Drive",
+        "Girgaum Chowpatty"
+      ],
+      "note": "Rest as much as you can today.",
+      "route": [
+        "Marine Drive",
+        "Girgaum Chowpatty"
+      ],
+      "photo_query": "Marine Drive",
+      "photo_caption": "Marine Drive",
+      "transport": "Private car with driver",
+      "travel_time": "Airport to hotel about 1 hour",
+      "brief": [
+        "Marine Drive and Chowpatty: carry your own water bottle; choose busy stalls.",
+        "Rest as much as you can today."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Elephanta Caves by ferry, then Juhu",
+      "summary": "Ferry to the Elephanta Caves with a guide, and an evening at Juhu beach.",
+      "strip": [
+        "Ferry about 1 hour each way",
+        "Caves closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "About 09:30 · Gateway of India jetty",
+          "title": "Ferry to Elephanta",
+          "text": "Boats leave about every 30 minutes from 09:00.",
+          "notes": [
+            [
+              "TIME",
+              "The caves are closed on Mondays. Ferries stop in rough seas, mainly June to August."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Elephanta Caves with a guide",
+          "text": "6th-century rock-cut temples to Shiva, with the three-headed Maheshmurti. About 120 steps up from the jetty.",
+          "notes": [
+            [
+              "CARE",
+              "Monkeys snatch food and bags on the steps. Keep snacks out of sight."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Colaba",
+          "text": "Tea at the Taj Mahal Palace's Sea Lounge, if you like (own cost)."
+        },
+        {
+          "label": "Evening · Juhu",
+          "title": "Juhu Chowpatty",
+          "text": "Pav bhaji and bhel at the beach stalls.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Gateway of India",
+        "Elephanta Caves",
+        "Juhu Beach"
+      ],
+      "note": "Carry water and a cap on the island: there is little shade.",
+      "route": [
+        "Gateway of India",
+        "Elephanta Caves",
+        "Juhu Beach"
+      ],
+      "photo_query": "Gateway of India",
+      "photo_caption": "Gateway of India",
+      "transport": "Private car with driver",
+      "travel_time": "Ferry about 1 hour each way",
+      "brief": [
+        "Ferry to Elephanta: the caves are closed on Mondays.",
+        "Elephanta Caves with a guide: monkeys snatch food and bags on the steps."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Vadodara and on to Kevadia",
+      "summary": "Train from Mumbai to Vadodara and a drive to Kevadia.",
+      "strip": [
+        "Train about 4 to 5 hours",
+        "Drive about 90 km, 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train north",
+          "flag": "be on time",
+          "text": "Executive chair car."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Kevadia"
+        },
+        {
+          "label": "Evening",
+          "title": "Tent City",
+          "text": "Dinner at the camp.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the Tent City"
+          ]
+        }
+      ],
+      "places": [
+        "Mumbai Central",
+        "Vadodara Junction",
+        "Kevadia"
+      ],
+      "note": "The original plan used Gandhinagar, which is about 4 hours from Kevadia. Vadodara is 2.",
+      "route": [
+        "Mumbai Central",
+        "Vadodara Junction",
+        "Kevadia"
+      ],
+      "photo_query": "Mumbai Central",
+      "photo_caption": "Mumbai Central",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 4 to 5 hours",
+      "brief": [
+        "The original plan used Gandhinagar, which is about 4 hours from Kevadia."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Statue of Unity, the dam and the Ayurveda garden",
+      "summary": "Ayurveda garden, boat ride to the statue, the viewing gallery and the evening laser show.",
+      "strip": [
+        "Statue closed Mondays",
+        "Laser show after sunset"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Arogya Van (Ayurveda garden)",
+          "text": "Medicinal plants explained by a local guide; wellness treatments can be booked for the evening."
+        },
+        {
+          "label": "Late morning",
+          "title": "Statue of Unity viewing gallery",
+          "text": "Lifts take you to the gallery at 153 m for views of the Sardar Sarovar Dam and the Narmada.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays. Book the viewing-gallery slot online in advance."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Gujarati thali and a siesta",
+          "text": "Lunch, then a rest in the heat of the day.",
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About INR 400 per person"
+          ]
+        },
+        {
+          "label": "After sunset",
+          "title": "Laser and light show on the statue",
+          "text": "About 30 minutes on Sardar Patel and the dam."
+        }
+      ],
+      "places": [
+        "Arogya Van",
+        "Statue of Unity",
+        "Sardar Sarovar Dam"
+      ],
+      "note": "Kevadia has cycles and e-rickshaws to move between the parks. Wear walking shoes.",
+      "route": [
+        "Arogya Van",
+        "Statue of Unity",
+        "Sardar Sarovar Dam"
+      ],
+      "photo_query": "Arogya Van",
+      "photo_caption": "Arogya Van",
+      "transport": "Private car with driver",
+      "brief": [
+        "Statue of Unity viewing gallery: closed on Mondays.",
+        "Kevadia has cycles and e-rickshaws to move between the parks."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Kevadia to a fort-palace outside Rajkot",
+      "summary": "Drive to Rajkot and check in at Khirasara Palace; dinner at Saraza.",
+      "strip": [
+        "About 330 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "About 10:00",
+          "title": "Leave Kevadia"
+        },
+        {
+          "label": "Evening",
+          "title": "Khirasara Palace",
+          "text": "A fort outside Rajkot turned into a hotel."
+        },
+        {
+          "label": "Dinner · Saraza",
+          "title": "Modern Indian dinner",
+          "text": "A Rajkot restaurant curated by chef Ajay Chopra.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 1,000 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Khirasara Palace",
+        "Rajkot"
+      ],
+      "note": "Rajkot is our home town. Your consultant may well drop by to say hello.",
+      "route": [
+        "Khirasara Palace",
+        "Rajkot"
+      ],
+      "photo_query": "Khirasara Palace",
+      "photo_caption": "Khirasara Palace",
+      "transport": "Private car with driver",
+      "travel_time": "About 330 km, 6 hours",
+      "brief": [
+        "Rajkot is our home town."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Kathiyawadi breakfast, Girnar and the road to Gir",
+      "summary": "Kathiyawadi breakfast, Girnar ropeway and the Junagadh dog palace, then Sasan Gir.",
+      "strip": [
+        "About 5 hours with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Kathiyawadi breakfast",
+          "text": "Gathiya, jalebi and chai with locals."
+        },
+        {
+          "label": "Midday · Junagadh",
+          "title": "Girnar ropeway",
+          "text": "Up to the Amba Mata temple.",
+          "notes": [
+            [
+              "TIME",
+              "Stops in high wind."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Junagadh's palaces",
+          "text": "Including the old kennels of the Nawab, who famously kept hundreds of dogs."
+        },
+        {
+          "label": "Evening",
+          "title": "Sasan Gir",
+          "text": "Check in."
+        }
+      ],
+      "places": [
+        "Girnar Ropeway",
+        "Uparkot Fort",
+        "Sasan Gir"
+      ],
+      "note": "Gir's core park is closed from 16 June to 15 October; in that season only the Devalia safari park is open.",
+      "route": [
+        "Girnar Ropeway",
+        "Uparkot Fort",
+        "Sasan Gir"
+      ],
+      "photo_query": "Girnar Ropeway",
+      "photo_caption": "Girnar Ropeway",
+      "transport": "Private car with driver",
+      "travel_time": "About 5 hours with stops",
+      "brief": [
+        "Girnar ropeway: stops in high wind.",
+        "Gir's core park is closed from 16 June to 15 October; in that season only the Devalia safari park is open."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Lion safari, Somnath and the evening show",
+      "summary": "Lion safari, a rest, Somnath temple and the light-and-sound show.",
+      "strip": [
+        "Safari about 06:30",
+        "Somnath about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Gir lion safari",
+          "text": "In an open gypsy with a forest guide.",
+          "notes": [
+            [
+              "TIME",
+              "Permits booked online in advance in your passport or ID name."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Somnath temple",
+          "notes": [
+            [
+              "TIME",
+              "Phones and bags must be left in lockers."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Light-and-sound show"
+        }
+      ],
+      "places": [
+        "Gir National Park Sasan Gate",
+        "Somnath Temple"
+      ],
+      "note": "Back to Sasan for the night.",
+      "route": [
+        "Gir National Park Sasan Gate",
+        "Somnath Temple"
+      ],
+      "photo_query": "Gir National Park Sasan Gate",
+      "photo_caption": "Gir National Park Sasan Gate",
+      "transport": "Private car with driver",
+      "travel_time": "Somnath about 1 hour",
+      "brief": [
+        "Gir lion safari: permits booked online in advance in your passport or ID name.",
+        "Somnath temple: phones and bags must be left in lockers."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Gondal's palaces and Ahmedabad's Manek Chowk",
+      "summary": "Drive to Ahmedabad via Gondal palace and lunch; dinner at Manek Chowk.",
+      "strip": [
+        "About 7 hours with the Gondal stop"
+      ],
+      "rows": [
+        {
+          "label": "Midday · Gondal",
+          "title": "Naulakha Palace and lunch",
+          "text": "Royal Gondal."
+        },
+        {
+          "label": "Evening · Ahmedabad",
+          "title": "Manek Chowk",
+          "text": "Night street-food square.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Naulakha Palace Gondal",
+        "Manek Chowk"
+      ],
+      "note": "A long road day, broken at Gondal.",
+      "route": [
+        "Naulakha Palace Gondal",
+        "Manek Chowk"
+      ],
+      "photo_query": "Naulakha Palace Gondal",
+      "photo_caption": "Naulakha Palace Gondal",
+      "transport": "Private car with driver",
+      "travel_time": "About 7 hours with the Gondal stop",
+      "brief": [
+        "A long road day, broken at Gondal."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ahmedabad to Udaipur and the City Palace",
+      "summary": "Drive to Udaipur, rooftop cafés and the City Palace in the evening.",
+      "strip": [
+        "About 260 km, 4 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Udaipur"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rooftop café",
+          "text": "Views over Lake Pichola."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "City Palace with a guide",
+          "notes": [
+            [
+              "TIME",
+              "Last entry about 17:00."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "City Palace Udaipur"
+      ],
+      "note": "Dinner is on your own tonight: we will send suggestions.",
+      "photo_query": "City Palace Udaipur",
+      "photo_caption": "City Palace Udaipur",
+      "transport": "Private car with driver",
+      "travel_time": "About 260 km, 4 hours 30 minutes",
+      "brief": [
+        "City Palace with a guide: last entry about 17:00.",
+        "Dinner is on your own tonight: we will send suggestions."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Jawai's leopards and a boat on Lake Pichola",
+      "summary": "Day trip to Jawai for a leopard safari and the Rabari villages, then Lake Pichola.",
+      "strip": [
+        "About 130 km each way, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Jawai"
+        },
+        {
+          "label": "Midday",
+          "title": "Leopard safari and Rabari villages",
+          "text": "Herders who live alongside the leopards.",
+          "notes": [
+            [
+              "CARE",
+              "Book only with licensed camps."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Boat on Lake Pichola and a Rajasthani dinner",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 800 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Jawai Bandh",
+        "Lake Pichola"
+      ],
+      "note": "This is a long day. The leopard safari works best at dawn or dusk, so ask us about a night at Jawai instead.",
+      "route": [
+        "Jawai Bandh",
+        "Lake Pichola"
+      ],
+      "photo_query": "Jawai Bandh",
+      "photo_caption": "Jawai Bandh",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km each way, 3 hours",
+      "brief": [
+        "Leopard safari and Rabari villages: book only with licensed camps.",
+        "This is a long day."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Udaipur to Bundi and Taragarh Fort",
+      "summary": "Drive to Bundi, meet the royal family and visit Taragarh Fort.",
+      "strip": [
+        "About 270 km, 4 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Meet Bundi's royal family",
+          "text": "By arrangement."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Taragarh Fort with a guide"
+        },
+        {
+          "label": "Evening",
+          "title": "Lakeside café and barbecue dinner",
+          "meal": [
+            "Dinner",
+            "Included",
+            "Barbecue at the resort"
+          ]
+        }
+      ],
+      "places": [
+        "Taragarh Fort Bundi",
+        "Bundi"
+      ],
+      "note": "Bundi sits next to the new Ramgarh Vishdhari tiger reserve.",
+      "route": [
+        "Taragarh Fort Bundi",
+        "Bundi"
+      ],
+      "photo_query": "Taragarh Fort Bundi",
+      "photo_caption": "Taragarh Fort Bundi",
+      "transport": "Private car with driver",
+      "travel_time": "About 270 km, 4 hours 30 minutes",
+      "brief": [
+        "Bundi sits next to the new Ramgarh Vishdhari tiger reserve."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "A slow day in Bundi",
+      "summary": "Lunch in a haveli and a sunset hike to a watchtower.",
+      "strip": [
+        "Free morning"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Lunch in a family haveli"
+        },
+        {
+          "label": "Sunset",
+          "title": "Hike to a hilltop watchtower",
+          "text": "About an hour up."
+        }
+      ],
+      "places": [
+        "Raniji ki Baori",
+        "Bundi"
+      ],
+      "note": "Take a torch for the walk down.",
+      "route": [
+        "Raniji ki Baori",
+        "Bundi"
+      ],
+      "photo_query": "Raniji ki Baori",
+      "photo_caption": "Raniji ki Baori",
+      "transport": "Private car with driver",
+      "brief": [
+        "Take a torch for the walk down."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Into Ranthambore for an evening safari",
+      "summary": "Drive to Ranthambore and an evening tiger safari.",
+      "strip": [
+        "About 150 km, 2 hours 30 minutes",
+        "Safari from about 14:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Ranthambore"
+        },
+        {
+          "label": "About 14:30",
+          "title": "Tiger safari",
+          "text": "In an open gypsy.",
+          "notes": [
+            [
+              "TIME",
+              "Core zones close from 1 July to 30 September."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Ranthambore National Park"
+      ],
+      "note": "Book safaris online as soon as your dates are firm.",
+      "photo_query": "Ranthambore National Park",
+      "photo_caption": "Ranthambore National Park",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 2 hours 30 minutes",
+      "brief": [
+        "Tiger safari: core zones close from 1 July to 30 September.",
+        "Book safaris online as soon as your dates are firm."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ranthambore to Jaipur and Amer Fort",
+      "summary": "Drive to Jaipur and Amer Fort with an official guide.",
+      "strip": [
+        "About 180 km, 3 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Jaipur"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Amer Fort",
+          "text": "Official guided tour."
+        }
+      ],
+      "places": [
+        "Amer Fort",
+        "Jaipur"
+      ],
+      "note": "We added this night in Jaipur to avoid a 10-hour day.",
+      "route": [
+        "Amer Fort",
+        "Jaipur"
+      ],
+      "photo_query": "Amer Fort",
+      "photo_caption": "Amer Fort",
+      "transport": "Private car with driver",
+      "travel_time": "About 180 km, 3 hours 30 minutes",
+      "brief": [
+        "We added this night in Jaipur to avoid a 10-hour day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Train to Delhi and the capital at your pace",
+      "summary": "Morning train to Delhi and the sights of your choice with a guide.",
+      "strip": [
+        "Train about 4 to 5 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Delhi"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Delhi with a guide",
+          "text": "Humayun's Tomb, India Gate or Old Delhi, as you choose."
+        }
+      ],
+      "places": [
+        "Jaipur Junction",
+        "Humayun's Tomb",
+        "India Gate"
+      ],
+      "note": "Pack tonight for tomorrow's flight.",
+      "route": [
+        "Jaipur Junction",
+        "Humayun's Tomb",
+        "India Gate"
+      ],
+      "photo_query": "Jaipur Junction",
+      "photo_caption": "Jaipur Junction",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 4 to 5 hours",
+      "brief": [
+        "Pack tonight for tomorrow's flight."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Delhi",
+      "summary": "Transfer to Delhi airport.",
+      "strip": [
+        "About 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Safe travels.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 1 hour",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight.",
+        "Safe travels."
+      ]
+    }
+  ],
+  "hotel": {
+    "name": "Palace, jungle and lake hotels",
+    "room": "Deluxe rooms",
+    "meals": "Breakfast daily",
+    "area": "Mumbai, Kevadia, Rajkot, Gir, Ahmedabad, Udaipur, Bundi, Ranthambore, Jaipur and Delhi",
+    "about": "Including the Tent City at Kevadia, Khirasara Palace outside Rajkot and a resort in Bundi."
+  },
+  "included": [
+    "15 nights with breakfast",
+    "Private car with driver throughout",
+    "Mumbai to Vadodara and Jaipur to Delhi trains",
+    "Guided tours of Elephanta, Kevadia, Udaipur, Bundi and Amer",
+    "One Gir, one Jawai and one Ranthambore safari",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights and visas",
+    "Entry fees, ropeway, boats and extra safaris",
+    "Meals not marked included",
+    "Wellness treatments",
+    "Travel insurance"
+  ],
+  "best_time": "October to March. The original plan was for August: in the monsoon Gir and Ranthambore's core zones are closed, the Elephanta ferry may stop and some roads flood, so we recommend the cooler, dry months.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant, about 25° to 32° by day; cool nights in December and January."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Often over 40° in Gujarat and Rajasthan."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Green and quiet; Gir and Ranthambore core zones closed, some roads flooded."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "November or February: parks open, pleasant weather and few crowds.",
+  "faqs": [
+    {
+      "q": "Can we still do this in August?",
+      "a": "Yes, but without the core lion and tiger safaris: Gir's Devalia park and Ranthambore's buffer zones may be open. Udaipur and Bundi are lovely and green in the monsoon."
+    },
+    {
+      "q": "Is it too long for children?",
+      "a": "It is relaxed, with siestas and slow days in Bundi, and works well for families with children over about 6."
+    },
+    {
+      "q": "Can it be shortened?",
+      "a": "Yes. Drop Mumbai and start in Vadodara, or end in Jaipur, to save 2 to 3 days."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "western India tour 15 nights",
+    "Gujarat Rajasthan tour",
+    "Statue of Unity Gir Udaipur",
+    "India heritage tour Mumbai to Delhi"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

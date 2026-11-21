@@ -1,0 +1,758 @@
+{
+  "slug": "ganga-taj-uttar-pradesh-14-days",
+  "title": "The Ganga and the Taj: Delhi, Lucknow, Ayodhya, Varanasi, Prayagraj and Agra",
+  "meta_title": "Varanasi, Ayodhya and Taj Mahal Tour 14 Days",
+  "meta_description": "14-day journey: Delhi, Lucknow's Nawabi heritage, Ayodhya's Ram Mandir, four nights on the ghats of Varanasi, the Sangam at Prayagraj and the Taj Mahal.",
+  "destination": "Uttar Pradesh, India",
+  "country": "India",
+  "duration": "14 days / 13 nights",
+  "nights": 13,
+  "style": "Spiritual · Heritage · Rivers",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Ghats of Varanasi",
+  "tagline": "Aarti on the ghats, the Sangam and the Taj at sunrise",
+  "facts": [
+    [
+      "Stay",
+      "Delhi 2, Lucknow 1, Ayodhya 1, Varanasi 4, Prayagraj 2, Agra 3"
+    ],
+    [
+      "Pace",
+      "Cultural deep-dive"
+    ],
+    [
+      "Ideal for",
+      "Spiritual travellers and families"
+    ],
+    [
+      "Best months",
+      "October to March"
+    ],
+    [
+      "Arrive / leave",
+      "Delhi in, Agra out (via Delhi)"
+    ]
+  ],
+  "intro": "A cultural deep-dive along the Ganga. Delhi, the Nawabi city of Lucknow, Ayodhya, four nights in Varanasi, the Sangam at Prayagraj and three nights in Agra with Mathura and Vrindavan. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. The outline placed Ayodhya as a day trip from Varanasi, which is over 4 hours each way. We sleep in Ayodhya between Lucknow and Varanasi instead.",
+  "highlights": [
+    "Lucknow's Bara Imambara",
+    "The Ram Mandir and Saryu aarti in Ayodhya",
+    "Sunrise boat and Ganga aarti in Varanasi, and Sarnath",
+    "The Sangam at Prayagraj",
+    "The Taj Mahal at sunrise, Agra Fort and Fatehpur Sikri",
+    "Krishna's Mathura and Vrindavan"
+  ],
+  "stays": [
+    {
+      "place": "Delhi",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Lucknow",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Ayodhya",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Varanasi",
+      "nights": 4,
+      "hotel": "Riverside heritage hotel"
+    },
+    {
+      "place": "Prayagraj",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Agra",
+      "nights": 3,
+      "hotel": "Taj-view hotel"
+    }
+  ],
+  "route": [
+    "Delhi",
+    "Lucknow",
+    "Ayodhya",
+    "Varanasi",
+    "Sarnath",
+    "Prayagraj",
+    "Agra",
+    "Fatehpur Sikri",
+    "Mathura",
+    "Vrindavan",
+    "Delhi"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Delhi",
+      "summary": "Arrival in Delhi and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Evening at Akshardham's water show, if it is not a Monday.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Evening at Akshardham's water show, if it is not a Monday."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Old and New Delhi",
+      "summary": "Old Delhi, Humayun's Tomb and India Gate.",
+      "strip": [
+        "Red Fort closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Red Fort and Jama Masjid"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Humayun's Tomb"
+        },
+        {
+          "label": "Evening",
+          "title": "India Gate"
+        }
+      ],
+      "places": [
+        "Red Fort",
+        "Humayun's Tomb",
+        "India Gate"
+      ],
+      "note": "Tomorrow's train or flight to Lucknow is in the morning.",
+      "route": [
+        "Red Fort",
+        "Humayun's Tomb",
+        "India Gate"
+      ],
+      "photo_query": "Red Fort",
+      "photo_caption": "Red Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "Tomorrow's train or flight to Lucknow is in the morning."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Lucknow, city of the Nawabs",
+      "summary": "Train or flight to Lucknow, the Imambaras and an evening in Hazratganj.",
+      "strip": [
+        "Train about 6 hours or flight 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Bara and Chota Imambara"
+        },
+        {
+          "label": "Evening",
+          "title": "Hazratganj and basket chaat"
+        }
+      ],
+      "places": [
+        "Bara Imambara",
+        "Chota Imambara",
+        "Hazratganj"
+      ],
+      "note": "Lucknow's chikankari embroidery makes a lovely gift.",
+      "route": [
+        "Bara Imambara",
+        "Chota Imambara",
+        "Hazratganj"
+      ],
+      "photo_query": "Bara Imambara",
+      "photo_caption": "Bara Imambara",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 6 hours or flight 1 hour",
+      "brief": [
+        "Lucknow's chikankari embroidery makes a lovely gift."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ayodhya and the Saryu aarti",
+      "summary": "Drive to Ayodhya, the Ram Mandir and the evening aarti.",
+      "strip": [
+        "About 135 km, 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Shri Ram Janmabhoomi Mandir",
+          "notes": [
+            [
+              "TIME",
+              "Phones, bags and shoes are deposited before entry. Expect long queues on festival days."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Saryu aarti at Ram ki Paidi"
+        }
+      ],
+      "places": [
+        "Shri Ram Janmabhoomi Mandir",
+        "Ram Ki Paidi"
+      ],
+      "note": "We moved Ayodhya here: as a day trip from Varanasi it is 9 hours on the road.",
+      "route": [
+        "Shri Ram Janmabhoomi Mandir",
+        "Ram Ki Paidi"
+      ],
+      "photo_query": "Shri Ram Janmabhoomi Mandir",
+      "photo_caption": "Shri Ram Janmabhoomi Mandir",
+      "transport": "Private car with driver",
+      "travel_time": "About 135 km, 2 hours 30 minutes",
+      "brief": [
+        "Shri Ram Janmabhoomi Mandir: phones, bags and shoes are deposited before entry.",
+        "We moved Ayodhya here: as a day trip from Varanasi it is 9 hours on the road."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Varanasi and the evening aarti",
+      "summary": "Drive to Varanasi and the Ganga aarti at Dashashwamedh Ghat.",
+      "strip": [
+        "About 210 km, 4 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Evening",
+          "title": "Ganga aarti",
+          "text": "From a boat or the ghat steps.",
+          "notes": [
+            [
+              "CARE",
+              "The ghats are packed at aarti. Keep children close and bags in front."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Dashashwamedh Ghat"
+      ],
+      "note": "Tomorrow's sunrise boat leaves at about 05:45.",
+      "photo_query": "Dashashwamedh Ghat",
+      "photo_caption": "Dashashwamedh Ghat",
+      "transport": "Private car with driver",
+      "travel_time": "About 210 km, 4 hours 30 minutes",
+      "brief": [
+        "Ganga aarti: the ghats are packed at aarti.",
+        "Tomorrow's sunrise boat leaves at about 05:45."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sunrise on the Ganga and the old city",
+      "summary": "Sunrise boat, Kashi Vishwanath corridor and the old lanes.",
+      "strip": [
+        "Boat about 05:45"
+      ],
+      "rows": [
+        {
+          "label": "Sunrise",
+          "title": "Boat along the ghats"
+        },
+        {
+          "label": "Morning",
+          "title": "Kashi Vishwanath temple",
+          "notes": [
+            [
+              "TIME",
+              "Phones and bags are not allowed inside."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Weavers of Banarasi silk"
+        }
+      ],
+      "places": [
+        "Assi Ghat",
+        "Kashi Vishwanath Temple"
+      ],
+      "note": "Photography at the cremation ghats is not allowed.",
+      "route": [
+        "Assi Ghat",
+        "Kashi Vishwanath Temple"
+      ],
+      "photo_query": "Assi Ghat",
+      "photo_caption": "Assi Ghat",
+      "transport": "Private car with driver",
+      "brief": [
+        "Kashi Vishwanath temple: phones and bags are not allowed inside.",
+        "Photography at the cremation ghats is not allowed."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sarnath, where the Buddha first taught",
+      "summary": "Sarnath and its museum.",
+      "strip": [
+        "About 12 km, 30 minutes",
+        "Museum closed Fridays"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Dhamek Stupa and the ruins"
+        },
+        {
+          "label": "Midday",
+          "title": "Sarnath Museum",
+          "text": "The Lion Capital of Ashoka.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Fridays."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Dhamek Stupa",
+        "Sarnath Museum"
+      ],
+      "note": "A quiet afternoon by the river after Sarnath.",
+      "route": [
+        "Dhamek Stupa",
+        "Sarnath Museum"
+      ],
+      "photo_query": "Dhamek Stupa",
+      "photo_caption": "Dhamek Stupa",
+      "transport": "Private car with driver",
+      "travel_time": "About 12 km, 30 minutes",
+      "brief": [
+        "Sarnath Museum: closed on Fridays.",
+        "A quiet afternoon by the river after Sarnath."
+      ]
+    },
+    {
+      "pill": "Free day",
+      "title": "Varanasi at your own pace",
+      "summary": "Free day, or a ghat walk and a music evening.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Ghat walk from Assi to Manikarnika",
+          "text": "With a guide."
+        },
+        {
+          "label": "Evening",
+          "title": "Classical music recital"
+        }
+      ],
+      "places": [
+        "Assi Ghat"
+      ],
+      "note": "Try kachori-sabzi for breakfast and malaiyyo in winter.",
+      "photo_query": "Assi Ghat",
+      "photo_caption": "Assi Ghat",
+      "transport": "Private car with driver",
+      "brief": [
+        "Try kachori-sabzi for breakfast and malaiyyo in winter."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Prayagraj and the Sangam",
+      "summary": "Drive to Prayagraj and a boat to the Sangam.",
+      "strip": [
+        "About 120 km, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Boat to the Triveni Sangam",
+          "text": "Where the Ganga, Yamuna and the mythical Saraswati meet."
+        }
+      ],
+      "places": [
+        "Triveni Sangam"
+      ],
+      "note": "The Magh Mela fills the Sangam in January and February.",
+      "photo_query": "Triveni Sangam",
+      "photo_caption": "Triveni Sangam",
+      "transport": "Private car with driver",
+      "travel_time": "About 120 km, 3 hours",
+      "brief": [
+        "The Magh Mela fills the Sangam in January and February."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Anand Bhawan and the old city",
+      "summary": "Anand Bhawan, Allahabad Fort and Khusro Bagh.",
+      "strip": [
+        "Anand Bhawan closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Anand Bhawan",
+          "text": "The Nehru family home.",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Khusro Bagh",
+          "text": "Mughal tombs in a garden."
+        }
+      ],
+      "places": [
+        "Anand Bhawan",
+        "Khusro Bagh"
+      ],
+      "note": "Tomorrow's train to Agra is a long one.",
+      "route": [
+        "Anand Bhawan",
+        "Khusro Bagh"
+      ],
+      "photo_query": "Anand Bhawan",
+      "photo_caption": "Anand Bhawan",
+      "transport": "Private car with driver",
+      "brief": [
+        "Anand Bhawan: closed on Mondays.",
+        "Tomorrow's train to Agra is a long one."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Train to Agra",
+      "summary": "Train from Prayagraj to Agra and Mehtab Bagh at sunset.",
+      "strip": [
+        "Train about 6 to 7 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train to Agra"
+        },
+        {
+          "label": "Sunset",
+          "title": "Mehtab Bagh",
+          "text": "The Taj across the river."
+        }
+      ],
+      "places": [
+        "Prayagraj Junction",
+        "Mehtab Bagh"
+      ],
+      "note": "Sunrise at the Taj tomorrow.",
+      "route": [
+        "Prayagraj Junction",
+        "Mehtab Bagh"
+      ],
+      "photo_query": "Prayagraj Junction",
+      "photo_caption": "Prayagraj Junction",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 6 to 7 hours",
+      "brief": [
+        "Sunrise at the Taj tomorrow."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Taj Mahal at sunrise and Agra Fort",
+      "summary": "Taj Mahal at sunrise, Agra Fort and Itimad-ud-Daulah.",
+      "strip": [
+        "Taj closed Fridays"
+      ],
+      "rows": [
+        {
+          "label": "About 06:00",
+          "title": "Taj Mahal",
+          "notes": [
+            [
+              "TIME",
+              "Closed on Fridays. Only phones and water allowed inside."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Agra Fort and Itimad-ud-Daulah"
+        }
+      ],
+      "places": [
+        "Taj Mahal East Gate",
+        "Agra Fort",
+        "Itimad-ud-Daulah"
+      ],
+      "note": "Buy marble inlay only from government-approved shops.",
+      "route": [
+        "Taj Mahal East Gate",
+        "Agra Fort",
+        "Itimad-ud-Daulah"
+      ],
+      "photo_query": "Taj Mahal East Gate",
+      "photo_caption": "Taj Mahal East Gate",
+      "transport": "Private car with driver",
+      "brief": [
+        "Taj Mahal: closed on Fridays.",
+        "Buy marble inlay only from government-approved shops."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Mathura, Vrindavan and Fatehpur Sikri",
+      "summary": "Day trip to Mathura and Vrindavan, with Fatehpur Sikri.",
+      "strip": [
+        "About 60 km to Mathura"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Krishna Janmabhoomi, Mathura",
+          "notes": [
+            [
+              "TIME",
+              "Phones are not allowed inside."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Banke Bihari and ISKCON, Vrindavan"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fatehpur Sikri"
+        }
+      ],
+      "places": [
+        "Shri Krishna Janmabhoomi",
+        "Banke Bihari Temple",
+        "Fatehpur Sikri"
+      ],
+      "note": "Vrindavan's temples close in the early afternoon; morning is best.",
+      "route": [
+        "Shri Krishna Janmabhoomi",
+        "Banke Bihari Temple",
+        "Fatehpur Sikri"
+      ],
+      "photo_query": "Shri Krishna Janmabhoomi",
+      "photo_caption": "Shri Krishna Janmabhoomi",
+      "transport": "Private car with driver",
+      "travel_time": "About 60 km to Mathura",
+      "brief": [
+        "Krishna Janmabhoomi, Mathura: phones are not allowed inside.",
+        "Vrindavan's temples close in the early afternoon; morning is best."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Delhi",
+      "summary": "Transfer to Indira Gandhi International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Indira Gandhi International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Indira Gandhi International Airport",
+      "photo_caption": "Indira Gandhi International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "Trains Delhi to Lucknow and Prayagraj to Agra",
+    "Boats in Varanasi and Prayagraj"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "October to March. Dev Deepawali in Varanasi (November) and the Magh Mela in Prayagraj (January to February) are special but crowded. Fog can delay trains in late December and January.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Hot and humid; fine for hills."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Heavy rain; some roads and sights close."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "November, for Dev Deepawali on the ghats, or February.",
+  "faqs": [
+    {
+      "q": "Why not visit Ayodhya from Varanasi?",
+      "a": "It is about 210 km each way. A night in Ayodhya on the way from Lucknow is far easier."
+    },
+    {
+      "q": "Can we shorten it?",
+      "a": "Yes. Trim Varanasi to 3 nights and Agra to 2 for a 10-night trip."
+    },
+    {
+      "q": "Is food easy for vegetarians?",
+      "a": "Very. Varanasi, Ayodhya, Mathura and Vrindavan are largely vegetarian cities."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Varanasi Ayodhya tour",
+    "Ganga Taj tour",
+    "Uttar Pradesh spiritual tour",
+    "Varanasi Prayagraj Agra"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

@@ -1,0 +1,728 @@
+{
+  "slug": "gujarat-gir-mumbai-goa-14-days",
+  "title": "West Coast and Wildlife: Ahmedabad, Rajkot, Gir, Mumbai and Goa",
+  "meta_title": "Gujarat, Gir, Mumbai and Goa Tour 14 Days",
+  "meta_description": "14-day west India tour: Ahmedabad's old city, Rajkot, three nights for Gir lions, Somnath and Junagadh, a flight to Mumbai and four nights in Goa.",
+  "destination": "Gujarat, Mumbai and Goa, India",
+  "country": "India",
+  "duration": "14 days / 13 nights",
+  "nights": 13,
+  "style": "Wildlife · Cities · Beach",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "Asiatic lion in Gir",
+  "tagline": "Lions, Gujarati thalis, Mumbai and a Goan beach finale",
+  "facts": [
+    [
+      "Stay",
+      "Ahmedabad 2, Rajkot 2, Sasan Gir 3, Mumbai 3, Goa 3"
+    ],
+    [
+      "Pace",
+      "Comfortable"
+    ],
+    [
+      "Ideal for",
+      "Families"
+    ],
+    [
+      "Best months",
+      "November to March"
+    ],
+    [
+      "Arrive / leave",
+      "Ahmedabad in, Goa out"
+    ]
+  ],
+  "intro": "Gujarat's heritage and lions, the energy of Mumbai and a beach to finish. This itinerary is built from our nights-per-place outline; the day plans, timings and changes are ours. The outline gave two nights for the Rajkot to Mumbai 'travel day'. A one-hour flight from Rajkot covers it, so we gave those nights to Rajkot and Goa instead.",
+  "highlights": [
+    "Ahmedabad's pols, Sabarmati Ashram and Adalaj step-well",
+    "Rajkot's Kathiyawadi food and Gondal's palaces",
+    "Gir lion safaris, Girnar and Somnath",
+    "Mumbai's Gateway, Elephanta and Marine Drive",
+    "Three nights on a Goan beach"
+  ],
+  "stays": [
+    {
+      "place": "Ahmedabad",
+      "nights": 2,
+      "hotel": "Heritage hotel"
+    },
+    {
+      "place": "Rajkot",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Sasan Gir",
+      "nights": 3,
+      "hotel": "Jungle lodge"
+    },
+    {
+      "place": "Mumbai",
+      "nights": 3,
+      "hotel": "South Mumbai hotel"
+    },
+    {
+      "place": "Goa",
+      "nights": 3,
+      "hotel": "Beach resort"
+    }
+  ],
+  "route": [
+    "Ahmedabad",
+    "Rajkot",
+    "Gondal",
+    "Junagadh",
+    "Sasan Gir",
+    "Somnath",
+    "Rajkot",
+    "Mumbai",
+    "Goa"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Ahmedabad",
+      "summary": "Arrival in Ahmedabad and transfer to the hotel.",
+      "strip": [
+        "Airport transfer"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver",
+          "text": "With a name sign at arrivals."
+        },
+        {
+          "label": "Evening",
+          "title": "Rest and settle in"
+        }
+      ],
+      "places": [
+        "Sardar Vallabhbhai Patel International Airport"
+      ],
+      "note": "Manek Chowk's night food square is open from about 20:00.",
+      "photo_query": "Sardar Vallabhbhai Patel International Airport",
+      "photo_caption": "Sardar Vallabhbhai Patel International Airport",
+      "transport": "Private car with driver",
+      "brief": [
+        "Manek Chowk's night food square is open from about 20:00."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Old Ahmedabad and Gandhi's ashram",
+      "summary": "Heritage walk, Sabarmati Ashram and Adalaj step-well.",
+      "strip": [
+        "Heritage walk from about 08:00"
+      ],
+      "rows": [
+        {
+          "label": "About 08:00",
+          "title": "Old city heritage walk",
+          "text": "Pols, Jain temples and the Jama Masjid."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Sabarmati Ashram"
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Adalaj step-well"
+        }
+      ],
+      "places": [
+        "Sabarmati Ashram",
+        "Adalaj Stepwell",
+        "Jama Masjid Ahmedabad"
+      ],
+      "note": "Gujarat is a dry state; hotels issue liquor permits to visitors.",
+      "route": [
+        "Sabarmati Ashram",
+        "Adalaj Stepwell",
+        "Jama Masjid Ahmedabad"
+      ],
+      "photo_query": "Sabarmati Ashram",
+      "photo_caption": "Sabarmati Ashram",
+      "transport": "Private car with driver",
+      "brief": [
+        "Gujarat is a dry state; hotels issue liquor permits to visitors."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Rajkot",
+      "summary": "Drive to Rajkot and its street food.",
+      "strip": [
+        "About 220 km, 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Watson Museum and Kaba Gandhi no Delo",
+          "notes": [
+            [
+              "TIME",
+              "Watson Museum is closed on Wednesdays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Rajkot street food"
+        }
+      ],
+      "places": [
+        "Watson Museum",
+        "Kaba Gandhi No Delo"
+      ],
+      "note": "Rajkot shops close for an afternoon rest.",
+      "route": [
+        "Watson Museum",
+        "Kaba Gandhi No Delo"
+      ],
+      "photo_query": "Watson Museum",
+      "photo_caption": "Watson Museum",
+      "transport": "Private car with driver",
+      "travel_time": "About 220 km, 4 hours",
+      "brief": [
+        "Watson Museum is closed on Wednesdays.",
+        "Rajkot shops close for an afternoon rest."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Gondal's palaces and Virpur",
+      "summary": "Gondal's palaces and car collection, and the Jalaram temple at Virpur.",
+      "strip": [
+        "Gondal about 40 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Naulakha Palace and vintage cars"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Jalaram Bapa temple, Virpur",
+          "text": "Famous for its free food and no donations."
+        }
+      ],
+      "places": [
+        "Naulakha Palace Gondal",
+        "Jalaram Temple Virpur"
+      ],
+      "note": "A Kathiyawadi dinner tonight.",
+      "route": [
+        "Naulakha Palace Gondal",
+        "Jalaram Temple Virpur"
+      ],
+      "photo_query": "Naulakha Palace Gondal",
+      "photo_caption": "Naulakha Palace Gondal",
+      "transport": "Private car with driver",
+      "travel_time": "Gondal about 40 km",
+      "brief": [
+        "A Kathiyawadi dinner tonight."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Girnar and on to Sasan Gir",
+      "summary": "Girnar ropeway at Junagadh, then Sasan Gir.",
+      "strip": [
+        "About 160 km with the ropeway stop"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Girnar ropeway",
+          "notes": [
+            [
+              "TIME",
+              "Stops in high wind."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sasan Gir lodge"
+        }
+      ],
+      "places": [
+        "Girnar Ropeway",
+        "Sasan Gir"
+      ],
+      "note": "Gir safari permits are booked online in your ID name.",
+      "route": [
+        "Girnar Ropeway",
+        "Sasan Gir"
+      ],
+      "photo_query": "Girnar Ropeway",
+      "photo_caption": "Girnar Ropeway",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km with the ropeway stop",
+      "brief": [
+        "Girnar ropeway: stops in high wind.",
+        "Gir safari permits are booked online in your ID name."
+      ]
+    },
+    {
+      "pill": "Safari day",
+      "title": "Lions of Gir",
+      "summary": "Morning and afternoon lion safaris.",
+      "strip": [
+        "Safaris about 06:30 and 15:00"
+      ],
+      "rows": [
+        {
+          "label": "About 06:30",
+          "title": "Gir jeep safari",
+          "notes": [
+            [
+              "TIME",
+              "The park is closed from 16 June to 15 October."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Devalia safari park or a second drive"
+        }
+      ],
+      "places": [
+        "Gir National Park Sasan Gate",
+        "Devalia Safari Park"
+      ],
+      "note": "Wear earth colours on safari.",
+      "route": [
+        "Gir National Park Sasan Gate",
+        "Devalia Safari Park"
+      ],
+      "photo_query": "Gir National Park Sasan Gate",
+      "photo_caption": "Gir National Park Sasan Gate",
+      "transport": "Private car with driver",
+      "brief": [
+        "Gir jeep safari: the park is closed from 16 June to 15 October.",
+        "Wear earth colours on safari."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Somnath on the sea",
+      "summary": "Somnath temple and the evening aarti.",
+      "strip": [
+        "About 45 km, 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Somnath temple",
+          "notes": [
+            [
+              "TIME",
+              "Phones and bags in lockers."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Aarti and light-and-sound show"
+        }
+      ],
+      "places": [
+        "Somnath Temple"
+      ],
+      "note": "Back to Sasan for the night.",
+      "photo_query": "Somnath Temple",
+      "photo_caption": "Somnath Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 45 km, 1 hour",
+      "brief": [
+        "Somnath temple: phones and bags in lockers.",
+        "Back to Sasan for the night."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly from Rajkot to Mumbai",
+      "summary": "Drive to Rajkot and fly to Mumbai.",
+      "strip": [
+        "About 160 km, 3 hours 30 minutes",
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Rajkot's Hirasar airport"
+        },
+        {
+          "label": "Evening",
+          "title": "Marine Drive at sunset"
+        }
+      ],
+      "places": [
+        "Rajkot International Airport Hirasar",
+        "Marine Drive"
+      ],
+      "note": "This flight replaces the outline's two-night travel day.",
+      "route": [
+        "Rajkot International Airport Hirasar",
+        "Marine Drive"
+      ],
+      "photo_query": "Rajkot International Airport Hirasar",
+      "photo_caption": "Rajkot International Airport Hirasar",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km, 3 hours 30 minutes",
+      "brief": [
+        "This flight replaces the outline's two-night travel day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "South Mumbai",
+      "summary": "Gateway of India, Colaba, CSMT and Kala Ghoda.",
+      "strip": [
+        "Full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Gateway of India and Colaba"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chhatrapati Shivaji Maharaj Terminus and Kala Ghoda"
+        }
+      ],
+      "places": [
+        "Gateway of India",
+        "Chhatrapati Shivaji Maharaj Terminus",
+        "Kala Ghoda"
+      ],
+      "note": "Mumbai traffic peaks 09:00 to 11:00 and 17:00 to 20:00.",
+      "route": [
+        "Gateway of India",
+        "Chhatrapati Shivaji Maharaj Terminus",
+        "Kala Ghoda"
+      ],
+      "photo_query": "Gateway of India",
+      "photo_caption": "Gateway of India",
+      "transport": "Private car with driver",
+      "brief": [
+        "Mumbai traffic peaks 09:00 to 11:00 and 17:00 to 20:00."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Elephanta Caves by ferry, then Juhu",
+      "summary": "Ferry to the Elephanta Caves with a guide, and an evening at Juhu beach.",
+      "strip": [
+        "Ferry about 1 hour each way",
+        "Caves closed Mondays"
+      ],
+      "rows": [
+        {
+          "label": "About 09:30 · Gateway of India jetty",
+          "title": "Ferry to Elephanta",
+          "text": "Boats leave about every 30 minutes from 09:00.",
+          "notes": [
+            [
+              "TIME",
+              "The caves are closed on Mondays. Ferries stop in rough seas, mainly June to August."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Elephanta Caves with a guide",
+          "text": "6th-century rock-cut temples to Shiva, with the three-headed Maheshmurti. About 120 steps up from the jetty.",
+          "notes": [
+            [
+              "CARE",
+              "Monkeys snatch food and bags on the steps. Keep snacks out of sight."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Colaba",
+          "text": "Tea at the Taj Mahal Palace's Sea Lounge, if you like (own cost)."
+        },
+        {
+          "label": "Evening · Juhu",
+          "title": "Juhu Chowpatty",
+          "text": "Pav bhaji and bhel at the beach stalls.",
+          "meal": [
+            "Dinner",
+            "Not included",
+            "About INR 300 per person"
+          ]
+        }
+      ],
+      "places": [
+        "Gateway of India",
+        "Elephanta Caves",
+        "Juhu Beach"
+      ],
+      "note": "Carry water and a cap on the island: there is little shade.",
+      "route": [
+        "Gateway of India",
+        "Elephanta Caves",
+        "Juhu Beach"
+      ],
+      "photo_query": "Gateway of India",
+      "photo_caption": "Gateway of India",
+      "transport": "Private car with driver",
+      "travel_time": "Ferry about 1 hour each way",
+      "brief": [
+        "Ferry to Elephanta: the caves are closed on Mondays.",
+        "Elephanta Caves with a guide: monkeys snatch food and bags on the steps."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Goa",
+      "summary": "Flight to Goa and a beach afternoon.",
+      "strip": [
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Beach resort"
+        }
+      ],
+      "places": [
+        "Manohar International Airport"
+      ],
+      "note": "South Goa is quieter, North Goa livelier.",
+      "photo_query": "Manohar International Airport",
+      "photo_caption": "Manohar International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour 15 minutes",
+      "brief": [
+        "South Goa is quieter, North Goa livelier."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Old Goa and Panaji",
+      "summary": "Basilica of Bom Jesus, Se Cathedral and Fontainhas.",
+      "strip": [
+        "Half day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Old Goa churches",
+          "notes": [
+            [
+              "WEAR",
+              "Cover shoulders and knees."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fontainhas"
+        }
+      ],
+      "places": [
+        "Basilica of Bom Jesus",
+        "Fontainhas"
+      ],
+      "note": "A Mandovi river sunset cruise is a fun extra.",
+      "route": [
+        "Basilica of Bom Jesus",
+        "Fontainhas"
+      ],
+      "photo_query": "Basilica of Bom Jesus",
+      "photo_caption": "Basilica of Bom Jesus",
+      "transport": "Private car with driver",
+      "brief": [
+        "Old Goa churches: cover shoulders and knees.",
+        "A Mandovi river sunset cruise is a fun extra."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Goa",
+      "summary": "Transfer to Manohar International Airport.",
+      "strip": [
+        "Allow 3 to 4 hours before the flight"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave 4 hours before an international flight and 3 before a domestic one."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Manohar International Airport"
+      ],
+      "note": "Pack liquids and souvenirs in checked baggage.",
+      "photo_query": "Manohar International Airport",
+      "photo_caption": "Manohar International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 3 to 4 hours before the flight",
+      "brief": [
+        "Transfer to the airport: leave 4 hours before an international flight and 3 before a domestic one.",
+        "Pack liquids and souvenirs in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "Hotels as listed with breakfast",
+    "Private air-conditioned car with driver for all transfers and sightseeing",
+    "24/7 support from Blue Diamond Voyage",
+    "Two Gir safaris",
+    "Flights Rajkot to Mumbai and Mumbai to Goa (economy)"
+  ],
+  "excluded": [
+    "Flights and trains not listed as included",
+    "Entry fees, guides, boats and activities",
+    "Lunches and dinners unless stated",
+    "Travel insurance"
+  ],
+  "best_time": "November to March: Gir is open, Mumbai is dry and Goa's seas are calm.",
+  "seasons": [
+    [
+      "October to March",
+      "Best",
+      "Dry and pleasant."
+    ],
+    [
+      "April to June",
+      "Hot",
+      "Hot and humid; fine for hills."
+    ],
+    [
+      "July to September",
+      "Monsoon",
+      "Heavy rain; some roads and sights close."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "February: lions, cool mornings and quiet beaches.",
+  "faqs": [
+    {
+      "q": "Can the route run the other way?",
+      "a": "Yes: Goa, Mumbai, then Gir and Ahmedabad."
+    },
+    {
+      "q": "Is Gir open all year?",
+      "a": "No. Gir National Park closes from 16 June to 15 October."
+    },
+    {
+      "q": "Can we add Dwarka?",
+      "a": "Yes. Add 2 nights after Somnath."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Gujarat Goa tour",
+    "Gir Mumbai Goa itinerary",
+    "west India wildlife tour",
+    "Gir lion safari tour"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Photo ID",
+      "Aadhaar, passport, driving licence or voter ID for flights, trains and hotel check-in",
+      "Indian citizens",
+      ""
+    ],
+    [
+      "Indian e-Visa",
+      "Tourist e-Visa applied online before travel",
+      "Foreign nationals (not OCI holders)",
+      "Varies by nationality"
+    ],
+    [
+      "Monument tickets",
+      "Most ASI monuments sell tickets online and by UPI at the gate",
+      "Everyone",
+      "About INR 20 to 50 for Indians, more for foreigners"
+    ]
+  ],
+  "entry_notes": [
+    "Carry the original photo ID, not a photocopy. Security at airports and many temples checks it.",
+    "Phone and internet: Jio and Airtel work best across most of this route. Download offline Google Maps before hill or forest stretches, where signal drops."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Driving times",
+      "text": "Indian roads are slower than the kilometres suggest: plan on 40 to 50 km an hour on highways and much less in hills and towns. Your driver's breaks and meal stops are built into the timings."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112 (police 100, ambulance 108)"
+    ],
+    [
+      "Tourist helpline",
+      "1363 (Ministry of Tourism, 24 hours, multilingual)"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

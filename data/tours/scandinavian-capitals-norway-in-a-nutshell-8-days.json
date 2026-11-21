@@ -1,0 +1,612 @@
+{
+  "slug": "scandinavian-capitals-norway-in-a-nutshell-8-days",
+  "title": "Four Scandinavian Capitals and Norway in a Nutshell: Helsinki, Stockholm, Oslo, the Fjords, Bergen and Copenhagen",
+  "meta_title": "Scandinavia 8 Days: Helsinki, Stockholm, Oslo, Fjords",
+  "meta_description": "8-day Scandinavia tour: Helsinki, an overnight Baltic ship to Stockholm, Oslo, the Flåm Railway and Nærøyfjord on Norway in a Nutshell, Bergen and Copenhagen.",
+  "destination": "Finland, Sweden, Norway and Denmark",
+  "country": "Finland, Sweden, Norway, Denmark",
+  "duration": "8 days / 7 nights",
+  "nights": 7,
+  "style": "Capitals · Fjords · Scenic rail",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905060336-50005101.webp",
+  "hero_alt": "Nyhavn harbour in Copenhagen",
+  "tagline": "Four capitals, a night on the Baltic and Norway's most famous fjord journey",
+  "facts": [
+    [
+      "Stay",
+      "Helsinki 1, overnight ship 1, Oslo 2, Flåm 1, Bergen 1, Copenhagen 1"
+    ],
+    [
+      "Travel",
+      "Ship, two short flights, scenic trains and a fjord boat"
+    ],
+    [
+      "Pace",
+      "Brisk; a new place most nights"
+    ],
+    [
+      "Best months",
+      "May to September"
+    ],
+    [
+      "Arrive / leave",
+      "Helsinki / Copenhagen"
+    ]
+  ],
+  "intro": "Scandinavia's highlights in a week: Helsinki, an overnight cruise ferry into the Stockholm archipelago, Oslo's sculpture park and fjord, the famous Norway in a Nutshell route by train and boat, Bergen's wooden wharf and Copenhagen. We built this from our older brochure and corrected the Norway part: it slept in Geilo after reaching Myrdal, but Geilo lies before Myrdal on the line. You now sleep in Flåm, which splits the fjord journey into two easy days. Oslo's Viking Ship Museum is closed for rebuilding until about 2027.",
+  "highlights": [
+    "Helsinki's Rock Church and the Sibelius Monument",
+    "An overnight cruise ferry across the Baltic",
+    "Sailing into Stockholm through the archipelago",
+    "The Vasa warship museum",
+    "Vigeland Sculpture Park and the Holmenkollen ski jump",
+    "The Flåm Railway and the Nærøyfjord",
+    "Bryggen's wooden wharf and Mount Fløyen in Bergen",
+    "Nyhavn, the Little Mermaid and Tivoli in Copenhagen"
+  ],
+  "stays": [
+    {
+      "place": "Helsinki",
+      "nights": 1,
+      "hotel": "4-star central hotel"
+    },
+    {
+      "place": "Baltic Sea",
+      "nights": 1,
+      "hotel": "Outside cabin on the ship"
+    },
+    {
+      "place": "Oslo",
+      "nights": 2,
+      "hotel": "4-star central hotel"
+    },
+    {
+      "place": "Flåm",
+      "nights": 1,
+      "hotel": "Fjord-side hotel"
+    },
+    {
+      "place": "Bergen",
+      "nights": 1,
+      "hotel": "4-star hotel near Bryggen"
+    },
+    {
+      "place": "Copenhagen",
+      "nights": 1,
+      "hotel": "4-star central hotel"
+    }
+  ],
+  "route": [
+    "Helsinki",
+    "Stockholm",
+    "Oslo",
+    "Myrdal",
+    "Flåm",
+    "Gudvangen",
+    "Voss",
+    "Bergen",
+    "Copenhagen"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Helsinki",
+      "summary": "Private transfer to the hotel and a first walk.",
+      "strip": [
+        "Airport about 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Private transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Esplanadi park and the harbour market"
+        }
+      ],
+      "places": [
+        "Helsinki Airport",
+        "Esplanadi",
+        "Market Square Helsinki"
+      ],
+      "note": "Finland is one hour ahead of Sweden and Norway.",
+      "route": [
+        "Helsinki Airport",
+        "Esplanadi",
+        "Market Square Helsinki"
+      ],
+      "photo_query": "Helsinki Airport",
+      "photo_caption": "Helsinki Airport",
+      "transport": "Coach tour, train and on foot",
+      "travel_time": "Airport about 30 minutes",
+      "brief": [
+        "Finland is one hour ahead of Sweden and Norway."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Helsinki city tour and the overnight ship to Stockholm",
+      "summary": "A morning city tour, then a cruise ferry across the Baltic.",
+      "strip": [
+        "Ship about 17 hours, overnight"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Helsinki city tour",
+          "text": "Senate Square, the Sibelius Monument and the Temppeliaukio Church cut into the rock."
+        },
+        {
+          "label": "About 17:00",
+          "title": "Board the overnight ship",
+          "text": "A buffet dinner on board and a cabin for the night.",
+          "notes": [
+            [
+              "TIME",
+              "Check-in closes about 1 hour before departure."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Senate Square",
+        "Sibelius Monument",
+        "Temppeliaukio Church",
+        "Helsinki West Harbour"
+      ],
+      "note": "Ask for a vegetarian dinner when we book; the buffet has salads and hot vegetarian dishes.",
+      "transport": "Coach tour and ship",
+      "route": [
+        "Senate Square",
+        "Sibelius Monument",
+        "Temppeliaukio Church",
+        "Helsinki West Harbour"
+      ],
+      "photo_query": "Senate Square",
+      "photo_caption": "Senate Square",
+      "travel_time": "Ship about 17 hours, overnight",
+      "brief": [
+        "Board the overnight ship: check-in closes about 1 hour before departure.",
+        "Ask for a vegetarian dinner when we book; the buffet has salads and hot vegetarian dishes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Stockholm, then fly to Oslo",
+      "summary": "Arrive by sea, a morning city tour, then a short flight to Oslo.",
+      "strip": [
+        "Flight about 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Through the archipelago into Stockholm"
+        },
+        {
+          "label": "Late morning",
+          "title": "Stockholm city tour",
+          "text": "City Hall and Gamla Stan."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Vasa Museum"
+        },
+        {
+          "label": "Evening",
+          "title": "Flight to Oslo"
+        }
+      ],
+      "places": [
+        "Stockholm archipelago",
+        "Gamla Stan",
+        "Vasa Museum",
+        "Oslo Airport"
+      ],
+      "note": "A full day. The original plan listed a Stockholm night that its own day plan did not use; you sleep in Oslo tonight and tomorrow.",
+      "transport": "Ship, coach and flight",
+      "route": [
+        "Stockholm archipelago",
+        "Gamla Stan",
+        "Vasa Museum",
+        "Oslo Airport"
+      ],
+      "photo_query": "Stockholm archipelago",
+      "photo_caption": "Stockholm archipelago",
+      "travel_time": "Flight about 1 hour",
+      "brief": [
+        "A full day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Oslo city tour",
+      "summary": "Vigeland Park, Holmenkollen, the Opera House and Akershus Fortress.",
+      "strip": [
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Oslo city tour",
+          "text": "Vigeland's 200 sculptures, the Holmenkollen ski jump and the Royal Palace.",
+          "notes": [
+            [
+              "TIME",
+              "The Viking Ship Museum is closed for rebuilding and reopens as the Museum of the Viking Age in about 2027. The Fram polar ship museum and the Norwegian Folk Museum are open on the same peninsula."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Opera House roof and Akershus Fortress",
+          "text": "Walk up the Opera's sloping marble roof."
+        }
+      ],
+      "places": [
+        "Vigeland Park",
+        "Holmenkollen",
+        "Oslo Opera House",
+        "Akershus Fortress"
+      ],
+      "note": "Oslo is expensive; the Oslo Pass covers transport and most museums.",
+      "route": [
+        "Vigeland Park",
+        "Holmenkollen",
+        "Oslo Opera House",
+        "Akershus Fortress"
+      ],
+      "photo_query": "Vigeland Park",
+      "photo_caption": "Vigeland Park",
+      "transport": "Coach tour, train and on foot",
+      "brief": [
+        "Oslo city tour: the Viking Ship Museum is closed for rebuilding and reopens as the Museum of the Viking Age in about 2027.",
+        "Oslo is expensive; the Oslo Pass covers transport and most museums."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Norway in a Nutshell: the Bergen line and the Flåm Railway",
+      "summary": "Train over the mountains to Myrdal and down the Flåm Railway.",
+      "strip": [
+        "About 6 hours by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bergen line to Myrdal",
+          "text": "Over the Hardangervidda plateau, the highest railway in northern Europe."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Flåm Railway",
+          "text": "Down 865 m in 20 km past the Kjosfossen waterfall.",
+          "notes": [
+            [
+              "TIME",
+              "The train stops at Kjosfossen for photos; stay on the platform."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Flåm by the fjord"
+        }
+      ],
+      "places": [
+        "Oslo S",
+        "Myrdal",
+        "Kjosfossen",
+        "Flåm"
+      ],
+      "note": "Sleeping in Flåm splits the Nutshell into two easy days.",
+      "transport": "Train",
+      "route": [
+        "Oslo S",
+        "Myrdal",
+        "Kjosfossen",
+        "Flåm"
+      ],
+      "photo_query": "Oslo S",
+      "photo_caption": "Oslo S",
+      "travel_time": "About 6 hours by train",
+      "brief": [
+        "Flåm Railway: the train stops at Kjosfossen for photos; stay on the platform.",
+        "Sleeping in Flåm splits the Nutshell into two easy days."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Nærøyfjord cruise and on to Bergen",
+      "summary": "Cruise the UNESCO-listed Nærøyfjord, then bus and train to Bergen.",
+      "strip": [
+        "Cruise about 2 hours, then about 3 hours by bus and train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Fjord cruise Flåm to Gudvangen",
+          "text": "Through the Aurlandsfjord and the Nærøyfjord, one of the narrowest in Norway, on a quiet electric boat."
+        },
+        {
+          "label": "Midday",
+          "title": "Bus to Voss, then train to Bergen"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fløibanen funicular to Mount Fløyen",
+          "text": "8 minutes to the view over the city."
+        }
+      ],
+      "places": [
+        "Aurlandsfjord",
+        "Nærøyfjord",
+        "Voss",
+        "Fløyen"
+      ],
+      "note": "Take a warm layer on the boat even in summer.",
+      "transport": "Boat, bus and train",
+      "route": [
+        "Aurlandsfjord",
+        "Nærøyfjord",
+        "Voss",
+        "Fløyen"
+      ],
+      "photo_query": "Aurlandsfjord",
+      "photo_caption": "Aurlandsfjord",
+      "travel_time": "Cruise about 2 hours, then about 3 hours by bus and train",
+      "brief": [
+        "Take a warm layer on the boat even in summer."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Bryggen, then fly to Copenhagen",
+      "summary": "Bergen's Hanseatic wharf and an afternoon flight to Copenhagen.",
+      "strip": [
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bryggen and the fish market",
+          "text": "UNESCO-listed wooden merchant houses."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Flight to Copenhagen"
+        },
+        {
+          "label": "Evening",
+          "title": "Nyhavn and Tivoli"
+        }
+      ],
+      "places": [
+        "Bryggen",
+        "Bergen Airport",
+        "Nyhavn",
+        "Tivoli Gardens"
+      ],
+      "note": "Bergen is one of the rainiest cities in Europe; keep an umbrella handy.",
+      "transport": "Flight",
+      "route": [
+        "Bryggen",
+        "Bergen Airport",
+        "Nyhavn",
+        "Tivoli Gardens"
+      ],
+      "photo_query": "Bryggen",
+      "photo_caption": "Bryggen",
+      "travel_time": "Flight about 1 hour 15 minutes",
+      "brief": [
+        "Bergen is one of the rainiest cities in Europe; keep an umbrella handy."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Copenhagen city tour and fly home",
+      "summary": "A morning tour, then the airport.",
+      "strip": [
+        "Airport about 15 minutes by metro"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Guided city tour",
+          "text": "Amalienborg, the Gefion Fountain and the Little Mermaid."
+        },
+        {
+          "label": "As per flight",
+          "title": "Transfer to Copenhagen Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Amalienborg",
+        "The Little Mermaid",
+        "Copenhagen Airport"
+      ],
+      "note": "Add a night in Copenhagen if your flight is in the morning.",
+      "route": [
+        "Amalienborg",
+        "The Little Mermaid",
+        "Copenhagen Airport"
+      ],
+      "photo_query": "Amalienborg",
+      "photo_caption": "Amalienborg",
+      "transport": "Coach tour, train and on foot",
+      "travel_time": "Airport about 15 minutes by metro",
+      "brief": [
+        "Transfer to Copenhagen Airport: be at the airport 3 hours before an international flight.",
+        "Add a night in Copenhagen if your flight is in the morning."
+      ]
+    }
+  ],
+  "included": [
+    "7 nights with breakfast (one on the ship)",
+    "Private airport transfer in Helsinki",
+    "Overnight ship Helsinki to Stockholm with buffet dinner",
+    "City tours in Helsinki, Stockholm, Oslo and Copenhagen",
+    "Flights Stockholm to Oslo and Bergen to Copenhagen",
+    "Norway in a Nutshell trains, fjord cruise and bus",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Museum entries",
+    "Lunches and dinners except on the ship",
+    "Travel insurance"
+  ],
+  "best_time": "May to September. Fjord boats and the Flåm Railway run all year, but summer has the most departures and the longest light.",
+  "seasons": [
+    [
+      "June to August",
+      "Best",
+      "Long light days (midnight sun in the Arctic from mid-May to late July), 15 to 22°C, all fjord boats and trains running."
+    ],
+    [
+      "May and September",
+      "Good",
+      "Fewer crowds, cooler, and some mountain roads open late or close early."
+    ],
+    [
+      "October to March",
+      "Winter",
+      "Short days and snow; northern lights in the Arctic, Christmas markets in the capitals."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "June to August.",
+  "faqs": [
+    {
+      "q": "Can we see more of Stockholm?",
+      "a": "Yes. Add a night in Stockholm (9 days), or take our Royal Capitals version: 2 nights each in Stockholm, Oslo and Copenhagen with a night in Gothenburg, all by train."
+    },
+    {
+      "q": "Which visa do we need?",
+      "a": "One Schengen visa covers all four countries; apply at the consulate of the country with the most nights."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Scandinavia tour package from India",
+    "Norway in a Nutshell itinerary",
+    "Helsinki Stockholm Oslo Copenhagen tour",
+    "Scandinavia 8 days"
+  ],
+  "links": [
+    {
+      "title": "Norway in a Nutshell (Fjord Tours)",
+      "url": "https://www.fjordtours.com/en/fjord-tours/norway-in-a-nutshell/"
+    },
+    {
+      "title": "Vasa Museum (official)",
+      "url": "https://www.vasamuseet.se/en"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in the local currency (euros in Finland, Swedish, Norwegian and Danish kronor elsewhere), never in INR. Scandinavia is almost cashless: cards and phone payments work everywhere, even for toilets and market stalls. You need little or no cash."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Adolf Fredriks Kyrkogata 12, Stockholm"
+    ]
+  ],
+  "dining_intro": "Every city on this route has vegetarian and vegan restaurants and several Indian restaurants. In small fjord and Arctic towns choice is limited, so we send your dietary brief ahead to every hotel and ship.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "fi,se,no,dk"
+}

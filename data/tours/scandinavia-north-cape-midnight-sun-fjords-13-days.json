@@ -1,0 +1,830 @@
+{
+  "slug": "scandinavia-north-cape-midnight-sun-fjords-13-days",
+  "title": "Scandinavian Capitals and the North Cape: Midnight Sun, Hurtigruten and the Fjords in 13 Days",
+  "meta_title": "Scandinavia and North Cape 13 Days: Midnight Sun, Fjords",
+  "meta_description": "13-day Scandinavia tour: Helsinki, Stockholm, Oslo, the North Cape by Hurtigruten under the midnight sun, Alta, the fjords, Bergen and Copenhagen.",
+  "destination": "Finland, Sweden, Norway and Denmark",
+  "country": "Finland, Sweden, Norway, Denmark",
+  "duration": "13 days / 12 nights",
+  "nights": 12,
+  "style": "Arctic · Fjords · Capitals",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905046679-465956441.webp",
+  "hero_alt": "The North Cape cliff under the midnight sun",
+  "tagline": "From four capitals to the top of Europe, and back through the fjords",
+  "facts": [
+    [
+      "Stay",
+      "Helsinki 1, ship 1, Stockholm 1, Oslo 1, Hammerfest 1, Honningsvåg 1, Alta 1, Oslo 1, Bergen 2, Copenhagen 2"
+    ],
+    [
+      "Travel",
+      "Ship, train, flights, Hurtigruten coastal ship and buses"
+    ],
+    [
+      "Pace",
+      "Active, with early starts in the Arctic"
+    ],
+    [
+      "Best months",
+      "Mid-May to late July for the midnight sun"
+    ],
+    [
+      "Arrive / leave",
+      "Helsinki / Copenhagen"
+    ]
+  ],
+  "intro": "Our grand Scandinavian loop with an Arctic extension. After Helsinki, the Baltic crossing and Stockholm, a scenic train to Oslo, you fly north to Alta for Hammerfest, sail on the Hurtigruten coastal ship to Honningsvåg and stand on the North Cape cliff at the top of Europe. Back south via Alta's Stone Age rock carvings, you take Norway in a Nutshell to Bergen and finish in Copenhagen. Buses in the far north run on fixed timetables, sometimes only on certain weekdays, so we fix your dates around them.",
+  "highlights": [
+    "The overnight Baltic crossing into the Stockholm archipelago",
+    "The scenic train from Stockholm to Oslo",
+    "Hammerfest, one of the world's northernmost towns",
+    "The Hurtigruten coastal voyage to Honningsvåg",
+    "The North Cape cliff under the midnight sun",
+    "Alta's 6,000-year-old rock carvings",
+    "Norway in a Nutshell: the Flåm Railway and Nærøyfjord",
+    "Bergen's Bryggen and Mount Fløyen",
+    "Copenhagen and Tivoli"
+  ],
+  "stays": [
+    {
+      "place": "Helsinki",
+      "nights": 1,
+      "hotel": "4-star"
+    },
+    {
+      "place": "Baltic Sea",
+      "nights": 1,
+      "hotel": "Ship cabin"
+    },
+    {
+      "place": "Stockholm",
+      "nights": 1,
+      "hotel": "4-star"
+    },
+    {
+      "place": "Oslo",
+      "nights": 1,
+      "hotel": "4-star"
+    },
+    {
+      "place": "Hammerfest",
+      "nights": 1,
+      "hotel": "Harbour hotel"
+    },
+    {
+      "place": "Honningsvåg",
+      "nights": 1,
+      "hotel": "Harbour hotel"
+    },
+    {
+      "place": "Alta",
+      "nights": 1,
+      "hotel": "Town hotel"
+    },
+    {
+      "place": "Oslo",
+      "nights": 1,
+      "hotel": "4-star"
+    },
+    {
+      "place": "Bergen",
+      "nights": 2,
+      "hotel": "4-star near Bryggen"
+    },
+    {
+      "place": "Copenhagen",
+      "nights": 2,
+      "hotel": "4-star"
+    }
+  ],
+  "route": [
+    "Helsinki",
+    "Stockholm",
+    "Oslo",
+    "Alta",
+    "Hammerfest",
+    "Honningsvåg",
+    "North Cape",
+    "Alta",
+    "Oslo",
+    "Flåm",
+    "Bergen",
+    "Copenhagen"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Helsinki",
+      "summary": "Private transfer to the hotel and a first walk.",
+      "strip": [
+        "Airport about 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Private transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Esplanadi park and the harbour market"
+        }
+      ],
+      "places": [
+        "Helsinki Airport",
+        "Esplanadi",
+        "Market Square Helsinki"
+      ],
+      "note": "Finland is one hour ahead of Sweden and Norway.",
+      "route": [
+        "Helsinki Airport",
+        "Esplanadi",
+        "Market Square Helsinki"
+      ],
+      "photo_query": "Helsinki Airport",
+      "photo_caption": "Helsinki Airport",
+      "transport": "Train, coach and on foot",
+      "travel_time": "Airport about 30 minutes",
+      "brief": [
+        "Finland is one hour ahead of Sweden and Norway."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Helsinki city tour and the overnight ship to Stockholm",
+      "summary": "A morning city tour, then a cruise ferry across the Baltic.",
+      "strip": [
+        "Ship about 17 hours, overnight"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Helsinki city tour",
+          "text": "Senate Square, the Sibelius Monument and the Temppeliaukio Church cut into the rock."
+        },
+        {
+          "label": "About 17:00",
+          "title": "Board the overnight ship",
+          "text": "A buffet dinner on board and a cabin for the night.",
+          "notes": [
+            [
+              "TIME",
+              "Check-in closes about 1 hour before departure."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Senate Square",
+        "Sibelius Monument",
+        "Temppeliaukio Church",
+        "Helsinki West Harbour"
+      ],
+      "note": "Ask for a vegetarian dinner when we book; the buffet has salads and hot vegetarian dishes.",
+      "transport": "Coach tour and ship",
+      "route": [
+        "Senate Square",
+        "Sibelius Monument",
+        "Temppeliaukio Church",
+        "Helsinki West Harbour"
+      ],
+      "photo_query": "Senate Square",
+      "photo_caption": "Senate Square",
+      "travel_time": "Ship about 17 hours, overnight",
+      "brief": [
+        "Board the overnight ship: check-in closes about 1 hour before departure.",
+        "Ask for a vegetarian dinner when we book; the buffet has salads and hot vegetarian dishes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Sail into Stockholm",
+      "summary": "The ship threads through the archipelago, then a city tour and the Vasa Museum.",
+      "strip": [
+        "Arrive about 09:30"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Through the Stockholm archipelago",
+          "text": "Be on deck for the last hour: thousands of islands."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Stockholm city tour",
+          "text": "City Hall, where the Nobel banquet is held, and the Old Town (Gamla Stan)."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Vasa Museum",
+          "text": "A 17th-century warship raised almost intact from the harbour."
+        }
+      ],
+      "places": [
+        "Stockholm archipelago",
+        "Stockholm City Hall",
+        "Gamla Stan",
+        "Vasa Museum"
+      ],
+      "note": "Stockholm is built on 14 islands; walking is the best way between them.",
+      "transport": "Ship and coach tour",
+      "route": [
+        "Stockholm archipelago",
+        "Stockholm City Hall",
+        "Gamla Stan",
+        "Vasa Museum"
+      ],
+      "photo_query": "Stockholm archipelago",
+      "photo_caption": "Stockholm archipelago",
+      "brief": [
+        "Stockholm is built on 14 islands; walking is the best way between them."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Scenic train to Oslo",
+      "summary": "Through Swedish forests and lakes to Oslo.",
+      "strip": [
+        "About 5 hours 30 minutes by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train Stockholm to Oslo"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Oslo Opera House and Aker Brygge",
+          "notes": [
+            [
+              "TIME",
+              "The Viking Ship Museum is closed for rebuilding and reopens as the Museum of the Viking Age in about 2027. The Fram polar ship museum and the Norwegian Folk Museum are open on the same peninsula."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Stockholm Central",
+        "Oslo S",
+        "Oslo Opera House"
+      ],
+      "note": "Seat reservations are included; buy snacks before boarding.",
+      "transport": "Train",
+      "route": [
+        "Stockholm Central",
+        "Oslo S",
+        "Oslo Opera House"
+      ],
+      "photo_query": "Stockholm Central",
+      "photo_caption": "Stockholm Central",
+      "travel_time": "About 5 hours 30 minutes by train",
+      "brief": [
+        "Oslo Opera House and Aker Brygge: the Viking Ship Museum is closed for rebuilding and reopens as the Museum of the Viking Age in about 2027.",
+        "Seat reservations are included; buy snacks before boarding."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Alta and on to Hammerfest",
+      "summary": "North into the Arctic.",
+      "strip": [
+        "Flight about 2 hours",
+        "Bus about 2 hours 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight Oslo to Alta"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bus or express boat to Hammerfest",
+          "notes": [
+            [
+              "TIME",
+              "Buses and boats run on fixed times; some only on certain weekdays."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Royal and Ancient Polar Bear Society",
+          "text": "Join the club in its tiny museum."
+        }
+      ],
+      "places": [
+        "Oslo Airport",
+        "Alta Airport",
+        "Hammerfest"
+      ],
+      "note": "In summer the sun does not set here; bring an eye mask.",
+      "transport": "Flight and bus",
+      "route": [
+        "Oslo Airport",
+        "Alta Airport",
+        "Hammerfest"
+      ],
+      "photo_query": "Oslo Airport",
+      "photo_caption": "Oslo Airport",
+      "travel_time": "Flight about 2 hours",
+      "brief": [
+        "Bus or express boat to Hammerfest: buses and boats run on fixed times; some only on certain weekdays.",
+        "In summer the sun does not set here; bring an eye mask."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Hurtigruten to Honningsvåg and the North Cape",
+      "summary": "Sail the Arctic coast and stand at the top of Europe.",
+      "strip": [
+        "Ship about 5 hours",
+        "North Cape bus about 45 minutes each way"
+      ],
+      "rows": [
+        {
+          "label": "About 06:45",
+          "title": "Hurtigruten coastal ship",
+          "text": "Through the Magerøysund to Honningsvåg.",
+          "notes": [
+            [
+              "TIME",
+              "An early start; be at the quay 30 minutes before."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "North Cape",
+          "text": "The North Cape Hall, its film and the globe on the cliff at 307 m above the sea.",
+          "notes": [
+            [
+              "WEAR",
+              "Even in July it can be 5°C and windy at the cliff. Warm jacket, hat and gloves."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Hammerfest",
+        "Honningsvåg",
+        "North Cape"
+      ],
+      "note": "Go to the North Cape in the evening to see the midnight sun (mid-May to late July).",
+      "transport": "Ship and bus",
+      "route": [
+        "Hammerfest",
+        "Honningsvåg",
+        "North Cape"
+      ],
+      "photo_query": "Hammerfest",
+      "photo_caption": "Hammerfest",
+      "travel_time": "Ship about 5 hours",
+      "brief": [
+        "Hurtigruten coastal ship: an early start; be at the quay 30 minutes before.",
+        "North Cape: even in July it can be 5°C and windy at the cliff."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Bus to Alta",
+      "summary": "Across the tundra past reindeer herds.",
+      "strip": [
+        "About 4 hours by bus"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bus from Honningsvåg to Alta",
+          "notes": [
+            [
+              "CARE",
+              "Reindeer wander onto the road. The bus slows; do not approach the animals."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Alta town and the Northern Lights Cathedral"
+        }
+      ],
+      "places": [
+        "Honningsvåg",
+        "Alta",
+        "Northern Lights Cathedral"
+      ],
+      "note": "Sami culture is strong here; ask before photographing people in traditional dress.",
+      "transport": "Bus",
+      "route": [
+        "Honningsvåg",
+        "Alta",
+        "Northern Lights Cathedral"
+      ],
+      "photo_query": "Honningsvåg",
+      "photo_caption": "Honningsvåg",
+      "travel_time": "About 4 hours by bus",
+      "brief": [
+        "Bus from Honningsvåg to Alta: reindeer wander onto the road.",
+        "Sami culture is strong here; ask before photographing people in traditional dress."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Alta rock carvings and fly to Oslo",
+      "summary": "UNESCO rock art, then back south.",
+      "strip": [
+        "Flight about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Alta Museum and rock carvings",
+          "text": "6,000 to 2,500 years old: reindeer, boats and hunters along a 3 km trail."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Flight to Oslo"
+        }
+      ],
+      "places": [
+        "Alta Museum",
+        "Alta Airport",
+        "Oslo"
+      ],
+      "note": "The rock trail is gravel and boardwalk; comfortable shoes.",
+      "transport": "Flight",
+      "route": [
+        "Alta Museum",
+        "Alta Airport",
+        "Oslo"
+      ],
+      "photo_query": "Alta Museum",
+      "photo_caption": "Alta Museum",
+      "travel_time": "Flight about 2 hours",
+      "brief": [
+        "The rock trail is gravel and boardwalk; comfortable shoes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Norway in a Nutshell to Bergen",
+      "summary": "Train, the Flåm Railway, the Nærøyfjord and the Stalheim bends in one day.",
+      "strip": [
+        "About 12 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bergen line to Myrdal, then the Flåm Railway"
+        },
+        {
+          "label": "Midday",
+          "title": "Fjord cruise Flåm to Gudvangen",
+          "text": "The Nærøyfjord, a UNESCO World Heritage Site."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bus to Voss and train to Bergen"
+        }
+      ],
+      "places": [
+        "Myrdal",
+        "Flåm",
+        "Nærøyfjord",
+        "Bergen"
+      ],
+      "note": "A long day; we can split it with a night in Flåm if you prefer.",
+      "transport": "Train, boat and bus",
+      "route": [
+        "Myrdal",
+        "Flåm",
+        "Nærøyfjord",
+        "Bergen"
+      ],
+      "photo_query": "Myrdal",
+      "photo_caption": "Myrdal",
+      "travel_time": "About 12 hours",
+      "brief": [
+        "A long day; we can split it with a night in Flåm if you prefer."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Bergen at leisure",
+      "summary": "Bryggen, the fish market and Mount Fløyen.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bryggen"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fløibanen to Mount Fløyen"
+        },
+        {
+          "label": "Optional",
+          "title": "Grieg's home at Troldhaugen"
+        }
+      ],
+      "places": [
+        "Bryggen",
+        "Fløyen",
+        "Troldhaugen"
+      ],
+      "note": "Bergen has rain most days; carry an umbrella.",
+      "route": [
+        "Bryggen",
+        "Fløyen",
+        "Troldhaugen"
+      ],
+      "photo_query": "Bryggen",
+      "photo_caption": "Bryggen",
+      "transport": "Train, coach and on foot",
+      "brief": [
+        "Bergen has rain most days; carry an umbrella."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Copenhagen",
+      "summary": "An afternoon in Denmark's capital.",
+      "strip": [
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight to Copenhagen"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Strøget and the city centre"
+        }
+      ],
+      "places": [
+        "Bergen Airport",
+        "Copenhagen Airport",
+        "Strøget"
+      ],
+      "note": "",
+      "transport": "Flight",
+      "route": [
+        "Bergen Airport",
+        "Copenhagen Airport",
+        "Strøget"
+      ],
+      "photo_query": "Bergen Airport",
+      "photo_caption": "Bergen Airport",
+      "travel_time": "Flight about 1 hour 15 minutes",
+      "brief": []
+    },
+    {
+      "pill": "Full day",
+      "title": "Copenhagen",
+      "summary": "A guided tour: Nyhavn, Amalienborg, the Gefion Fountain and the Little Mermaid, with Tivoli in the evening.",
+      "strip": [
+        "Free evening"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Guided city tour",
+          "text": "Nyhavn's painted houses, the royal palace and the Little Mermaid."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Canal boat tour"
+        },
+        {
+          "label": "Evening",
+          "title": "Tivoli Gardens",
+          "text": "The 1843 amusement park, lit up at night.",
+          "notes": [
+            [
+              "TIME",
+              "Tivoli is closed for parts of the year; check the season for your dates."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Nyhavn",
+        "Amalienborg",
+        "The Little Mermaid",
+        "Tivoli Gardens"
+      ],
+      "note": "Copenhagen is best by bike or on foot.",
+      "route": [
+        "Nyhavn",
+        "Amalienborg",
+        "The Little Mermaid",
+        "Tivoli Gardens"
+      ],
+      "photo_query": "Nyhavn",
+      "photo_caption": "Nyhavn",
+      "transport": "Train, coach and on foot",
+      "brief": [
+        "Tivoli Gardens: tivoli is closed for parts of the year; check the season for your dates.",
+        "Copenhagen is best by bike or on foot."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Copenhagen",
+      "summary": "Train or car to the airport.",
+      "strip": [
+        "Airport about 15 minutes by metro"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Copenhagen Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Copenhagen Airport"
+      ],
+      "note": "Claim the VAT refund at the airport for purchases over the minimum.",
+      "transport": "Metro or taxi",
+      "photo_query": "Copenhagen Airport",
+      "photo_caption": "Copenhagen Airport",
+      "travel_time": "Airport about 15 minutes by metro",
+      "brief": [
+        "Transfer to Copenhagen Airport: be at the airport 3 hours before an international flight.",
+        "Claim the VAT refund at the airport for purchases over the minimum."
+      ]
+    }
+  ],
+  "included": [
+    "12 nights with breakfast",
+    "Overnight ship Helsinki to Stockholm with dinner",
+    "City tours in Helsinki, Stockholm and Copenhagen",
+    "Train Stockholm to Oslo",
+    "Flights Oslo to Alta and back, and Bergen to Copenhagen",
+    "Hurtigruten Hammerfest to Honningsvåg",
+    "North Cape bus excursion",
+    "Norway in a Nutshell",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Bus or boat Alta to Hammerfest and bus Honningsvåg to Alta (bought locally; we give you the times)",
+    "North Cape Hall entry",
+    "Lunches and dinners",
+    "Travel insurance"
+  ],
+  "best_time": "Mid-May to late July for the midnight sun at the North Cape. Hurtigruten sails all year, but northern buses run less in winter.",
+  "seasons": [
+    [
+      "June to August",
+      "Best",
+      "Long light days (midnight sun in the Arctic from mid-May to late July), 15 to 22°C, all fjord boats and trains running."
+    ],
+    [
+      "May and September",
+      "Good",
+      "Fewer crowds, cooler, and some mountain roads open late or close early."
+    ],
+    [
+      "October to March",
+      "Winter",
+      "Short days and snow; northern lights in the Arctic, Christmas markets in the capitals."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "snow"
+  ],
+  "best_pick": "June and early July.",
+  "faqs": [
+    {
+      "q": "Can we shorten it?",
+      "a": "Yes. Our 11-day version drops Bergen and the fjords and flies from Oslo to Copenhagen after the North Cape."
+    },
+    {
+      "q": "Will we see the northern lights?",
+      "a": "Not in summer: the sky is light all night. For the northern lights, travel from late September to March."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "North Cape tour from India",
+    "Scandinavia midnight sun tour",
+    "Hurtigruten North Cape",
+    "Scandinavia 13 days"
+  ],
+  "links": [
+    {
+      "title": "Hurtigruten (official)",
+      "url": "https://www.hurtigruten.com/en/"
+    },
+    {
+      "title": "Alta Museum (official)",
+      "url": "https://www.altamuseum.no/en"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in the local currency (euros in Finland, Swedish, Norwegian and Danish kronor elsewhere), never in INR. Scandinavia is almost cashless: cards and phone payments work everywhere, even for toilets and market stalls. You need little or no cash."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Adolf Fredriks Kyrkogata 12, Stockholm"
+    ]
+  ],
+  "dining_intro": "Every city on this route has vegetarian and vegan restaurants and several Indian restaurants. In small fjord and Arctic towns choice is limited, so we send your dietary brief ahead to every hotel and ship.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "fi,se,no,dk"
+}

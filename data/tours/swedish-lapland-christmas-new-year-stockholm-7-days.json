@@ -1,0 +1,546 @@
+{
+  "slug": "swedish-lapland-christmas-new-year-stockholm-7-days",
+  "title": "White Christmas or New Year in Swedish Lapland with Stockholm: Kiruna, Huskies, Reindeer and the ICEHOTEL",
+  "meta_title": "Swedish Lapland Christmas 7 Days: Kiruna and Stockholm",
+  "meta_description": "7-day festive holiday in Swedish Lapland: snowmobile and husky safaris, Sami reindeer, the ICEHOTEL and northern lights in Kiruna, then winter Stockholm.",
+  "destination": "Swedish Lapland and Stockholm, Sweden",
+  "country": "Sweden",
+  "duration": "7 days / 6 nights",
+  "nights": 6,
+  "style": "Winter · Festive · Arctic",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905046679-465956441.webp",
+  "hero_alt": "Northern lights over snowy Lapland",
+  "tagline": "Santa's sleigh, husky trails and the northern lights above the Arctic Circle",
+  "facts": [
+    [
+      "Stay",
+      "Kiruna 4, Stockholm 2"
+    ],
+    [
+      "Travel",
+      "Flights, then guided snowmobile, dog-sled and coach excursions"
+    ],
+    [
+      "Pace",
+      "Relaxed, with one or two activities a day"
+    ],
+    [
+      "Dates",
+      "23 to 29 December (Christmas) or 29 December to 4 January (New Year)"
+    ],
+    [
+      "Arrive / leave",
+      "Kiruna / Stockholm"
+    ]
+  ],
+  "intro": "A festive week in the Arctic. Four nights in a cabin hotel in Kiruna, 145 km north of the Arctic Circle, with a snowmobile ride to cut your Christmas tree, Santa's visit on Christmas Eve, the early Julotta church service, snowshoes, a husky safari and lunch in a Sami tent, then two nights in winter Stockholm. The New Year version swaps Christmas for a Sami reindeer village, a snowmobile ride to the ICEHOTEL and a New Year's Eve gala dinner. Kiruna Church, voted Sweden's most beautiful building, was moved in one piece to the new town centre in 2025 because the iron mine is undermining the old town.",
+  "highlights": [
+    "Snowmobile into the forest to cut your own Christmas tree",
+    "Santa arriving by reindeer sled on Christmas Eve",
+    "The candle-lit Julotta service in Kiruna Church",
+    "A husky sled safari with lunch in a Sami tent",
+    "Reindeer, lassos and Sami culture (New Year version)",
+    "The ICEHOTEL at Jukkasjärvi",
+    "Northern lights from Mount Luossavaara",
+    "Winter Stockholm by coach and boat"
+  ],
+  "stays": [
+    {
+      "place": "Kiruna",
+      "nights": 4,
+      "hotel": "Cabin hotel with restaurant, dinner included"
+    },
+    {
+      "place": "Stockholm",
+      "nights": 2,
+      "hotel": "4-star central hotel"
+    }
+  ],
+  "route": [
+    "Kiruna",
+    "Jukkasjärvi",
+    "Kiruna",
+    "Stockholm"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Kiruna",
+      "summary": "Fly into the Arctic, transfer to your cabin hotel and dinner.",
+      "strip": [
+        "Airport about 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel",
+          "text": "Collect your thermal overalls and boots."
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner at the hotel",
+          "notes": [
+            [
+              "TIME",
+              "Look up after dinner: the northern lights are often visible from the hotel on clear nights."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kiruna Airport",
+        "Kiruna"
+      ],
+      "note": "Most flights connect via Stockholm Arlanda; allow at least 2 hours to change.",
+      "route": [
+        "Kiruna Airport",
+        "Kiruna"
+      ],
+      "photo_query": "Kiruna Airport",
+      "photo_caption": "Kiruna Airport",
+      "transport": "Guided excursions and transfers",
+      "travel_time": "Airport about 15 minutes",
+      "brief": [
+        "Dinner at the hotel: look up after dinner: the northern lights are often visible from the hotel on clear nights.",
+        "Most flights connect via Stockholm Arlanda; allow at least 2 hours to change."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Christmas Eve: snowmobile, the tree and Santa",
+      "summary": "Ride into the forest to cut a tree, then a Swedish Christmas buffet and Santa's visit.",
+      "strip": [
+        "Snowmobile about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "10:00",
+          "title": "Snowmobile safari to cut the Christmas tree",
+          "text": "Sit under reindeer furs in the sled, or drive yourself.",
+          "notes": [
+            [
+              "WEAR",
+              "Use the overalls, boots and mittens provided; layers underneath."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Decorate the tree by the fire",
+          "text": "With hot drinks."
+        },
+        {
+          "label": "17:00",
+          "title": "Swedish Christmas buffet",
+          "text": "Ask for vegetarian dishes in advance; the buffet is mostly fish and meat."
+        },
+        {
+          "label": "19:30",
+          "title": "Santa arrives by reindeer sled",
+          "text": "Gifts for the children."
+        }
+      ],
+      "places": [
+        "Kiruna"
+      ],
+      "note": "New Year version: a Sami reindeer village with a ride on a reindeer sled and lunch in a tepee.",
+      "photo_query": "Kiruna",
+      "photo_caption": "Kiruna",
+      "transport": "Guided excursions and transfers",
+      "travel_time": "Snowmobile about 2 hours",
+      "brief": [
+        "Snowmobile safari to cut the Christmas tree: use the overalls, boots and mittens provided; layers underneath.",
+        "New Year version: a Sami reindeer village with a ride on a reindeer sled and lunch in a tepee."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Christmas Day: Julotta and snowshoes",
+      "summary": "The early church service, a big breakfast and a snowshoe walk to a Sami tent.",
+      "strip": [
+        "Snowshoe walk about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "06:20",
+          "title": "Julotta in Kiruna Church",
+          "text": "The traditional Christmas morning service by candlelight.",
+          "notes": [
+            [
+              "CARE",
+              "A service, not a show: dress warmly and modestly and stay quiet."
+            ]
+          ]
+        },
+        {
+          "label": "13:00",
+          "title": "Snowshoe walk",
+          "text": "To a Sami tent for a hot drink by the fire."
+        },
+        {
+          "label": "19:00",
+          "title": "Christmas dinner"
+        }
+      ],
+      "places": [
+        "Kiruna Church",
+        "Kiruna"
+      ],
+      "note": "New Year version: a snowmobile ride to the ICEHOTEL with a wilderness lunch, and the New Year's Eve gala dinner.",
+      "route": [
+        "Kiruna Church",
+        "Kiruna"
+      ],
+      "photo_query": "Kiruna Church",
+      "photo_caption": "Kiruna Church",
+      "transport": "Guided excursions and transfers",
+      "travel_time": "Snowshoe walk about 2 hours",
+      "brief": [
+        "Julotta in Kiruna Church: a service, not a show: dress warmly and modestly and stay quiet.",
+        "New Year version: a snowmobile ride to the ICEHOTEL with a wilderness lunch, and the New Year's Eve gala dinner."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Husky sled safari",
+      "summary": "Drive your own dog team, or ride in the sled, with lunch cooked over a fire.",
+      "strip": [
+        "About 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "10:00",
+          "title": "Meet the dogs at the kennel"
+        },
+        {
+          "label": "Midday",
+          "title": "Sled to a Sami tent and lunch by the fire"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Snowshoe walk and back by sled"
+        },
+        {
+          "label": "19:00",
+          "title": "Dinner at the hotel"
+        }
+      ],
+      "places": [
+        "Kiruna"
+      ],
+      "note": "New Year version: a free morning for the LKAB iron-ore mine tour or the Esrange space centre, and an evening tracked-vehicle ride up Mount Luossavaara to look for the northern lights.",
+      "photo_query": "Kiruna",
+      "photo_caption": "Kiruna",
+      "transport": "Guided excursions and transfers",
+      "travel_time": "About 4 hours",
+      "brief": [
+        "New Year version: a free morning for the LKAB iron-ore mine tour or the Esrange space centre, and an evening tracked-vehicle ride up Mount Luossavaara to look for the northern lights."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The ICEHOTEL, then fly to Stockholm",
+      "summary": "A morning at the ICEHOTEL on the way to the airport.",
+      "strip": [
+        "ICEHOTEL about 20 minutes from Kiruna Airport",
+        "Flight about 1 hour 35 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "ICEHOTEL, Jukkasjärvi",
+          "text": "Rooms carved from Torne River ice by artists every winter.",
+          "notes": [
+            [
+              "TIME",
+              "The ice building opens from about mid-December; ICEHOTEL 365 is open all year."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Flight to Stockholm"
+        },
+        {
+          "label": "Evening",
+          "title": "Old Town Christmas market (until 23 December) or the lit-up streets"
+        }
+      ],
+      "places": [
+        "ICEHOTEL",
+        "Kiruna Airport",
+        "Gamla Stan"
+      ],
+      "note": "Stockholm is milder, about 0°C, but dark by 15:00.",
+      "transport": "Car and flight",
+      "route": [
+        "ICEHOTEL",
+        "Kiruna Airport",
+        "Gamla Stan"
+      ],
+      "photo_query": "ICEHOTEL",
+      "photo_caption": "ICEHOTEL",
+      "travel_time": "ICEHOTEL about 20 minutes from Kiruna Airport",
+      "brief": [
+        "ICEHOTEL, Jukkasjärvi: the ice building opens from about mid-December; ICEHOTEL 365 is open all year.",
+        "Stockholm is milder, about 0°C, but dark by 15:00."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Winter Stockholm by coach and boat",
+      "summary": "A three-hour tour of the city and the inner archipelago.",
+      "strip": [
+        "About 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "City and archipelago tour",
+          "text": "City Hall, the Royal Palace and the frozen inner islands."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Vasa Museum or Skansen",
+          "text": "Skansen's open-air museum has winter traditions and Nordic animals."
+        }
+      ],
+      "places": [
+        "Stockholm City Hall",
+        "Royal Palace Stockholm",
+        "Vasa Museum",
+        "Skansen"
+      ],
+      "note": "Indian vegetarian restaurants are easy to find near Central Station.",
+      "route": [
+        "Stockholm City Hall",
+        "Royal Palace Stockholm",
+        "Vasa Museum",
+        "Skansen"
+      ],
+      "photo_query": "Stockholm City Hall",
+      "photo_caption": "Stockholm City Hall",
+      "transport": "Guided excursions and transfers",
+      "travel_time": "About 3 hours",
+      "brief": [
+        "Indian vegetarian restaurants are easy to find near Central Station."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Stockholm",
+      "summary": "Express train to Arlanda.",
+      "strip": [
+        "Arlanda Express about 20 minutes"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Arlanda Express to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight; winter weather can slow things."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Stockholm Central",
+        "Stockholm Arlanda Airport"
+      ],
+      "note": "Pack thermal clothing in hand luggage for any delay.",
+      "transport": "Train",
+      "route": [
+        "Stockholm Central",
+        "Stockholm Arlanda Airport"
+      ],
+      "photo_query": "Stockholm Central",
+      "photo_caption": "Stockholm Central",
+      "travel_time": "Arlanda Express about 20 minutes",
+      "brief": [
+        "Arlanda Express to the airport: be at the airport 3 hours before an international flight; winter weather can slow things.",
+        "Pack thermal clothing in hand luggage for any delay."
+      ]
+    }
+  ],
+  "included": [
+    "4 nights in Kiruna with breakfast and dinner",
+    "2 nights in Stockholm with breakfast",
+    "Airport transfers in Kiruna",
+    "Snowmobile safari, snowshoe walk and husky safari with lunch (Christmas)",
+    "Sami reindeer visit, snowmobile to the ICEHOTEL, gala dinner and northern lights ride (New Year)",
+    "Thermal clothing for activities",
+    "Stockholm coach and boat tour",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International and domestic flights",
+    "Schengen visa",
+    "ICEHOTEL entry",
+    "Mine and space centre tours",
+    "Lunches in Stockholm",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    {
+      "tag": "WEAR",
+      "title": "Arctic clothing",
+      "text": "Temperatures of minus 15 to minus 30°C are normal. Your hotel lends thermal overalls, boots, mittens and balaclavas for the activities; bring thermal underwear, wool socks and a warm hat."
+    },
+    {
+      "tag": "TIME",
+      "title": "Polar night",
+      "text": "From about 10 December to 3 January the sun does not rise in Kiruna. There is about 4 hours of blue twilight around midday."
+    },
+    {
+      "tag": "CARE",
+      "title": "Snowmobiles",
+      "text": "Drivers need a valid car driving licence (with an International Driving Permit). Never drink before driving, and keep the distance your guide sets."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in the local currency (euros in Finland, Swedish, Norwegian and Danish kronor elsewhere), never in INR. Scandinavia is almost cashless: cards and phone payments work everywhere, even for toilets and market stalls. You need little or no cash."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    }
+  ],
+  "best_time": "This tour runs over Christmas and New Year. For northern lights without the festive dates, travel from late September to March.",
+  "seasons": [
+    [
+      "December to January",
+      "Polar night",
+      "Festive season, deep snow, minus 15 to minus 30°C and good northern lights."
+    ],
+    [
+      "February to March",
+      "Best for activities",
+      "Longer days, plenty of snow, still cold, strong northern lights."
+    ],
+    [
+      "June to July",
+      "Midnight sun",
+      "The sun never sets; hiking instead of snow."
+    ]
+  ],
+  "months": [
+    "snow",
+    "peak",
+    "peak",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "snow",
+    "peak"
+  ],
+  "best_pick": "23 December (Christmas) or 29 December (New Year) arrival.",
+  "faqs": [
+    {
+      "q": "Is it safe for children?",
+      "a": "Yes. Children ride in the sled behind an adult driver on the snowmobile, and the husky safari can be done sitting in the sled. Warm clothing is provided in children's sizes."
+    },
+    {
+      "q": "Will we definitely see the northern lights?",
+      "a": "Nobody can promise it; it needs a clear, dark sky. Four nights in Kiruna gives a good chance."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Lapland Christmas holiday from India",
+    "Swedish Lapland northern lights tour",
+    "ICEHOTEL Kiruna package",
+    "Christmas in Sweden"
+  ],
+  "links": [
+    {
+      "title": "ICEHOTEL (official)",
+      "url": "https://www.icehotel.com/"
+    },
+    {
+      "title": "Swedish Lapland (official)",
+      "url": "https://www.swedishlapland.com/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Adolf Fredriks Kyrkogata 12, Stockholm"
+    ]
+  ],
+  "dining_intro": "Every city on this route has vegetarian and vegan restaurants and several Indian restaurants. In small fjord and Arctic towns choice is limited, so we send your dietary brief ahead to every hotel and ship.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "se"
+}

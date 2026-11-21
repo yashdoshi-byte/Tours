@@ -21,7 +21,7 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
 * If the template truly cannot show something, add an optional field to the template and document it
   here. Never fork the template for one tour.
 * The cover design does not change from tour to tour.
-* The look: a dark cover with a blue-violet glow, a floating pill menu, a gradient Enquire button and
+* The look: all shades of blue, no purple. A dark navy cover with a blue glow, a floating pill menu, a gradient Enquire button and
   two chrome 3D shapes (from the Landing Page 3D Toggle and Metality files on the Figma Community),
   then a light page of white rounded cards with a left sidebar (from the BankDash file). Fonts are
   Inter Tight for headings and Inter for text. The chrome shapes are decoration only; never put a

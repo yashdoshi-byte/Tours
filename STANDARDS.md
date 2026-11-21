@@ -26,9 +26,9 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
   Figma Community), then a light page of white rounded cards with a left sidebar (from the BankDash
   file). Fonts are Inter Tight for headings and Inter for text.
 * Decoration, kept subtle: a dotted world map behind the cover with a glowing pin where the trip is
-  (placed by build.py from the trip's verified pins, never typed by hand), a blue glass compass on
-  the corner of the cover photo, a faint compass rose behind "At a glance", and the world map again,
-  faint, behind the sign-off. Decoration never carries a fact.
+  (placed by build.py from the trip's verified pins, never typed by hand), the logo emblem in a
+  round navy badge pinned on the corner of the cover photo, and the world map again, faint, behind
+  the sign-off. No compass. Decoration never carries a fact.
 * The logo is in `assets/logo/`: the emblem in the menu, the full logo with "Get Glocal" in the
   footer, both recoloured in the site's blues (`logo-on-dark.png`, `logo-on-light.png`). The
   original is kept as `original.png`. Never stretch it or change its shape.

@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% macro gmap(q) %}https://www.google.com/maps/search/?api=1&amp;query={{ q|urlencode }}{% endmacro %}
 {% block content %}
-{# ---------- COVER: dark glow hero, dotted world map with the destination, compass, the photo as a tilted panel ---------- #}
+{# ---------- COVER: dark glow hero, dotted world map, the logo pinned on the photo as a tilted panel ---------- #}
 {% set wa = site.whatsapp ~ '?text=' ~ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode %}
 <section class="hero">
   <div class="worldmap" aria-hidden="true"></div>
@@ -17,7 +17,7 @@
       </div>
     </div>
     <figure class="hero-photo">
-      <img class="compass" src="{{ root }}assets/deco/compass.svg" alt="" aria-hidden="true" width="200" height="200">
+      <span class="logo-pin" aria-hidden="true"><img src="{{ root }}assets/logo/emblem-on-dark.png" alt="" width="162" height="153"></span>
       <img src="{{ t.hero_image }}" alt="{{ t.hero_alt }}" width="1200" height="800" fetchpriority="high">
       <figcaption><span class="ph-l"><b>{{ t.destination }}</b><span><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/></svg>{% if t.stays %}Stay in {{ t.stays|map(attribute='place')|join(' & ') }}{% else %}{{ t.style }}{% endif %}</span></span><span class="ph-r"><small>Duration</small><b>{{ t.duration }}</b></span></figcaption>
     </figure>
@@ -64,7 +64,7 @@
     </section>
 
     {# ---------- OVERVIEW ---------- #}
-    <section class="block rosebg" id="overview">
+    <section class="block" id="overview">
       <h2>Your week at a glance</h2>
       <ol class="overview">
       {% for d in t.days %}

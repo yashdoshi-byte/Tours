@@ -147,7 +147,14 @@
         "Mother House Kolkata",
         "Kalighat Kali Temple"
       ],
-      "photo_query": "Victoria Memorial"
+      "photo_query": "Victoria Memorial",
+      "photo_caption": "Victoria Memorial",
+      "transport": "Private car with driver",
+      "travel_time": "Airport to city about 1 hour",
+      "brief": [
+        "Half-day city tour: victoria Memorial museum is closed on Mondays.",
+        "Kalighat Kali Temple: leather is not allowed inside."
+      ]
     },
     {
       "pill": "Full day",
@@ -202,7 +209,13 @@
         "Jorasanko Thakur Bari",
         "Marble Palace Kolkata"
       ],
-      "photo_query": "Pareshnath Jain Temple Kolkata"
+      "photo_query": "Pareshnath Jain Temple Kolkata",
+      "photo_caption": "Pareshnath Jain Temple Kolkata",
+      "transport": "Private car with driver",
+      "brief": [
+        "Jorasanko Thakur Bari: closed on Mondays.",
+        "Marble Palace: entry needs a free pass from the tourist office; we arrange it."
+      ]
     },
     {
       "pill": "Day trip",
@@ -255,7 +268,14 @@
         "ISKCON Mayapur",
         "Yogapith Mayapur"
       ],
-      "photo_query": "ISKCON Mayapur"
+      "photo_query": "ISKCON Mayapur",
+      "photo_caption": "ISKCON Mayapur",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km each way, 3.5 to 4 hours",
+      "brief": [
+        "ISKCON Mayapur: the temple closes for darshan from about 13:00 to 16:00.",
+        "This is a long day."
+      ]
     },
     {
       "pill": "Road and river",
@@ -303,7 +323,14 @@
         "Godkhali Ferry Ghat",
         "Sajnekhali Watch Tower"
       ],
-      "photo_query": "Godkhali Ferry Ghat"
+      "photo_query": "Godkhali Ferry Ghat",
+      "photo_caption": "Godkhali Ferry Ghat",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 hours by road",
+      "brief": [
+        "Sunset cruise: resorts run on generators; air-conditioning usually works only from about 21:00 to 06:00.",
+        "Pack light for the Sundarbans; leave big bags at the Kolkata hotel."
+      ]
     },
     {
       "pill": "Full day on the water",
@@ -351,7 +378,13 @@
         "Dobanki Watch Tower",
         "Sudhanyakhali Watch Tower"
       ],
-      "photo_query": "Dobanki Watch Tower"
+      "photo_query": "Dobanki Watch Tower",
+      "photo_caption": "Dobanki Watch Tower",
+      "transport": "Private car with driver",
+      "brief": [
+        "Back towards the resort: never put hands in the water or step off the boat except at watchtowers.",
+        "Carry binoculars, a cap and mosquito repellent."
+      ]
     },
     {
       "pill": "Road day",
@@ -392,7 +425,13 @@
         "Mandarmani Beach"
       ],
       "note": "Swim only near lifeguards; currents in the Bay of Bengal can be strong.",
-      "photo_query": "Mandarmani Beach"
+      "photo_query": "Mandarmani Beach",
+      "photo_caption": "Mandarmani Beach",
+      "transport": "Private car with driver",
+      "travel_time": "Boat 1.5 hours, road about 5 hours",
+      "brief": [
+        "Swim only near lifeguards; currents in the Bay of Bengal can be strong."
+      ]
     },
     {
       "pill": "Easy day",
@@ -423,7 +462,13 @@
         "Mandarmani Beach",
         "New Market Kolkata"
       ],
-      "photo_query": "Mandarmani Beach"
+      "photo_query": "Mandarmani Beach",
+      "photo_caption": "Mandarmani Beach",
+      "transport": "Private car with driver",
+      "travel_time": "About 180 km, 4 hours",
+      "brief": [
+        "Tonight is a good night for a Bengali vegetarian thali: shukto, cholar dal, luchi and payesh."
+      ]
     },
     {
       "pill": "Road day",
@@ -467,7 +512,14 @@
         "Rabindra Bhavana Museum",
         "Sonajhuri Haat"
       ],
-      "photo_query": "Visva-Bharati University"
+      "photo_query": "Visva-Bharati University",
+      "photo_caption": "Visva-Bharati University",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km, 4 hours",
+      "brief": [
+        "Visva-Bharati and Rabindra Bhavana museum: the campus is closed to visitors on Wednesdays, and partly on Thursdays.",
+        "The Sonajhuri Haat craft market is busiest on Saturday afternoons."
+      ]
     },
     {
       "pill": "Road day",
@@ -490,7 +542,13 @@
         "Park Street Kolkata"
       ],
       "note": "Tomorrow's sightseeing starts at 09:00; keep packing light.",
-      "photo_query": "Park Street Kolkata"
+      "photo_query": "Park Street Kolkata",
+      "photo_caption": "Park Street Kolkata",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km, 4 hours",
+      "brief": [
+        "Tomorrow's sightseeing starts at 09:00; keep packing light."
+      ]
     },
     {
       "pill": "Full day",
@@ -536,7 +594,13 @@
         "Howrah Bridge",
         "Mullick Ghat Flower Market"
       ],
-      "photo_query": "Belur Math"
+      "photo_query": "Belur Math",
+      "photo_caption": "Belur Math",
+      "transport": "Private car with driver",
+      "brief": [
+        "Belur Math: open about 06:00 to 11:30 and 16:00 to 21:00 (winter 15:30).",
+        "This is your last full day: tell us if you want a dinner booking."
+      ]
     },
     {
       "pill": "Departure",
@@ -556,7 +620,13 @@
         "Netaji Subhas Chandra Bose International Airport"
       ],
       "note": "Thank you for travelling Bengal with us.",
-      "photo_query": "Netaji Subhas Chandra Bose International Airport"
+      "photo_query": "Netaji Subhas Chandra Bose International Airport",
+      "photo_caption": "Netaji Subhas Chandra Bose International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 1 hour to the airport",
+      "brief": [
+        "Thank you for travelling Bengal with us."
+      ]
     }
   ],
   "hotel": {
@@ -699,5 +769,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "peak",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "peak",
+    "peak"
+  ],
+  "best_pick": "November to February: cool, dry days for Kolkata's streets and the mangrove cruise."
 }

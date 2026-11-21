@@ -1,0 +1,762 @@
+{
+  "slug": "ladakh-silk-route-tsomoriri-10-days",
+  "title": "Ladakh on the Silk Route: Sham Valley, Kargil, Turtuk, Pangong and Tso Moriri in 10 Days",
+  "meta_title": "Ladakh Silk Route Tour 10 Days: Turtuk, Pangong, Tso Moriri",
+  "meta_description": "10-day Ladakh itinerary: Sham Valley, Dha-Hanu and Kargil, Lamayuru and Alchi, Khardung La, Nubra and Turtuk, Pangong Lake, Tso Moriri and Tso Kar.",
+  "destination": "Ladakh, India",
+  "country": "India",
+  "duration": "10 days / 9 nights",
+  "nights": 9,
+  "style": "High Himalaya · Villages · Lakes",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "hero_alt": "High-altitude lake in Ladakh",
+  "tagline": "Old trade-route villages, the last village before the border and three high lakes",
+  "facts": [
+    [
+      "Stay",
+      "Leh, Sham Valley, Kargil, Nubra, Pangong, Tso Moriri"
+    ],
+    [
+      "Highest point",
+      "Khardung La about 5,360 m"
+    ],
+    [
+      "Pace",
+      "Moderate, several long drives"
+    ],
+    [
+      "Season",
+      "June to September"
+    ],
+    [
+      "Transfers",
+      "Private SUV with a Ladakhi driver"
+    ]
+  ],
+  "intro": "This route follows Ladakh's old trading paths. You acclimatise gently in the Sham Valley, visit the Brokpa villages of Dha-Hanu on the way to Kargil, then cross Khardung La to Nubra and drive to Turtuk, a Balti village that was part of Pakistan until 1971. From Pangong the road runs along the Chinese frontier through Chushul to Tso Moriri, and back to Leh past the salt lake of Tso Kar.",
+  "highlights": [
+    "Likir Monastery and the apricot villages of the Sham Valley",
+    "The Brokpa villages of Dha and Hanu",
+    "Lamayuru, Alchi and Mulbekh on the old road",
+    "Turtuk, a Balti village on the Shyok river",
+    "Pangong Lake and the frontier road through Chushul",
+    "Tso Moriri and Korzok village, and the nomads of Tso Kar"
+  ],
+  "stays": [
+    {
+      "place": "Leh",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Sham Valley",
+      "nights": 1,
+      "hotel": "Camp or hotel"
+    },
+    {
+      "place": "Kargil",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Leh",
+      "nights": 1,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Nubra (Hunder)",
+      "nights": 2,
+      "hotel": "Camp or hotel"
+    },
+    {
+      "place": "Pangong",
+      "nights": 1,
+      "hotel": "Lakeside camp"
+    },
+    {
+      "place": "Tso Moriri",
+      "nights": 1,
+      "hotel": "Camp at Korzok"
+    },
+    {
+      "place": "Leh",
+      "nights": 1,
+      "hotel": "Hotel"
+    }
+  ],
+  "route": [
+    "Leh",
+    "Likir",
+    "Dha",
+    "Kargil",
+    "Lamayuru",
+    "Leh",
+    "Khardung La",
+    "Hunder",
+    "Turtuk",
+    "Pangong Lake",
+    "Chushul",
+    "Tso Moriri",
+    "Tso Kar",
+    "Leh"
+  ],
+  "links": [
+    {
+      "title": "Ladakh Tourism (official)",
+      "url": "https://ladakh.gov.in/tourism/"
+    },
+    {
+      "title": "Leh district permits portal (LAHDC)",
+      "url": "https://lahdclehpermit.in/"
+    }
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Fly into Leh and rest",
+      "summary": "Arrival at Leh and a day of complete rest.",
+      "strip": [
+        "Leh about 3,500 m",
+        "Complete rest today"
+      ],
+      "rows": [
+        {
+          "label": "On landing · Leh airport (IXL)",
+          "title": "Meet your driver",
+          "text": "Transfer to your hotel."
+        },
+        {
+          "label": "Rest of the day",
+          "title": "Rest and acclimatise",
+          "text": "Tea on arrival, then rest.",
+          "notes": [
+            [
+              "CARE",
+              "Do no sightseeing today. Drink water, sleep and avoid alcohol."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kushok Bakula Rimpochee Airport",
+        "Leh"
+      ],
+      "note": "We start gently tomorrow and go lower, which helps your body adjust.",
+      "route": [
+        "Kushok Bakula Rimpochee Airport",
+        "Leh"
+      ],
+      "photo_query": "Kushok Bakula Rimpochee Airport",
+      "photo_caption": "Kushok Bakula Rimpochee Airport",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "brief": [
+        "Rest and acclimatise: do no sightseeing today.",
+        "We start gently tomorrow and go lower, which helps your body adjust."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Down the Indus to the Sham Valley",
+      "summary": "Drive to the Sham Valley via Pathar Sahib, Magnetic Hill, the Sangam and Likir.",
+      "strip": [
+        "About 75 km, 3 to 4 hours",
+        "Sham Valley about 3,200 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Gurudwara Pathar Sahib and Magnetic Hill",
+          "text": "Short stops on the highway."
+        },
+        {
+          "label": "Midday",
+          "title": "Sangam",
+          "text": "The green Zanskar meets the blue Indus."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Likir Monastery",
+          "text": "A gilded 23 m Maitreya in the open air."
+        },
+        {
+          "label": "Evening",
+          "title": "Sham Valley village stay",
+          "text": "Apricot orchards and quiet lanes."
+        }
+      ],
+      "places": [
+        "Gurudwara Pathar Sahib",
+        "Magnetic Hill Ladakh",
+        "Likir Monastery"
+      ],
+      "note": "Sham is lower than Leh: an easy second night for acclimatisation.",
+      "route": [
+        "Gurudwara Pathar Sahib",
+        "Magnetic Hill Ladakh",
+        "Likir Monastery"
+      ],
+      "photo_query": "Gurudwara Pathar Sahib",
+      "photo_caption": "Gurudwara Pathar Sahib",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 75 km, 3 to 4 hours",
+      "brief": [
+        "Sham is lower than Leh: an easy second night for acclimatisation."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Dha-Hanu and Batalik to Kargil",
+      "summary": "Drive to Kargil via the Brokpa villages of Dha-Hanu and Batalik.",
+      "strip": [
+        "About 170 km, 6 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Dha and Hanu villages",
+          "text": "Home of the Brokpa people, with their flower headdresses and own language.",
+          "notes": [
+            [
+              "WEAR",
+              "Ask before photographing anyone. Some families ask for a small fee for photographs."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Batalik",
+          "text": "A sector of the 1999 Kargil war, along the Indus."
+        },
+        {
+          "label": "Evening",
+          "title": "Kargil",
+          "text": "Check in."
+        }
+      ],
+      "places": [
+        "Dha Village",
+        "Batalik",
+        "Kargil"
+      ],
+      "note": "Kargil town is mainly Shia Muslim. Dress modestly.",
+      "route": [
+        "Dha Village",
+        "Batalik",
+        "Kargil"
+      ],
+      "photo_query": "Dha Village",
+      "photo_caption": "Dha Village",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 170 km, 6 hours",
+      "brief": [
+        "Dha and Hanu villages: ask before photographing anyone.",
+        "Kargil town is mainly Shia Muslim."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Mulbekh, Lamayuru and Alchi back to Leh",
+      "summary": "Drive back to Leh via Mulbekh, Lamayuru and Alchi, then Leh Palace and Shanti Stupa.",
+      "strip": [
+        "About 220 km, 7 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Mulbekh rock-cut Buddha",
+          "text": "An 8th-century Maitreya carved on a rock."
+        },
+        {
+          "label": "Midday",
+          "title": "Lamayuru and the moonland",
+          "text": "One of the oldest monasteries in Ladakh."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Alchi Choskor",
+          "text": "11th-century temples with remarkable murals.",
+          "notes": [
+            [
+              "TIME",
+              "No photography inside the Alchi temples."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Shanti Stupa",
+          "text": "Sunset over Leh, if time allows."
+        }
+      ],
+      "places": [
+        "Mulbekh Monastery",
+        "Lamayuru Monastery",
+        "Alchi Monastery",
+        "Shanti Stupa"
+      ],
+      "note": "Tomorrow crosses Khardung La. Sleep well tonight.",
+      "route": [
+        "Mulbekh Monastery",
+        "Lamayuru Monastery",
+        "Alchi Monastery",
+        "Shanti Stupa"
+      ],
+      "photo_query": "Mulbekh Monastery",
+      "photo_caption": "Mulbekh Monastery",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 220 km, 7 hours",
+      "brief": [
+        "Alchi Choskor: no photography inside the Alchi temples.",
+        "Tomorrow crosses Khardung La."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Over Khardung La to Nubra",
+      "summary": "Drive over Khardung La to Nubra, Diskit and the Hunder dunes.",
+      "strip": [
+        "About 120 km, 4 to 5 hours",
+        "Khardung La about 5,360 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Khardung La",
+          "text": "One of the highest roads in the world.",
+          "notes": [
+            [
+              "CARE",
+              "Stay no more than 15 to 20 minutes at the top."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Diskit Monastery",
+          "text": "The 32 m Maitreya facing the valley."
+        },
+        {
+          "label": "Evening",
+          "title": "Hunder dunes",
+          "text": "Bactrian camel rides at sunset.",
+          "notes": [
+            [
+              "MONEY",
+              "Camel rides are paid directly."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Khardung La",
+        "Diskit Monastery",
+        "Hunder Sand Dunes"
+      ],
+      "note": "Nubra is warm by day. Keep a sun hat handy.",
+      "route": [
+        "Khardung La",
+        "Diskit Monastery",
+        "Hunder Sand Dunes"
+      ],
+      "photo_query": "Khardung La",
+      "photo_caption": "Khardung La",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 120 km, 4 to 5 hours",
+      "brief": [
+        "Khardung La: stay no more than 15 to 20 minutes at the top.",
+        "Hunder dunes: camel rides are paid directly."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Turtuk, the Balti village on the Shyok",
+      "summary": "Day trip from Hunder to Turtuk and back.",
+      "strip": [
+        "About 80 km each way, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Along the Shyok river",
+          "text": "A dramatic road through the gorge."
+        },
+        {
+          "label": "Midday",
+          "title": "Turtuk village",
+          "text": "A Balti village of stone houses and apricot orchards, under India only since 1971. Walk with a local guide.",
+          "notes": [
+            [
+              "WEAR",
+              "Turtuk is a conservative Muslim village. Cover arms and legs, and ask before photographing women."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Hunder",
+          "text": "Apricots and walnuts for sale on the way."
+        }
+      ],
+      "places": [
+        "Turtuk"
+      ],
+      "note": "Turtuk has a small royal house museum run by the family. Ask your guide.",
+      "photo_query": "Turtuk",
+      "photo_caption": "Turtuk",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 80 km each way, 3 hours",
+      "brief": [
+        "Turtuk village: turtuk is a conservative Muslim village.",
+        "Turtuk has a small royal house museum run by the family."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Nubra to Pangong Lake",
+      "summary": "Drive to Pangong via the Shyok road.",
+      "strip": [
+        "About 170 km, 6 to 7 hours",
+        "Pangong about 4,250 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Shyok road via Agham",
+          "text": "Rough in parts; beautiful throughout."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pangong Lake",
+          "text": "The lake's colours change by the hour.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the camp"
+          ]
+        }
+      ],
+      "places": [
+        "Pangong Lake"
+      ],
+      "note": "A very cold night. Ask for an extra blanket.",
+      "photo_query": "Pangong Lake",
+      "photo_caption": "Pangong Lake",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 170 km, 6 to 7 hours",
+      "brief": [
+        "A very cold night."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The frontier road through Chushul to Tso Moriri",
+      "summary": "Drive from Pangong via Man, Merak and Chushul to Tso Moriri.",
+      "strip": [
+        "About 230 km, 7 to 8 hours",
+        "Tso Moriri about 4,520 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Man and Merak",
+          "text": "Quiet lakeside villages."
+        },
+        {
+          "label": "Midday",
+          "title": "Chushul and the 1962 war memorial",
+          "text": "Rezang La memorial to the soldiers of 1962.",
+          "notes": [
+            [
+              "CARE",
+              "This road follows a sensitive frontier. Photograph only where your driver says it is allowed."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Tso Moriri and Korzok",
+          "text": "A huge high lake with bar-headed geese in summer.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the camp"
+          ]
+        }
+      ],
+      "places": [
+        "Chushul",
+        "Rezang La War Memorial",
+        "Tso Moriri",
+        "Korzok"
+      ],
+      "note": "Tso Moriri is the highest night of the trip. Rest as soon as you arrive.",
+      "route": [
+        "Chushul",
+        "Rezang La War Memorial",
+        "Tso Moriri",
+        "Korzok"
+      ],
+      "photo_query": "Chushul",
+      "photo_caption": "Chushul",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 230 km, 7 to 8 hours",
+      "brief": [
+        "Chushul and the 1962 war memorial: this road follows a sensitive frontier.",
+        "Tso Moriri is the highest night of the trip."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Korzok, Tso Kar and Taglang La to Leh",
+      "summary": "Korzok village, Tso Kar salt lake and the drive back to Leh over Taglang La.",
+      "strip": [
+        "About 240 km, 7 to 8 hours",
+        "Taglang La about 5,330 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Korzok village and gompa",
+          "text": "Some of the highest barley fields in the world."
+        },
+        {
+          "label": "Midday",
+          "title": "Tso Kar",
+          "text": "A salt lake where Changpa nomads graze yaks, sheep and pashmina goats."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Over Taglang La to Leh",
+          "text": "Down through the Indus valley."
+        }
+      ],
+      "places": [
+        "Korzok Monastery",
+        "Tso Kar",
+        "Taglang La",
+        "Leh"
+      ],
+      "note": "A last dinner in Leh. Try thukpa and skyu at a local kitchen.",
+      "route": [
+        "Korzok Monastery",
+        "Tso Kar",
+        "Taglang La",
+        "Leh"
+      ],
+      "photo_query": "Korzok Monastery",
+      "photo_caption": "Korzok Monastery",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 240 km, 7 to 8 hours",
+      "brief": [
+        "A last dinner in Leh."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Leh",
+      "summary": "Transfer to Leh airport.",
+      "strip": [
+        "Airport about 15 minutes from town"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Leh airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 2 hours early. One cabin bag only on most flights."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kushok Bakula Rimpochee Airport"
+      ],
+      "note": "Keep a buffer day before international connections.",
+      "photo_query": "Kushok Bakula Rimpochee Airport",
+      "photo_caption": "Kushok Bakula Rimpochee Airport",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "Airport about 15 minutes from town",
+      "brief": [
+        "Transfer to Leh airport: be at the airport 2 hours early.",
+        "Keep a buffer day before international connections."
+      ]
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked hotels and camps",
+    "room": "Best available rooms or Swiss tents",
+    "meals": "Breakfast and dinner throughout",
+    "area": "Leh, Sham Valley, Kargil, Nubra, Pangong and Tso Moriri",
+    "about": "Hotels in Leh and Kargil; comfortable Swiss-tent camps with attached bathrooms in Nubra, Pangong and Tso Moriri. Power and hot water are limited at the lakes."
+  },
+  "included": [
+    "9 nights in hotels and camps, with breakfast and dinner",
+    "Private SUV with driver for the whole tour",
+    "Environment-fee permits for Indian citizens",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "Flights to and from Leh",
+    "Monastery entry fees and camel rides",
+    "Lunches",
+    "Costs from road blocks or flight cancellations",
+    "Travel insurance"
+  ],
+  "best_time": "June to September. Tso Moriri camps open from about late May to September; Pangong is busiest in June and July.",
+  "seasons": [
+    [
+      "May to June",
+      "Good",
+      "Days about 20°, nights near freezing; snow on the passes; Zanskar road opening."
+    ],
+    [
+      "July to September",
+      "Best",
+      "All roads open, about 25° by day and 5° at night; occasional rain-related road blocks."
+    ],
+    [
+      "October",
+      "Shoulder",
+      "Clear and cold, about 10° by day, below freezing at night; camps start to close."
+    ],
+    [
+      "November to April",
+      "Winter",
+      "Passes and lake camps closed; Pangong freezes."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "snow",
+    "snow"
+  ],
+  "best_pick": "September: all roads open, clear skies and calm lakes.",
+  "faqs": [
+    {
+      "q": "Is Turtuk open to tourists?",
+      "a": "Yes, to Indian and foreign visitors with the right permits, which we arrange. It is a day trip from Hunder."
+    },
+    {
+      "q": "How cold is it at Pangong and Tso Moriri?",
+      "a": "Even in July nights drop to around 0° or below. Camps give heavy blankets and some have electric blankets, but bring thermals and a down jacket."
+    },
+    {
+      "q": "Can the trip be shorter?",
+      "a": "Yes. Without Kargil and Turtuk it fits in 7 days. See our classic Ladakh itinerary."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Ladakh tour 10 days",
+    "Tso Moriri Pangong itinerary",
+    "Turtuk tour",
+    "Ladakh silk route"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Ladakh environment fee and permit",
+      "Applied online on the Leh district (LAHDC) portal before travel; covers Nubra, Pangong, Tso Moriri and other areas",
+      "Indian citizens",
+      "About INR 400 per person plus a small daily wildlife fee"
+    ],
+    [
+      "Protected Area Permit (PAP)",
+      "Needed for Nubra, Turtuk, Pangong, Tso Moriri and Hanle; applied through a registered Leh agency, at least 2 travellers",
+      "Foreign nationals",
+      "Varies"
+    ],
+    [
+      "Original photo ID",
+      "Checked at police and Army posts on every high road; carry several photocopies",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Inner Line Permits are no longer needed by Indian citizens, but the environment fee permit is checked at the posts. We apply for it once your ID copies are in.",
+    "Phone: carry a postpaid SIM; prepaid SIMs from outside Ladakh do not work."
+  ],
+  "good_to_know": [
+    {
+      "tag": "CARE",
+      "title": "Altitude comes first",
+      "text": "Leh is at about 3,500 m. Rest completely on the first day, drink 3 to 4 litres of water a day, avoid alcohol and smoking, and climb slowly. Ask your doctor about Diamox before you travel. Tell us about heart, lung or blood-pressure conditions before booking."
+    },
+    {
+      "tag": "TIP",
+      "title": "Phones",
+      "text": "Only postpaid connections from other states work in Ladakh; prepaid SIMs from outside do not. Jio and Airtel postpaid have the widest coverage. Signal is weak or absent at Pangong, Tso Moriri and in Zanskar."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Layers, sun and monasteries",
+      "text": "Even in summer it can be below zero on the passes. Carry a down jacket, cap, gloves, sunglasses and strong sunscreen. In monasteries cover shoulders and knees, remove hats, walk clockwise and ask before photographing monks."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cash",
+      "text": "ATMs work in Leh and Kargil only, and not always. Carry enough cash for the whole trip outside Leh. UPI works where there is signal."
+    },
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112"
+    ],
+    [
+      "SNM Hospital, Leh",
+      "Main district hospital, Leh"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

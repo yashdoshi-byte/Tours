@@ -154,7 +154,14 @@
         "Lokpriya Gopinath Bordoloi International Airport",
         "Guwahati"
       ],
-      "photo_query": "Lokpriya Gopinath Bordoloi International Airport"
+      "photo_query": "Lokpriya Gopinath Bordoloi International Airport",
+      "photo_caption": "Lokpriya Gopinath Bordoloi International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 25 km, 45 minutes",
+      "brief": [
+        "Optional: Brahmaputra sunset cruise: cruises stop when the river is high, mostly in the monsoon.",
+        "Your Arunachal Inner Line Permit is ready before you land; keep the PDF on your phone and a printout in the car."
+      ]
     },
     {
       "pill": "Road day",
@@ -202,7 +209,14 @@
         "Bhomoraguri Tezpur",
         "Prashanti Cottage Bhalukpong"
       ],
-      "photo_query": "Bhomoraguri Tezpur"
+      "photo_query": "Bhomoraguri Tezpur",
+      "photo_caption": "Bhomoraguri Tezpur",
+      "transport": "Private car with driver",
+      "travel_time": "About 230 km, 5 to 6 hours",
+      "brief": [
+        "Gangetic river dolphin boat ride: tickets are sold by the forest department one day ahead and depend on the water level.",
+        "The ILP is checked at Bhalukpong."
+      ]
     },
     {
       "pill": "Mountain drive",
@@ -250,7 +264,14 @@
         "Tipi Orchid Centre",
         "Dirang"
       ],
-      "photo_query": "Tipi Orchid Centre"
+      "photo_query": "Tipi Orchid Centre",
+      "photo_caption": "Tipi Orchid Centre",
+      "transport": "Private car with driver",
+      "travel_time": "About 160 km, 6 to 7 hours",
+      "brief": [
+        "Through Bomdila to Dirang: mountain roads in Arunachal can close for a few hours after landslides.",
+        "Drink plenty of water from today."
+      ]
     },
     {
       "pill": "Full day",
@@ -300,7 +321,13 @@
         "Dirang Dzong",
         "Sangti Valley"
       ],
-      "photo_query": "Mandala Top Dirang"
+      "photo_query": "Mandala Top Dirang",
+      "photo_caption": "Mandala Top Dirang",
+      "transport": "Private car with driver",
+      "brief": [
+        "Dirang Dzong and Dirang Monastery: cover shoulders and walk clockwise around stupas and prayer wheels.",
+        "This easy day is deliberate."
+      ]
     },
     {
       "pill": "High pass day",
@@ -348,7 +375,14 @@
         "Sela Pass",
         "Jaswant Garh War Memorial"
       ],
-      "photo_query": "Sela Pass"
+      "photo_query": "Sela Pass",
+      "photo_caption": "Sela Pass",
+      "transport": "Private car with driver",
+      "travel_time": "About 140 km, 6 to 7 hours",
+      "brief": [
+        "Sela Pass and Sela Lake: snow can close the pass road in winter; the tunnel keeps the route open.",
+        "Pack a down jacket, gloves and a cap in the car today, whatever the season."
+      ]
     },
     {
       "pill": "Full day",
@@ -398,7 +432,14 @@
         "Urgelling Monastery",
         "Tawang War Memorial"
       ],
-      "photo_query": "Tawang Monastery"
+      "photo_query": "Tawang Monastery",
+      "photo_caption": "Tawang Monastery",
+      "transport": "Private car with driver",
+      "travel_time": "All within 10 km",
+      "brief": [
+        "Tawang Monastery: cover arms and legs, remove hats inside the prayer hall and never point your feet at the altar.",
+        "Your Bumla permit is applied for today at the Deputy Commissioner's office with your ID, ready for tomorrow."
+      ]
     },
     {
       "pill": "High border day",
@@ -453,7 +494,14 @@
         "Sangetsar Lake",
         "PT Tso Lake"
       ],
-      "photo_query": "Bumla Pass"
+      "photo_query": "Bumla Pass",
+      "photo_caption": "Bumla Pass",
+      "transport": "Private car with driver",
+      "travel_time": "About 37 km each way, rough road",
+      "brief": [
+        "Local taxi to Bumla: bumla is open to Indian citizens only, with a permit, and is closed on some days for Army reasons.",
+        "Children under 10 and anyone with heart or breathing conditions should skip Bumla and keep to the lakes."
+      ]
     },
     {
       "pill": "Road day",
@@ -489,7 +537,13 @@
         "Bomdila Monastery"
       ],
       "note": "Today is the last high-altitude night. From here you go down to the plains.",
-      "photo_query": "Bomdila Monastery"
+      "photo_query": "Bomdila Monastery",
+      "photo_caption": "Bomdila Monastery",
+      "transport": "Private car with driver",
+      "travel_time": "About 180 km, 6 to 7 hours",
+      "brief": [
+        "Today is the last high-altitude night."
+      ]
     },
     {
       "pill": "Road day",
@@ -521,7 +575,13 @@
         "Diphlu River Lodge"
       ],
       "note": "Tomorrow's safari slots are confirmed tonight. The forest department releases them the evening before.",
-      "photo_query": "Diphlu River Lodge"
+      "photo_query": "Diphlu River Lodge",
+      "photo_caption": "Diphlu River Lodge",
+      "transport": "Private car with driver",
+      "travel_time": "About 220 km, 6 to 7 hours",
+      "brief": [
+        "Tomorrow's safari slots are confirmed tonight."
+      ]
     },
     {
       "pill": "Safari day",
@@ -571,7 +631,13 @@
         "Bagori Range Kaziranga",
         "Kaziranga National Orchid and Biodiversity Park"
       ],
-      "photo_query": "Kaziranga National Park Central Range Kohora"
+      "photo_query": "Kaziranga National Park Central Range Kohora",
+      "photo_caption": "Kaziranga National Park Central Range Kohora",
+      "transport": "Private car with driver",
+      "brief": [
+        "Jeep safari, Central: safaris run only when the park is open, usually 1 November to 30 April.",
+        "Wear earthy colours, keep voices low and never step out of the jeep."
+      ]
     },
     {
       "pill": "Road day",
@@ -612,7 +678,13 @@
         "Umiam Lake",
         "Police Bazaar Shillong"
       ],
-      "photo_query": "Umiam Lake"
+      "photo_query": "Umiam Lake",
+      "photo_caption": "Umiam Lake",
+      "transport": "Private car with driver",
+      "travel_time": "About 200 km, 5 to 6 hours",
+      "brief": [
+        "Meghalaya's caves and falls are at their best after the rains, from September to November."
+      ]
     },
     {
       "pill": "Full day",
@@ -664,7 +736,14 @@
         "Seven Sisters Falls",
         "Nohkalikai Falls"
       ],
-      "photo_query": "Elephant Falls Shillong"
+      "photo_query": "Elephant Falls Shillong",
+      "photo_caption": "Elephant Falls Shillong",
+      "transport": "Private car with driver",
+      "travel_time": "About 55 km each way, 2 hours",
+      "brief": [
+        "Mawsmai Cave: shoes with grip; the floor is wet.",
+        "Seven Sisters Falls and Nohkalikai Falls: many falls thin out from January to March."
+      ]
     },
     {
       "pill": "Full day",
@@ -720,7 +799,14 @@
         "Riwai Living Root Bridge",
         "Umngot River Dawki"
       ],
-      "photo_query": "Mawlynnong"
+      "photo_query": "Mawlynnong",
+      "photo_caption": "Mawlynnong",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km to Mawlynnong, 3 hours",
+      "brief": [
+        "Riwai living root bridge: steps are slippery after rain.",
+        "Umngot River, Dawki: the water is clearest from November to April."
+      ]
     },
     {
       "pill": "Road day",
@@ -760,7 +846,14 @@
         "Kamakhya Temple",
         "Umananda Temple"
       ],
-      "photo_query": "Kamakhya Temple"
+      "photo_query": "Kamakhya Temple",
+      "photo_caption": "Kamakhya Temple",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 to 4 hours",
+      "brief": [
+        "Kamakhya Temple: queues are long on Tuesdays, Saturdays and festival days.",
+        "Kamakhya Temple: leather is not allowed inside."
+      ]
     },
     {
       "pill": "Departure",
@@ -780,7 +873,13 @@
         "Lokpriya Gopinath Bordoloi International Airport"
       ],
       "note": "Thank you for travelling the North East with us.",
-      "photo_query": "Lokpriya Gopinath Bordoloi International Airport"
+      "photo_query": "Lokpriya Gopinath Bordoloi International Airport",
+      "photo_caption": "Lokpriya Gopinath Bordoloi International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 25 km, 45 minutes",
+      "brief": [
+        "Thank you for travelling the North East with us."
+      ]
     }
   ],
   "hotel": {
@@ -942,5 +1041,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "peak",
+    "peak",
+    "dry"
+  ],
+  "best_pick": "Late October to November: clear Himalayan views, Kaziranga open and Meghalaya's falls still full."
 }

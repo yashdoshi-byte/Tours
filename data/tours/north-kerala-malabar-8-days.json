@@ -129,7 +129,14 @@
         "Athirappilly Falls",
         "Vazhachal Falls"
       ],
-      "photo_query": "Athirappilly Falls"
+      "photo_query": "Athirappilly Falls",
+      "photo_caption": "Athirappilly Falls",
+      "transport": "Private car with driver",
+      "travel_time": "About 55 km, 1 hour 30 minutes",
+      "brief": [
+        "Athirappilly Falls: rocks near the water are slippery.",
+        "Hornbills are often seen along the Vazhachal road early in the morning."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -173,7 +180,14 @@
         "Mananchira Square",
         "SM Street Kozhikode"
       ],
-      "photo_query": "Kozhikode Beach"
+      "photo_query": "Kozhikode Beach",
+      "photo_caption": "Kozhikode Beach",
+      "transport": "Private car with driver",
+      "travel_time": "About 170 km, 4 to 5 hours",
+      "brief": [
+        "Drive north: most Kerala temples admit Hindus only.",
+        "Kozhikode cooking is mostly non-vegetarian."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -211,7 +225,13 @@
         "Lakkidi View Point",
         "Chain Tree Wayanad"
       ],
-      "photo_query": "Kappad Beach"
+      "photo_query": "Kappad Beach",
+      "photo_caption": "Kappad Beach",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km, 3 hours",
+      "brief": [
+        "Weekend traffic on the ghat can add an hour."
+      ]
     },
     {
       "pill": "Full day",
@@ -267,7 +287,14 @@
         "Banasura Sagar Dam",
         "Pookode Lake"
       ],
-      "photo_query": "Edakkal Caves"
+      "photo_query": "Edakkal Caves",
+      "photo_caption": "Edakkal Caves",
+      "transport": "Private car with driver",
+      "travel_time": "Climb about 1 km to the caves",
+      "brief": [
+        "Edakkal Caves: open about 09:00 to 16:00 and closed on Mondays.",
+        "Edakkal Caves: not suitable for people with knee or heart problems."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -308,7 +335,14 @@
         "Muzhappilangad Drive-in Beach",
         "St. Angelo Fort Kannur"
       ],
-      "photo_query": "Muzhappilangad Drive-in Beach"
+      "photo_query": "Muzhappilangad Drive-in Beach",
+      "photo_caption": "Muzhappilangad Drive-in Beach",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 hours",
+      "brief": [
+        "Theyyam: this is worship, not a show.",
+        "Theyyam often starts late at night and runs till dawn."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -338,7 +372,13 @@
         "St. Angelo Fort Kannur",
         "Bekal"
       ],
-      "photo_query": "St. Angelo Fort Kannur"
+      "photo_query": "St. Angelo Fort Kannur",
+      "photo_caption": "St. Angelo Fort Kannur",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km, 2 hours 30 minutes",
+      "brief": [
+        "Bekal's resorts are on the Kappil and Pallikere beaches, quieter than any in south Kerala."
+      ]
     },
     {
       "pill": "Easy day",
@@ -381,7 +421,13 @@
         "Kappil Beach",
         "Valiyaparamba Backwaters"
       ],
-      "photo_query": "Bekal Fort"
+      "photo_query": "Bekal Fort",
+      "photo_caption": "Bekal Fort",
+      "transport": "Private car with driver",
+      "brief": [
+        "Bekal Fort: go before 10:00 for softer light and fewer people.",
+        "Swim only where the resort says it is safe."
+      ]
     },
     {
       "pill": "Departure",
@@ -407,7 +453,14 @@
         "Mangalore International Airport"
       ],
       "note": "Mangaluru also has trains to Mumbai and Goa if you would rather go by rail.",
-      "photo_query": "Mangalore International Airport"
+      "photo_query": "Mangalore International Airport",
+      "photo_caption": "Mangalore International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 70 km, 1 hour 30 minutes to 2 hours",
+      "brief": [
+        "Drive to Mangaluru: leave 4 hours before your flight.",
+        "Mangaluru also has trains to Mumbai and Goa if you would rather go by rail."
+      ]
     }
   ],
   "hotel": {
@@ -549,5 +602,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "dry",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "December to February, during Theyyam season in Kannur."
 }

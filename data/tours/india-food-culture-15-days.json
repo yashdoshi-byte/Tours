@@ -159,7 +159,13 @@
         "United Coffee House",
         "Moti Mahal Daryaganj"
       ],
-      "photo_query": "Connaught Place"
+      "photo_query": "Connaught Place",
+      "photo_caption": "Connaught Place",
+      "transport": "Private car with driver",
+      "travel_time": "Airport to Connaught Place about 45 minutes",
+      "brief": [
+        "Delhi evenings in December and January are about 8° to 10° and smoggy."
+      ]
     },
     {
       "pill": "Full day",
@@ -256,7 +262,14 @@
         "Andhra Bhavan Canteen",
         "India Gate"
       ],
-      "photo_query": "Paranthe Wali Gali"
+      "photo_query": "Paranthe Wali Gali",
+      "photo_caption": "Paranthe Wali Gali",
+      "transport": "Private car with driver",
+      "brief": [
+        "Red Fort: closed on Mondays.",
+        "Jama Masjid: cover arms and legs; women are given a robe at the gate.",
+        "Khari Baoli spice market: the lanes are packed."
+      ]
     },
     {
       "pill": "Full day",
@@ -317,7 +330,13 @@
         "Dilli Haat INA",
         "Hauz Khas Village"
       ],
-      "photo_query": "Odisha Bhawan"
+      "photo_query": "Odisha Bhawan",
+      "photo_caption": "Odisha Bhawan",
+      "transport": "Private car with driver",
+      "brief": [
+        "Swaminarayan Akshardham: closed on Mondays.",
+        "Tomorrow's train leaves early."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -372,7 +391,15 @@
         "Amritsar Junction",
         "Golden Temple"
       ],
-      "photo_query": "New Delhi Railway Station"
+      "photo_query": "New Delhi Railway Station",
+      "photo_caption": "New Delhi Railway Station",
+      "transport": "Private car with driver",
+      "travel_time": "Train about 6 hours",
+      "brief": [
+        "Board the train to Amritsar: be on the platform 30 minutes early.",
+        "Harmandir Sahib: cover your head (scarves are given at the gate), remove shoes and socks, wash your feet.",
+        "Harmandir Sahib: the temple is open 24 hours."
+      ]
     },
     {
       "pill": "Full day",
@@ -446,7 +473,14 @@
         "Attari Wagah Border",
         "Kesar Da Dhaba"
       ],
-      "photo_query": "Guru Ram Das Langar"
+      "photo_query": "Guru Ram Das Langar",
+      "photo_caption": "Guru Ram Das Langar",
+      "transport": "Private car with driver",
+      "travel_time": "Border about 30 km, 45 minutes",
+      "brief": [
+        "Partition Museum: closed on Mondays.",
+        "Beating Retreat ceremony: since May 2025 the ceremony has run in a reduced form, without the handshake and with the gates closed."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -500,7 +534,14 @@
         "Chota Imambara",
         "Royal Cafe Hazratganj"
       ],
-      "photo_query": "Bara Imambara"
+      "photo_query": "Bara Imambara",
+      "photo_caption": "Bara Imambara",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour 30 minutes",
+      "brief": [
+        "Bara Imambara and the Bhool Bhulaiya: remove shoes at the entrance; dress modestly.",
+        "Lucknow manners are famous."
+      ]
     },
     {
       "pill": "Full day",
@@ -544,7 +585,12 @@
         "Chowk Lucknow",
         "Hazratganj"
       ],
-      "photo_query": "La Martiniere College"
+      "photo_query": "La Martiniere College",
+      "photo_caption": "La Martiniere College",
+      "transport": "Private car with driver",
+      "brief": [
+        "Shops in old Lucknow close on Sundays."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -584,7 +630,13 @@
         "Guru Kripa Indore",
         "56 Dukan Indore"
       ],
-      "photo_query": "Guru Kripa Indore"
+      "photo_query": "Guru Kripa Indore",
+      "photo_caption": "Guru Kripa Indore",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour 30 minutes, often via Delhi or Mumbai",
+      "brief": [
+        "Indore is India's cleanest city, eight years running."
+      ]
     },
     {
       "pill": "Full day",
@@ -639,7 +691,14 @@
         "Rani Roopmati Pavilion",
         "Sarafa Bazaar Indore"
       ],
-      "photo_query": "Jahaz Mahal Mandu"
+      "photo_query": "Jahaz Mahal Mandu",
+      "photo_caption": "Jahaz Mahal Mandu",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km each way, 2 hours 30 minutes",
+      "brief": [
+        "Monuments open sunrise to sunset.",
+        "Mandu is lovely in the monsoon, but hot from April to June."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -693,7 +752,14 @@
         "Atal Bridge Ahmedabad",
         "Manek Chowk"
       ],
-      "photo_query": "Sabarmati Ashram"
+      "photo_query": "Sabarmati Ashram",
+      "photo_caption": "Sabarmati Ashram",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour",
+      "brief": [
+        "Sabarmati Ashram: open daily about 08:30 to 18:30.",
+        "Gujarat is a dry state."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -734,7 +800,13 @@
         "Rajkot"
       ],
       "note": "Rajkot's shops close for an afternoon rest, about 13:00 to 16:00. Plan shopping for the evening.",
-      "photo_query": "Rajkot"
+      "photo_query": "Rajkot",
+      "photo_caption": "Rajkot",
+      "transport": "Private car with driver",
+      "travel_time": "About 220 km, 4 hours",
+      "brief": [
+        "Rajkot's shops close for an afternoon rest, about 13:00 to 16:00."
+      ]
     },
     {
       "pill": "Full day",
@@ -792,7 +864,13 @@
         "Orchard Palace Gondal",
         "Rajkot"
       ],
-      "photo_query": "Naulakha Palace Gondal"
+      "photo_query": "Naulakha Palace Gondal",
+      "photo_caption": "Naulakha Palace Gondal",
+      "transport": "Private car with driver",
+      "travel_time": "Gondal about 40 km, 1 hour",
+      "brief": [
+        "Somnath is about 190 km from Rajkot, four hours each way."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -850,7 +928,14 @@
         "Colaba Causeway",
         "Ghatkopar Khau Galli"
       ],
-      "photo_query": "Leopold Cafe"
+      "photo_query": "Leopold Cafe",
+      "photo_caption": "Leopold Cafe",
+      "transport": "Private car with driver",
+      "travel_time": "Flight about 1 hour 15 minutes",
+      "brief": [
+        "Colaba Causeway: agree prices before buying and watch for pickpockets.",
+        "Mumbai traffic is slow."
+      ]
     },
     {
       "pill": "Full day",
@@ -923,7 +1008,14 @@
         "Marine Drive",
         "Juhu Beach"
       ],
-      "photo_query": "Kyani and Co"
+      "photo_query": "Kyani and Co",
+      "photo_caption": "Kyani and Co",
+      "transport": "Private car with driver",
+      "travel_time": "Walk about 3 km",
+      "brief": [
+        "Parsi lunch: lunch only, closed on Sundays.",
+        "Eat at the busiest stalls and choose dry snacks if your stomach is tired after two weeks."
+      ]
     },
     {
       "pill": "Departure",
@@ -949,7 +1041,14 @@
         "Chhatrapati Shivaji Maharaj International Airport"
       ],
       "note": "Pack sweets and spices in your checked bag, not cabin bag.",
-      "photo_query": "Chhatrapati Shivaji Maharaj International Airport"
+      "photo_query": "Chhatrapati Shivaji Maharaj International Airport",
+      "photo_caption": "Chhatrapati Shivaji Maharaj International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Allow 1 to 1 hour 30 minutes to the airport",
+      "brief": [
+        "Transfer to Mumbai airport: leave 4 hours before an international flight in Mumbai traffic.",
+        "Pack sweets and spices in your checked bag, not cabin bag."
+      ]
     }
   ],
   "hotel": {
@@ -1091,5 +1190,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "November and February: cool in the north, before the winter fog and after it."
 }

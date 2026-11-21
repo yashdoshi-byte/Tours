@@ -139,7 +139,13 @@
         "Sheikh ul Alam International Airport",
         "Gulmarg"
       ],
-      "photo_query": "Sheikh ul Alam International Airport"
+      "photo_query": "Sheikh ul Alam International Airport",
+      "photo_caption": "Sheikh ul Alam International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 50 km, 1 hour 30 minutes",
+      "brief": [
+        "Book the Gondola online for tomorrow tonight if we have not already: tickets sell out in season."
+      ]
     },
     {
       "pill": "Full day",
@@ -195,7 +201,14 @@
         "Kongdoori",
         "Apharwat Peak"
       ],
-      "photo_query": "Gulmarg Gondola Base Station"
+      "photo_query": "Gulmarg Gondola Base Station",
+      "photo_caption": "Gulmarg Gondola Base Station",
+      "transport": "Private car with driver",
+      "brief": [
+        "Gulmarg Gondola Phase 1: book online in advance; counters sell only what is left.",
+        "Phase 2 to Apharwat: thin air at the top.",
+        "Pony ride to Seven Springs or Alpather Lake: pony and guide rates are fixed by the local association; ask your driver for the card."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -226,7 +239,13 @@
         "Doodhpathri"
       ],
       "note": "Doodhpathri has basic electricity and patchy signal. It is the most peaceful night of the trip.",
-      "photo_query": "Doodhpathri"
+      "photo_query": "Doodhpathri",
+      "photo_caption": "Doodhpathri",
+      "transport": "Private car with driver",
+      "travel_time": "About 80 km, 3 hours",
+      "brief": [
+        "Doodhpathri has basic electricity and patchy signal."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -270,7 +289,13 @@
         "Avantiswami Temple",
         "Pahalgam"
       ],
-      "photo_query": "Pampore"
+      "photo_query": "Pampore",
+      "photo_caption": "Pampore",
+      "transport": "Private car with driver",
+      "travel_time": "About 150 km, 5 hours",
+      "brief": [
+        "Pahalgam has more security checks since 2025."
+      ]
     },
     {
       "pill": "Full day",
@@ -319,7 +344,14 @@
         "Betaab Valley",
         "Chandanwari"
       ],
-      "photo_query": "Aru Valley"
+      "photo_query": "Aru Valley",
+      "photo_caption": "Aru Valley",
+      "transport": "Private car with driver",
+      "travel_time": "Each place 10 to 16 km from Pahalgam",
+      "brief": [
+        "Aru Valley: your own car cannot go to these spots; a local union cab is hired at a fixed rate.",
+        "Some meadows above Pahalgam, including Baisaran, were closed after the April 2025 attack."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -357,7 +389,13 @@
         "Kokernag",
         "Daksum"
       ],
-      "photo_query": "Achabal Gardens"
+      "photo_query": "Achabal Gardens",
+      "photo_caption": "Achabal Gardens",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 to 4 hours",
+      "brief": [
+        "Daksum stays are forest huts and lodges, simple but clean."
+      ]
     },
     {
       "pill": "Full day",
@@ -395,7 +433,14 @@
         "Sinthan Top"
       ],
       "note": "Carry gloves and sunglasses. Snow glare is strong at this height.",
-      "photo_query": "Sinthan Top"
+      "photo_query": "Sinthan Top",
+      "photo_caption": "Sinthan Top",
+      "transport": "Private car with driver",
+      "travel_time": "About 35 km each way, 1 hour 30 minutes",
+      "brief": [
+        "At the top: spend under an hour at the top.",
+        "Carry gloves and sunglasses."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -439,7 +484,14 @@
         "Shalimar Bagh",
         "Dal Lake"
       ],
-      "photo_query": "Nishat Bagh"
+      "photo_query": "Nishat Bagh",
+      "photo_caption": "Nishat Bagh",
+      "transport": "Private car with driver",
+      "travel_time": "About 100 km, 3 hours",
+      "brief": [
+        "Shikara ride on Dal Lake: shikara rates are posted at each ghat.",
+        "Tonight can be on a houseboat."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -484,7 +536,14 @@
         "Razdan Pass",
         "Dawar Gurez"
       ],
-      "photo_query": "Wular Lake"
+      "photo_query": "Wular Lake",
+      "photo_caption": "Wular Lake",
+      "transport": "Private car with driver",
+      "travel_time": "About 125 km, 6 hours",
+      "brief": [
+        "Razdan Pass: gurez is open to Indian citizens only; registration with original ID at the Army check-posts.",
+        "Gurez is close to the Line of Control."
+      ]
     },
     {
       "pill": "Full day",
@@ -520,7 +579,12 @@
         "Habba Khatoon Peak",
         "Chakwali Gurez"
       ],
-      "photo_query": "Habba Khatoon Peak"
+      "photo_query": "Habba Khatoon Peak",
+      "photo_caption": "Habba Khatoon Peak",
+      "transport": "Private car with driver",
+      "brief": [
+        "Jio, BSNL and Airtel postpaid work in Dawar, with weak data."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -551,7 +615,13 @@
         "Srinagar"
       ],
       "note": "Pack tonight. Airport security in Srinagar has two checks and is slow.",
-      "photo_query": "Srinagar"
+      "photo_query": "Srinagar",
+      "photo_caption": "Srinagar",
+      "transport": "Private car with driver",
+      "travel_time": "About 125 km, 6 hours",
+      "brief": [
+        "Pack tonight."
+      ]
     },
     {
       "pill": "Departure",
@@ -577,7 +647,14 @@
         "Sheikh ul Alam International Airport"
       ],
       "note": "Hand-carry saffron and dry fruit in sealed packs.",
-      "photo_query": "Sheikh ul Alam International Airport"
+      "photo_query": "Sheikh ul Alam International Airport",
+      "photo_caption": "Sheikh ul Alam International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 15 km, 45 minutes plus security",
+      "brief": [
+        "Transfer to Srinagar airport: there is a security check at the airport gate and another at the terminal.",
+        "Hand-carry saffron and dry fruit in sealed packs."
+      ]
     }
   ],
   "hotel": {
@@ -737,5 +814,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "dry",
+    "shoulder",
+    "snow"
+  ],
+  "best_pick": "September to early October: clear skies, autumn colour and Gurez still open."
 }

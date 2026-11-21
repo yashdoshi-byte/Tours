@@ -142,7 +142,14 @@
         "St. Francis Church Kochi",
         "Chinese Fishing Nets Fort Kochi"
       ],
-      "photo_query": "Mattancherry Palace"
+      "photo_query": "Mattancherry Palace",
+      "photo_caption": "Mattancherry Palace",
+      "transport": "Private car with driver",
+      "travel_time": "Airport to Fort Kochi about 1 hour 30 minutes",
+      "brief": [
+        "Mattancherry Palace is closed on Fridays.",
+        "St Francis Church does not take visitors during Sunday services."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -180,7 +187,13 @@
         "Valara Waterfalls",
         "Munnar"
       ],
-      "photo_query": "Cheeyappara Waterfalls"
+      "photo_query": "Cheeyappara Waterfalls",
+      "photo_caption": "Cheeyappara Waterfalls",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km, 4 hours",
+      "brief": [
+        "Munnar nights are about 12° to 15° in winter."
+      ]
     },
     {
       "pill": "Full day",
@@ -239,7 +252,14 @@
         "Echo Point Munnar",
         "Kundala Lake"
       ],
-      "photo_query": "Eravikulam National Park"
+      "photo_query": "Eravikulam National Park",
+      "photo_caption": "Eravikulam National Park",
+      "transport": "Private car with driver",
+      "travel_time": "Drives about 3 hours in total",
+      "brief": [
+        "Eravikulam National Park: closed for the tahr calving season, usually February to March.",
+        "Tata Tea Museum: closed on Mondays."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -275,7 +295,13 @@
         "Lockhart Gap",
         "Kumily"
       ],
-      "photo_query": "Lockhart Gap"
+      "photo_query": "Lockhart Gap",
+      "photo_caption": "Lockhart Gap",
+      "transport": "Private car with driver",
+      "travel_time": "About 90 km, 3 hours",
+      "brief": [
+        "Thekkady sits on the Tamil Nadu border; Kumily town is good for spices and tea."
+      ]
     },
     {
       "pill": "Full day",
@@ -318,7 +344,14 @@
         "Periyar Lake Boat Landing",
         "Thekkady Spice Plantation"
       ],
-      "photo_query": "Periyar Lake Boat Landing"
+      "photo_query": "Periyar Lake Boat Landing",
+      "photo_caption": "Periyar Lake Boat Landing",
+      "transport": "Private car with driver",
+      "travel_time": "Boat at 07:30, 1 hour 30 minutes",
+      "brief": [
+        "Periyar Lake boat ride: tickets are sold at the boat landing or online through the forest department and sell out by about 07:00 in peak season.",
+        "Wear dull colours on the boat and keep quiet."
+      ]
     },
     {
       "pill": "Transfer day",
@@ -343,7 +376,13 @@
         "Kumarakom"
       ],
       "note": "Ask the resort for a Kerala sadya vegetarian lunch on a banana leaf.",
-      "photo_query": "Kumarakom"
+      "photo_query": "Kumarakom",
+      "photo_caption": "Kumarakom",
+      "transport": "Private car with driver",
+      "travel_time": "About 130 km, 4 hours",
+      "brief": [
+        "Ask the resort for a Kerala sadya vegetarian lunch on a banana leaf."
+      ]
     },
     {
       "pill": "Easy day",
@@ -380,7 +419,13 @@
         "Kumarakom Bird Sanctuary",
         "Vembanad Lake"
       ],
-      "photo_query": "Kumarakom Bird Sanctuary"
+      "photo_query": "Kumarakom Bird Sanctuary",
+      "photo_caption": "Kumarakom Bird Sanctuary",
+      "transport": "Private car with driver",
+      "travel_time": "Cruise about 2 to 3 hours",
+      "brief": [
+        "If you would like an overnight houseboat instead of the second resort night, ask us."
+      ]
     },
     {
       "pill": "Departure",
@@ -406,7 +451,14 @@
         "Cochin International Airport"
       ],
       "note": "Kochi airport is solar-powered and has good vegetarian food courts if you have time to spare.",
-      "photo_query": "Cochin International Airport"
+      "photo_query": "Cochin International Airport",
+      "photo_caption": "Cochin International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 85 km, 2 hours 30 minutes",
+      "brief": [
+        "Drive to Kochi airport: leave 5 hours before an international flight, 4 before a domestic one.",
+        "Kochi airport is solar-powered and has good vegetarian food courts if you have time to spare."
+      ]
     }
   ],
   "hotel": {
@@ -548,5 +600,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "September to November: green after the rains, with water lilies in the Kumarakom canals in October."
 }

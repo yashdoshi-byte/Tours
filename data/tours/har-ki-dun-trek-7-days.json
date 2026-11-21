@@ -145,7 +145,14 @@
         "Purola",
         "Sankri"
       ],
-      "photo_query": "Dehradun Railway Station"
+      "photo_query": "Dehradun Railway Station",
+      "photo_caption": "Dehradun Railway Station",
+      "transport": "Private car with driver",
+      "travel_time": "About 190 km, 8 to 9 hours",
+      "brief": [
+        "Purola and the pine forests to Sankri: hill roads in Uttarakhand can close for hours after rain or landslides.",
+        "Pack the trek bag tonight."
+      ]
     },
     {
       "pill": "Trek day",
@@ -193,7 +200,14 @@
         "Taluka",
         "Puani Garat"
       ],
-      "photo_query": "Taluka"
+      "photo_query": "Taluka",
+      "photo_caption": "Taluka",
+      "transport": "Private car with driver",
+      "travel_time": "Jeep 12 km, about 1 hour",
+      "brief": [
+        "Trek along the Supin River: proper trekking shoes with ankle support, not sports shoes.",
+        "Drink three litres of water today and keep the pace slow and steady."
+      ]
     },
     {
       "pill": "Trek day",
@@ -235,7 +249,14 @@
         "Osla",
         "Kalkatiyadhar"
       ],
-      "photo_query": "Osla"
+      "photo_query": "Osla",
+      "photo_caption": "Osla",
+      "transport": "Private car with driver",
+      "travel_time": "Trek about 10 km, 5 to 6 hours",
+      "brief": [
+        "Climb to Osla: osla's Someshwar temple and homes are private and sacred.",
+        "Tell your trek leader at once about a headache, nausea or breathlessness."
+      ]
     },
     {
       "pill": "Summit day",
@@ -282,7 +303,13 @@
         "Har Ki Dun",
         "Marinda Tal"
       ],
-      "photo_query": "Har Ki Dun"
+      "photo_query": "Har Ki Dun",
+      "photo_caption": "Har Ki Dun",
+      "transport": "Private car with driver",
+      "travel_time": "Trek about 17 km, 7 to 8 hours",
+      "brief": [
+        "This is the longest day."
+      ]
     },
     {
       "pill": "Trek day",
@@ -318,7 +345,13 @@
         "Osla",
         "Puani Garat"
       ],
-      "photo_query": "Osla"
+      "photo_query": "Osla",
+      "photo_caption": "Osla",
+      "transport": "Private car with driver",
+      "travel_time": "Trek about 10 km, 4 hours",
+      "brief": [
+        "Use trekking poles on the way down: they save your knees."
+      ]
     },
     {
       "pill": "Trek day",
@@ -354,7 +387,13 @@
         "Taluka",
         "Sankri"
       ],
-      "photo_query": "Taluka"
+      "photo_query": "Taluka",
+      "photo_caption": "Taluka",
+      "transport": "Private car with driver",
+      "travel_time": "Trek about 10 km, 4 to 5 hours",
+      "brief": [
+        "A small thank-you for the cook and support team is customary."
+      ]
     },
     {
       "pill": "Departure",
@@ -386,7 +425,14 @@
         "Sankri",
         "Dehradun Railway Station"
       ],
-      "photo_query": "Sankri"
+      "photo_query": "Sankri",
+      "photo_caption": "Sankri",
+      "transport": "Private car with driver",
+      "travel_time": "About 190 km, 8 to 9 hours",
+      "brief": [
+        "Drive to Dehradun: book onward trains or flights for after 20:00, or the next day.",
+        "A night in Dehradun or Mussoorie after the trek can be added."
+      ]
     }
   ],
   "hotel": {
@@ -547,5 +593,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "dry",
+    "dry",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "dry",
+    "snow"
+  ],
+  "best_pick": "October: crisp, clear mountain views after the monsoon."
 }

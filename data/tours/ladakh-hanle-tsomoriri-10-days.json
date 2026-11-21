@@ -1,0 +1,801 @@
+{
+  "country": "India",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904003584-330377465.webp",
+  "links": [
+    {
+      "title": "Ladakh Tourism (official)",
+      "url": "https://ladakh.gov.in/tourism/"
+    },
+    {
+      "title": "Leh district permits portal (LAHDC)",
+      "url": "https://lahdclehpermit.in/"
+    }
+  ],
+  "seasons": [
+    [
+      "May to June",
+      "Good",
+      "Days about 20°, nights near freezing; snow on the passes; Zanskar road opening."
+    ],
+    [
+      "July to September",
+      "Best",
+      "All roads open, about 25° by day and 5° at night; occasional rain-related road blocks."
+    ],
+    [
+      "October",
+      "Shoulder",
+      "Clear and cold, about 10° by day, below freezing at night; camps start to close."
+    ],
+    [
+      "November to April",
+      "Winter",
+      "Passes and lake camps closed; Pangong freezes."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "snow",
+    "snow"
+  ],
+  "slug": "ladakh-hanle-tsomoriri-10-days",
+  "title": "Ladakh with Hanle and Tso Moriri in 10 Days: Nubra, Turtuk, Pangong and the Dark-Sky Reserve",
+  "meta_title": "Ladakh Hanle and Tso Moriri Tour 10 Days",
+  "meta_description": "10-day Ladakh itinerary: Sham Valley, Nubra and Turtuk, Pangong Lake, two nights in Hanle's dark-sky reserve, Tso Moriri and Tso Kar on the way back to Leh.",
+  "destination": "Ladakh, India",
+  "duration": "10 days / 9 nights",
+  "nights": 9,
+  "style": "High Himalaya · Stargazing · Lakes",
+  "hero_alt": "Night sky over Ladakh",
+  "tagline": "Ladakh's lakes, the border villages and India's darkest skies",
+  "facts": [
+    [
+      "Stay",
+      "Leh 3, Nubra 2, Pangong 1, Hanle 2, Tso Moriri 1"
+    ],
+    [
+      "Highest point",
+      "About 5,360 m on the passes; Hanle about 4,300 m"
+    ],
+    [
+      "Pace",
+      "Moderate to demanding"
+    ],
+    [
+      "Season",
+      "June to September"
+    ],
+    [
+      "Transfers",
+      "Private SUV"
+    ]
+  ],
+  "intro": "The grand Changthang loop. After Nubra and Turtuk and a night at Pangong, you follow the frontier road through Chushul to Hanle, a village of the Changpa herders with a 17th-century monastery and one of the world's highest observatories, inside India's first dark-sky reserve. Two nights there leave time for the stars, then Tso Moriri and the salt lake of Tso Kar on the way back to Leh.",
+  "highlights": [
+    "Nubra, the Hunder dunes and Turtuk",
+    "Pangong Lake and the frontier road through Chushul",
+    "Hanle Monastery and the Indian Astronomical Observatory",
+    "Stargazing in the Hanle Dark Sky Reserve",
+    "Tso Moriri, Korzok village and Tso Kar"
+  ],
+  "stays": [
+    {
+      "place": "Leh",
+      "nights": 2,
+      "hotel": "Hotel"
+    },
+    {
+      "place": "Nubra (Hunder)",
+      "nights": 2,
+      "hotel": "Camp or hotel"
+    },
+    {
+      "place": "Pangong",
+      "nights": 1,
+      "hotel": "Lakeside camp"
+    },
+    {
+      "place": "Hanle",
+      "nights": 2,
+      "hotel": "Guesthouse or homestay"
+    },
+    {
+      "place": "Tso Moriri",
+      "nights": 1,
+      "hotel": "Camp at Korzok"
+    },
+    {
+      "place": "Leh",
+      "nights": 1,
+      "hotel": "Hotel"
+    }
+  ],
+  "route": [
+    "Leh",
+    "Khardung La",
+    "Hunder",
+    "Turtuk",
+    "Pangong Lake",
+    "Chushul",
+    "Hanle",
+    "Tso Moriri",
+    "Tso Kar",
+    "Leh"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Fly into Leh and rest",
+      "summary": "Arrival at Leh airport and a full day of rest to acclimatise.",
+      "strip": [
+        "Leh about 3,500 m",
+        "Complete rest today"
+      ],
+      "rows": [
+        {
+          "label": "On landing · Leh airport (IXL)",
+          "title": "Meet your driver",
+          "text": "Sit on the left of the plane from Delhi for the Himalaya."
+        },
+        {
+          "label": "Rest of the day",
+          "title": "Rest at the hotel",
+          "text": "Tea on arrival, then rest.",
+          "notes": [
+            [
+              "CARE",
+              "Do no sightseeing today. Sleep, drink water and avoid alcohol, even if you feel fine."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon (optional)",
+          "title": "Leh Market",
+          "text": "A slow, flat walk only if you feel well."
+        }
+      ],
+      "places": [
+        "Kushok Bakula Rimpochee Airport",
+        "Leh Market"
+      ],
+      "note": "Headache or nausea that gets worse is a reason to call a doctor at once. Your hotel can arrange one.",
+      "route": [
+        "Kushok Bakula Rimpochee Airport",
+        "Leh Market"
+      ],
+      "photo_query": "Kushok Bakula Rimpochee Airport",
+      "photo_caption": "Kushok Bakula Rimpochee Airport",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "brief": [
+        "Rest at the hotel: do no sightseeing today.",
+        "Headache or nausea that gets worse is a reason to call a doctor at once."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "The Sham Valley: Pathar Sahib, Magnetic Hill, the Sangam and Likir",
+      "summary": "Day excursion west along the Indus, then Leh Palace and Shanti Stupa.",
+      "strip": [
+        "About 65 km each way, 2 hours",
+        "Lower than Leh: good for acclimatising"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hall of Fame and Gurudwara Pathar Sahib",
+          "text": "The Army's museum of Ladakh's wars, then the gurudwara.",
+          "notes": [
+            [
+              "TIME",
+              "The Hall of Fame is closed on Mondays."
+            ]
+          ]
+        },
+        {
+          "label": "Late morning",
+          "title": "Magnetic Hill and the Sangam",
+          "text": "Where the green Zanskar meets the blue Indus."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Likir or Basgo",
+          "text": "The gilded Maitreya at Likir, or the ruined royal fort of Basgo."
+        },
+        {
+          "label": "Evening",
+          "title": "Shanti Stupa",
+          "text": "Sunset over Leh.",
+          "notes": [
+            [
+              "CARE",
+              "Drive to the top rather than climb the 500 steps this early in the trip."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Hall of Fame Leh",
+        "Gurudwara Pathar Sahib",
+        "Magnetic Hill Ladakh",
+        "Likir Monastery",
+        "Shanti Stupa"
+      ],
+      "note": "Tomorrow crosses Khardung La. Early dinner, early night.",
+      "route": [
+        "Hall of Fame Leh",
+        "Gurudwara Pathar Sahib",
+        "Magnetic Hill Ladakh",
+        "Likir Monastery",
+        "Shanti Stupa"
+      ],
+      "photo_query": "Hall of Fame Leh",
+      "photo_caption": "Hall of Fame Leh",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 65 km each way, 2 hours",
+      "brief": [
+        "Hall of Fame and Gurudwara Pathar Sahib: the Hall of Fame is closed on Mondays.",
+        "Shanti Stupa: drive to the top rather than climb the 500 steps this early in the trip."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Over Khardung La to the Nubra Valley",
+      "summary": "Drive over Khardung La to Nubra, Diskit Monastery and the Hunder dunes.",
+      "strip": [
+        "About 120 km, 4 to 5 hours",
+        "Khardung La about 5,360 m",
+        "Nubra about 3,100 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Khardung La",
+          "text": "One of the highest roads in the world.",
+          "notes": [
+            [
+              "CARE",
+              "Stay no more than 15 to 20 minutes at the top. Do not run or climb."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Diskit Monastery and the Maitreya statue",
+          "text": "A 32 m Buddha facing the valley."
+        },
+        {
+          "label": "Evening",
+          "title": "Hunder sand dunes",
+          "text": "Short Bactrian camel rides at sunset.",
+          "notes": [
+            [
+              "MONEY",
+              "Camel rides are paid directly at a fixed rate."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Khardung La",
+        "Diskit Monastery",
+        "Hunder Sand Dunes"
+      ],
+      "note": "Nubra is lower and warmer than Leh, so tonight's sleep is usually the best yet.",
+      "route": [
+        "Khardung La",
+        "Diskit Monastery",
+        "Hunder Sand Dunes"
+      ],
+      "photo_query": "Khardung La",
+      "photo_caption": "Khardung La",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 120 km, 4 to 5 hours",
+      "brief": [
+        "Khardung La: stay no more than 15 to 20 minutes at the top.",
+        "Hunder sand dunes: camel rides are paid directly at a fixed rate."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Turtuk, the Balti village on the Shyok",
+      "summary": "Day trip from Hunder to Turtuk and Thang and back.",
+      "strip": [
+        "About 80 km each way, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Along the Shyok gorge",
+          "text": "A dramatic road to India's northernmost villages."
+        },
+        {
+          "label": "Midday",
+          "title": "Turtuk village",
+          "text": "Stone houses, apricot orchards, an old mosque and the small royal-house museum, with a local guide.",
+          "notes": [
+            [
+              "WEAR",
+              "Turtuk is a conservative Muslim village. Cover arms and legs, and ask before photographing women."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Thang viewpoint",
+          "text": "The last village before the Line of Control.",
+          "notes": [
+            [
+              "CARE",
+              "Photograph only where the Army allows. Military posts are off limits."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Turtuk",
+        "Thang Village"
+      ],
+      "note": "Buy dried apricots and apricot oil in Turtuk: the families sell them from their homes.",
+      "route": [
+        "Turtuk",
+        "Thang Village"
+      ],
+      "photo_query": "Turtuk",
+      "photo_caption": "Turtuk",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 80 km each way, 3 hours",
+      "brief": [
+        "Turtuk village: turtuk is a conservative Muslim village.",
+        "Thang viewpoint: photograph only where the Army allows."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Along the Shyok river to Pangong Lake",
+      "summary": "Drive from Nubra to Pangong via Agham and Shyok.",
+      "strip": [
+        "About 160 km, 5 to 6 hours",
+        "Pangong about 4,250 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "The Shyok valley road",
+          "text": "Rough patches near Agham; scenic throughout."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pangong Lake",
+          "text": "A long blue lake, two-thirds of it in Tibet, changing colour with the light."
+        },
+        {
+          "label": "Evening",
+          "title": "Lakeside camp",
+          "text": "Very cold after sunset, even in summer.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the camp"
+          ]
+        }
+      ],
+      "places": [
+        "Shyok",
+        "Pangong Lake"
+      ],
+      "note": "This is a high night. Keep warm, drink water and avoid alcohol.",
+      "route": [
+        "Shyok",
+        "Pangong Lake"
+      ],
+      "photo_query": "Shyok",
+      "photo_caption": "Shyok",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 160 km, 5 to 6 hours",
+      "brief": [
+        "This is a high night."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The frontier road from Pangong to Hanle",
+      "summary": "Drive from Pangong via Chushul, Tsaga La and Loma to Hanle.",
+      "strip": [
+        "About 240 km, 7 to 8 hours",
+        "Hanle about 4,300 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Chushul and Rezang La memorial",
+          "text": "The memorial to the soldiers of 1962.",
+          "notes": [
+            [
+              "CARE",
+              "Sensitive frontier: photograph only where your driver says it is allowed."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Over Tsaga La to Loma and Hanle",
+          "text": "Wide Changthang plains with wild asses (kiang) and nomad camps."
+        },
+        {
+          "label": "Evening",
+          "title": "Hanle",
+          "text": "Check in to a homestay or guesthouse.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the homestay"
+          ]
+        }
+      ],
+      "places": [
+        "Chushul",
+        "Rezang La War Memorial",
+        "Hanle"
+      ],
+      "note": "Hanle permits are checked at Loma. Keep your ID ready.",
+      "route": [
+        "Chushul",
+        "Rezang La War Memorial",
+        "Hanle"
+      ],
+      "photo_query": "Chushul",
+      "photo_caption": "Chushul",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 240 km, 7 to 8 hours",
+      "brief": [
+        "Chushul and Rezang La memorial: sensitive frontier: photograph only where your driver says it is allowed.",
+        "Hanle permits are checked at Loma."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Hanle Monastery, the observatory and the stars",
+      "summary": "Hanle Monastery and the observatory by day, and a night of stargazing.",
+      "strip": [
+        "Short drives",
+        "Stargazing from about 21:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hanle Monastery",
+          "text": "A 17th-century Drukpa monastery on a ridge above the village."
+        },
+        {
+          "label": "Midday",
+          "title": "Indian Astronomical Observatory",
+          "text": "The telescopes on Mount Saraswati, seen from outside unless a visit is arranged."
+        },
+        {
+          "label": "Night",
+          "title": "Stargazing",
+          "text": "With a local Astro Ambassador and telescope, in one of the darkest skies in Asia.",
+          "notes": [
+            [
+              "TIME",
+              "Best in the week either side of the new moon."
+            ],
+            [
+              "WEAR",
+              "It is below freezing at night even in summer. Down jacket, cap and gloves."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "Umling La",
+          "text": "A road over about 5,800 m, a long day trip from Hanle.",
+          "notes": [
+            [
+              "CARE",
+              "Umling La is extremely high. Only for travellers who are well acclimatised and fit, and never with children."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Hanle Monastery",
+        "Indian Astronomical Observatory Hanle"
+      ],
+      "note": "No white torches or car headlights near the observatory at night. Use a red light.",
+      "route": [
+        "Hanle Monastery",
+        "Indian Astronomical Observatory Hanle"
+      ],
+      "photo_query": "Hanle Monastery",
+      "photo_caption": "Hanle Monastery",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "brief": [
+        "Stargazing: best in the week either side of the new moon.",
+        "Stargazing: it is below freezing at night even in summer.",
+        "Umling La is extremely high."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Hanle to Tso Moriri via Nyoma and Puga",
+      "summary": "Drive to Tso Moriri via Nyoma, Mahe bridge and the Puga hot springs.",
+      "strip": [
+        "About 3 to 4 hours",
+        "Tso Moriri about 4,520 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Nyoma and the Mahe bridge",
+          "text": "Along the upper Indus."
+        },
+        {
+          "label": "Midday",
+          "title": "Puga valley hot springs",
+          "text": "Steaming sulphur springs and borax fields."
+        },
+        {
+          "label": "Evening",
+          "title": "Tso Moriri and Korzok",
+          "text": "A huge high lake, home to bar-headed geese.",
+          "meal": [
+            "Dinner",
+            "Included",
+            "At the camp"
+          ]
+        }
+      ],
+      "places": [
+        "Mahe Bridge",
+        "Puga Hot Springs",
+        "Tso Moriri",
+        "Korzok"
+      ],
+      "note": "Tso Moriri is the highest night of the trip. Rest as soon as you arrive.",
+      "route": [
+        "Mahe Bridge",
+        "Puga Hot Springs",
+        "Tso Moriri",
+        "Korzok"
+      ],
+      "photo_query": "Mahe Bridge",
+      "photo_caption": "Mahe Bridge",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 3 to 4 hours",
+      "brief": [
+        "Tso Moriri is the highest night of the trip."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Korzok, Tso Kar and Taglang La to Leh",
+      "summary": "Korzok village, Tso Kar and the drive to Leh over Taglang La.",
+      "strip": [
+        "About 240 km, 7 to 8 hours",
+        "Taglang La about 5,330 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Korzok village and gompa",
+          "text": "Some of the highest barley fields in the world."
+        },
+        {
+          "label": "Midday",
+          "title": "Tso Kar",
+          "text": "A salt lake where Changpa herders graze yaks, sheep and pashmina goats."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Over Taglang La to Leh",
+          "text": "Down the Indus valley."
+        }
+      ],
+      "places": [
+        "Korzok Monastery",
+        "Tso Kar",
+        "Taglang La",
+        "Leh"
+      ],
+      "note": "A last dinner in Leh tonight.",
+      "route": [
+        "Korzok Monastery",
+        "Tso Kar",
+        "Taglang La",
+        "Leh"
+      ],
+      "photo_query": "Korzok Monastery",
+      "photo_caption": "Korzok Monastery",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "About 240 km, 7 to 8 hours",
+      "brief": [
+        "A last dinner in Leh tonight."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Leh",
+      "summary": "Transfer to Leh airport.",
+      "strip": [
+        "Airport about 15 minutes from town"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Leh airport",
+          "text": "Morning flights are the most reliable.",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 2 hours early. Most airlines allow only one cabin bag from Leh."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kushok Bakula Rimpochee Airport"
+      ],
+      "note": "Leave a buffer day before any international connection: Leh flights can be cancelled by weather.",
+      "photo_query": "Kushok Bakula Rimpochee Airport",
+      "photo_caption": "Kushok Bakula Rimpochee Airport",
+      "transport": "Private SUV (Innova or Xylo) with a Ladakhi driver",
+      "travel_time": "Airport about 15 minutes from town",
+      "brief": [
+        "Transfer to Leh airport: be at the airport 2 hours early.",
+        "Leave a buffer day before any international connection: Leh flights can be cancelled by weather."
+      ]
+    }
+  ],
+  "hotel": {
+    "name": "Hand-picked hotels and camps",
+    "room": "Best available rooms or Swiss tents",
+    "meals": "Breakfast and dinner throughout",
+    "area": "Leh, Nubra, Pangong, Hanle and Tso Moriri",
+    "about": "Comfortable hotels in Leh; Swiss-tent camps in Nubra, Pangong and Tso Moriri; homestays or simple guesthouses in Hanle, which has no hotels."
+  },
+  "included": [
+    "9 nights in hotels, camps and homestays, with breakfast and dinner",
+    "Private SUV with driver for the whole tour",
+    "Leh airport transfers",
+    "Environment-fee permits for Indian citizens",
+    "24/7 support from Blue Diamond Voyage",
+    "Stargazing session with a local guide in Hanle"
+  ],
+  "excluded": [
+    "Flights to and from Leh",
+    "Monastery entry fees and camel rides",
+    "Lunches",
+    "Costs from road blocks or flight cancellations",
+    "Travel insurance",
+    "Umling La excursion"
+  ],
+  "best_time": "June to September for open roads. For stargazing, pick dates around the new moon; September and October have the clearest nights.",
+  "best_pick": "September, around the new moon: clear skies, open roads and the Milky Way overhead.",
+  "faqs": [
+    {
+      "q": "Can foreign nationals visit Hanle?",
+      "a": "Rules for Hanle change; at times it has been open only to Indian citizens. We confirm the current position when you enquire and arrange any permit."
+    },
+    {
+      "q": "Is this trip too high for us?",
+      "a": "It spends four nights above 4,200 m. It suits fit adults who have been to altitude before. For a gentler trip, choose the 6- or 8-day Ladakh plans."
+    },
+    {
+      "q": "When is the best night for stars?",
+      "a": "In the week either side of the new moon. Tell us your dates and we will place the Hanle nights to suit."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Hanle Ladakh tour",
+    "Ladakh stargazing tour",
+    "Tso Moriri Hanle itinerary",
+    "Ladakh 10 days"
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Ladakh environment fee and permit",
+      "Applied online on the Leh district (LAHDC) portal before travel; covers Nubra, Pangong, Tso Moriri and other areas",
+      "Indian citizens",
+      "About INR 400 per person plus a small daily wildlife fee"
+    ],
+    [
+      "Protected Area Permit (PAP)",
+      "Needed for Nubra, Turtuk, Pangong, Tso Moriri and Hanle; applied through a registered Leh agency, at least 2 travellers",
+      "Foreign nationals",
+      "Varies"
+    ],
+    [
+      "Original photo ID",
+      "Checked at police and Army posts on every high road; carry several photocopies",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Inner Line Permits are no longer needed by Indian citizens, but the environment fee permit is checked at the posts. We apply for it once your ID copies are in.",
+    "Phone: carry a postpaid SIM; prepaid SIMs from outside Ladakh do not work."
+  ],
+  "good_to_know": [
+    {
+      "tag": "CARE",
+      "title": "Altitude comes first",
+      "text": "Leh is at about 3,500 m. Rest completely on the first day, drink 3 to 4 litres of water a day, avoid alcohol and smoking, and climb slowly. Ask your doctor about Diamox before you travel. Tell us about heart, lung or blood-pressure conditions before booking."
+    },
+    {
+      "tag": "TIP",
+      "title": "Phones",
+      "text": "Only postpaid connections from other states work in Ladakh; prepaid SIMs from outside do not. Jio and Airtel postpaid have the widest coverage. Signal is weak or absent at Pangong, Tso Moriri and in Zanskar."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Layers, sun and monasteries",
+      "text": "Even in summer it can be below zero on the passes. Carry a down jacket, cap, gloves, sunglasses and strong sunscreen. In monasteries cover shoulders and knees, remove hats, walk clockwise and ask before photographing monks."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cash",
+      "text": "ATMs work in Leh and Kargil only, and not always. Carry enough cash for the whole trip outside Leh. UPI works where there is signal."
+    },
+    {
+      "tag": "MONEY",
+      "title": "UPI, cards and cash",
+      "text": "UPI works almost everywhere, even at small stalls. Keep some cash in INR 100 and 200 notes for temples, parking, tips and places where the network is weak."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple and shrine etiquette",
+      "text": "Cover shoulders and knees. Remove shoes where asked, and carry socks for hot stone floors. Leather belts and bags are not allowed inside some Jain and Hindu temples. Ask before photographing people and inside shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Water and street food",
+      "text": "Drink sealed bottled or filtered water only. Choose busy stalls where food is cooked in front of you, and skip cut fruit and ice from roadside stalls."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs and tipping",
+      "text": "Plugs are Indian three-pin and two-pin, 230 volts. Tipping drivers and guides about INR 300 to 500 a day is appreciated."
+    }
+  ],
+  "emergency": [
+    [
+      "All emergencies (India)",
+      "112"
+    ],
+    [
+      "SNM Hospital, Leh",
+      "Main district hospital, Leh"
+    ]
+  ],
+  "dining_intro": "India is the easiest country in the world for vegetarian and Jain travellers. We send your dietary brief to every hotel, and your driver knows clean, pure-vegetarian restaurants on each road day.",
+  "dining_avoid": "Ask for food cooked fresh and tell the kitchen clearly if you eat Jain: no onion, garlic, ginger, potato or other root vegetables. Many dishes start with an onion-garlic base even when the menu says vegetarian.",
+  "food_card": [
+    [
+      "Hindi",
+      "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
+    ]
+  ],
+  "country_code": "in"
+}

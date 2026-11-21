@@ -133,7 +133,14 @@
         "Cellular Jail"
       ],
       "note": "Tomorrow's alarm is about 03:30. Pack an overnight bag and leave the rest in the hotel cloakroom.",
-      "photo_query": "Cellular Jail"
+      "photo_query": "Cellular Jail",
+      "photo_caption": "Cellular Jail",
+      "transport": "Private car with driver",
+      "travel_time": "Airport to hotel 15 minutes",
+      "brief": [
+        "Cellular Jail: cars drop you about 400 m from the gate; vehicles cannot wait outside.",
+        "Light-and-sound show: hindi and English shows run at set times, subject to tickets."
+      ]
     },
     {
       "pill": "Long road day",
@@ -186,7 +193,14 @@
         "Jirkatang Check Post",
         "Pristine Beach Resort Diglipur"
       ],
-      "photo_query": "Jirkatang Check Post"
+      "photo_query": "Jirkatang Check Post",
+      "photo_caption": "Jirkatang Check Post",
+      "transport": "Private car with driver",
+      "travel_time": "About 300 km, 10 hours",
+      "brief": [
+        "Leave Port Blair: the road crosses the Jarawa tribal reserve in escorted convoys.",
+        "Carry original photo ID (not PAN) for the convoy and ferries."
+      ]
     },
     {
       "pill": "Island day",
@@ -235,7 +249,14 @@
         "Aerial Bay Jetty",
         "Ross and Smith Island"
       ],
-      "photo_query": "Aerial Bay Jetty"
+      "photo_query": "Aerial Bay Jetty",
+      "photo_caption": "Aerial Bay Jetty",
+      "transport": "Private car with driver",
+      "travel_time": "Boat about 20 minutes",
+      "brief": [
+        "Aerial Bay jetty: at low tide you walk the sandbar between the islands; at high tide it disappears.",
+        "Ross & Smith Islands: swimwear under clothes, towel, cap and reef-safe sunscreen."
+      ]
     },
     {
       "pill": "Long road day",
@@ -271,7 +292,14 @@
         "Baratang Limestone Caves"
       ],
       "note": "Wear closed shoes for the caves; the path can be muddy.",
-      "photo_query": "Baratang Limestone Caves"
+      "photo_query": "Baratang Limestone Caves",
+      "photo_caption": "Baratang Limestone Caves",
+      "transport": "Private car with driver",
+      "travel_time": "About 300 km, 10 hours",
+      "brief": [
+        "Baratang mangrove creek and limestone caves: baratang excursions do not run on Mondays; we plan the dates around it.",
+        "Wear closed shoes for the caves; the path can be muddy."
+      ]
     },
     {
       "pill": "Island day",
@@ -308,7 +336,13 @@
         "North Bay Island",
         "Netaji Subhas Chandra Bose Island"
       ],
-      "photo_query": "North Bay Island"
+      "photo_query": "North Bay Island",
+      "photo_caption": "North Bay Island",
+      "transport": "Private car with driver",
+      "brief": [
+        "North Bay Island: activities are paid on the spot.",
+        "Ross Island is closed on Wednesdays; we check the day."
+      ]
     },
     {
       "pill": "Ferry day",
@@ -346,7 +380,14 @@
         "Radhanagar Beach"
       ],
       "note": "Ask the Port Blair hotel for a packed breakfast if your ferry is early.",
-      "photo_query": "Radhanagar Beach"
+      "photo_query": "Radhanagar Beach",
+      "photo_caption": "Radhanagar Beach",
+      "transport": "Private car with driver",
+      "travel_time": "Ferry 1.5 to 2.5 hours",
+      "brief": [
+        "Private ferry to Havelock: no alcohol on board.",
+        "Radhanagar Beach: the beach closes at sunset."
+      ]
     },
     {
       "pill": "Beach day",
@@ -386,7 +427,14 @@
         "Elephant Beach Havelock"
       ],
       "note": "Book scuba with a PADI centre on Havelock if you want a full dive; tell us before you travel.",
-      "photo_query": "Elephant Beach Havelock"
+      "photo_query": "Elephant Beach Havelock",
+      "photo_caption": "Elephant Beach Havelock",
+      "transport": "Private car with driver",
+      "travel_time": "Boat 30 to 45 minutes",
+      "brief": [
+        "Elephant Beach: pay for water sports at the boarding point.",
+        "Elephant Beach: alcohol is banned on Elephant Beach."
+      ]
     },
     {
       "pill": "Ferry day",
@@ -429,7 +477,14 @@
         "Laxmanpur Beach",
         "Natural Bridge Neil Island"
       ],
-      "photo_query": "Bharatpur Beach Neil"
+      "photo_query": "Bharatpur Beach Neil",
+      "photo_caption": "Bharatpur Beach Neil",
+      "transport": "Private car with driver",
+      "travel_time": "Ferry about 1 hour",
+      "brief": [
+        "Natural Bridge: water shoes: the coral is sharp.",
+        "Neil's sunset point at Laxmanpur Beach 1 is the best of the trip."
+      ]
     },
     {
       "pill": "Ferry day",
@@ -457,7 +512,13 @@
         "Chidiya Tapu",
         "Corbyn's Cove Beach"
       ],
-      "photo_query": "Chidiya Tapu"
+      "photo_query": "Chidiya Tapu",
+      "photo_caption": "Chidiya Tapu",
+      "transport": "Private car with driver",
+      "travel_time": "Ferry about 1 hour",
+      "brief": [
+        "Pack shells and coral? Do not: taking them is illegal."
+      ]
     },
     {
       "pill": "Departure",
@@ -478,7 +539,13 @@
         "Veer Savarkar International Airport"
       ],
       "note": "Thank you for travelling the Andamans with us.",
-      "photo_query": "Veer Savarkar International Airport"
+      "photo_query": "Veer Savarkar International Airport",
+      "photo_caption": "Veer Savarkar International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "15 minutes to the airport",
+      "brief": [
+        "Thank you for travelling the Andamans with us."
+      ]
     }
   ],
   "hotel": {
@@ -633,5 +700,20 @@
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
   ],
-  "country_code": "in"
+  "country_code": "in",
+  "months": [
+    "peak",
+    "dry",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "shoulder",
+    "peak"
+  ],
+  "best_pick": "February to April: calm seas, clear water for snorkelling and reliable ferries."
 }

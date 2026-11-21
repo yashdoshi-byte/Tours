@@ -29,6 +29,9 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
 * The logo is in `assets/logo/`: the emblem in the menu, the full logo with "Get Glocal" in the
   footer, both recoloured in the site's blues (`logo-on-dark.png`, `logo-on-light.png`). The
   original is kept as `original.png`. Never stretch it or change its shape.
+* From the Mobile app UI Template file (Figma Community): the cover photo and the tour cards carry a
+  frosted glass panel with the place, a map-pin line and the duration, and on phones a fixed bar at
+  the bottom holds "Get a personalised quote" (WhatsApp) and a call button for the 24/7 desk.
 * The day plan has a Quick view / Full detail switch. Quick view keeps the times, entry titles,
   strip and route map, and hides the text, bullets, callouts, pins and concierge note. So every
   entry title must make sense on its own: "Real Alcazar, enter at the Puerta del Leon", not "Visit".

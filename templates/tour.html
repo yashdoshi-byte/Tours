@@ -19,7 +19,8 @@
     </div>
     <figure class="hero-photo">
       <img src="{{ t.hero_image }}" alt="{{ t.hero_alt }}" width="1200" height="800" fetchpriority="high">
-      <figcaption><b>{{ t.duration }}</b><span>{{ t.destination }}</span></figcaption>
+      <a class="ph-btn" href="{{ root }}" aria-label="All tours"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+      <figcaption><span class="ph-l"><b>{{ t.destination }}</b><span><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/></svg>{% if t.stays %}Stay in {{ t.stays|map(attribute='place')|join(' & ') }}{% else %}{{ t.style }}{% endif %}</span></span><span class="ph-r"><small>Duration</small><b>{{ t.duration }}</b></span></figcaption>
     </figure>
   </div>
 </section>
@@ -259,4 +260,8 @@
   <div class="grid">{% for o in others %}{% include "card.html" %}{% endfor %}</div>
 </section>
 {% endif %}
+<div class="bookbar">
+  <a class="bb-main" href="{{ wa }}">Get a personalised quote <svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 3 10 14M21 3l-7 18-4-7-7-4 18-7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></a>
+  <a class="bb-call" href="tel:{{ site.desk_24x7[0][1] }}" aria-label="Call our 24/7 desk"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 5a2 2 0 0 1 2-2z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></a>
+</div>
 {% endblock %}

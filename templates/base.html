@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="{{ root }}assets/style.css">
 {% for ld in jsonld %}<script type="application/ld+json">{{ ld }}</script>
 {% endfor %}</head>
-<body>
+<body class="pg-{{ og_type }}">
 <header class="topbar">
   <div class="topbar-in">
     <a class="logo" href="{{ site.main_site }}"><img class="logo-img" src="{{ root }}assets/logo/emblem-on-dark.png" alt="" width="162" height="153"><span class="logo-txt">Blue Diamond <span>Voyage</span></span></a>

@@ -9,6 +9,7 @@ ROOT = pathlib.Path(__file__).parent
 sys.path.insert(0, str(ROOT / "tools"))
 from rules import check_tour  # noqa: E402
 OUT = ROOT / "docs"
+PRINT = ROOT / "print"  # private pages for the PDFs, never served
 site = json.loads((ROOT / "data/site.json").read_text())
 tours = [json.loads(p.read_text()) for p in sorted((ROOT / "data/tours").glob("*.json"))]
 env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
@@ -107,6 +108,13 @@ for t in tours:
         jsonld=[dump(trip), dump(crumbs)], others=[o for o in tours if o["slug"] != t["slug"]][:3])
     d = OUT / t["slug"]; d.mkdir()
     (d / "index.html").write_text(html)
+    # The detailed itinerary is not published on the website. It is written to print/ and made
+    # into a PDF by tools/make_pdf.js, for Yash to send when a client asks for it.
+    PRINT.mkdir(exist_ok=True)
+    (PRINT / f"{t['slug']}-detailed.html").write_text(env.get_template("detailed.html").render(
+        site=site, t=t, root="../docs/", canonical=url, og_type="article", og_image=t["hero_image"],
+        meta_title="Detailed itinerary: " + t["title"], meta_description=t["meta_description"],
+        jsonld=[], others=[]))
 
 listing = {"@context": "https://schema.org", "@type": "ItemList", "itemListElement": [
     {"@type": "ListItem", "position": i + 1, "url": base + t["slug"] + "/", "name": t["title"]} for i, t in enumerate(tours)]}

@@ -44,13 +44,21 @@ jobs:
         run: cat media/*/places.md >> "$GITHUB_STEP_SUMMARY"
       - name: Build the site and run the rule checks
         run: python3 build.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Make the client PDFs (overview and detailed itinerary)
+        run: |
+          npm install --no-save --no-audit --no-fund playwright@1.48.2
+          npx playwright install --with-deps chromium
+          node tools/make_pdf.js
       - name: Commit the results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add media data/cache docs
+          git add media data/cache docs print pdf
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
-          git commit -m "Update tour media: photos, pins, routes and maps"
+          git commit -m "Update tour media, pages and client PDFs"
           if ! git push; then
             # Someone pushed while this ran. That push starts its own run, which publishes instead.
             git fetch -q origin "$GITHUB_REF_NAME"

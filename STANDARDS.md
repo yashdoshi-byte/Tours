@@ -190,6 +190,25 @@ and FAQs stay in the tour data and go to the client in the detailed itinerary on
 
 A short city break may leave out the optional sections. The page still builds.
 
+## 6a · The two client PDFs
+
+Every tour makes two PDFs, A4, with clickable WhatsApp, phone and Google Maps links:
+
+| File | Made from | When it goes to the client |
+|---|---|---|
+| `pdf/<slug>-overview.pdf` | the website page, `templates/tour.html` | with the first reply, or when sharing the tour |
+| `pdf/<slug>-detailed.pdf` | the detailed itinerary, `templates/detailed.html` | only when the client asks for the detailed itinerary |
+
+* The detailed itinerary is **never published on the website**. `build.py` writes it to `print/`,
+  which GitHub Pages does not serve.
+* `tools/make_pdf.js` prints both. It fails if any photo does not load. Photos are re-encoded as
+  JPEG so the overview stays under about 3 MB and the detailed itinerary under about 6 MB, small
+  enough for WhatsApp and email.
+* The GitHub workflow makes the PDFs on every push and commits them, so the real cover photo from
+  the main website is used. Run it by hand from the Actions tab if a PDF is missing.
+* Before sending, open the PDF and check the client's name, dates and hotel if the plan was
+  personalised. Never send a PDF with a net rate or supplier note in it.
+
 ## 7 · "Good to know": house standards
 
 These appear on nearly every page. Get the numbers for the destination, but keep the advice:

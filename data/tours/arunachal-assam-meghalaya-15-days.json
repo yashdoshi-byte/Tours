@@ -1,7 +1,7 @@
 {
   "slug": "arunachal-assam-meghalaya-15-days",
   "title": "Arunachal, Assam & Meghalaya: 15 Days from Tawang to the Living Root Bridges",
-  "meta_title": "Arunachal, Kaziranga & Meghalaya Tour 15 Days | Blue Diamond Voyage",
+  "meta_title": "Arunachal, Kaziranga & Meghalaya Tour 15 Days",
   "meta_description": "15-day North East India itinerary: Dirang, Sela Pass, Tawang Monastery, Bumla, Kaziranga rhino safaris, Cherrapunji waterfalls, Mawlynnong and Dawki.",
   "destination": "North East India",
   "country": "India",
@@ -99,78 +99,6 @@
     "Mawlynnong",
     "Dawki"
   ],
-  "stops": [
-    {
-      "name": "Guwahati",
-      "lat": 26.144,
-      "lng": 91.736
-    },
-    {
-      "name": "Bhomoraguri, Tezpur",
-      "lat": 26.62,
-      "lng": 92.79
-    },
-    {
-      "name": "Bhalukpong",
-      "lat": 27.013,
-      "lng": 92.635
-    },
-    {
-      "name": "Dirang",
-      "lat": 27.358,
-      "lng": 92.241
-    },
-    {
-      "name": "Sela Pass",
-      "lat": 27.505,
-      "lng": 92.105
-    },
-    {
-      "name": "Tawang",
-      "lat": 27.586,
-      "lng": 91.859
-    },
-    {
-      "name": "Bumla Pass",
-      "lat": 27.735,
-      "lng": 91.905
-    },
-    {
-      "name": "Bomdila",
-      "lat": 27.264,
-      "lng": 92.416
-    },
-    {
-      "name": "Kaziranga (Kohora)",
-      "lat": 26.58,
-      "lng": 93.42
-    },
-    {
-      "name": "Umiam Lake",
-      "lat": 25.66,
-      "lng": 91.89
-    },
-    {
-      "name": "Shillong",
-      "lat": 25.578,
-      "lng": 91.893
-    },
-    {
-      "name": "Cherrapunji (Sohra)",
-      "lat": 25.27,
-      "lng": 91.73
-    },
-    {
-      "name": "Mawlynnong",
-      "lat": 25.2,
-      "lng": 91.92
-    },
-    {
-      "name": "Dawki",
-      "lat": 25.18,
-      "lng": 92.02
-    }
-  ],
   "links": [
     {
       "title": "Route map of the whole circuit on Google Maps",
@@ -221,7 +149,12 @@
         "Lokpriya Gopinath Bordoloi International Airport",
         "Guwahati"
       ],
-      "note": "Your Arunachal Inner Line Permit is ready before you land; keep the PDF on your phone and a printout in the car."
+      "note": "Your Arunachal Inner Line Permit is ready before you land; keep the PDF on your phone and a printout in the car.",
+      "route": [
+        "Lokpriya Gopinath Bordoloi International Airport",
+        "Guwahati"
+      ],
+      "photo_query": "Lokpriya Gopinath Bordoloi International Airport"
     },
     {
       "pill": "Road day",
@@ -255,8 +188,8 @@
           "text": "Cross into Arunachal at the Bhalukpong check-post. Evening at the riverside cottages.",
           "meal": [
             "Dinner",
-            "At the cottage",
-            ""
+            "Included",
+            "At the cottage"
           ]
         }
       ],
@@ -264,7 +197,12 @@
         "Bhomoraguri Tezpur",
         "Prashanti Cottage Bhalukpong"
       ],
-      "note": "The ILP is checked at Bhalukpong. Keep it and your original ID handy at the check-post."
+      "note": "The ILP is checked at Bhalukpong. Keep it and your original ID handy at the check-post.",
+      "route": [
+        "Bhomoraguri Tezpur",
+        "Prashanti Cottage Bhalukpong"
+      ],
+      "photo_query": "Bhomoraguri Tezpur"
     },
     {
       "pill": "Mountain drive",
@@ -298,8 +236,8 @@
           "text": "Apple and kiwi orchards around the valley.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
@@ -307,7 +245,12 @@
         "Tipi Orchid Centre",
         "Dirang"
       ],
-      "note": "Drink plenty of water from today. Dirang is the first step of acclimatisation before Tawang at 3,000 m."
+      "note": "Drink plenty of water from today. Dirang is the first step of acclimatisation before Tawang at 3,000 m.",
+      "route": [
+        "Tipi Orchid Centre",
+        "Dirang"
+      ],
+      "photo_query": "Tipi Orchid Centre"
     },
     {
       "pill": "Full day",
@@ -341,8 +284,8 @@
           "text": "A broad river valley of fields and Monpa homesteads. Black-necked cranes winter here from November to February.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
@@ -351,7 +294,13 @@
         "Dirang Dzong",
         "Sangti Valley"
       ],
-      "note": "This easy day is deliberate. Walk slowly and sleep well: tomorrow you cross Sela at about 4,170 m."
+      "note": "This easy day is deliberate. Walk slowly and sleep well: tomorrow you cross Sela at about 4,170 m.",
+      "route": [
+        "Mandala Top Dirang",
+        "Dirang Dzong",
+        "Sangti Valley"
+      ],
+      "photo_query": "Mandala Top Dirang"
     },
     {
       "pill": "High pass day",
@@ -385,8 +334,8 @@
           "text": "Check in and rest.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
@@ -394,7 +343,12 @@
         "Sela Pass",
         "Jaswant Garh War Memorial"
       ],
-      "note": "Pack a down jacket, gloves and a cap in the car today, whatever the season."
+      "note": "Pack a down jacket, gloves and a cap in the car today, whatever the season.",
+      "route": [
+        "Sela Pass",
+        "Jaswant Garh War Memorial"
+      ],
+      "photo_query": "Sela Pass"
     },
     {
       "pill": "Full day",
@@ -428,8 +382,8 @@
           "text": "A 27-foot stupa-style memorial to the soldiers of 1962. The evening light-and-sound show runs most days.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
@@ -438,7 +392,13 @@
         "Urgelling Monastery",
         "Tawang War Memorial"
       ],
-      "note": "Your Bumla permit is applied for today at the Deputy Commissioner's office with your ID, ready for tomorrow."
+      "note": "Your Bumla permit is applied for today at the Deputy Commissioner's office with your ID, ready for tomorrow.",
+      "route": [
+        "Tawang Monastery",
+        "Urgelling Monastery",
+        "Tawang War Memorial"
+      ],
+      "photo_query": "Tawang Monastery"
     },
     {
       "pill": "High border day",
@@ -477,8 +437,8 @@
           "text": "A photo stop at PTso on the way back, then a nunnery above town.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
@@ -487,7 +447,13 @@
         "Sangetsar Lake",
         "PT Tso Lake"
       ],
-      "note": "Children under 10 and anyone with heart or breathing conditions should skip Bumla and keep to the lakes."
+      "note": "Children under 10 and anyone with heart or breathing conditions should skip Bumla and keep to the lakes.",
+      "route": [
+        "Bumla Pass",
+        "Sangetsar Lake",
+        "PT Tso Lake"
+      ],
+      "photo_query": "Bumla Pass"
     },
     {
       "pill": "Road day",
@@ -514,15 +480,16 @@
           "text": "Monpa carpets, yak-wool shawls and thangkas.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
       "places": [
         "Bomdila Monastery"
       ],
-      "note": "Today is the last high-altitude night. From here you go down to the plains."
+      "note": "Today is the last high-altitude night. From here you go down to the plains.",
+      "photo_query": "Bomdila Monastery"
     },
     {
       "pill": "Road day",
@@ -545,15 +512,16 @@
           "text": "Cottages on stilts facing paddy fields.",
           "meal": [
             "Dinner",
-            "At the lodge",
-            ""
+            "Included",
+            "At the lodge"
           ]
         }
       ],
       "places": [
         "Diphlu River Lodge"
       ],
-      "note": "Tomorrow's safari slots are confirmed tonight. The forest department releases them the evening before."
+      "note": "Tomorrow's safari slots are confirmed tonight. The forest department releases them the evening before.",
+      "photo_query": "Diphlu River Lodge"
     },
     {
       "pill": "Safari day",
@@ -587,8 +555,8 @@
           "text": "Hundreds of orchid species and an Assamese food court.",
           "meal": [
             "Dinner",
-            "At the lodge",
-            ""
+            "Included",
+            "At the lodge"
           ]
         }
       ],
@@ -597,7 +565,13 @@
         "Bagori Range Kaziranga",
         "Kaziranga National Orchid and Biodiversity Park"
       ],
-      "note": "Wear earthy colours, keep voices low and never step out of the jeep. Carry a scarf for the dust."
+      "note": "Wear earthy colours, keep voices low and never step out of the jeep. Carry a scarf for the dust.",
+      "route": [
+        "Kaziranga National Park Central Range Kohora",
+        "Bagori Range Kaziranga",
+        "Kaziranga National Orchid and Biodiversity Park"
+      ],
+      "photo_query": "Kaziranga National Park Central Range Kohora"
     },
     {
       "pill": "Road day",
@@ -624,8 +598,8 @@
           "text": "Shillong's lively centre.",
           "meal": [
             "Dinner",
-            "At the hotel",
-            ""
+            "Included",
+            "At the hotel"
           ]
         }
       ],
@@ -633,7 +607,12 @@
         "Umiam Lake",
         "Police Bazaar Shillong"
       ],
-      "note": "Meghalaya's caves and falls are at their best after the rains, from September to November."
+      "note": "Meghalaya's caves and falls are at their best after the rains, from September to November.",
+      "route": [
+        "Umiam Lake",
+        "Police Bazaar Shillong"
+      ],
+      "photo_query": "Umiam Lake"
     },
     {
       "pill": "Full day",
@@ -678,7 +657,14 @@
         "Seven Sisters Falls",
         "Nohkalikai Falls"
       ],
-      "note": "Carry a light rain jacket even in winter: clouds roll in fast in Sohra."
+      "note": "Carry a light rain jacket even in winter: clouds roll in fast in Sohra.",
+      "route": [
+        "Elephant Falls Shillong",
+        "Mawsmai Cave",
+        "Seven Sisters Falls",
+        "Nohkalikai Falls"
+      ],
+      "photo_query": "Elephant Falls Shillong"
     },
     {
       "pill": "Full day",
@@ -728,7 +714,13 @@
         "Riwai Living Root Bridge",
         "Umngot River Dawki"
       ],
-      "note": "Carry a packed lunch today; restaurants are few on this road."
+      "note": "Carry a packed lunch today; restaurants are few on this road.",
+      "route": [
+        "Mawlynnong",
+        "Riwai Living Root Bridge",
+        "Umngot River Dawki"
+      ],
+      "photo_query": "Mawlynnong"
     },
     {
       "pill": "Road day",
@@ -763,7 +755,12 @@
         "Kamakhya Temple",
         "Umananda Temple"
       ],
-      "note": "Tonight, pack your bags and keep the ILP and ID in your hand luggage for the airport."
+      "note": "Tonight, pack your bags and keep the ILP and ID in your hand luggage for the airport.",
+      "route": [
+        "Kamakhya Temple",
+        "Umananda Temple"
+      ],
+      "photo_query": "Kamakhya Temple"
     },
     {
       "pill": "Departure",
@@ -782,7 +779,8 @@
       "places": [
         "Lokpriya Gopinath Bordoloi International Airport"
       ],
-      "note": "Thank you for travelling the North East with us."
+      "note": "Thank you for travelling the North East with us.",
+      "photo_query": "Lokpriya Gopinath Bordoloi International Airport"
     }
   ],
   "hotel": {
@@ -879,6 +877,10 @@
     {
       "q": "Can the tour be shortened?",
       "a": "Yes. A 10-night version skips Bhalukpong and one Shillong night, or you can do Arunachal and Kaziranga only in 9 nights."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
     }
   ],
   "related_keywords": [
@@ -939,5 +941,6 @@
       "Hindi",
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
-  ]
+  ],
+  "country_code": "in"
 }

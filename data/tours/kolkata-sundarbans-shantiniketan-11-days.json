@@ -1,7 +1,7 @@
 {
   "slug": "kolkata-sundarbans-shantiniketan-11-days",
   "title": "Bengal in Depth: Kolkata, Mayapur, the Sundarbans, Mandarmani & Shantiniketan",
-  "meta_title": "Kolkata, Sundarbans & Shantiniketan Tour 11 Days | Blue Diamond Voyage",
+  "meta_title": "Kolkata, Sundarbans & Shantiniketan Tour 11 Days",
   "meta_description": "11-day West Bengal itinerary: Kolkata heritage and food, ISKCON Mayapur, a Sundarbans mangrove cruise, Mandarmani beach and Tagore's Shantiniketan.",
   "destination": "West Bengal, India",
   "country": "India",
@@ -84,48 +84,6 @@
     "Belur Math",
     "Dakshineswar"
   ],
-  "stops": [
-    {
-      "name": "Kolkata",
-      "lat": 22.5726,
-      "lng": 88.3639
-    },
-    {
-      "name": "Mayapur",
-      "lat": 23.423,
-      "lng": 88.389
-    },
-    {
-      "name": "Godkhali jetty",
-      "lat": 22.17,
-      "lng": 88.79
-    },
-    {
-      "name": "Sajnekhali",
-      "lat": 22.12,
-      "lng": 88.83
-    },
-    {
-      "name": "Mandarmani",
-      "lat": 21.66,
-      "lng": 87.71
-    },
-    {
-      "name": "Shantiniketan",
-      "lat": 23.68,
-      "lng": 87.685
-    },
-    {
-      "name": "Belur Math",
-      "lat": 22.632,
-      "lng": 88.356
-    },
-    {
-      "name": "Dakshineswar Kali Temple",
-      "lat": 22.655,
-      "lng": 88.357
-    }
-  ],
   "links": [
     {
       "title": "Sundarbans National Park on the UNESCO World Heritage List",
@@ -183,7 +141,13 @@
         "Mother House Kolkata",
         "Kalighat Kali Temple"
       ],
-      "note": "Try mishti doi and sandesh at a sweet shop tonight. Ask us for pure-vegetarian sweet shops if you eat Jain."
+      "note": "Try mishti doi and sandesh at a sweet shop tonight. Ask us for pure-vegetarian sweet shops if you eat Jain.",
+      "route": [
+        "Victoria Memorial",
+        "Mother House Kolkata",
+        "Kalighat Kali Temple"
+      ],
+      "photo_query": "Victoria Memorial"
     },
     {
       "pill": "Full day",
@@ -232,7 +196,13 @@
         "Jorasanko Thakur Bari",
         "Marble Palace Kolkata"
       ],
-      "note": "Science City and Eco Park suit families with children; tell us and we swap them in."
+      "note": "Science City and Eco Park suit families with children; tell us and we swap them in.",
+      "route": [
+        "Pareshnath Jain Temple Kolkata",
+        "Jorasanko Thakur Bari",
+        "Marble Palace Kolkata"
+      ],
+      "photo_query": "Pareshnath Jain Temple Kolkata"
     },
     {
       "pill": "Day trip",
@@ -280,7 +250,12 @@
         "ISKCON Mayapur",
         "Yogapith Mayapur"
       ],
-      "note": "This is a long day. If you prefer, we book a guest house in Mayapur and add a night."
+      "note": "This is a long day. If you prefer, we book a guest house in Mayapur and add a night.",
+      "route": [
+        "ISKCON Mayapur",
+        "Yogapith Mayapur"
+      ],
+      "photo_query": "ISKCON Mayapur"
     },
     {
       "pill": "Road and river",
@@ -323,7 +298,12 @@
         "Godkhali Ferry Ghat",
         "Sajnekhali Watch Tower"
       ],
-      "note": "Pack light for the Sundarbans; leave big bags at the Kolkata hotel."
+      "note": "Pack light for the Sundarbans; leave big bags at the Kolkata hotel.",
+      "route": [
+        "Godkhali Ferry Ghat",
+        "Sajnekhali Watch Tower"
+      ],
+      "photo_query": "Godkhali Ferry Ghat"
     },
     {
       "pill": "Full day on the water",
@@ -366,7 +346,12 @@
         "Dobanki Watch Tower",
         "Sudhanyakhali Watch Tower"
       ],
-      "note": "Carry binoculars, a cap and mosquito repellent."
+      "note": "Carry binoculars, a cap and mosquito repellent.",
+      "route": [
+        "Dobanki Watch Tower",
+        "Sudhanyakhali Watch Tower"
+      ],
+      "photo_query": "Dobanki Watch Tower"
     },
     {
       "pill": "Road day",
@@ -406,7 +391,8 @@
       "places": [
         "Mandarmani Beach"
       ],
-      "note": "Swim only near lifeguards; currents in the Bay of Bengal can be strong."
+      "note": "Swim only near lifeguards; currents in the Bay of Bengal can be strong.",
+      "photo_query": "Mandarmani Beach"
     },
     {
       "pill": "Easy day",
@@ -432,7 +418,12 @@
         "Mandarmani Beach",
         "New Market Kolkata"
       ],
-      "note": "Tonight is a good night for a Bengali vegetarian thali: shukto, cholar dal, luchi and payesh."
+      "note": "Tonight is a good night for a Bengali vegetarian thali: shukto, cholar dal, luchi and payesh.",
+      "route": [
+        "Mandarmani Beach",
+        "New Market Kolkata"
+      ],
+      "photo_query": "Mandarmani Beach"
     },
     {
       "pill": "Road day",
@@ -470,7 +461,13 @@
         "Rabindra Bhavana Museum",
         "Sonajhuri Haat"
       ],
-      "note": "The Sonajhuri Haat craft market is busiest on Saturday afternoons. Ask us to plan your dates around it."
+      "note": "The Sonajhuri Haat craft market is busiest on Saturday afternoons. Ask us to plan your dates around it.",
+      "route": [
+        "Visva-Bharati University",
+        "Rabindra Bhavana Museum",
+        "Sonajhuri Haat"
+      ],
+      "photo_query": "Visva-Bharati University"
     },
     {
       "pill": "Road day",
@@ -492,7 +489,8 @@
       "places": [
         "Park Street Kolkata"
       ],
-      "note": "Tomorrow's sightseeing starts at 09:00; keep packing light."
+      "note": "Tomorrow's sightseeing starts at 09:00; keep packing light.",
+      "photo_query": "Park Street Kolkata"
     },
     {
       "pill": "Full day",
@@ -531,7 +529,14 @@
         "Howrah Bridge",
         "Mullick Ghat Flower Market"
       ],
-      "note": "This is your last full day: tell us if you want a dinner booking."
+      "note": "This is your last full day: tell us if you want a dinner booking.",
+      "route": [
+        "Belur Math",
+        "Dakshineswar Kali Temple",
+        "Howrah Bridge",
+        "Mullick Ghat Flower Market"
+      ],
+      "photo_query": "Belur Math"
     },
     {
       "pill": "Departure",
@@ -550,7 +555,8 @@
       "places": [
         "Netaji Subhas Chandra Bose International Airport"
       ],
-      "note": "Thank you for travelling Bengal with us."
+      "note": "Thank you for travelling Bengal with us.",
+      "photo_query": "Netaji Subhas Chandra Bose International Airport"
     }
   ],
   "hotel": {
@@ -604,6 +610,14 @@
     {
       "q": "Is Mayapur a good day trip?",
       "a": "It is a long day, about 4 hours each way. Devotees often prefer to add a night in the ISKCON guest houses, which we can book."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
     }
   ],
   "related_keywords": [
@@ -684,5 +698,6 @@
       "Hindi",
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
-  ]
+  ],
+  "country_code": "in"
 }

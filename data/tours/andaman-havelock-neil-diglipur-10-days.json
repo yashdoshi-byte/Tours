@@ -1,7 +1,7 @@
 {
   "slug": "andaman-havelock-neil-diglipur-10-days",
   "title": "Complete Andamans: Port Blair, Diglipur, Havelock & Neil in 10 Days",
-  "meta_title": "Andaman Tour 10 Days | Havelock, Neil & Diglipur | Blue Diamond Voyage",
+  "meta_title": "Andaman Tour 10 Days | Havelock, Neil & Diglipur",
   "meta_description": "10-day Andaman itinerary: Cellular Jail, Ross & Smith twin islands at Diglipur, Baratang caves, North Bay, Radhanagar Beach, Elephant Beach and Neil Island.",
   "destination": "Andaman Islands, India",
   "country": "India",
@@ -84,53 +84,6 @@
     "Neil",
     "Port Blair"
   ],
-  "stops": [
-    {
-      "name": "Port Blair",
-      "lat": 11.623,
-      "lng": 92.726
-    },
-    {
-      "name": "Baratang (Nilambur jetty)",
-      "lat": 12.09,
-      "lng": 92.75
-    },
-    {
-      "name": "Diglipur",
-      "lat": 13.26,
-      "lng": 92.97
-    },
-    {
-      "name": "Ross & Smith Islands",
-      "lat": 13.31,
-      "lng": 93.07
-    },
-    {
-      "name": "North Bay Island",
-      "lat": 11.7,
-      "lng": 92.75
-    },
-    {
-      "name": "Havelock (Swaraj Dweep)",
-      "lat": 11.97,
-      "lng": 92.99
-    },
-    {
-      "name": "Radhanagar Beach",
-      "lat": 11.984,
-      "lng": 92.952
-    },
-    {
-      "name": "Elephant Beach",
-      "lat": 12.03,
-      "lng": 92.95
-    },
-    {
-      "name": "Neil (Shaheed Dweep)",
-      "lat": 11.83,
-      "lng": 93.03
-    }
-  ],
   "links": [
     {
       "title": "Andaman & Nicobar Tourism (official)",
@@ -179,7 +132,8 @@
       "places": [
         "Cellular Jail"
       ],
-      "note": "Tomorrow's alarm is about 03:30. Pack an overnight bag and leave the rest in the hotel cloakroom."
+      "note": "Tomorrow's alarm is about 03:30. Pack an overnight bag and leave the rest in the hotel cloakroom.",
+      "photo_query": "Cellular Jail"
     },
     {
       "pill": "Long road day",
@@ -227,7 +181,12 @@
         "Jirkatang Check Post",
         "Pristine Beach Resort Diglipur"
       ],
-      "note": "Carry original photo ID (not PAN) for the convoy and ferries."
+      "note": "Carry original photo ID (not PAN) for the convoy and ferries.",
+      "route": [
+        "Jirkatang Check Post",
+        "Pristine Beach Resort Diglipur"
+      ],
+      "photo_query": "Jirkatang Check Post"
     },
     {
       "pill": "Island day",
@@ -271,7 +230,12 @@
         "Aerial Bay Jetty",
         "Ross and Smith Island"
       ],
-      "note": "Alcohol and plastic are not allowed on the island."
+      "note": "Alcohol and plastic are not allowed on the island.",
+      "route": [
+        "Aerial Bay Jetty",
+        "Ross and Smith Island"
+      ],
+      "photo_query": "Aerial Bay Jetty"
     },
     {
       "pill": "Long road day",
@@ -306,7 +270,8 @@
       "places": [
         "Baratang Limestone Caves"
       ],
-      "note": "Wear closed shoes for the caves; the path can be muddy."
+      "note": "Wear closed shoes for the caves; the path can be muddy.",
+      "photo_query": "Baratang Limestone Caves"
     },
     {
       "pill": "Island day",
@@ -338,7 +303,12 @@
         "North Bay Island",
         "Netaji Subhas Chandra Bose Island"
       ],
-      "note": "Ross Island is closed on Wednesdays; we check the day."
+      "note": "Ross Island is closed on Wednesdays; we check the day.",
+      "route": [
+        "North Bay Island",
+        "Netaji Subhas Chandra Bose Island"
+      ],
+      "photo_query": "North Bay Island"
     },
     {
       "pill": "Ferry day",
@@ -375,7 +345,8 @@
       "places": [
         "Radhanagar Beach"
       ],
-      "note": "Ask the Port Blair hotel for a packed breakfast if your ferry is early."
+      "note": "Ask the Port Blair hotel for a packed breakfast if your ferry is early.",
+      "photo_query": "Radhanagar Beach"
     },
     {
       "pill": "Beach day",
@@ -414,7 +385,8 @@
       "places": [
         "Elephant Beach Havelock"
       ],
-      "note": "Book scuba with a PADI centre on Havelock if you want a full dive; tell us before you travel."
+      "note": "Book scuba with a PADI centre on Havelock if you want a full dive; tell us before you travel.",
+      "photo_query": "Elephant Beach Havelock"
     },
     {
       "pill": "Ferry day",
@@ -451,7 +423,13 @@
         "Laxmanpur Beach",
         "Natural Bridge Neil Island"
       ],
-      "note": "Neil's sunset point at Laxmanpur Beach 1 is the best of the trip."
+      "note": "Neil's sunset point at Laxmanpur Beach 1 is the best of the trip.",
+      "route": [
+        "Bharatpur Beach Neil",
+        "Laxmanpur Beach",
+        "Natural Bridge Neil Island"
+      ],
+      "photo_query": "Bharatpur Beach Neil"
     },
     {
       "pill": "Ferry day",
@@ -474,7 +452,12 @@
         "Chidiya Tapu",
         "Corbyn's Cove Beach"
       ],
-      "note": "Pack shells and coral? Do not: taking them is illegal."
+      "note": "Pack shells and coral? Do not: taking them is illegal.",
+      "route": [
+        "Chidiya Tapu",
+        "Corbyn's Cove Beach"
+      ],
+      "photo_query": "Chidiya Tapu"
     },
     {
       "pill": "Departure",
@@ -494,7 +477,8 @@
       "places": [
         "Veer Savarkar International Airport"
       ],
-      "note": "Thank you for travelling the Andamans with us."
+      "note": "Thank you for travelling the Andamans with us.",
+      "photo_query": "Veer Savarkar International Airport"
     }
   ],
   "hotel": {
@@ -580,6 +564,14 @@
     {
       "q": "Can I take photographs on the Andaman Trunk Road?",
       "a": "No. Photography, stopping or any contact in the Jarawa reserve is a criminal offence."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
     }
   ],
   "related_keywords": [
@@ -640,5 +632,6 @@
       "Hindi",
       "Hum shuddh shakahari (Jain) hain. Pyaz, lahsun, adrak, aloo, gajar ya koi bhi zameen ke neeche ki sabzi nahi. Ande nahi. Kripya taaza banaiye. Dhanyavaad."
     ]
-  ]
+  ],
+  "country_code": "in"
 }

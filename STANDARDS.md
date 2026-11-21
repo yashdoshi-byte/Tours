@@ -26,6 +26,9 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
   then a light page of white rounded cards with a left sidebar (from the BankDash file). Fonts are
   Inter Tight for headings and Inter for text. The chrome shapes are decoration only; never put a
   fact in them.
+* The logo is in `assets/logo/`: the emblem in the menu, the full logo with "Get Glocal" in the
+  footer, both recoloured in the site's blues (`logo-on-dark.png`, `logo-on-light.png`). The
+  original is kept as `original.png`. Never stretch it or change its shape.
 * The day plan has a Quick view / Full detail switch. Quick view keeps the times, entry titles,
   strip and route map, and hides the text, bullets, callouts, pins and concierge note. So every
   entry title must make sense on its own: "Real Alcazar, enter at the Puerta del Leon", not "Visit".

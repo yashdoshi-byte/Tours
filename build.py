@@ -26,6 +26,7 @@ if OUT.exists():
 shutil.copy(ROOT / "assets/style.css", OUT / "assets/style.css")
 shutil.copy(ROOT / "assets/site.js", OUT / "assets/site.js")
 shutil.copytree(ROOT / "assets/shapes", OUT / "assets/shapes")
+shutil.copytree(ROOT / "assets/logo", OUT / "assets/logo")
 (OUT / ".nojekyll").write_text("")
 
 STRICT = "--strict" in sys.argv

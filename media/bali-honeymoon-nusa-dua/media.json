@@ -1,7 +1,7 @@
 {
  "days": {
   "1": {
-   "map": "map-day-1-c0a80aadb5.webp",
+   "map": "map-day-1-4f05a25ec0.webp",
    "stops": [
     "Ngurah Rai International Airport",
     "The Crystal Luxury Bay Resort Nusa Dua"
@@ -21,7 +21,7 @@
    }
   },
   "2": {
-   "map": "map-day-2-684f5c7e8b.webp",
+   "map": "map-day-2-2b9365585a.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Pura Lempuyang Luhur",
@@ -49,7 +49,7 @@
    }
   },
   "3": {
-   "map": "map-day-3-cf0fe0d7fb.webp",
+   "map": "map-day-3-8adb60164b.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Tanah Lot",
@@ -71,7 +71,7 @@
    }
   },
   "4": {
-   "map": "map-day-4-f886f45fc3.webp",
+   "map": "map-day-4-259c010ef0.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Tanjung Benoa",
@@ -93,7 +93,7 @@
    }
   },
   "5": {
-   "map": "map-day-5-ea80c98aaa.webp",
+   "map": "map-day-5-bef0e69ff5.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Sacred Monkey Forest Sanctuary",
@@ -119,7 +119,7 @@
    }
   },
   "6": {
-   "map": "map-day-6-02441405ce.webp",
+   "map": "map-day-6-c7d736ca3b.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Uluwatu Temple",
@@ -143,7 +143,7 @@
    }
   },
   "7": {
-   "map": "map-day-7-ccd1320ac3.webp",
+   "map": "map-day-7-3de03bd281.webp",
    "stops": [
     "The Crystal Luxury Bay Resort Nusa Dua",
     "Ngurah Rai International Airport"
@@ -222,7 +222,7 @@
   ]
  },
  "overview": {
-  "map": "map-overview-c8dcc62c2a.webp",
+  "map": "map-overview-e1ea8c1427.webp",
   "stops": [
    "Ngurah Rai International Airport",
    "Nusa Dua",

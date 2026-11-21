@@ -1,0 +1,54 @@
+name: Build tour media
+
+# Fetches coordinates, road routes, map images and photos for every tour
+# (tools/media.py), rebuilds the site (build.py), and commits the results
+# back to the same branch. Runs on GitHub because it needs open internet.
+on:
+  push:
+    paths:
+      - "data/tours/**"
+      - "tools/**"
+      - "templates/**"
+      - "assets/**"
+      - "build.py"
+      - ".github/workflows/media.yml"
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Fetch everything again, ignoring the caches"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: media-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  media:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow jinja2
+      - name: Fetch photos, pins, routes and maps
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python3 tools/media.py ${{ inputs.refresh && '--refresh' || '' }}
+      - name: Pins to check
+        run: cat media/*/places.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Build the site and run the rule checks
+        run: python3 build.py
+      - name: Commit the results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add media data/cache docs
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Update tour media: photos, pins, routes and maps"
+          git push

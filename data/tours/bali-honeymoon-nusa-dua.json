@@ -1,8 +1,8 @@
 {
   "slug": "bali-honeymoon-nusa-dua",
   "title": "Bali Luxury Honeymoon: 7 Days in Nusa Dua & Ubud",
-  "meta_title": "Bali Honeymoon Package 7 Days | Nusa Dua & Ubud | Blue Diamond Voyage",
-  "meta_description": "7-day Bali honeymoon itinerary: 6 nights in a Nusa Dua honeymoon suite, Lempuyang Gates of Heaven, Tanah Lot sunset, a first scuba dive and candlelight dinner in Ubud.",
+  "meta_title": "Bali Honeymoon 7 Days: Nusa Dua & Ubud | Blue Diamond Voyage",
+  "meta_description": "7-day Bali honeymoon: 6 nights in a Nusa Dua honeymoon suite, the Gates of Heaven, Tanah Lot at sunset, a first scuba dive and a candlelight dinner in Ubud.",
   "destination": "Bali, Indonesia",
   "country": "Indonesia",
   "duration": "7 days / 6 nights",
@@ -13,11 +13,26 @@
   "hero_alt": "Bali temple and rice terraces at sunrise",
   "tagline": "Temples at dawn, the ocean at sunset, and a garden dinner for two",
   "facts": [
-    ["Stay", "6 nights · Nusa Dua"],
-    ["Pace", "2 long touring days, 3 easy days"],
-    ["Ideal for", "Honeymooners and couples"],
-    ["Best months", "April to October"],
-    ["Transfers", "Private SUV throughout"]
+    [
+      "Stay",
+      "6 nights · Nusa Dua"
+    ],
+    [
+      "Pace",
+      "2 long touring days, 3 easy days"
+    ],
+    [
+      "Ideal for",
+      "Honeymooners and couples"
+    ],
+    [
+      "Best months",
+      "April to October"
+    ],
+    [
+      "Transfers",
+      "Private SUV throughout"
+    ]
   ],
   "intro": "A slow, romantic week that pairs a honeymoon suite in Nusa Dua with Bali's most photogenic temples, a sunset at Tanah Lot, your first scuba dive and a private candlelight dinner in an Ubud garden. Every transfer is private, and every day is paced around Bali's traffic and temple timings, so you spend your time together and not in a car.",
   "highlights": [
@@ -29,23 +44,52 @@
     "Private SUV airport transfers and a 24/7 Blue Diamond Voyage travel desk"
   ],
   "stays": [
-    {"place": "Nusa Dua", "nights": 6, "hotel": "The Crystal Luxury Bay Resort"}
+    {
+      "place": "Nusa Dua",
+      "nights": 6,
+      "hotel": "The Crystal Luxury Bay Resort"
+    }
   ],
-  "route": ["Ngurah Rai Airport", "Nusa Dua", "Lempuyang", "Tirta Gangga", "Tegalalang", "Tanah Lot", "Ubud", "Uluwatu"],
+  "route": [
+    "Ngurah Rai International Airport",
+    "Nusa Dua",
+    "Pura Lempuyang Luhur",
+    "Tirta Gangga",
+    "Tegalalang Rice Terrace",
+    "Tanah Lot",
+    "Ubud",
+    "Uluwatu Temple"
+  ],
   "days": [
     {
       "pill": "Arrival day",
       "title": "Land in Bali and settle into your honeymoon suite",
       "summary": "Private transfer from Ngurah Rai Airport to Nusa Dua, check-in to the Honeymoon Suite and a slow first evening.",
-      "strip": ["About 30° / 24°", "Drive about 30 minutes", "Check-in from 14:00", "Dinner at the resort"],
+      "strip": [
+        "About 30° / 24°",
+        "Drive about 30 minutes",
+        "Check-in from 14:00",
+        "Dinner at the resort"
+      ],
+      "route": [
+        "Ngurah Rai International Airport",
+        "The Crystal Luxury Bay Resort Nusa Dua"
+      ],
+      "photo_query": "Nusa Dua beach Bali",
       "rows": [
         {
           "label": "On landing · Ngurah Rai Airport (DPS)",
           "title": "Immigration, the tourist levy and your driver",
           "text": "Clear immigration and collect your bags. Your private driver waits in the arrivals hall with a name sign. Up to 60 minutes of waiting is included.",
           "notes": [
-            ["CARE", "If your visa or levy is not done online, the counters can add 30 to 60 minutes. Do both before you fly."],
-            ["MONEY", "The Bali tourist levy is IDR 150,000 per person, paid once per trip, by card or QRIS only. No cash."]
+            [
+              "CARE",
+              "If your visa or levy is not done online, the counters can add 30 to 60 minutes. Do both before you fly."
+            ],
+            [
+              "MONEY",
+              "The Bali tourist levy is IDR 150,000 per person, paid once per trip, by card or QRIS only. No cash."
+            ]
           ]
         },
         {
@@ -58,24 +102,49 @@
           "title": "The Crystal Luxury Bay Resort · Honeymoon Suite",
           "text": "Check in and unpack. Nusa Dua's calm, reef-protected beach is a short drive away, and the resort pools are right outside your room.",
           "notes": [
-            ["MONEY", "Use a credit card for the deposit at check-in, never a forex or debit card."]
+            [
+              "MONEY",
+              "Use a credit card for the deposit at check-in, never a forex or debit card."
+            ]
           ]
         },
         {
           "label": "Evening",
           "title": "First dinner together at the resort",
           "text": "Keep the first night easy after the flight.",
-          "meal": ["Dinner", "Included (half board)", ""]
+          "meal": [
+            "Dinner",
+            "Included (half board)",
+            ""
+          ]
         }
       ],
-      "places": ["Ngurah Rai International Airport Bali", "The Crystal Luxury Bay Resort Nusa Dua", "Nusa Dua Beach"],
+      "places": [
+        "Ngurah Rai International Airport",
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Nusa Dua Beach"
+      ],
       "note": "Ask the front desk tonight for a 04:30 wake-up call and a packed breakfast. Tomorrow's pick-up for East Bali is early, and it is the reason you get the Gates of Heaven before the crowds."
     },
     {
       "pill": "Full day · long drive",
       "title": "East Bali: the Gates of Heaven, the water palace and the rice terraces",
       "summary": "Private photo tour with a guide to Lempuyang, Tirta Gangga, Goa Raja Waterfall and Tegalalang, returning via Ubud.",
-      "strip": ["Pick-up about 04:30", "About 2.5 to 3 hours each way", "Sunrise about 06:00", "Back about 18:30"],
+      "strip": [
+        "Pick-up about 04:30",
+        "About 2.5 to 3 hours each way",
+        "Sunrise about 06:00",
+        "Back about 18:30"
+      ],
+      "route": [
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Pura Lempuyang Luhur",
+        "Tirta Gangga",
+        "Goa Raja Waterfall",
+        "Tegalalang Rice Terrace",
+        "The Crystal Luxury Bay Resort Nusa Dua"
+      ],
+      "photo_query": "Lempuyang temple gate Bali",
       "rows": [
         {
           "label": "About 04:30 · hotel lobby",
@@ -93,8 +162,14 @@
             "The ticket office is cash only. Carry small notes."
           ],
           "notes": [
-            ["WEAR", "Covered shoulders, and a sarong for everyone, even over trousers. A basic sarong comes with the ticket."],
-            ["CARE", "Women who are menstruating are traditionally asked not to enter temple grounds. Please respect this."]
+            [
+              "WEAR",
+              "Covered shoulders, and a sarong for everyone, even over trousers. A basic sarong comes with the ticket."
+            ],
+            [
+              "CARE",
+              "Women who are menstruating are traditionally asked not to enter temple grounds. Please respect this."
+            ]
           ]
         },
         {
@@ -106,7 +181,11 @@
           "label": "Midday",
           "title": "Lunch on the road in East Bali",
           "text": "Your guide stops at a clean local restaurant. Ask for food cooked fresh to your brief.",
-          "meal": ["Lunch", "Not included", "About IDR 150,000 to 250,000 for two"]
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About IDR 150,000 to 250,000 for two"
+          ]
         },
         {
           "label": "Afternoon",
@@ -118,24 +197,47 @@
           "title": "Tegalalang Rice Terraces",
           "text": "Walk the paths along the terraces in the softer evening light.",
           "notes": [
-            ["MONEY", "Farmers ask a small cash donation on some paths. The jungle swings are a separate, optional charge."]
+            [
+              "MONEY",
+              "Farmers ask a small cash donation on some paths. The jungle swings are a separate, optional charge."
+            ]
           ]
         },
         {
           "label": "About 18:30",
           "title": "Back at the resort",
           "text": "About 1 hour 15 minutes from Ubud to Nusa Dua, longer in evening traffic.",
-          "meal": ["Dinner", "Included (half board)", ""]
+          "meal": [
+            "Dinner",
+            "Included (half board)",
+            ""
+          ]
         }
       ],
-      "places": ["Pura Lempuyang Luhur", "Tirta Gangga Water Palace", "Goa Raja Waterfall Bali", "Tegalalang Rice Terrace"],
+      "places": [
+        "Pura Lempuyang Luhur",
+        "Tirta Gangga",
+        "Goa Raja Waterfall",
+        "Tegalalang Rice Terrace"
+      ],
       "note": "This is the longest day of the week. Pack a sarong and sash, a light jacket for the cool hill at Lempuyang, cash in small notes, and your power bank. Tomorrow starts slowly, on purpose."
     },
     {
       "pill": "Easy day",
       "title": "A slow morning, then Tanah Lot at sunset",
       "summary": "A free morning at the resort, then the 16th-century sea temple of Tanah Lot at sunset.",
-      "strip": ["Free until 15:00", "About 1 hour 15 minutes each way", "Sunset about 18:00 to 18:40", "Back about 20:30"],
+      "strip": [
+        "Free until 15:00",
+        "About 1 hour 15 minutes each way",
+        "Sunset about 18:00 to 18:40",
+        "Back about 20:30"
+      ],
+      "route": [
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Tanah Lot",
+        "The Crystal Luxury Bay Resort Nusa Dua"
+      ],
+      "photo_query": "Tanah Lot temple",
       "rows": [
         {
           "label": "Morning",
@@ -152,24 +254,46 @@
           "title": "The sea temple on its rock",
           "text": "Walk the cliff path first, then come down to the shore. Watch the sun set behind the temple from the cliff-top cafés.",
           "notes": [
-            ["CARE", "Only Hindu worshippers may climb onto the temple rock. At low tide you can walk to its base and receive holy spring water and a blessing."],
-            ["TIME", "Low tide decides how close you can go. We check the tide for your date."]
+            [
+              "CARE",
+              "Only Hindu worshippers may climb onto the temple rock. At low tide you can walk to its base and receive holy spring water and a blessing."
+            ],
+            [
+              "TIME",
+              "Low tide decides how close you can go. We check the tide for your date."
+            ]
           ]
         },
         {
           "label": "About 20:30",
           "title": "Back at the resort",
-          "meal": ["Dinner", "Included (half board)", ""]
+          "meal": [
+            "Dinner",
+            "Included (half board)",
+            ""
+          ]
         }
       ],
-      "places": ["Tanah Lot Temple"],
+      "places": [
+        "Tanah Lot"
+      ],
       "note": "Tanah Lot is busiest in the hour before sunset. Ask your driver to drop you at the main gate and arrange the pick-up point before you walk in, because the car park is large."
     },
     {
       "pill": "Activity day",
       "title": "Your first dive: Discover Scuba",
       "summary": "Discover Scuba Dive for beginners with theory, equipment briefing and an instructor beside you.",
-      "strip": ["About 5 to 6 hours", "No experience needed", "No flying for 18 hours after"],
+      "strip": [
+        "About 5 to 6 hours",
+        "No experience needed",
+        "No flying for 18 hours after"
+      ],
+      "route": [
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Tanjung Benoa",
+        "The Crystal Luxury Bay Resort Nusa Dua"
+      ],
+      "photo_query": "Bali coral reef diving",
       "rows": [
         {
           "label": "Morning pick-up",
@@ -180,24 +304,48 @@
             "Nusa Dua and Tanjung Benoa are closest. Nusa Penida or Amed make a day trip."
           ],
           "notes": [
-            ["CARE", "Divers must be in good health. Tell us about any medical condition, pregnancy or recent surgery before booking."],
-            ["TIP", "This is why the dive sits early in the week: no flying within 18 hours of diving."]
+            [
+              "CARE",
+              "Divers must be in good health. Tell us about any medical condition, pregnancy or recent surgery before booking."
+            ],
+            [
+              "TIP",
+              "This is why the dive sits early in the week: no flying within 18 hours of diving."
+            ]
           ]
         },
         {
           "label": "Afternoon",
           "title": "Rest by the pool",
-          "meal": ["Dinner", "Included (half board)", ""]
+          "meal": [
+            "Dinner",
+            "Included (half board)",
+            ""
+          ]
         }
       ],
-      "places": ["Tanjung Benoa Bali"],
+      "places": [
+        "Tanjung Benoa"
+      ],
       "note": "Bring reef-safe sunscreen and a change of clothes. Contact lenses are fine under the mask, but carry spare glasses."
     },
     {
       "pill": "Full day",
       "title": "Ubud's culture by day, a candlelight dinner by night",
       "summary": "Ubud Monkey Forest, Ubud Art Market and Ubud Palace, then a private two-hour candlelight dinner in a garden.",
-      "strip": ["About 1 hour 15 minutes each way", "Walking about 3 km", "Dinner from 18:00"],
+      "strip": [
+        "About 1 hour 15 minutes each way",
+        "Walking about 3 km",
+        "Dinner from 18:00"
+      ],
+      "route": [
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Sacred Monkey Forest Sanctuary",
+        "Ubud Art Market",
+        "Ubud Palace",
+        "The Crystal Luxury Bay Resort Nusa Dua"
+      ],
+      "photo_query": "Ubud Monkey Forest",
       "rows": [
         {
           "label": "Late morning · private transfer",
@@ -209,16 +357,26 @@
           "title": "Sacred Monkey Forest Sanctuary",
           "text": "Shaded jungle paths, mossy temples and hundreds of long-tailed macaques. About one hour. Entry is paid at the gate.",
           "notes": [
-            ["CARE", "Put sunglasses, earrings, phones and snacks out of sight. The macaques are quick, and they bite when grabbed."]
+            [
+              "CARE",
+              "Put sunglasses, earrings, phones and snacks out of sight. The macaques are quick, and they bite when grabbed."
+            ]
           ]
         },
         {
           "label": "Afternoon",
           "title": "Ubud Art Market and Ubud Palace",
           "text": "The market and the palace face each other on Jalan Raya Ubud.",
-          "meal": ["Lunch", "Not included", "About IDR 200,000 to 400,000 for two"],
+          "meal": [
+            "Lunch",
+            "Not included",
+            "About IDR 200,000 to 400,000 for two"
+          ],
           "notes": [
-            ["BUY", "Sarongs, silver, woven baskets and wood carving. Bargaining is expected, and starting at half the asking price is normal."]
+            [
+              "BUY",
+              "Sarongs, silver, woven baskets and wood carving. Bargaining is expected, and starting at half the asking price is normal."
+            ]
           ]
         },
         {
@@ -226,7 +384,11 @@
           "flag": "included",
           "title": "Private candlelight dinner for two in an Ubud garden",
           "text": "A table set for two among the plants and lanterns. Tell us your menu brief when you book, and the kitchen prepares it.",
-          "meal": ["Dinner", "Included", ""]
+          "meal": [
+            "Dinner",
+            "Included",
+            ""
+          ]
         },
         {
           "label": "After dinner",
@@ -234,14 +396,29 @@
           "text": "About 1 hour 15 minutes at night."
         }
       ],
-      "places": ["Sacred Monkey Forest Sanctuary Ubud", "Ubud Art Market", "Ubud Palace"],
+      "places": [
+        "Sacred Monkey Forest Sanctuary",
+        "Ubud Art Market",
+        "Ubud Palace"
+      ],
       "note": "Ubud is the best place in Bali to see a Legong dance. Ask us if you would like seats before your dinner, and we will fit the timings around it."
     },
     {
       "pill": "Free day",
       "title": "A day for the two of you, or Uluwatu's fire dance",
       "summary": "A free day at the resort, with an optional sunset at Uluwatu Temple, the Kecak fire dance and dinner on Jimbaran Bay.",
-      "strip": ["Uluwatu about 30 to 45 minutes", "Sunset about 18:00 to 18:40", "Optional, not included"],
+      "strip": [
+        "Uluwatu about 30 to 45 minutes",
+        "Sunset about 18:00 to 18:40",
+        "Optional, not included"
+      ],
+      "route": [
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Uluwatu Temple",
+        "Jimbaran Beach",
+        "The Crystal Luxury Bay Resort Nusa Dua"
+      ],
+      "photo_query": "Uluwatu temple cliff",
       "rows": [
         {
           "label": "All day",
@@ -253,8 +430,14 @@
           "title": "Uluwatu Temple on its clifftop",
           "text": "The temple stands on a cliff above the Indian Ocean. Open about 07:00 to 19:00.",
           "notes": [
-            ["MONEY", "Temple entry is about IDR 60,000 per adult. Cash or QRIS only, no international cards."],
-            ["CARE", "Uluwatu's monkeys snatch glasses and phones too. Hold on to them on the cliff path."]
+            [
+              "MONEY",
+              "Temple entry is about IDR 60,000 per adult. Cash or QRIS only, no international cards."
+            ],
+            [
+              "CARE",
+              "Uluwatu's monkeys snatch glasses and phones too. Hold on to them on the cliff path."
+            ]
           ]
         },
         {
@@ -263,42 +446,73 @@
           "title": "Kecak fire dance",
           "text": "A circle of chanting voices tells the Ramayana as the sun goes down behind the dancers.",
           "notes": [
-            ["MONEY", "About IDR 150,000 per adult at the box office. We pre-book seats to save the queue."],
-            ["TIME", "Arrive by about 16:30 to 17:00 for a good seat."]
+            [
+              "MONEY",
+              "About IDR 150,000 per adult at the box office. We pre-book seats to save the queue."
+            ],
+            [
+              "TIME",
+              "Arrive by about 16:30 to 17:00 for a good seat."
+            ]
           ]
         },
         {
           "label": "Optional · after the dance",
           "title": "Dinner on the sand at Jimbaran Bay",
           "text": "Tables on the beach and the lights of the fishing boats. Vegetarian dishes are cooked to order.",
-          "meal": ["Dinner", "Half board at the resort, or pay at Jimbaran", "About IDR 500,000 to 900,000 for two"]
+          "meal": [
+            "Dinner",
+            "Half board at the resort, or pay at Jimbaran",
+            "About IDR 500,000 to 900,000 for two"
+          ]
         }
       ],
-      "places": ["Nusa Dua Beach", "Uluwatu Temple", "Jimbaran Beach"],
+      "places": [
+        "Nusa Dua Beach",
+        "Uluwatu Temple",
+        "Jimbaran Beach"
+      ],
       "note": "Tonight, pack and put your passports, phones and chargers in your hand luggage. Tell the front desk your pick-up time for tomorrow."
     },
     {
       "pill": "Departure",
       "title": "Breakfast, check-out and the flight home",
       "summary": "Breakfast, check-out and a private transfer to Ngurah Rai Airport about 3 hours before the flight.",
-      "strip": ["Check-out by 12:00", "At the airport 3 hours before", "Drive about 30 to 45 minutes"],
+      "strip": [
+        "Check-out by 12:00",
+        "At the airport 3 hours before",
+        "Drive about 30 to 45 minutes"
+      ],
+      "route": [
+        "The Crystal Luxury Bay Resort Nusa Dua",
+        "Ngurah Rai International Airport"
+      ],
       "rows": [
         {
           "label": "Morning",
           "title": "Last breakfast and a last swim",
           "text": "Ask for a late check-out if your flight is in the evening. It depends on the day's occupancy.",
-          "meal": ["Breakfast", "Included", ""]
+          "meal": [
+            "Breakfast",
+            "Included",
+            ""
+          ]
         },
         {
           "label": "About 4 hours before your flight",
           "title": "Private transfer to Ngurah Rai Airport",
           "text": "Your driver meets you in the lobby. Drivers wait at hotels for about ten minutes, so please be ready.",
           "notes": [
-            ["TIME", "Allow extra time on Friday and weekend evenings, when the toll road and the bypass are at their busiest."]
+            [
+              "TIME",
+              "Allow extra time on Friday and weekend evenings, when the toll road and the bypass are at their busiest."
+            ]
           ]
         }
       ],
-      "places": ["Ngurah Rai International Airport Bali"],
+      "places": [
+        "Ngurah Rai International Airport"
+      ],
       "note": "Keep your levy voucher and passport handy until you board. Selamat jalan, and come back soon."
     }
   ],
@@ -330,10 +544,30 @@
     "Travel insurance (strongly recommended)"
   ],
   "entry": [
-    ["Indonesia visa", "Visa on arrival or e-VOA, 30 days, extendable once", "Indian passport holders", "About IDR 500,000 per person"],
-    ["Bali tourist levy", "Paid once per trip, online or at the airport", "Every foreign visitor", "IDR 150,000 per person"],
-    ["Passport", "At least 6 months' validity from arrival", "Everyone", ""],
-    ["Onward ticket", "Return or onward flight booking", "Everyone", ""]
+    [
+      "Indonesia visa",
+      "Visa on arrival or e-VOA, 30 days, extendable once",
+      "Indian passport holders",
+      "About IDR 500,000 per person"
+    ],
+    [
+      "Bali tourist levy",
+      "Paid once per trip, online or at the airport",
+      "Every foreign visitor",
+      "IDR 150,000 per person"
+    ],
+    [
+      "Passport",
+      "At least 6 months' validity from arrival",
+      "Everyone",
+      ""
+    ],
+    [
+      "Onward ticket",
+      "Return or onward flight booking",
+      "Everyone",
+      ""
+    ]
   ],
   "entry_notes": [
     "Apply for the e-VOA on the official Indonesian immigration site before you fly. It skips the visa queue at the airport.",
@@ -341,44 +575,142 @@
     "Phone and internet: a Bali eSIM bought before you fly works the moment you land and keeps your own number for WhatsApp. A local tourist SIM at the airport is cheaper but needs your passport. Home-carrier roaming is simplest and dearest."
   ],
   "good_to_know": [
-    {"tag": "MONEY", "title": "Hotel deposit", "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, hotels often refuse them, and a credit card hold is released faster and more safely."},
-    {"tag": "MONEY", "title": "Cards and cash", "text": "On card machines, always choose to pay in Indonesian rupiah, never in INR or USD. Carry cash for temples, donations, markets and small cafés: about IDR 500,000 a day for two is plenty. Exchange at authorised money changers or use bank ATMs inside malls and hotels."},
-    {"tag": "MONEY", "title": "Tipping", "text": "Many restaurants add a 5 to 10% service charge. Round up for drivers and guides at the end of a good day. It is appreciated, not expected."},
-    {"tag": "WEAR", "title": "Temple dress code", "text": "Covered shoulders and knees, with a sarong and a sash at the waist. Do not stand higher than the priest, step over offerings on the ground or point your feet at shrines."},
-    {"tag": "CARE", "title": "Monkeys and pickpockets", "text": "Hold on to glasses, phones and earrings at Uluwatu and the Ubud Monkey Forest. Bag snatching from scooters happens in Kuta and Seminyak: walk with your bag on the side away from the road."},
-    {"tag": "TIP", "title": "Plugs, water and meal times", "text": "Plugs are the two round-pin type C and F, at 230 volts. Indian three-pin plugs need an adaptor. Drink bottled or filtered water only, including for brushing teeth. Dinner runs from about 18:00 to 22:00."},
-    {"tag": "TIME", "title": "Days to avoid", "text": "Nyepi, Bali's Day of Silence, closes the airport, roads and beaches for 24 hours. In 2027 it falls on Monday 8 March. We plan around it."}
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, hotels often refuse them, and a credit card hold is released faster and more safely."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in Indonesian rupiah, never in INR or USD. Carry cash for temples, donations, markets and small cafés: about IDR 500,000 a day for two is plenty. Exchange at authorised money changers or use bank ATMs inside malls and hotels."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Tipping",
+      "text": "Many restaurants add a 5 to 10% service charge. Round up for drivers and guides at the end of a good day. It is appreciated, not expected."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temple dress code",
+      "text": "Covered shoulders and knees, with a sarong and a sash at the waist. Do not stand higher than the priest, step over offerings on the ground or point your feet at shrines."
+    },
+    {
+      "tag": "CARE",
+      "title": "Monkeys and pickpockets",
+      "text": "Hold on to glasses, phones and earrings at Uluwatu and the Ubud Monkey Forest. Bag snatching from scooters happens in Kuta and Seminyak: walk with your bag on the side away from the road."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F, at 230 volts. Indian three-pin plugs need an adaptor. Drink bottled or filtered water only, including for brushing teeth. Dinner runs from about 18:00 to 22:00."
+    },
+    {
+      "tag": "TIME",
+      "title": "Days to avoid",
+      "text": "Nyepi, Bali's Day of Silence, closes the airport, roads and beaches for 24 hours. In 2027 it falls on Monday 8 March. We plan around it."
+    }
   ],
   "emergency": [
-    ["Indonesia emergency", "112 (police 110, ambulance 118 or 119)"],
-    ["Consulate General of India, Bali", "Jl. Raya Puputan 163, Renon, Denpasar · +62 361 259504 · +62 813 5384 6936 · Mon to Fri 09:00 to 17:30"]
+    [
+      "Indonesia emergency",
+      "112 (police 110, ambulance 118 or 119)"
+    ],
+    [
+      "Consulate General of India, Bali",
+      "Jl. Raya Puputan 163, Renon, Denpasar · +62 361 259504 · +62 813 5384 6936 · Mon to Fri 09:00 to 17:30"
+    ]
   ],
   "dining_intro": "Your resort serves breakfast and dinner, and we send your dietary brief to the kitchen before you arrive. For the meals out, these are places where you can order to a vegetarian or Jain brief.",
   "dining": [
-    {"name": "Queens of India, Nusa Dua", "cuisine": "North Indian", "address": "Jalan Pratama No. 65B, Benoa, Nusa Dua", "open": "Open daily, 12:00 to 23:00", "open_daily": true, "order": "Dal tadka with a jeera tadka, paneer tikka, jeera rice and tandoori roti. For Jain, ask for no onion, garlic, ginger or potato, cooked fresh."},
-    {"name": "Zest Ubud", "cuisine": "Vegan and vegetarian café", "address": "Jalan Raya Penestanan No. 8, Ubud", "open": "Open daily, 08:00 to 22:00 · +62 823 4006 5048", "open_daily": true, "order": "Bowls, salads and wood-fired dishes. Ask for them without garlic and onion if you eat Jain."}
+    {
+      "name": "Queens of India, Nusa Dua",
+      "cuisine": "North Indian",
+      "address": "Jalan Pratama No. 65B, Benoa, Nusa Dua",
+      "open": "Open daily, 12:00 to 23:00",
+      "open_daily": true,
+      "order": "Dal tadka with a jeera tadka, paneer tikka, jeera rice and tandoori roti. For Jain, ask for no onion, garlic, ginger or potato, cooked fresh."
+    },
+    {
+      "name": "Zest Ubud",
+      "cuisine": "Vegan and vegetarian café",
+      "address": "Jalan Raya Penestanan No. 8, Ubud",
+      "open": "Open daily, 08:00 to 22:00 · +62 823 4006 5048",
+      "open_daily": true,
+      "order": "Bowls, salads and wood-fired dishes. Ask for them without garlic and onion if you eat Jain."
+    }
   ],
   "dining_avoid": "Most Balinese food starts with a spice paste of shallot, garlic and ginger, and sambal and many sauces contain shrimp paste (terasi). Nasi goreng, mie goreng and gado-gado are not Jain. Always ask for food cooked fresh: sauces are made ahead.",
   "food_card": [
-    ["Bahasa Indonesia", "Kami vegetarian ketat (Jain). Kami tidak makan daging, ayam, ikan, makanan laut, atau telur. Kami juga tidak makan bawang merah, bawang putih, bawang bombay, jahe, kentang, wortel, ubi, bit, jamur, atau umbi lainnya. Tanpa terasi dan tanpa saus ikan. Mohon dimasak segar. Terima kasih."],
-    ["Hindi, for Indian restaurants", "Jain khana: pyaz, lahsun, adrak, aloo, gajar nahi. Taaza banaiye, please."]
+    [
+      "Bahasa Indonesia",
+      "Kami vegetarian ketat (Jain). Kami tidak makan daging, ayam, ikan, makanan laut, atau telur. Kami juga tidak makan bawang merah, bawang putih, bawang bombay, jahe, kentang, wortel, ubi, bit, jamur, atau umbi lainnya. Tanpa terasi dan tanpa saus ikan. Mohon dimasak segar. Terima kasih."
+    ],
+    [
+      "Hindi, for Indian restaurants",
+      "Jain khana: pyaz, lahsun, adrak, aloo, gajar nahi. Taaza banaiye, please."
+    ]
   ],
   "best_time": "April to October is the dry season, with sunny days and calm seas for the beaches, temples and diving. November to March is the wet season: greener and quieter, with short tropical showers, usually in the afternoon. Avoid Nyepi, Bali's Day of Silence in March, when the airport and roads close for 24 hours.",
   "seasons": [
-    ["April to October", "Dry season", "About 30° / 23°, sunny, calm seas. The best months for diving and East Bali views of Mount Agung."],
-    ["July, August, Christmas", "Peak", "Book hotels and the Lempuyang tour early. Queues are longest."],
-    ["November to March", "Wet season", "About 31° / 24°, humid, short afternoon showers. Greener, quieter and better hotel availability."]
+    [
+      "April to October",
+      "Dry season",
+      "About 30° / 23°, sunny, calm seas. The best months for diving and East Bali views of Mount Agung."
+    ],
+    [
+      "July, August, Christmas",
+      "Peak",
+      "Book hotels and the Lempuyang tour early. Queues are longest."
+    ],
+    [
+      "November to March",
+      "Wet season",
+      "About 31° / 24°, humid, short afternoon showers. Greener, quieter and better hotel availability."
+    ]
   ],
   "faqs": [
-    {"q": "When is the best time for a honeymoon in Bali?", "a": "April to October is the dry season, with sunny days and calm seas, ideal for beaches, temples and diving. November to March is the wet season. It's greener and quieter, with short tropical showers, usually in the afternoon."},
-    {"q": "Is Nusa Dua or Ubud better for a honeymoon?", "a": "Nusa Dua offers calm beaches and resorts, while Ubud offers jungle villas, rice terraces and culture. This itinerary bases you in Nusa Dua and takes you to Ubud for a day and a romantic dinner. We can also split your stay, for example 3 nights in Ubud and 3 in Nusa Dua."},
-    {"q": "Do Indian citizens need a visa for Bali?", "a": "Indian passport holders can get a visa on arrival or apply online for an e-VOA before travel, for about IDR 500,000 per person, valid for 30 days. Your passport needs at least 6 months' validity. Every foreign visitor also pays the Bali tourist levy of IDR 150,000 once per trip."},
-    {"q": "Can this itinerary be customised?", "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change hotels, add Nusa Penida, the Gili Islands or a private pool villa, and plan flights from your city."},
-    {"q": "Is vegetarian or Jain food available in Bali?", "a": "Yes. Bali has many vegetarian and Indian restaurants, especially in Ubud, Seminyak and Nusa Dua. Tell us your dietary needs and we inform the resort in advance and choose restaurants for you. We also give you a food card in Bahasa Indonesia to show the waiter."},
-    {"q": "How long is the drive to the Gates of Heaven?", "a": "About 2.5 to 3 hours each way from Nusa Dua. That is why the East Bali day starts at about 04:30: you reach Lempuyang near opening time, before the photo queue grows."}
+    {
+      "q": "When is the best time for a honeymoon in Bali?",
+      "a": "April to October is the dry season, with sunny days and calm seas, ideal for beaches, temples and diving. November to March is the wet season. It's greener and quieter, with short tropical showers, usually in the afternoon."
+    },
+    {
+      "q": "Is Nusa Dua or Ubud better for a honeymoon?",
+      "a": "Nusa Dua offers calm beaches and resorts, while Ubud offers jungle villas, rice terraces and culture. This itinerary bases you in Nusa Dua and takes you to Ubud for a day and a romantic dinner. We can also split your stay, for example 3 nights in Ubud and 3 in Nusa Dua."
+    },
+    {
+      "q": "Do Indian citizens need a visa for Bali?",
+      "a": "Indian passport holders can get a visa on arrival or apply online for an e-VOA before travel, for about IDR 500,000 per person, valid for 30 days. Your passport needs at least 6 months' validity. Every foreign visitor also pays the Bali tourist levy of IDR 150,000 once per trip."
+    },
+    {
+      "q": "Can this itinerary be customised?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change hotels, add Nusa Penida, the Gili Islands or a private pool villa, and plan flights from your city."
+    },
+    {
+      "q": "Is vegetarian or Jain food available in Bali?",
+      "a": "Yes. Bali has many vegetarian and Indian restaurants, especially in Ubud, Seminyak and Nusa Dua. Tell us your dietary needs and we inform the resort in advance and choose restaurants for you. We also give you a food card in Bahasa Indonesia to show the waiter."
+    },
+    {
+      "q": "How long is the drive to the Gates of Heaven?",
+      "a": "About 2.5 to 3 hours each way from Nusa Dua. That is why the East Bali day starts at about 04:30: you reach Lempuyang near opening time, before the photo queue grows."
+    }
   ],
-  "related_keywords": ["Bali honeymoon package", "Bali honeymoon itinerary 7 days", "Nusa Dua honeymoon", "Bali tour from India", "Bali luxury honeymoon"],
+  "related_keywords": [
+    "Bali honeymoon package",
+    "Bali honeymoon itinerary 7 days",
+    "Nusa Dua honeymoon",
+    "Bali tour from India",
+    "Bali luxury honeymoon"
+  ],
   "date_published": "2026-11-21",
   "date_modified": "2026-11-21",
-  "facts_checked": "21 November 2026"
+  "facts_checked": "21 November 2026",
+  "country_code": "id",
+  "map_labels": {
+    "The Crystal Luxury Bay Resort Nusa Dua": "Your resort",
+    "Ngurah Rai International Airport": "Bali airport (DPS)",
+    "Pura Lempuyang Luhur": "Lempuyang (Gates of Heaven)",
+    "Sacred Monkey Forest Sanctuary": "Monkey Forest",
+    "Tegalalang Rice Terrace": "Tegalalang terraces"
+  }
 }

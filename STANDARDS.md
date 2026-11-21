@@ -285,17 +285,23 @@ Say web check-in opens 24 hours before, 48 for some carriers.
 The maps tell travellers where they are going, so every pin must be right.
 
 * **Coordinates are never typed from memory.** `tools/media.py` looks every place up in OpenStreetMap
-  (Nominatim), restricted to the tour's country (`country_code`), and saves it in `data/cache/geo.json`
-  with the address it matched.
+  (Nominatim), restricted to the tour's country (`country_code`) and to the tour's area
+  (`bbox`: `[south, west, north, east]`, e.g. Bali `[-8.86, 114.42, -8.05, 115.72]`), and saves it in
+  `data/cache/geo.json` with the address it matched. A pin outside the box is marked CHECK.
+* When OpenStreetMap spells a place differently, give the search name in
+  `"geo_query": {"Tegalalang Rice Terrace": "Tegallalang Rice Terrace"}`; the page keeps our spelling.
 * **Every pin is verified two ways**: the name OpenStreetMap returns must share the distinctive words of
   our place name, and the pin must lie within 250 km of the rest of the trip. A pin that fails either
   is marked **CHECK**; a place not found is marked **NOT FOUND**.
 * **The pin list is approved before publishing.** `media/<slug>/places.md` lists every place, its
   coordinates, the address matched, its status, and a Google Maps link to check it. It is also shown in
   the GitHub run summary. The build warns while any pin needs checking, and `--strict` refuses.
-* **Fix a pin in the tour file**, never in code: `"geo": {"<place>": [lat, lon]}`, with the coordinates
-  copied from the place's own Google Maps page (right-click the exact gate, jetty or entrance). Pinned
-  places show as PINNED.
+* **Fix a pin in the tour file**, never in code: `"geo": {"<place>": [lat, lon, "<where it came from>"]}`,
+  with the coordinates copied from the place's own Google Maps page (right-click the exact gate, jetty or
+  entrance), or from the hotel's own listing on its website or a booking site. Pinned places show as
+  PINNED with their source.
+* **A pin that is not verified never reaches the page.** A day whose stops are not all OK or PINNED gets
+  no map and no directions button until it is fixed, and the build warns.
 * **Pin the point the traveller actually goes to**: the temple's entrance car park, the jetty, the
   hotel lobby, the meeting point, not the middle of a park.
 * Each day lists its stops in driving order in `route`, start and end included. The day map draws the

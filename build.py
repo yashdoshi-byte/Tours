@@ -37,8 +37,8 @@ def coords_of(m, name):
 
 def directions(t, m, stops):
     """Google Maps driving directions through the day's stops, by exact coordinates where known."""
-    pts = [coords_of(m, n) or f'{n}, {t["destination"]}' for n in stops]
-    if len(pts) < 2:
+    pts = [coords_of(m, n) for n in stops]
+    if len(pts) < 2 or not all(pts):  # directions only through verified pins
         return None
     q = {"api": 1, "origin": pts[0], "destination": pts[-1], "travelmode": "driving"}
     if len(pts) > 2:
@@ -58,6 +58,7 @@ for t in tours:
     for i, d in enumerate(t["days"], 1):
         dm = m["days"].get(str(i), {})
         d["_map"], d["_photo"], d["_km"] = dm.get("map"), dm.get("photo"), dm.get("km")
+        d["_unverified"] = dm.get("unverified")
         d["_stops"] = dm.get("stops") or d.get("route") or []
         d["_directions"] = directions(t, m, d.get("route") or [])
     credits = [dict(m["days"][k]["photo"], where=f"Day {k}") for k in sorted(m["days"], key=int) if m["days"][k].get("photo")]

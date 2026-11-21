@@ -63,10 +63,18 @@ def words(s):
     return {w for w in re.findall(r"[a-z0-9]+", s.lower()) if len(w) > 2 and w not in GENERIC}
 
 
+def in_bbox(t, lat, lon):
+    b = t.get("bbox")  # [south, west, north, east]
+    return not b or (b[0] <= lat <= b[2] and b[1] <= lon <= b[3])
+
+
 def nominatim(q, t):
     params = {"q": q, "format": "jsonv2", "limit": 5, "addressdetails": 1, "accept-language": "en"}
     if t.get("country_code"):
         params["countrycodes"] = t["country_code"]
+    if t.get("bbox"):  # search only inside the tour's area
+        s_, w, n, e = t["bbox"]
+        params.update(viewbox=f"{w},{n},{e},{s_}", bounded=1)
     polite("nominatim", 1.1)
     r = S.get("https://nominatim.openstreetmap.org/search", params=params, timeout=30)
     r.raise_for_status()
@@ -76,16 +84,19 @@ def nominatim(q, t):
 def geocode(name, t, geo, refresh):
     """Coordinates for a place, with a record of how sure we are."""
     if name in t.get("geo", {}):
-        lat, lon = t["geo"][name][:2]
-        CHECKS[name] = {"lat": lat, "lon": lon, "found": "Pinned by hand in the tour file", "type": "",
-                        "status": "PINNED"}
+        g = t["geo"][name]
+        lat, lon = g[:2]
+        src = g[2] if len(g) > 2 else "the tour file"
+        CHECKS[name] = {"lat": lat, "lon": lon, "found": f"Pinned by hand from {src}", "type": "",
+                        "status": "PINNED" if in_bbox(t, lat, lon) else "CHECK"}
         return [lat, lon]
-    key = f'{t.get("country_code", "")}|{name}'
+    query = t.get("geo_query", {}).get(name, name)
+    key = f'{t.get("country_code", "")}|{t.get("bbox", "")}|{query}'
     if key not in geo or refresh or not isinstance(geo[key], dict):
-        hits = nominatim(name, t)
+        hits = nominatim(query, t)
         if not hits and t.get("destination"):  # try again with the region added
-            hits = nominatim(f'{name}, {t["destination"]}', t)
-        want = words(name)
+            hits = nominatim(f'{query}, {t["destination"]}', t)
+        want = words(query)
         # prefer the hit whose own name shares the most distinctive words with ours
         best = max(hits, key=lambda h: (len(want & words(h.get("name") or "")), -hits.index(h)), default=None)
         geo[key] = None if not best else {
@@ -97,9 +108,11 @@ def geocode(name, t, geo, refresh):
         CHECKS[name] = {"status": "NOT FOUND", "found": "", "type": "", "lat": None, "lon": None}
         print(f"  ✗ place {name!r}: NOT FOUND. Pin it under \"geo\" in the tour file.")
         return None
-    want = words(name)
+    want = words(query)
     matched = want & (words(g["osm_name"]) | words(g["found"]))
-    status = "OK" if (not want or len(matched) >= max(1, len(want) // 2)) else "CHECK"
+    status = "OK" if (not want or len(matched) >= max(1, (len(want) + 1) // 2)) else "CHECK"
+    if not in_bbox(t, g["lat"], g["lon"]):
+        status = "CHECK"
     CHECKS[name] = dict(g, status=status)
     mark = "✓" if status == "OK" else "⚠"
     print(f'  {mark} place {name!r:50} -> {g["lat"]}, {g["lon"]}  {g["found"][:70]}')
@@ -453,6 +466,8 @@ def run(t, refresh=False):
                 if n not in pts:
                     pts[n] = geocode(n, t, geo, refresh)
         check_spread(t, pts)
+        # a pin that is not verified never goes on a map or into directions
+        pts = {n: (p if CHECKS.get(n, {}).get("status") in ("OK", "PINNED") else None) for n, p in pts.items()}
         out.mkdir(parents=True, exist_ok=True)
         manifest["pins_to_check"] = places_report(slug, t)
         manifest["coords"] = {n: p for n, p in pts.items() if p}
@@ -467,8 +482,11 @@ def run(t, refresh=False):
         for i, d in enumerate(t["days"], 1):
             entry = {}
             stops = [(n, pts.get(n)) for n in day_stops(t, d)]
+            missing = [n for n, p in stops if not p]
             stops = [(n, p) for n, p in stops if p]
-            if len(stops) >= 2:
+            if missing:
+                entry["unverified"] = missing
+            if len(stops) >= 2 and not missing:
                 rt = road_route([p for _, p in stops], routes, refresh)
                 fp = fingerprint([p for _, p in stops], [n for n, _ in stops], bool(rt), 2)
                 f = out / f"map-day-{i}-{fp}.webp"

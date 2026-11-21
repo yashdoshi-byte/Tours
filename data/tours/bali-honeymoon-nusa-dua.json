@@ -144,7 +144,7 @@
         "Tegalalang Rice Terrace",
         "The Crystal Luxury Bay Resort Nusa Dua"
       ],
-      "photo_query": "Lempuyang temple gate Bali",
+      "photo_query": "Pura Lempuyang",
       "rows": [
         {
           "label": "About 04:30 · hotel lobby",
@@ -293,7 +293,7 @@
         "Tanjung Benoa",
         "The Crystal Luxury Bay Resort Nusa Dua"
       ],
-      "photo_query": "Bali coral reef diving",
+      "photo_query": "Bali coral reef underwater",
       "rows": [
         {
           "label": "Morning pick-up",
@@ -712,5 +712,21 @@
     "Pura Lempuyang Luhur": "Lempuyang (Gates of Heaven)",
     "Sacred Monkey Forest Sanctuary": "Monkey Forest",
     "Tegalalang Rice Terrace": "Tegalalang terraces"
+  },
+  "bbox": [
+    -8.86,
+    114.42,
+    -8.05,
+    115.72
+  ],
+  "geo": {
+    "The Crystal Luxury Bay Resort Nusa Dua": [
+      -8.787464,
+      115.20717,
+      "the hotel's Tripadvisor listing"
+    ]
+  },
+  "geo_query": {
+    "Tegalalang Rice Terrace": "Tegallalang Rice Terrace"
   }
 }

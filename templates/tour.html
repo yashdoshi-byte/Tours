@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% macro gmap(q) %}https://www.google.com/maps/search/?api=1&amp;query={{ q|urlencode }}{% endmacro %}
+{% macro head(eyebrow, title, script='') %}<p class="eyebrow">{{ eyebrow }}</p><h2 class="sh">{{ title }}{% if script %} <span class="script">{{ script }}</span>{% endif %}</h2>{% endmacro %}
 {% block content %}
 {# ---------- COVER: dark glow hero, dotted world map, the logo pinned on the photo as a tilted panel ---------- #}
 {% set wa = site.whatsapp ~ '?text=' ~ ('Hi, I am interested in the ' ~ t.title ~ ' itinerary')|urlencode %}
@@ -59,16 +60,16 @@
         {% for s in t.stays %}<div class="rib" style="flex:{{ s.nights }}"><strong>{{ s.place }}</strong><span>{{ s.nights }} night{{ 's' if s.nights != 1 }} · {{ s.hotel }}</span></div>{% endfor %}
       </div>
       {% endif %}
-      <h2>Trip highlights</h2>
+      {{ head("Why we love it", "Trip highlights") }}
       <ul class="ticks">{% for h in t.highlights %}<li>{{ h }}</li>{% endfor %}</ul>
     </section>
 
     {# ---------- OVERVIEW ---------- #}
     <section class="block" id="overview">
-      <h2>Your week at a glance</h2>
+      {{ head("At a glance", "Your week at a glance") }}
       <ol class="overview">
       {% for d in t.days %}
-        <li><a href="#day-{{ loop.index }}"><span class="ov-n">Day {{ loop.index }}</span><span class="ov-t">{{ d.title }}</span>{% if d.pill %}<span class="pill sm">{{ d.pill }}</span>{% endif %}</a></li>
+        <li><a href="#day-{{ loop.index }}">{% if d._photo %}<span class="ov-ph"><img src="{{ root }}media/{{ t.slug }}/{{ d._photo.img }}" alt="" loading="lazy" width="56" height="56"><b>{{ loop.index }}</b></span>{% else %}<span class="ov-n">Day {{ loop.index }}</span>{% endif %}<span class="ov-t">{{ d.title }}</span>{% if d.pill %}<span class="pill sm">{{ d.pill }}</span>{% endif %}</a></li>
       {% endfor %}
       </ol>
       {% set ov = t._media.overview %}
@@ -84,7 +85,7 @@
     {# ---------- DAYS ---------- #}
     <section class="block" id="itinerary">
       <div class="sec-h">
-        <h2>Day-by-day itinerary</h2>
+        <div>{{ head("The plan", "Day-by-day itinerary", "crafted around you") }}</div>
         <div class="viewswitch" role="group" aria-label="How much detail to show">
           <button type="button" data-view="quick" aria-pressed="false">Quick view</button>
           <span class="knob" aria-hidden="true"></span>
@@ -143,7 +144,7 @@
 
     {# ---------- STAY ---------- #}
     <section class="block" id="stay">
-      <h2>Where you stay</h2>
+      {{ head("Your stay", "Where you stay") }}
       <div class="stay">
         {% if t._hotel_photo %}<a class="sphoto" href="{{ t.hotel.website or t._hotel_photo.page }}" target="_blank" rel="noopener"><img src="{{ root }}media/{{ t.slug }}/{{ t._hotel_photo.img }}" alt="{{ t.hotel.name }}" loading="lazy" width="1600" height="900"><span>Hotel site</span></a>{% endif %}
         <h3>{{ t.hotel.name }}</h3>
@@ -166,7 +167,7 @@
     {# ---------- VISA & ENTRY ---------- #}
     {% if t.entry %}
     <section class="block" id="entry">
-      <h2>Visa, entry and phones</h2>
+      {{ head("Before you fly", "Visa, entry and phones") }}
       <div class="tbl"><table>
         <thead><tr><th>Permit</th><th>What it is</th><th>Who</th><th>Cost</th></tr></thead>
         <tbody>{% for a, b, c, d in t.entry %}<tr><td><b>{{ a }}</b></td><td>{{ b }}</td><td>{{ c }}</td><td>{{ d or '—' }}</td></tr>{% endfor %}</tbody>
@@ -179,7 +180,7 @@
     {# ---------- GOOD TO KNOW ---------- #}
     {% if t.good_to_know %}
     <section class="block" id="good-to-know">
-      <h2>Good to know</h2>
+      {{ head("Local know-how", "Good to know") }}
       <div class="gtk">
         {% for g in t.good_to_know %}<div class="gcard g-{{ g.tag|lower }}"><span class="gtag">{{ g.tag }}</span><h3>{{ g.title }}</h3><p>{{ g.text }}</p></div>{% endfor %}
       </div>
@@ -196,7 +197,7 @@
     {# ---------- DINING ---------- #}
     {% if t.dining %}
     <section class="block" id="dining">
-      <h2>Vegetarian and Jain dining</h2>
+      {{ head("Food you love", "Vegetarian and Jain dining") }}
       <p>{{ t.dining_intro }}</p>
       <div class="dine">
         {% for r in t.dining %}
@@ -220,14 +221,20 @@
 
     {# ---------- BEST TIME ---------- #}
     <section class="block" id="best-time">
-      <h2>Best time to go</h2>
+      {{ head("When to go", "Best time to visit", "for this journey") }}
+      {% if t.months %}
+      {% set mlabel = {"peak": "Peak: book early", "dry": "Best weather", "wet": "Wet season: green and quiet", "snow": "Snow season", "shoulder": "Shoulder: some closures"} %}
+      <div class="months" aria-label="Month by month">{% for m in ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"] %}<span class="mo mo-{{ t.months[loop.index0] }}" title="{{ mlabel[t.months[loop.index0]] }}">{{ m }}</span>{% endfor %}</div>
+      <div class="mlegend">{% for k in ["dry","peak","shoulder","wet","snow"] if k in t.months %}<span><i class="mo-{{ k }}"></i>{{ mlabel[k] }}</span>{% endfor %}</div>
+      {% if t.best_pick %}<div class="pick"><span class="script">Our pick</span><p>{{ t.best_pick }}</p></div>{% endif %}
+      {% endif %}
       <p>{{ t.best_time }}</p>
       {% if t.seasons %}<div class="tbl"><table><tbody>{% for a, b, c in t.seasons %}<tr><td><b>{{ a }}</b></td><td><span class="pill sm">{{ b }}</span></td><td>{{ c }}</td></tr>{% endfor %}</tbody></table></div>{% endif %}
     </section>
 
     {# ---------- FAQ ---------- #}
     <section class="block" id="faq">
-      <h2>Frequently asked questions</h2>
+      {{ head("Questions", "Frequently asked questions") }}
       {% for f in t.faqs %}<details class="faq"><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
     </section>
 
@@ -244,7 +251,8 @@
     {# ---------- CONTACT ---------- #}
     <section class="block signoff">
       <div class="worldmap faint" aria-hidden="true"></div>
-      <h2>Make this journey yours</h2>
+      <p class="eyebrow">Make this journey yours</p>
+      <h2 class="sh brand-line">Some journeys are planned. Ours are <span class="script">crafted.</span></h2>
       <p>Every Blue Diamond Voyage itinerary is a starting point. Tell us your dates, your city and how you like to travel, and we shape the hotels, the pace and the food around you. Timings and local details were checked on {{ t.facts_checked or t.date_published }} and are reconfirmed for your dates when you book.</p>
       <div class="hero-cta">
         <a class="btn-grad" href="{{ wa }}">Get a quote on WhatsApp</a>

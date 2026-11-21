@@ -142,7 +142,7 @@ ul.cross li:after{content:"";position:absolute;left:5px;top:calc(.3em + 9px);wid
 .overview{list-style:none;padding:0;margin:0}
 .overview a{display:flex;align-items:center;gap:14px;padding:9px 6px;text-decoration:none;color:var(--ink);border-radius:14px}
 .overview a:hover{background:var(--bg)}
-.ov-n{flex:0 0 46px;height:46px;border-radius:50%;background:var(--iconbg);color:var(--blue);font-weight:700;font-size:.72rem;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.1}
+.ov-n{flex:0 0 56px;height:56px;border-radius:50%;background:var(--iconbg);color:var(--blue);font-weight:700;font-size:.72rem;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.1}
 .overview li:nth-child(3n+2) .ov-n{background:#FFF5D9;color:#B7791F}
 .overview li:nth-child(3n) .ov-n{background:#DCFAF8;color:#0E9F9A}
 .ov-t{flex:1;font-weight:500;color:var(--head)}
@@ -293,6 +293,29 @@ th{color:var(--muted);font-weight:500;font-size:.85rem}
 .footer .fine{font-size:.78rem;color:#6F86AA}
 .wa-float{position:fixed;right:16px;bottom:16px;background:#25d366;color:#fff;text-decoration:none;padding:11px 18px;border-radius:30px;font-weight:600;box-shadow:0 6px 18px rgba(0,0,0,.2);z-index:20}
 
+/* from the Blue Diamond Voyage brochure: spaced labels, script accents, day thumbnails, month bar */
+.eyebrow{margin:1.5em 0 0;font-size:.74rem;font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:var(--blue)}
+h2.sh{margin-top:.15em}
+.script{font-family:Allura,cursive;font-weight:400;font-size:1.45em;letter-spacing:0;color:var(--blue);line-height:.8;white-space:nowrap}
+.sec-h .eyebrow{margin-top:.6em}
+.brand-line{font-size:clamp(1.6rem,3.4vw,2.3rem)!important;line-height:1.2}
+.brand-line .script{color:#9FD0FF}
+.signoff .eyebrow{color:#7FC0FF}
+.ov-ph{position:relative;flex:0 0 56px;height:56px}
+.ov-ph img{width:56px;height:56px;border-radius:50%;object-fit:cover;display:block;border:3px solid #fff;box-shadow:0 4px 12px rgba(3,19,46,.18)}
+.ov-ph b{position:absolute;right:-4px;bottom:-2px;width:22px;height:22px;border-radius:50%;background:var(--cardgrad);color:#fff;font-size:.72rem;display:flex;align-items:center;justify-content:center;border:2px solid #fff}
+.months{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:4px;margin:6px 0 10px;text-align:center;font-size:.8rem;font-weight:600}
+.months .mo{padding:11px 0;border-radius:4px}
+.months .mo:first-child{border-radius:10px 4px 4px 10px}.months .mo:last-child{border-radius:4px 10px 10px 4px}
+.mo-peak{background:#0B3AA8;color:#fff}.mo-dry{background:#2D60FF;color:#fff}.mo-shoulder{background:#A9CDEE;color:#06306F}
+.mo-wet{background:#E3ECF7;color:#3D4C66}.mo-snow{background:#F2F6FB;color:#3D4C66;outline:1px solid #D2DEEC}
+.mlegend{display:flex;flex-wrap:wrap;gap:6px 20px;font-size:.84rem;color:var(--muted);margin-bottom:12px}
+.mlegend span{display:flex;align-items:center;gap:7px}
+.mlegend i{width:14px;height:14px;border-radius:4px;display:inline-block}
+.pick{display:flex;gap:16px;align-items:center;background:#EEF4FF;border-radius:var(--r-sm);padding:12px 20px;margin:6px 0 4px}
+.pick .script{font-size:2rem;flex:0 0 auto}
+.pick p{margin:0;color:var(--head);font-weight:500}
+@media (max-width:560px){.months{font-size:.62rem;gap:2px}.months .mo{padding:9px 0}.pick{flex-direction:column;align-items:flex-start;gap:2px}}
 .bookbar{display:none}
 @media (max-width:700px){
   .bookbar{display:flex;gap:10px;position:fixed;left:12px;right:12px;bottom:12px;z-index:25;padding:8px;border-radius:26px;

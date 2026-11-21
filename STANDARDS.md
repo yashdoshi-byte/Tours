@@ -35,6 +35,13 @@ planners) and Luxury Honeymoon UK (with the National Asian Wedding Show) use the
 * From the Mobile app UI Template file (Figma Community): the cover photo and the tour cards carry a
   frosted glass panel with the place, a map-pin line and the duration, and on phones a fixed bar at
   the bottom holds "Get a personalised quote" (WhatsApp) and a call button for the 24/7 desk.
+* From the Blue Diamond Voyage brochure template: a spaced capital label above each section heading,
+  a few script accents (Allura) on headings, round day-photo thumbnails in "At a glance", and the
+  sign-off line "Some journeys are planned. Ours are crafted." Prices from the brochure never come
+  across: the web page always says "Contact us for a personalised quote".
+* Best time to visit: give `months`, twelve values from Jan to Dec, each one of `dry` (best
+  weather), `peak` (book early), `shoulder`, `wet` or `snow`, and `best_pick`, one sentence for
+  "Our pick". Take both from the facts in `seasons`; never guess a month.
 * The day plan has a Quick view / Full detail switch. Quick view keeps the times, entry titles,
   strip and route map, and hides the text, bullets, callouts, pins and concierge note. So every
   entry title must make sense on its own: "Real Alcazar, enter at the Puerta del Leon", not "Visit".

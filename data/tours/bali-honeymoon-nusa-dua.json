@@ -739,5 +739,20 @@
       "Ubud Palace",
       "Puri Saren Ubud"
     ]
-  }
+  },
+  "months": [
+    "wet",
+    "wet",
+    "wet",
+    "dry",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "wet",
+    "wet"
+  ],
+  "best_pick": "May, June and September: dry, sunny days and calm seas, without the July and August crowds."
 }

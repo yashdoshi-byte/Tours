@@ -315,7 +315,7 @@ h2.sh{margin-top:.15em}
 .pick{display:flex;gap:16px;align-items:center;background:#EEF4FF;border-radius:var(--r-sm);padding:12px 20px;margin:6px 0 4px}
 .pick .script{font-size:2rem;flex:0 0 auto}
 .pick p{margin:0;color:var(--head);font-weight:500}
-@media (max-width:560px){.months{font-size:.62rem;gap:2px}.months .mo{padding:9px 0}.pick{flex-direction:column;align-items:flex-start;gap:2px}}
+@media (max-width:560px){.tbl table,.tbl tbody,.tbl tr,.tbl td{display:block;width:auto}.tbl thead{display:none}.tbl tr{padding:12px 0;border-bottom:1px solid var(--line)}.tbl td{border:0;padding:2px 0}.months{font-size:.62rem;gap:2px}.months .mo{padding:9px 0}.pick{flex-direction:column;align-items:flex-start;gap:2px}}
 .bookbar{display:none}
 @media (max-width:700px){
   .bookbar{display:flex;gap:10px;position:fixed;left:12px;right:12px;bottom:12px;z-index:25;padding:8px;border-radius:26px;

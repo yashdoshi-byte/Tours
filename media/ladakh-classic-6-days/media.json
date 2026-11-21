@@ -1,0 +1,168 @@
+{
+ "days": {
+  "1": {
+   "unverified": [
+    "Leh Market"
+   ],
+   "photo": {
+    "file": "File:Aerial View of Leh Kushok Bakula Rinpoche Airport (IXL) Ladakh Jammu & Kashmir India.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_%28IXL%29_Ladakh_Jammu_%26_Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_(IXL)_Ladakh_Jammu_%26_Kashmir_India.jpg",
+    "author": "caffeineAM",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-1-0cc08449f1.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Hall of Fame Leh",
+    "Gurudwara Pathar Sahib",
+    "Likir Monastery",
+    "Shanti Stupa"
+   ],
+   "photo": {
+    "file": "File:Hall of Fame Entrance (48979441198).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hall_of_Fame_Entrance_%2848979441198%29.jpg/1920px-Hall_of_Fame_Entrance_%2848979441198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hall_of_Fame_Entrance_(48979441198).jpg",
+    "author": "Chris Hunkeler from Carlsbad, California, USA",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-f5e92a29ed.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Diskit Monastery"
+   ],
+   "photo": {
+    "file": "File:Khardung La (mountain pass), Ladakh, North India.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Khardung_La_%28mountain_pass%29%2C_Ladakh%2C_North_India.jpg/1920px-Khardung_La_%28mountain_pass%29%2C_Ladakh%2C_North_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Khardung_La_(mountain_pass),_Ladakh,_North_India.jpg",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-3-13ee2a460b.webp"
+   }
+  },
+  "4": {
+   "map": "map-day-4-80ff57a137.webp",
+   "stops": [
+    "Shyok",
+    "Pangong Lake"
+   ],
+   "km": [
+    370.6
+   ],
+   "photo": {
+    "file": "File:Nubra-Shyok confluence (US AMS 1954).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nubra-Shyok_confluence_%28US_AMS_1954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Nubra-Shyok_confluence_(US_AMS_1954).jpg",
+    "author": "US Army Map Service",
+    "licence": "Public domain",
+    "licence_url": "",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-c5acb2f1b6.webp"
+   }
+  },
+  "5": {
+   "map": "map-day-5-ddb5ff8d3a.webp",
+   "stops": [
+    "Pangong Lake",
+    "Chang La",
+    "Thiksey Monastery",
+    "Shey Palace",
+    "Leh"
+   ],
+   "km": [
+    132.4,
+    60.2,
+    6.7,
+    13.6
+   ],
+   "photo": {
+    "file": "File:Pangong Tso 2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pangong_Tso_2.jpg",
+    "author": "KennyOMG",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-0c42b0250e.webp"
+   }
+  },
+  "6": {
+   "photo": {
+    "file": "File:Aerial View of Leh Kushok Bakula Rinpoche Airport (IXL) Ladakh Jammu & Kashmir India.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_%28IXL%29_Ladakh_Jammu_%26_Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_(IXL)_Ladakh_Jammu_%26_Kashmir_India.jpg",
+    "author": "caffeineAM",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-0cc08449f1.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 7,
+ "coords": {
+  "Leh": [
+   34.00411,
+   77.65735
+  ],
+  "Likir": [
+   34.29265,
+   77.21706
+  ],
+  "Khardung La": [
+   34.27866,
+   77.60469
+  ],
+  "Pangong Lake": [
+   33.82105,
+   78.60875
+  ],
+  "Chang La": [
+   34.04717,
+   77.93044
+  ],
+  "Kushok Bakula Rimpochee Airport": [
+   34.13526,
+   77.54709
+  ],
+  "Magnetic Hill Ladakh": [
+   34.17099,
+   77.35248
+  ],
+  "Hunder Sand Dunes": [
+   34.57,
+   77.50398
+  ],
+  "Shyok": [
+   34.65304,
+   77.43662
+  ],
+  "Thiksey Monastery": [
+   34.05656,
+   77.66674
+  ],
+  "Shey Palace": [
+   34.07162,
+   77.63276
+  ]
+ },
+ "overview": {
+  "map": "map-overview-52e7600e84.webp",
+  "stops": [
+   "Leh",
+   "Likir",
+   "Khardung La",
+   "Pangong Lake",
+   "Chang La"
+  ]
+ }
+}

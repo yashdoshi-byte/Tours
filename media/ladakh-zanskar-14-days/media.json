@@ -1,0 +1,364 @@
+{
+ "days": {
+  "1": {
+   "map": "map-day-1-ead0b98a86.webp",
+   "stops": [
+    "Kushok Bakula Rimpochee Airport",
+    "Leh"
+   ],
+   "km": [
+    31.6
+   ],
+   "photo": {
+    "author": "caffeineAM",
+    "file": "File:Aerial View of Leh Kushok Bakula Rinpoche Airport (IXL) Ladakh Jammu & Kashmir India.jpg",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_(IXL)_Ladakh_Jammu_%26_Kashmir_India.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_%28IXL%29_Ladakh_Jammu_%26_Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "img": "day-1-0cc08449f1.webp"
+   }
+  },
+  "2": {
+   "unverified": [
+    "Hemis Monastery",
+    "Shanti Stupa"
+   ],
+   "photo": {
+    "file": "File:Hemis Monastery 02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hemis_Monastery_02.jpg/1920px-Hemis_Monastery_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery_02.jpg",
+    "author": "Bernard Gagnon Canon EOS REBEL T4i",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-2-5cdff74a34.webp"
+   }
+  },
+  "3": {
+   "unverified": [
+    "Gurudwara Pathar Sahib",
+    "Likir Monastery"
+   ],
+   "photo": {
+    "author": "Lalitgupta isgec",
+    "file": "File:Gurudwara Pathar Sahib-3.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurudwara_Pathar_Sahib-3.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gurudwara_Pathar_Sahib-3.jpg/1920px-Gurudwara_Pathar_Sahib-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-3-f80740436f.webp"
+   }
+  },
+  "4": {
+   "unverified": [
+    "Rangdum Monastery"
+   ],
+   "photo": {
+    "file": "File:Lower Suru Valley landscape near Purtikchay between Sanku and Panikhar.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lower_Suru_Valley_landscape_near_Purtikchay_between_Sanku_and_Panikhar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Lower_Suru_Valley_landscape_near_Purtikchay_between_Sanku_and_Panikhar.JPG",
+    "author": "Malikbek",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-4-391a516144.webp"
+   }
+  },
+  "5": {
+   "unverified": [
+    "Pensi La",
+    "Sani Monastery"
+   ],
+   "photo": {
+    "file": "File:Pensi La pass.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Pensi_La_pass.jpg/1920px-Pensi_La_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pensi_La_pass.jpg",
+    "author": "Srishtisudhassk",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-5-89171eac27.webp"
+   }
+  },
+  "6": {
+   "map": "map-day-6-a85ea9ee1d.webp",
+   "stops": [
+    "Karsha Monastery",
+    "Bardan Monastery"
+   ],
+   "km": [
+    21.2
+   ],
+   "photo": {
+    "file": "File:Karsha Gompa Full View Zanskar Ladakh Oct22 A7C 04024.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Karsha_Gompa_Full_View_Zanskar_Ladakh_Oct22_A7C_04024.jpg/1920px-Karsha_Gompa_Full_View_Zanskar_Ladakh_Oct22_A7C_04024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Karsha_Gompa_Full_View_Zanskar_Ladakh_Oct22_A7C_04024.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-6-c00155dc87.webp"
+   }
+  },
+  "7": {
+   "map": "map-day-7-38113ef45e.webp",
+   "stops": [
+    "Stongde Monastery",
+    "Zangla"
+   ],
+   "km": [
+    20.7
+   ],
+   "photo": {
+    "file": "File:Below View Stongdey Gompa Zanskar Jun24 A7CR 00962.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Below_View_Stongdey_Gompa_Zanskar_Jun24_A7CR_00962.jpg/1920px-Below_View_Stongdey_Gompa_Zanskar_Jun24_A7CR_00962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Below_View_Stongdey_Gompa_Zanskar_Jun24_A7CR_00962.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-7-d746adaa9f.webp"
+   }
+  },
+  "8": {
+   "map": "map-day-8-105cf2f98a.webp",
+   "stops": [
+    "Padum",
+    "Kargil"
+   ],
+   "km": [
+    59.1
+   ],
+   "photo": {
+    "file": "File:Road Padum Zanskar Range Jun24 A7CR 00818.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/1920px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg",
+    "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "provider": "Wikimedia Commons",
+    "img": "day-8-db3c94d0c0.webp"
+   }
+  },
+  "9": {
+   "unverified": [
+    "Alchi Monastery",
+    "Basgo Monastery"
+   ],
+   "photo": {
+    "author": "Jparande",
+    "file": "File:Mulbag Gompa.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mulbag_Gompa.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mulbag_Gompa.jpg/1920px-Mulbag_Gompa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-9-fdc1727a66.webp"
+   }
+  },
+  "10": {
+   "unverified": [
+    "Diskit Monastery"
+   ],
+   "photo": {
+    "author": "Vyacheslav Argenberg",
+    "file": "File:Khardung La (mountain pass), Ladakh, North India.jpg",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Khardung_La_(mountain_pass),_Ladakh,_North_India.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Khardung_La_%28mountain_pass%29%2C_Ladakh%2C_North_India.jpg/1920px-Khardung_La_%28mountain_pass%29%2C_Ladakh%2C_North_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-10-13ee2a460b.webp"
+   }
+  },
+  "11": {
+   "map": "map-day-11-80ff57a137.webp",
+   "stops": [
+    "Shyok",
+    "Pangong Lake"
+   ],
+   "km": [
+    370.6
+   ],
+   "photo": {
+    "author": "US Army Map Service",
+    "file": "File:Nubra-Shyok confluence (US AMS 1954).jpg",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Nubra-Shyok_confluence_(US_AMS_1954).jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nubra-Shyok_confluence_%28US_AMS_1954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "img": "day-11-c5acb2f1b6.webp"
+   }
+  },
+  "12": {
+   "map": "map-day-12-3334ee3f1f.webp",
+   "stops": [
+    "Pangong Lake",
+    "Chang La",
+    "Leh"
+   ],
+   "km": [
+    132.4,
+    58.6
+   ],
+   "photo": {
+    "author": "KennyOMG",
+    "file": "File:Pangong Tso 2.jpg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pangong_Tso_2.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-12-0c42b0250e.webp"
+   }
+  },
+  "13": {
+   "unverified": [
+    "Hall of Fame Leh"
+   ],
+   "photo": {
+    "author": "Chris Hunkeler from Carlsbad, California, USA",
+    "file": "File:Hall of Fame Entrance (48979441198).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hall_of_Fame_Entrance_(48979441198).jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hall_of_Fame_Entrance_%2848979441198%29.jpg/1920px-Hall_of_Fame_Entrance_%2848979441198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "img": "day-13-f5e92a29ed.webp"
+   }
+  },
+  "14": {
+   "photo": {
+    "author": "caffeineAM",
+    "file": "File:Aerial View of Leh Kushok Bakula Rinpoche Airport (IXL) Ladakh Jammu & Kashmir India.jpg",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_(IXL)_Ladakh_Jammu_%26_Kashmir_India.jpg",
+    "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_%28IXL%29_Ladakh_Jammu_%26_Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "img": "day-14-0cc08449f1.webp"
+   }
+  }
+ },
+ "photos": {},
+ "pins_to_check": 12,
+ "coords": {
+  "Leh": [
+   34.00411,
+   77.65735
+  ],
+  "Lamayuru": [
+   34.28271,
+   76.77396
+  ],
+  "Kargil": [
+   33.80282,
+   76.47301
+  ],
+  "Rangdum": [
+   34.03619,
+   76.372
+  ],
+  "Padum": [
+   33.46914,
+   76.87818
+  ],
+  "Alchi": [
+   34.22363,
+   77.17406
+  ],
+  "Khardung La": [
+   34.27866,
+   77.60469
+  ],
+  "Pangong Lake": [
+   33.82105,
+   78.60875
+  ],
+  "Kushok Bakula Rimpochee Airport": [
+   34.13526,
+   77.54709
+  ],
+  "Thiksey Monastery": [
+   34.05656,
+   77.66674
+  ],
+  "Shey Palace": [
+   34.07162,
+   77.63276
+  ],
+  "Leh Palace": [
+   34.16595,
+   77.5862
+  ],
+  "Magnetic Hill Ladakh": [
+   34.17099,
+   77.35248
+  ],
+  "Lamayuru Monastery": [
+   34.2829,
+   76.77416
+  ],
+  "Panikhar": [
+   34.11867,
+   75.94676
+  ],
+  "Drang Drung Glacier": [
+   33.75853,
+   76.28802
+  ],
+  "Karsha Monastery": [
+   33.53263,
+   76.90466
+  ],
+  "Bardan Monastery": [
+   33.39815,
+   76.91942
+  ],
+  "Stongde Monastery": [
+   33.52097,
+   76.9858
+  ],
+  "Zangla": [
+   33.65859,
+   76.99146
+  ],
+  "Mulbekh Monastery": [
+   34.3785,
+   76.36657
+  ],
+  "Hunder Sand Dunes": [
+   34.57,
+   77.50398
+  ],
+  "Shyok": [
+   34.65304,
+   77.43662
+  ],
+  "Chang La": [
+   34.04717,
+   77.93044
+  ],
+  "Spituk Monastery": [
+   34.12598,
+   77.52631
+  ]
+ },
+ "overview": {
+  "map": "map-overview-9b5b06323f.webp",
+  "stops": [
+   "Leh",
+   "Lamayuru",
+   "Kargil",
+   "Rangdum",
+   "Padum",
+   "Alchi",
+   "Khardung La",
+   "Pangong Lake"
+  ]
+ }
+}

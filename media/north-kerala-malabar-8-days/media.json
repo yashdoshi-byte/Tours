@@ -1,7 +1,7 @@
 {
  "days": {
   "1": {
-   "map": "map-day-1-6b07fd9e2e.webp",
+   "map": "map-day-1-68969c2da8.webp",
    "stops": [
     "Athirappilly Falls",
     "Vazhachal Falls"
@@ -10,18 +10,18 @@
     10.0
    ],
    "photo": {
-    "file": "File:Athirappalli Waterfalls, Thrissur, Kerala.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Athirappalli_Waterfalls%2C_Thrissur%2C_Kerala.jpg/1920px-Athirappalli_Waterfalls%2C_Thrissur%2C_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Athirappalli_Waterfalls,_Thrissur,_Kerala.jpg",
     "author": "Pranchiyettan",
+    "file": "File:Athirappalli Waterfalls, Thrissur, Kerala.jpg",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Athirappalli_Waterfalls,_Thrissur,_Kerala.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Athirappalli_Waterfalls%2C_Thrissur%2C_Kerala.jpg/1920px-Athirappalli_Waterfalls%2C_Thrissur%2C_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-1-c96d236083.webp"
    }
   },
   "2": {
-   "map": "map-day-2-0e913e7bb9.webp",
+   "map": "map-day-2-1c5d1aa7a8.webp",
    "stops": [
     "Kozhikode Beach",
     "Mananchira Square",
@@ -32,52 +32,49 @@
     2.2
    ],
    "photo": {
-    "file": "File:Kozhikode Beach Coastline.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kozhikode_Beach_Coastline.jpg/1920px-Kozhikode_Beach_Coastline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kozhikode_Beach_Coastline.jpg",
     "author": "Sulyab Thottungal",
+    "file": "File:Kozhikode Beach Coastline.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kozhikode_Beach_Coastline.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kozhikode_Beach_Coastline.jpg/1920px-Kozhikode_Beach_Coastline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-2-cb4aae0f6f.webp"
    }
   },
   "3": {
+   "unverified": [
+    "Lakkidi View Point",
+    "Chain Tree Wayanad"
+   ],
    "photo": {
-    "file": "File:Kappad 4.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Kappad_4.jpg/1920px-Kappad_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kappad_4.jpg",
     "author": "Gannu03",
+    "file": "File:Kappad 4.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kappad_4.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Kappad_4.jpg/1920px-Kappad_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-3-93664f8a7a.webp"
    }
   },
   "4": {
-   "map": "map-day-4-7444353ef7.webp",
-   "stops": [
-    "Edakkal Caves",
-    "Banasura Sagar Dam",
-    "Pookode Lake"
-   ],
-   "km": [
-    99.2,
-    62.5
+   "unverified": [
+    "Wayanad Heritage Museum"
    ],
    "photo": {
-    "file": "File:Edakkal Caves - Petroglyphs - 4.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Edakkal_Caves_-_Petroglyphs_-_4.jpg/1920px-Edakkal_Caves_-_Petroglyphs_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Edakkal_Caves_-_Petroglyphs_-_4.jpg",
     "author": "Ingo Mehling",
+    "file": "File:Edakkal Caves - Petroglyphs - 4.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edakkal_Caves_-_Petroglyphs_-_4.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Edakkal_Caves_-_Petroglyphs_-_4.jpg/1920px-Edakkal_Caves_-_Petroglyphs_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-4-00c6dfe7ea.webp"
    }
   },
   "5": {
-   "map": "map-day-5-7d593258b4.webp",
+   "map": "map-day-5-10d0ebfacb.webp",
    "stops": [
     "Muzhappilangad Drive-in Beach",
     "St. Angelo Fort Kannur"
@@ -86,18 +83,18 @@
     14.5
    ],
    "photo": {
-    "file": "File:Muzhappilangad Drive-in Beach 2.jpg",
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muzhappilangad_Drive-in_Beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Muzhappilangad_Drive-in_Beach_2.jpg",
     "author": "Shagil Kannur",
+    "file": "File:Muzhappilangad Drive-in Beach 2.jpg",
     "licence": "CC BY 3.0",
     "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Muzhappilangad_Drive-in_Beach_2.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Muzhappilangad_Drive-in_Beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "img": "day-5-50b9aa839d.webp"
    }
   },
   "6": {
-   "map": "map-day-6-c175e6ed6a.webp",
+   "map": "map-day-6-1eb4c5b3a9.webp",
    "stops": [
     "St. Angelo Fort Kannur",
     "Bekal"
@@ -106,56 +103,47 @@
     77.6
    ],
    "photo": {
-    "file": "File:Kannur-Fort-22.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kannur-Fort-22.jpg/1920px-Kannur-Fort-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Kannur-Fort-22.jpg",
     "author": "Rajesh Kakkanatt",
+    "file": "File:Kannur-Fort-22.jpg",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kannur-Fort-22.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kannur-Fort-22.jpg/1920px-Kannur-Fort-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-6-f66357b914.webp"
    }
   },
   "7": {
-   "map": "map-day-7-8125692648.webp",
-   "stops": [
-    "Bekal Fort",
-    "Kappil Beach"
-   ],
-   "km": [
-    5.9
+   "unverified": [
+    "Valiyaparamba Backwaters"
    ],
    "photo": {
-    "file": "File:Bekal Fort- Bekal -Kerala-IMG 001.jpg",
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bekal_Fort-_Bekal_-Kerala-IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Bekal_Fort-_Bekal_-Kerala-IMG_001.jpg",
     "author": "Phadke09",
+    "file": "File:Bekal Fort- Bekal -Kerala-IMG 001.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bekal_Fort-_Bekal_-Kerala-IMG_001.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bekal_Fort-_Bekal_-Kerala-IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "img": "day-7-83101aa3f7.webp"
    }
   },
   "8": {
    "photo": {
-    "file": "File:Mangalore Airport New Terminal.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mangalore_Airport_New_Terminal.jpg/1920px-Mangalore_Airport_New_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Mangalore_Airport_New_Terminal.jpg",
     "author": "Premnath Kudva",
+    "file": "File:Mangalore Airport New Terminal.jpg",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mangalore_Airport_New_Terminal.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mangalore_Airport_New_Terminal.jpg/1920px-Mangalore_Airport_New_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-8-ee8a12d233.webp"
    }
   }
  },
  "photos": {},
- "pins_to_check": 4,
+ "pins_to_check": 6,
  "coords": {
-  "Kochi Airport": [
-   10.15449,
-   76.39249
-  ],
   "Athirappilly": [
    10.28812,
    76.55849
@@ -175,10 +163,6 @@
   "Bekal": [
    12.39573,
    75.03719
-  ],
-  "Mangaluru Airport": [
-   12.95462,
-   74.88472
   ],
   "Athirappilly Falls": [
    10.2848,
@@ -238,15 +222,13 @@
   ]
  },
  "overview": {
-  "map": "map-overview-c0add4490c.webp",
+  "map": "map-overview-7a38a7e276.webp",
   "stops": [
-   "Kochi Airport",
    "Athirappilly",
    "Kozhikode",
    "Wayanad",
    "Kannur",
-   "Bekal",
-   "Mangaluru Airport"
+   "Bekal"
   ]
  }
 }

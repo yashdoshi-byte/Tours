@@ -44,6 +44,15 @@
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bali_%2816702994600%29.jpg/1920px-Bali_%2816702994600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "Bali coral reef underwater": {
+  "author": "Tilonaut",
+  "file": "File:Underwater Parasol (220482423).jpeg",
+  "licence": "CC BY 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Underwater_Parasol_(220482423).jpeg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Underwater_Parasol_%28220482423%29.jpeg/1920px-Underwater_Parasol_%28220482423%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Bara Imambara": {
   "author": "Harsh13596",
   "file": "File:Imambara of Asaf-ud-daula .jpg",
@@ -144,6 +153,15 @@
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Chidiya_Tapu_4180135.JPG/1920px-Chidiya_Tapu_4180135.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "Chushul": {
+  "author": "Aymatth2",
+  "file": "File:Quxu County sketch map png.png",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Quxu_County_sketch_map_png.png",
+  "provider": "Wikimedia Commons",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Quxu_County_sketch_map_png.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
  "Cochin International Airport": {
   "author": "Ranjithsiji",
   "file": "File:Cochin International Airport Gate.jpg",
@@ -170,6 +188,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Dehradun_Stationboard.JPG",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Dehradun_Stationboard.JPG/1920px-Dehradun_Stationboard.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Dha Village": {
+  "author": "Jo Turner",
+  "file": "File:Tràigh Uige and Eadar Dha Fhadhail - geograph.org.uk - 3061803.jpg",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tr%C3%A0igh_Uige_and_Eadar_Dha_Fhadhail_-_geograph.org.uk_-_3061803.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tr%C3%A0igh_Uige_and_Eadar_Dha_Fhadhail_-_geograph.org.uk_-_3061803.jpg/1920px-Tr%C3%A0igh_Uige_and_Eadar_Dha_Fhadhail_-_geograph.org.uk_-_3061803.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "Diphlu River Lodge": null,
  "Dobanki Watch Tower": {
@@ -254,7 +281,34 @@
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg/1920px-Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "Gurudwara Pathar Sahib": {
+  "author": "Lalitgupta isgec",
+  "file": "File:Gurudwara Pathar Sahib-3.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gurudwara_Pathar_Sahib-3.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gurudwara_Pathar_Sahib-3.jpg/1920px-Gurudwara_Pathar_Sahib-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Habba Khatoon Peak": null,
+ "Hall of Fame Leh": {
+  "author": "Chris Hunkeler from Carlsbad, California, USA",
+  "file": "File:Hall of Fame Entrance (48979441198).jpg",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hall_of_Fame_Entrance_(48979441198).jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hall_of_Fame_Entrance_%2848979441198%29.jpg/1920px-Hall_of_Fame_Entrance_%2848979441198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Hanle Monastery": {
+  "author": "Deepank Ranka",
+  "file": "File:Hanle Monastery 05.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hanle_Monastery_05.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Hanle_Monastery_05.jpg/1920px-Hanle_Monastery_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Har Ki Dun": {
   "author": "Wollex",
   "file": "File:Shipwreck of the SS American Star on the shore of Fuerteventura.jpg",
@@ -263,6 +317,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg/1920px-Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Hemis Monastery": {
+  "author": "Bernard Gagnon Canon EOS REBEL T4i",
+  "file": "File:Hemis Monastery 02.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery_02.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hemis_Monastery_02.jpg/1920px-Hemis_Monastery_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "ISKCON Mayapur": {
   "author": "Joydeep",
@@ -309,7 +372,34 @@
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Kappad_4.jpg/1920px-Kappad_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "Karsha Monastery": {
+  "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+  "file": "File:Karsha Gompa Full View Zanskar Ladakh Oct22 A7C 04024.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Karsha_Gompa_Full_View_Zanskar_Ladakh_Oct22_A7C_04024.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Karsha_Gompa_Full_View_Zanskar_Ladakh_Oct22_A7C_04024.jpg/1920px-Karsha_Gompa_Full_View_Zanskar_Ladakh_Oct22_A7C_04024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Kaziranga National Park Central Range Kohora": null,
+ "Khardung La": {
+  "author": "Vyacheslav Argenberg",
+  "file": "File:Khardung La (mountain pass), Ladakh, North India.jpg",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Khardung_La_(mountain_pass),_Ladakh,_North_India.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Khardung_La_%28mountain_pass%29%2C_Ladakh%2C_North_India.jpg/1920px-Khardung_La_%28mountain_pass%29%2C_Ladakh%2C_North_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Korzok Monastery": {
+  "author": "Andreas' Photos",
+  "file": "File:Korzok Monastery3.jpg",
+  "licence": "CC BY-SA 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Korzok_Monastery3.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Korzok_Monastery3.jpg/1920px-Korzok_Monastery3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Kozhikode Beach": {
   "author": "Sulyab Thottungal",
   "file": "File:Kozhikode Beach Coastline.jpg",
@@ -337,6 +427,15 @@
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kumarakom_Bird_Sanctuary_01.jpg/1920px-Kumarakom_Bird_Sanctuary_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "Kushok Bakula Rimpochee Airport": {
+  "author": "caffeineAM",
+  "file": "File:Aerial View of Leh Kushok Bakula Rinpoche Airport (IXL) Ladakh Jammu & Kashmir India.jpg",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_(IXL)_Ladakh_Jammu_%26_Kashmir_India.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Aerial_View_of_Leh_Kushok_Bakula_Rinpoche_Airport_%28IXL%29_Ladakh_Jammu_%26_Kashmir_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
  "Kyani and Co": null,
  "La Martiniere College": {
   "author": "Ahmad Faiz Mustafa",
@@ -346,6 +445,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:La_Martiniere_College,_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/La_Martiniere_College%2C_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg/1920px-La_Martiniere_College%2C_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Lamayuru Monastery": {
+  "author": "Bernard Gagnon",
+  "file": "File:Lamayuru Monastery 02.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lamayuru_Monastery_02.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Lamayuru_Monastery_02.jpg/1920px-Lamayuru_Monastery_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "Lempuyang temple gate Bali": null,
  "Leopold Cafe": {
@@ -366,6 +474,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Lokpriya_Gopinath_Bordoloi_International_Airport,_Guwahati,_Assam.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lokpriya_Gopinath_Bordoloi_International_Airport%2C_Guwahati%2C_Assam.jpg/1920px-Lokpriya_Gopinath_Bordoloi_International_Airport%2C_Guwahati%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Mahe Bridge": {
+  "author": "HighestBridges",
+  "file": "File:MaheRiverByHighestBridges.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MaheRiverByHighestBridges.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/MaheRiverByHighestBridges.jpg/1920px-MaheRiverByHighestBridges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "Mandala Top Dirang": null,
  "Mandarmani Beach": {
@@ -403,6 +520,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Mawlynnong_-_Cleanest_village_of_Asia_in_Meghalaya.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mawlynnong_-_Cleanest_village_of_Asia_in_Meghalaya.jpg/1920px-Mawlynnong_-_Cleanest_village_of_Asia_in_Meghalaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Mulbekh Monastery": {
+  "author": "Jparande",
+  "file": "File:Mulbag Gompa.jpg",
+  "licence": "CC BY-SA 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mulbag_Gompa.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mulbag_Gompa.jpg/1920px-Mulbag_Gompa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "Muzhappilangad Drive-in Beach": {
   "author": "Shagil Kannur",
@@ -485,6 +611,15 @@
   "provider": "Wikimedia Commons",
   "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Os%C5%82a%2C_Cmentarz_-_fotopolska.eu_%28172633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
  },
+ "Padum": {
+  "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+  "file": "File:Road Padum Zanskar Range Jun24 A7CR 00818.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/1920px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Pampore": {
   "author": "Ashfaq ahanger",
   "file": "File:Pampore, Jammu and Kashmir.jpg",
@@ -493,6 +628,24 @@
   "page": "https://commons.wikimedia.org/wiki/File:Pampore,_Jammu_and_Kashmir.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pampore%2C_Jammu_and_Kashmir.jpg/1920px-Pampore%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Pangong Lake": {
+  "author": "KennyOMG",
+  "file": "File:Pangong Tso 2.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pangong_Tso_2.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pangong_Tso_2.jpg/1920px-Pangong_Tso_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Panikhar": {
+  "author": "Malikbek",
+  "file": "File:Lower Suru Valley landscape near Purtikchay between Sanku and Panikhar.JPG",
+  "licence": "CC BY 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lower_Suru_Valley_landscape_near_Purtikchay_between_Sanku_and_Panikhar.JPG",
+  "provider": "Wikimedia Commons",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lower_Suru_Valley_landscape_near_Purtikchay_between_Sanku_and_Panikhar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
  },
  "Paranthe Wali Gali": {
   "author": "Sripathroy",
@@ -521,7 +674,25 @@
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG/1920px-Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
+ "Pensi La": {
+  "author": "Srishtisudhassk",
+  "file": "File:Pensi La pass.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pensi_La_pass.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Pensi_La_pass.jpg/1920px-Pensi_La_pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Periyar Lake Boat Landing": null,
+ "Pura Lempuyang": {
+  "author": "Flickr user: yeowatzup https://www.flickr.com/photos/yeowatzup/",
+  "file": "File:Bali Pura Lempuyang Luhur.jpg",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bali_Pura_Lempuyang_Luhur.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bali_Pura_Lempuyang_Luhur.jpg/1920px-Bali_Pura_Lempuyang_Luhur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Radhanagar Beach": {
   "author": "La Vacanza Travel Private Limited",
   "file": "File:Radhanagar Beach in the Andaman Islands.jpg",
@@ -576,6 +747,15 @@
   "provider": "Wikimedia Commons",
   "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Srinagar_Airport%2C_Year_1996.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
  },
+ "Shyok": {
+  "author": "US Army Map Service",
+  "file": "File:Nubra-Shyok confluence (US AMS 1954).jpg",
+  "licence": "Public domain",
+  "licence_url": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Nubra-Shyok_confluence_(US_AMS_1954).jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nubra-Shyok_confluence_%28US_AMS_1954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+ },
  "Sinthan Top": {
   "author": "Madhumita Das",
   "file": "File:Sinthan Top, Kashmir.jpg",
@@ -602,6 +782,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Kannur-Fort-22.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kannur-Fort-22.jpg/1920px-Kannur-Fort-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
+ "Stongde Monastery": {
+  "author": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but pl",
+  "file": "File:Below View Stongdey Gompa Zanskar Jun24 A7CR 00962.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Below_View_Stongdey_Gompa_Zanskar_Jun24_A7CR_00962.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Below_View_Stongdey_Gompa_Zanskar_Jun24_A7CR_00962.jpg/1920px-Below_View_Stongdey_Gompa_Zanskar_Jun24_A7CR_00962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "Taluka": {
   "author": "REVENUE DEPARTMENT, GUJARAT",
@@ -631,6 +820,15 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Tawang_Monastery_%28Tibetan_Buddhist%29.jpg/1920px-Tawang_Monastery_%28Tibetan_Buddhist%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  },
  "Tipi Orchid Centre": null,
+ "Turtuk": {
+  "author": "KartikiGonsalves",
+  "file": "File:Balti Women Buckwheat Turtuk Mar19 DSC01118.jpg",
+  "licence": "CC BY-SA 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Balti_Women_Buckwheat_Turtuk_Mar19_DSC01118.jpg",
+  "provider": "Wikimedia Commons",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Balti_Women_Buckwheat_Turtuk_Mar19_DSC01118.jpg/1920px-Balti_Women_Buckwheat_Turtuk_Mar19_DSC01118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ },
  "Ubud Monkey Forest": {
   "author": "Jakub Hałun",
   "file": "File:Macaca fascicularis, Ubud Monkey Forest, Bali, 20220822 1053 0056.jpg",
@@ -693,23 +891,5 @@
   "page": "https://commons.wikimedia.org/wiki/File:Wular_scenic.jpg",
   "provider": "Wikimedia Commons",
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Wular_scenic.jpg/1920px-Wular_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "Bali coral reef underwater": {
-  "author": "Tilonaut",
-  "file": "File:Underwater Parasol (220482423).jpeg",
-  "licence": "CC BY 3.0",
-  "licence_url": "https://creativecommons.org/licenses/by/3.0",
-  "page": "https://commons.wikimedia.org/wiki/File:Underwater_Parasol_(220482423).jpeg",
-  "provider": "Wikimedia Commons",
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Underwater_Parasol_%28220482423%29.jpeg/1920px-Underwater_Parasol_%28220482423%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "Pura Lempuyang": {
-  "author": "Flickr user: yeowatzup https://www.flickr.com/photos/yeowatzup/",
-  "file": "File:Bali Pura Lempuyang Luhur.jpg",
-  "licence": "CC BY 2.0",
-  "licence_url": "https://creativecommons.org/licenses/by/2.0",
-  "page": "https://commons.wikimedia.org/wiki/File:Bali_Pura_Lempuyang_Luhur.jpg",
-  "provider": "Wikimedia Commons",
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bali_Pura_Lempuyang_Luhur.jpg/1920px-Bali_Pura_Lempuyang_Luhur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
  }
 }

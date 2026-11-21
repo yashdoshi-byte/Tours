@@ -1,309 +1,240 @@
 {
  "days": {
   "1": {
-   "map": "map-day-1-09040b03a5.webp",
-   "stops": [
-    "Connaught Place",
-    "United Coffee House"
-   ],
-   "km": [
-    14.8
+   "unverified": [
+    "Moti Mahal Daryaganj"
    ],
    "photo": {
-    "file": "File:Connaught Place sunset.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Connaught_Place_sunset.jpg/1920px-Connaught_Place_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Connaught_Place_sunset.jpg",
     "author": "Ville Miettinen from Helsinki, Finland",
+    "file": "File:Connaught Place sunset.jpg",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Connaught_Place_sunset.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Connaught_Place_sunset.jpg/1920px-Connaught_Place_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-1-b58055d1b8.webp"
    }
   },
   "2": {
-   "map": "map-day-2-9c3e98cc2e.webp",
-   "stops": [
-    "Paranthe Wali Gali",
-    "Red Fort",
-    "Jama Masjid Delhi",
-    "Khari Baoli",
-    "Andhra Bhavan Canteen",
-    "India Gate"
-   ],
-   "km": [
-    2.4,
-    1.4,
-    1.9,
-    6.2,
-    1.9
+   "unverified": [
+    "Paranthe Wali Gali"
    ],
    "photo": {
-    "file": "File:Gali Paranthe Wali 2.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Gali_Paranthe_Wali_2.jpg/1920px-Gali_Paranthe_Wali_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Gali_Paranthe_Wali_2.jpg",
     "author": "Sripathroy",
+    "file": "File:Gali Paranthe Wali 2.jpg",
     "licence": "CC0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Gali_Paranthe_Wali_2.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Gali_Paranthe_Wali_2.jpg/1920px-Gali_Paranthe_Wali_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-2-632e7da876.webp"
    }
   },
   "3": {
-   "map": "map-day-3-f11003587e.webp",
-   "stops": [
+   "unverified": [
     "Odisha Bhawan",
-    "Swaminarayan Akshardham",
-    "Dilli Haat INA",
-    "Hauz Khas Village"
-   ],
-   "km": [
-    1675.9,
-    903.3,
-    5.5
+    "Swaminarayan Akshardham"
    ],
    "photo": {
-    "file": "File:Marble sign of Jayadev Bhawan (earlier Soochana Bhawan), Bhubaneswar, Odisha, India.JPG",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Marble_sign_of_Jayadev_Bhawan_%28earlier_Soochana_Bhawan%29%2C_Bhubaneswar%2C_Odisha%2C_India.JPG/1920px-Marble_sign_of_Jayadev_Bhawan_%28earlier_Soochana_Bhawan%29%2C_Bhubaneswar%2C_Odisha%2C_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Marble_sign_of_Jayadev_Bhawan_(earlier_Soochana_Bhawan),_Bhubaneswar,_Odisha,_India.JPG",
     "author": "Subhashish Panigrahi",
+    "file": "File:Marble sign of Jayadev Bhawan (earlier Soochana Bhawan), Bhubaneswar, Odisha, India.JPG",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marble_sign_of_Jayadev_Bhawan_(earlier_Soochana_Bhawan),_Bhubaneswar,_Odisha,_India.JPG",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Marble_sign_of_Jayadev_Bhawan_%28earlier_Soochana_Bhawan%29%2C_Bhubaneswar%2C_Odisha%2C_India.JPG/1920px-Marble_sign_of_Jayadev_Bhawan_%28earlier_Soochana_Bhawan%29%2C_Bhubaneswar%2C_Odisha%2C_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-3-589c361348.webp"
    }
   },
   "4": {
-   "map": "map-day-4-cedb146890.webp",
-   "stops": [
-    "New Delhi Railway Station",
+   "unverified": [
     "Amritsar Junction",
     "Golden Temple"
    ],
-   "km": [
-    471.4,
-    3.1
-   ],
    "photo": {
-    "file": "File:New Delhi railway station board, India.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/New_Delhi_railway_station_board%2C_India.jpg/1920px-New_Delhi_railway_station_board%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:New_Delhi_railway_station_board,_India.jpg",
     "author": "Ravi Dwivedi",
+    "file": "File:New Delhi railway station board, India.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Delhi_railway_station_board,_India.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/New_Delhi_railway_station_board%2C_India.jpg/1920px-New_Delhi_railway_station_board%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-4-b5211acb07.webp"
    }
   },
   "5": {
-   "map": "map-day-5-644d0cde51.webp",
-   "stops": [
+   "unverified": [
+    "Guru Ram Das Langar",
     "Partition Museum Amritsar",
     "Jallianwala Bagh",
     "Attari Wagah Border",
     "Kesar Da Dhaba"
    ],
-   "km": [
-    2.7,
-    1.5,
-    2.6
-   ],
    "photo": {
-    "file": "File:Guru Ram Das Langar in the golden temple complex in Amritsar 04.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg/1920px-Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg",
     "author": "Kritzolina",
+    "file": "File:Guru Ram Das Langar in the golden temple complex in Amritsar 04.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg/1920px-Guru_Ram_Das_Langar_in_the_golden_temple_complex_in_Amritsar_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-5-ce2048264c.webp"
    }
   },
   "6": {
-   "map": "map-day-6-7242c22df4.webp",
-   "stops": [
+   "unverified": [
     "Bara Imambara",
     "Chota Imambara",
     "Royal Cafe Hazratganj"
    ],
-   "km": [
-    1.7,
-    5.6
-   ],
    "photo": {
-    "file": "File:Imambara of Asaf-ud-daula .jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Imambara_of_Asaf-ud-daula_.jpg/1920px-Imambara_of_Asaf-ud-daula_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Imambara_of_Asaf-ud-daula_.jpg",
     "author": "Harsh13596",
+    "file": "File:Imambara of Asaf-ud-daula .jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Imambara_of_Asaf-ud-daula_.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Imambara_of_Asaf-ud-daula_.jpg/1920px-Imambara_of_Asaf-ud-daula_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-6-f5398f9429.webp"
    }
   },
   "7": {
-   "map": "map-day-7-5a62eaa815.webp",
-   "stops": [
+   "unverified": [
     "La Martiniere College",
     "Chowk Lucknow",
     "Hazratganj"
    ],
-   "km": [
-    8.0,
-    6.9
-   ],
    "photo": {
-    "file": "File:La Martiniere College, Lucknow - by Ahmad Faiz Mustafa.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/La_Martiniere_College%2C_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg/1920px-La_Martiniere_College%2C_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:La_Martiniere_College,_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg",
     "author": "Ahmad Faiz Mustafa",
+    "file": "File:La Martiniere College, Lucknow - by Ahmad Faiz Mustafa.jpg",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Martiniere_College,_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/La_Martiniere_College%2C_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg/1920px-La_Martiniere_College%2C_Lucknow_-_by_Ahmad_Faiz_Mustafa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-7-b7944905e6.webp"
    }
   },
-  "8": {},
+  "8": {
+   "unverified": [
+    "Guru Kripa Indore",
+    "56 Dukan Indore"
+   ]
+  },
   "9": {
+   "unverified": [
+    "Jahaz Mahal Mandu",
+    "Rani Roopmati Pavilion",
+    "Sarafa Bazaar Indore"
+   ],
    "photo": {
-    "file": "File:Jahaz Mahal 02.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Jahaz_Mahal_02.jpg/1920px-Jahaz_Mahal_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Jahaz_Mahal_02.jpg",
     "author": "Bernard Gagnon",
+    "file": "File:Jahaz Mahal 02.jpg",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jahaz_Mahal_02.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Jahaz_Mahal_02.jpg/1920px-Jahaz_Mahal_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-9-c730f9d5e1.webp"
    }
   },
   "10": {
-   "map": "map-day-10-96a7d71fe2.webp",
-   "stops": [
+   "unverified": [
     "Sabarmati Ashram",
     "Atal Bridge Ahmedabad",
     "Manek Chowk"
    ],
-   "km": [
-    5.5,
-    3.1
-   ],
    "photo": {
-    "file": "File:Sabarmati Ashram - Ahmedabad - Gujarat - DSC001.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg/1920px-Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg",
     "author": "Snehrashmi",
+    "file": "File:Sabarmati Ashram - Ahmedabad - Gujarat - DSC001.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg/1920px-Sabarmati_Ashram_-_Ahmedabad_-_Gujarat_-_DSC001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-10-7a2f185fef.webp"
    }
   },
   "11": {
+   "unverified": [
+    "Rajkot"
+   ],
    "photo": {
-    "file": "File:Rajkot - Aji River Overview.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rajkot_-_Aji_River_Overview.jpg/1920px-Rajkot_-_Aji_River_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Rajkot_-_Aji_River_Overview.jpg",
     "author": "Trinidade",
+    "file": "File:Rajkot - Aji River Overview.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rajkot_-_Aji_River_Overview.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rajkot_-_Aji_River_Overview.jpg/1920px-Rajkot_-_Aji_River_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-11-aa53e51054.webp"
    }
   },
   "12": {
+   "unverified": [
+    "Naulakha Palace Gondal",
+    "Orchard Palace Gondal",
+    "Rajkot"
+   ],
    "photo": {
-    "file": "File:Naulakha Palace 07.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Naulakha_Palace_07.jpg/1920px-Naulakha_Palace_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Naulakha_Palace_07.jpg",
     "author": "Bernard Gagnon",
+    "file": "File:Naulakha Palace 07.jpg",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naulakha_Palace_07.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Naulakha_Palace_07.jpg/1920px-Naulakha_Palace_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-12-47dc76bd8e.webp"
    }
   },
   "13": {
-   "map": "map-day-13-277fc1324c.webp",
-   "stops": [
+   "unverified": [
     "Leopold Cafe",
-    "Colaba Causeway"
-   ],
-   "km": [
-    0.7
+    "Colaba Causeway",
+    "Ghatkopar Khau Galli"
    ],
    "photo": {
-    "file": "File:Leopold cafe mumbai.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Leopold_cafe_mumbai.jpg/1920px-Leopold_cafe_mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Leopold_cafe_mumbai.jpg",
     "author": "Shishirdasika",
+    "file": "File:Leopold cafe mumbai.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leopold_cafe_mumbai.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Leopold_cafe_mumbai.jpg/1920px-Leopold_cafe_mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-13-2a3d89432e.webp"
    }
   },
   "14": {
-   "map": "map-day-14-d71514ea72.webp",
-   "stops": [
+   "unverified": [
+    "Kyani and Co",
     "Chhatrapati Shivaji Maharaj Terminus",
+    "Britannia and Co Restaurant",
     "Marine Drive",
     "Juhu Beach"
-   ],
-   "km": [
-    3.1,
-    21.4
    ]
   },
   "15": {
+   "unverified": [
+    "Chhatrapati Shivaji Maharaj International Airport"
+   ],
    "photo": {
-    "file": "File:Chhatrapati Shivaji Maharaj International Airport.jpg",
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Chhatrapati_Shivaji_Maharaj_International_Airport.jpg/1920px-Chhatrapati_Shivaji_Maharaj_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_International_Airport.jpg",
     "author": "PIYUSH P PUJARI",
+    "file": "File:Chhatrapati Shivaji Maharaj International Airport.jpg",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_International_Airport.jpg",
     "provider": "Wikimedia Commons",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Chhatrapati_Shivaji_Maharaj_International_Airport.jpg/1920px-Chhatrapati_Shivaji_Maharaj_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "img": "day-15-f79285dad4.webp"
    }
   }
  },
  "photos": {},
- "pins_to_check": 43,
+ "pins_to_check": 44,
  "coords": {
   "Delhi": [
    28.6328,
    77.21977
-  ],
-  "Amritsar": [
-   31.63567,
-   74.87875
-  ],
-  "Lucknow": [
-   26.8381,
-   80.9346
-  ],
-  "Indore": [
-   22.72036,
-   75.8682
-  ],
-  "Mandu": [
-   23.79785,
-   85.52633
-  ],
-  "Ahmedabad": [
-   23.02154,
-   72.58006
-  ],
-  "Rajkot": [
-   22.30533,
-   70.80284
-  ],
-  "Gondal": [
-   21.97218,
-   70.79552
-  ],
-  "Mumbai": [
-   19.055,
-   72.8692
   ],
   "Connaught Place": [
    28.63177,
@@ -312,10 +243,6 @@
   "United Coffee House": [
    28.55146,
    77.25154
-  ],
-  "Paranthe Wali Gali": [
-   28.65608,
-   77.23048
   ],
   "Red Fort": [
    28.65608,
@@ -337,17 +264,9 @@
    28.61293,
    77.22949
   ],
-  "Odisha Bhawan": [
-   19.31049,
-   84.79198
-  ],
-  "Swaminarayan Akshardham": [
-   23.2294,
-   72.67408
-  ],
   "Dilli Haat INA": [
-   28.57416,
-   77.20933
+   28.57365,
+   77.20759
   ],
   "Hauz Khas Village": [
    28.55337,
@@ -356,112 +275,6 @@
   "New Delhi Railway Station": [
    28.64028,
    77.22041
-  ],
-  "Amritsar Junction": [
-   31.63321,
-   74.86714
-  ],
-  "Golden Temple": [
-   31.61998,
-   74.87653
-  ],
-  "Partition Museum Amritsar": [
-   31.6257,
-   74.87905
-  ],
-  "Jallianwala Bagh": [
-   31.62085,
-   74.88013
-  ],
-  "Attari Wagah Border": [
-   31.63053,
-   74.88349
-  ],
-  "Kesar Da Dhaba": [
-   31.6242,
-   74.87282
-  ],
-  "Bara Imambara": [
-   26.86966,
-   80.91351
-  ],
-  "Chota Imambara": [
-   26.87368,
-   80.90434
-  ],
-  "Royal Cafe Hazratganj": [
-   26.8561,
-   80.94518
-  ],
-  "La Martiniere College": [
-   26.83968,
-   80.96275
-  ],
-  "Chowk Lucknow": [
-   26.86771,
-   80.90421
-  ],
-  "Hazratganj": [
-   26.84753,
-   80.9432
-  ],
-  "Guru Kripa Indore": [
-   22.72474,
-   75.82518
-  ],
-  "Sarafa Bazaar Indore": [
-   22.71789,
-   75.85186
-  ],
-  "Sabarmati Ashram": [
-   23.06017,
-   72.58064
-  ],
-  "Atal Bridge Ahmedabad": [
-   23.0164,
-   72.57556
-  ],
-  "Manek Chowk": [
-   23.02373,
-   72.58853
-  ],
-  "Leopold Cafe": [
-   18.92271,
-   72.83176
-  ],
-  "Colaba Causeway": [
-   18.91765,
-   72.82772
-  ],
-  "Chhatrapati Shivaji Maharaj Terminus": [
-   18.93986,
-   72.83552
-  ],
-  "Marine Drive": [
-   18.94994,
-   72.8188
-  ],
-  "Juhu Beach": [
-   19.10265,
-   72.82468
-  ],
-  "Chhatrapati Shivaji Maharaj International Airport": [
-   19.09014,
-   72.86382
-  ]
- },
- "overview": {
-  "map": "map-overview-34e0dd8e6b.webp",
-  "stops": [
-   "Delhi",
-   "Amritsar",
-   "Lucknow",
-   "Indore",
-   "Mandu",
-   "Ahmedabad",
-   "Rajkot",
-   "Gondal",
-   "Mumbai"
   ]
  }
 }

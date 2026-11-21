@@ -17,7 +17,7 @@ Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHE
 | OK | Sinthan Top | 33.58243, 75.51109 | Sinthan Pass, Kokernag Tehsil, Anantnag, Jammu and Kashmir, India | [open](https://www.google.com/maps/search/?api=1&query=33.58243,75.51109) |
 | NOT FOUND | Razdan Pass | none |  |  |
 | CHECK | Dawar | 25.56738, 78.0693 | Dawar, Narwar Tahsil, Shivpuri, Madhya Pradesh, India (990 km from the rest of the trip) | [open](https://www.google.com/maps/search/?api=1&query=25.56738,78.0693) |
-| OK | Sheikh ul Alam International Airport | 33.99337, 74.77516 | Sheikh ul-Alam International Airport, Kralpora Rangreth road, Rangreth, Badgam tehsil, Budgam, Jammu and Kashmir, 190019 | [open](https://www.google.com/maps/search/?api=1&query=33.99337,74.77516) |
+| OK | Sheikh ul Alam International Airport | 33.99337, 74.77516 | Sheikh ul-Alam International Airport, Airport Road, Ichgam, Badgam tehsil, Budgam, Jammu and Kashmir, 190021, India | [open](https://www.google.com/maps/search/?api=1&query=33.99337,74.77516) |
 | NOT FOUND | Gulmarg Gondola Base Station | none |  |  |
 | OK | Kongdoori | 34.02855, 74.3603 | Kongdoori - Marry Shoulder, summer trail, Gulmarg, Tangmarg, Baramulla, Jammu and Kashmir, 193403, India | [open](https://www.google.com/maps/search/?api=1&query=34.02855,74.3603) |
 | OK | Apharwat Peak | 34.02044, 74.33699 | Apharwat, Tangmarg, Baramulla, Jammu and Kashmir, 193403, India | [open](https://www.google.com/maps/search/?api=1&query=34.02044,74.33699) |

@@ -2,7 +2,7 @@
 
 Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHECK means look at it; PINNED was set by hand. Open each CHECK link: if the pin is wrong, copy the right coordinates from Google Maps into "geo" in the tour file.
 
-**6 pin(s) to check.**
+**7 pin(s) to check.**
 
 | Status | Place in the itinerary | Pin | What OpenStreetMap found | Check |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHE
 | OK | Mandarmani Beach | 21.65287, 87.67307 | Mandarmani, Ramnagar-II, Purba Medinipur, West Bengal, India | [open](https://www.google.com/maps/search/?api=1&query=21.65287,87.67307) |
 | OK | New Market Kolkata | 22.56015, 88.35296 | Kolkata New market, Humayun Place, Dharmatala, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700087, India | [open](https://www.google.com/maps/search/?api=1&query=22.56015,88.35296) |
 | OK | Visva-Bharati University | 23.67638, 87.67552 | Visva-Bharati University, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India | [open](https://www.google.com/maps/search/?api=1&query=23.67638,87.67552) |
-| CHECK | Rabindra Bhavana Museum | 23.683, 87.68428 | Uttarayana, NH114, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India | [open](https://www.google.com/maps/search/?api=1&query=23.683,87.68428) |
+| CHECK | Rabindra Bhavana Museum | 23.683, 87.68428 | Uttarayana, NH114, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India (the name it found does not match ours) | [open](https://www.google.com/maps/search/?api=1&query=23.683,87.68428) |
 | OK | Sonajhuri Haat | 23.69129, 87.67107 | Sonajhuri Haat, udyanpalli road, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India | [open](https://www.google.com/maps/search/?api=1&query=23.69129,87.67107) |
-| OK | Park Street Kolkata | 22.55516, 88.35012 | Park Street, Park Street Flyover, Dharmatala, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700087, India | [open](https://www.google.com/maps/search/?api=1&query=22.55516,88.35012) |
+| CHECK | Park Street Kolkata | 22.55516, 88.35012 | Park Street, Park Street Flyover, Dharmatala, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700087, India (the name it found does not match ours) | [open](https://www.google.com/maps/search/?api=1&query=22.55516,88.35012) |
 | OK | Dakshineswar Kali Temple | 22.65483, 88.35758 | Dakshineswar Kali Hindu Temple, Vivekananda Setu, Dakshineswar, Kolkata, Greater Kolkata, Barrackpur - II, North 24 Parg | [open](https://www.google.com/maps/search/?api=1&query=22.65483,88.35758) |
-| OK | Howrah Bridge | 22.58509, 88.34682 | Howrah Bridge, Rabindra Setu, Howrah Maidan, Howrah, Greater Kolkata, Howrah, West Bengal, 711101, India | [open](https://www.google.com/maps/search/?api=1&query=22.58509,88.34682) |
+| OK | Howrah Bridge | 22.58509, 88.34682 | Howrah Bridge, RBC Road, Howrah Maidan, Howrah, Greater Kolkata, Howrah, West Bengal, 711101, India | [open](https://www.google.com/maps/search/?api=1&query=22.58509,88.34682) |
 | NOT FOUND | Mullick Ghat Flower Market | none |  |  |
 | NOT FOUND | Netaji Subhas Chandra Bose International Airport | none |  |  |

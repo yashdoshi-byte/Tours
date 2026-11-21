@@ -2,7 +2,7 @@
 
 Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHECK means look at it; PINNED was set by hand. Open each CHECK link: if the pin is wrong, copy the right coordinates from Google Maps into "geo" in the tour file.
 
-**15 pin(s) to check.**
+**16 pin(s) to check.**
 
 | Status | Place in the itinerary | Pin | What OpenStreetMap found | Check |
 |---|---|---|---|---|
@@ -10,8 +10,8 @@ Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHE
 | OK | Tezpur | 26.62299, 92.79761 | Tezpur, Sonitpur, Assam, 784001, India | [open](https://www.google.com/maps/search/?api=1&query=26.62299,92.79761) |
 | OK | Bhalukpong | 27.01372, 92.63581 | Bhalukpong, Bhalukpong EAC, West Kameng, Arunachal Pradesh, 790114, India | [open](https://www.google.com/maps/search/?api=1&query=27.01372,92.63581) |
 | OK | Dirang | 27.36008, 92.24121 | Dirang, Dirang ADC, West Kameng, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.36008,92.24121) |
-| OK | Sela Pass | 27.50356, 92.10443 | Sela-Pass, Thingbu Circle, Tawang district, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.50356,92.10443) |
-| OK | Tawang | 27.58792, 91.86373 | Tawang, Tawang Circle, Tawang district, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.58792,91.86373) |
+| OK | Sela Pass | 27.50356, 92.10443 | Sela-Pass, Thingbu Circle, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.50356,92.10443) |
+| OK | Tawang | 27.58792, 91.86373 | Tawang, Tawang Circle, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.58792,91.86373) |
 | NOT FOUND | Bumla Pass | none |  |  |
 | OK | Bomdila | 27.26444, 92.42065 | Bomdila, Bomdila HQ, West Kameng, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.26444,92.42065) |
 | OK | Kaziranga | 26.58925, 93.40847 | Kaziranga, Kohara, Bokakhat, Golaghat, Assam, 785609, India | [open](https://www.google.com/maps/search/?api=1&query=26.58925,93.40847) |
@@ -25,11 +25,11 @@ Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHE
 | NOT FOUND | Tipi Orchid Centre | none |  |  |
 | NOT FOUND | Mandala Top Dirang | none |  |  |
 | OK | Dirang Dzong | 27.34325, 92.27167 | Dirang Dzong, Dirang ADC, West Kameng, Arunachal Pradesh, 790101, India | [open](https://www.google.com/maps/search/?api=1&query=27.34325,92.27167) |
-| OK | Sangti Valley | 27.37552, 92.26888 | Shangti Valley, 旁马, Sangti, Dirang ADC, West Kameng, Arunachal Pradesh, 790101, India | [open](https://www.google.com/maps/search/?api=1&query=27.37552,92.26888) |
+| CHECK | Sangti Valley | 27.37552, 92.26888 | Shangti Valley, 旁马, Sangti, Dirang ADC, West Kameng, Arunachal Pradesh, 790101, India (OpenStreetMap returned a street with this name) | [open](https://www.google.com/maps/search/?api=1&query=27.37552,92.26888) |
 | NOT FOUND | Jaswant Garh War Memorial | none |  |  |
-| OK | Tawang Monastery | 27.58661, 91.85739 | Tawang Monastery, NH13, Tawang, Tawang Circle, Tawang district, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.58661,91.85739) |
+| OK | Tawang Monastery | 27.58661, 91.85739 | Tawang Monastery, NH13, Tawang, Tawang Circle, Arunachal Pradesh, India | [open](https://www.google.com/maps/search/?api=1&query=27.58661,91.85739) |
 | NOT FOUND | Urgelling Monastery | none |  |  |
-| OK | Tawang War Memorial | 27.5868, 91.87669 | Tawang War Memorial, NH13, 乌间岭, Beghar, Urgeling, Tawang Circle, Tawang district, Arunachal Pradesh, 790104, India | [open](https://www.google.com/maps/search/?api=1&query=27.5868,91.87669) |
+| OK | Tawang War Memorial | 27.5868, 91.87669 | Tawang War Memorial, NH13, 乌间岭, Beghar, Urgeling, Tawang Circle, Arunachal Pradesh, 790104, India | [open](https://www.google.com/maps/search/?api=1&query=27.5868,91.87669) |
 | NOT FOUND | Sangetsar Lake | none |  |  |
 | NOT FOUND | PT Tso Lake | none |  |  |
 | OK | Bomdila Monastery | 27.2708, 92.4187 | Bomdila Monastery (Upper Gompa), Bazar Line, Main Bazar, Hawa Golai, Bomdila, Bomdila HQ, West Kameng, Arunachal Pradesh | [open](https://www.google.com/maps/search/?api=1&query=27.2708,92.4187) |

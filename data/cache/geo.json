@@ -105,6 +105,111 @@
   "osm_name": "Uluwatu Temple",
   "type": "amenity/place_of_worship"
  },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Goa Raja Waterfall": {
+  "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
+  "lat": -8.43843,
+  "lon": 115.37233,
+  "osm_name": "Goa Raja waterfall",
+  "type": "waterway/waterfall"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Jimbaran Beach": {
+  "found": "Jimbaran Beach, Jalan Bukit Permai, Jimbaran, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.78089,
+  "lon": 115.16392,
+  "osm_name": "Jimbaran Beach",
+  "type": "natural/beach"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ngurah Rai International Airport": {
+  "found": "Ngurah Rai International Airport, Jalan Bandara Ngurah Rai, Tuban, Denpasar, Badung, Bali, 80361, Indonesia",
+  "lat": -8.74652,
+  "lon": 115.16737,
+  "osm_name": "Ngurah Rai International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua": {
+  "found": "Nusa Dua, Kuta Selatan, Badung, Bali, 80363, Indonesia",
+  "lat": -8.80168,
+  "lon": 115.22393,
+  "osm_name": "Nusa Dua",
+  "type": "place/region"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua Beach": {
+  "found": "Nusa Dua Beach, Jalan Pratama, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.78846,
+  "lon": 115.23022,
+  "osm_name": "Nusa Dua Beach",
+  "type": "natural/beach"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Pura Lempuyang Luhur": {
+  "found": "Pura Lempuyang Luhur, Temple Path Steps, Tri Buana, Abang, Karangasem, Bali, 80852, Indonesia",
+  "lat": -8.39519,
+  "lon": 115.64806,
+  "osm_name": "Pura Lempuyang Luhur",
+  "type": "amenity/place_of_worship"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Sacred Monkey Forest Sanctuary": {
+  "found": "Sacred Monkey Forest Sanctuary, Ubud, Mas, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.51873,
+  "lon": 115.25832,
+  "osm_name": "Sacred Monkey Forest Sanctuary",
+  "type": "leisure/nature_reserve"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tanah Lot": {
+  "found": "Tanah Lot Temple, Jalan Enjung Pura, Batugaing, Beraban, Kediri, Tabanan, Bali, 82121, Indonesia",
+  "lat": -8.62123,
+  "lon": 115.08688,
+  "osm_name": "Tanah Lot Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tanjung Benoa": {
+  "found": "Tanjung Benoa, Gang Guntur, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+  "lat": -8.76574,
+  "lon": 115.22326,
+  "osm_name": "Tanjung Benoa",
+  "type": "natural/beach"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terrace": {
+  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.42855,
+  "lon": 115.27988,
+  "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Tirta Gangga": {
+  "found": "Gang Tirta Gangga, Panjer, South Denpasar, Denpasar, Bali, 80225, Indonesia",
+  "lat": -8.6763,
+  "lon": 115.22761,
+  "osm_name": "Gang Tirta Gangga",
+  "type": "highway/residential"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ubud": {
+  "found": "Ubud District, Gianyar, Bali, Indonesia",
+  "lat": -8.51702,
+  "lon": 115.25505,
+  "osm_name": "Ubud District",
+  "type": "boundary/administrative"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ubud Art Market": {
+  "found": "Art market, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50654,
+  "lon": 115.26165,
+  "osm_name": "Art market",
+  "type": "shop/variety_store"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Ubud Palace": {
+  "found": "Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50695,
+  "lon": 115.26274,
+  "osm_name": "Ubud Palace",
+  "type": "highway/bus_stop"
+ },
+ "id|[-8.86, 114.42, -8.05, 115.72]|Uluwatu Temple": {
+  "found": "Uluwatu Temple, Jalan Raya Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+  "lat": -8.82937,
+  "lon": 115.08434,
+  "osm_name": "Uluwatu Temple",
+  "type": "amenity/place_of_worship"
+ },
  "in|56 Dukan Indore": null,
  "in|Achabal": {
   "found": "Achabal, Anantnag, Jammu and Kashmir, 192201, India",
@@ -1390,111 +1495,6 @@
   "osm_name": "Main Temple, Yogapith",
   "type": "amenity/place_of_worship"
  },
- "id|[-8.86, 114.42, -8.05, 115.72]|Goa Raja Waterfall": {
-  "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
-  "lat": -8.43843,
-  "lon": 115.37233,
-  "osm_name": "Goa Raja waterfall",
-  "type": "waterway/waterfall"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Jimbaran Beach": {
-  "found": "Jimbaran Beach, Jalan Bukit Permai, Jimbaran, Kuta Selatan, Badung, Bali, 80361, Indonesia",
-  "lat": -8.78089,
-  "lon": 115.16392,
-  "osm_name": "Jimbaran Beach",
-  "type": "natural/beach"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Ngurah Rai International Airport": {
-  "found": "Ngurah Rai International Airport, Jalan Bandara Ngurah Rai, Tuban, Denpasar, Badung, Bali, 80361, Indonesia",
-  "lat": -8.74652,
-  "lon": 115.16737,
-  "osm_name": "Ngurah Rai International Airport",
-  "type": "aeroway/aerodrome"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua": {
-  "found": "Nusa Dua, Kuta Selatan, Badung, Bali, 80363, Indonesia",
-  "lat": -8.80168,
-  "lon": 115.22393,
-  "osm_name": "Nusa Dua",
-  "type": "place/region"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Nusa Dua Beach": {
-  "found": "Nusa Dua Beach, Jalan Pratama, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
-  "lat": -8.78846,
-  "lon": 115.23022,
-  "osm_name": "Nusa Dua Beach",
-  "type": "natural/beach"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Pura Lempuyang Luhur": {
-  "found": "Pura Lempuyang Luhur, Temple Path Steps, Tri Buana, Abang, Karangasem, Bali, 80852, Indonesia",
-  "lat": -8.39519,
-  "lon": 115.64806,
-  "osm_name": "Pura Lempuyang Luhur",
-  "type": "amenity/place_of_worship"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Sacred Monkey Forest Sanctuary": {
-  "found": "Sacred Monkey Forest Sanctuary, Ubud, Mas, Ubud District, Gianyar, Bali, 80571, Indonesia",
-  "lat": -8.51873,
-  "lon": 115.25832,
-  "osm_name": "Sacred Monkey Forest Sanctuary",
-  "type": "leisure/nature_reserve"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Tanah Lot": {
-  "found": "Tanah Lot Temple, Jalan Enjung Pura, Batugaing, Beraban, Kediri, Tabanan, Bali, 82121, Indonesia",
-  "lat": -8.62123,
-  "lon": 115.08688,
-  "osm_name": "Tanah Lot Temple",
-  "type": "amenity/place_of_worship"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Tanjung Benoa": {
-  "found": "Tanjung Benoa, Gang Guntur, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
-  "lat": -8.76574,
-  "lon": 115.22326,
-  "osm_name": "Tanjung Benoa",
-  "type": "natural/beach"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terrace": {
-  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
-  "lat": -8.42855,
-  "lon": 115.27988,
-  "osm_name": "Mupu Rice Terrace",
-  "type": "landuse/farmland"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Tirta Gangga": {
-  "found": "Gang Tirta Gangga, Panjer, South Denpasar, Denpasar, Bali, 80225, Indonesia",
-  "lat": -8.6763,
-  "lon": 115.22761,
-  "osm_name": "Gang Tirta Gangga",
-  "type": "highway/residential"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Ubud": {
-  "found": "Ubud District, Gianyar, Bali, Indonesia",
-  "lat": -8.51702,
-  "lon": 115.25505,
-  "osm_name": "Ubud District",
-  "type": "boundary/administrative"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Ubud Art Market": {
-  "found": "Art market, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
-  "lat": -8.50654,
-  "lon": 115.26165,
-  "osm_name": "Art market",
-  "type": "shop/variety_store"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Ubud Palace": {
-  "found": "Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
-  "lat": -8.50695,
-  "lon": 115.26274,
-  "osm_name": "Ubud Palace",
-  "type": "highway/bus_stop"
- },
- "id|[-8.86, 114.42, -8.05, 115.72]|Uluwatu Temple": {
-  "found": "Uluwatu Temple, Jalan Raya Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, 80361, Indonesia",
-  "lat": -8.82937,
-  "lon": 115.08434,
-  "osm_name": "Uluwatu Temple",
-  "type": "amenity/place_of_worship"
- },
  "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ceking Rice Terrace": null,
  "v2|id|[-8.86, 114.42, -8.05, 115.72]|Goa Raja Waterfall": {
   "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
@@ -1621,5 +1621,1616 @@
   "lon": 115.08434,
   "osm_name": "Uluwatu Temple",
   "type": "amenity/place_of_worship"
+ },
+ "v2|in||56 Dukan Indore": null,
+ "v2|in||Achabal": {
+  "found": "Achabal, Anantnag, Jammu and Kashmir, 192201, India",
+  "lat": 33.68394,
+  "lon": 75.21947,
+  "osm_name": "Achabal",
+  "type": "place/town"
+ },
+ "v2|in||Achabal Gardens": null,
+ "v2|in||Aerial Bay Jetty": null,
+ "v2|in||Ahmedabad": {
+  "found": "Ahmedabad, Gujarat, 380001, India",
+  "lat": 23.02154,
+  "lon": 72.58006,
+  "osm_name": "Ahmedabad",
+  "type": "place/city"
+ },
+ "v2|in||Alchi": {
+  "found": "Alchi, Sham, Ladakh, India",
+  "lat": 34.22363,
+  "lon": 77.17406,
+  "osm_name": "Alchi",
+  "type": "landuse/farmyard"
+ },
+ "v2|in||Alchi Monastery": null,
+ "v2|in||Amritsar": {
+  "found": "Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+  "lat": 31.63567,
+  "lon": 74.87875,
+  "osm_name": "Amritsar",
+  "type": "place/city"
+ },
+ "v2|in||Amritsar Junction": {
+  "found": "Amritsar Junction, GT Road;Sher Shah Suri Marg, Cantonment, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+  "lat": 31.63321,
+  "lon": 74.86714,
+  "osm_name": "Amritsar Junction",
+  "type": "railway/station"
+ },
+ "v2|in||Andhra Bhavan Canteen": {
+  "found": "Andhra Bhawan Canteen, 1, rotary no 4, Central Vista, New Delhi, Delhi, 110503, India",
+  "lat": 28.61692,
+  "lon": 77.226,
+  "osm_name": "Andhra Bhawan Canteen",
+  "type": "amenity/restaurant"
+ },
+ "v2|in||Apharwat Peak": {
+  "found": "Apharwat, Tangmarg, Baramulla, Jammu and Kashmir, 193403, India",
+  "lat": 34.02044,
+  "lon": 74.33699,
+  "osm_name": "Apharwat",
+  "type": "natural/peak"
+ },
+ "v2|in||Aru Valley": null,
+ "v2|in||Atal Bridge Ahmedabad": {
+  "found": "Atal Pedestrian Bridge, Kochrab, SabarmatiTaluka, Ahmedabad, Gujarat, 380043, India",
+  "lat": 23.0164,
+  "lon": 72.57556,
+  "osm_name": "Atal Pedestrian Bridge",
+  "type": "highway/pedestrian"
+ },
+ "v2|in||Athirappilly": {
+  "found": "Athirappilly, Chalakkudy, Thrissur, Kerala, India",
+  "lat": 10.28812,
+  "lon": 76.55849,
+  "osm_name": "Athirappilly",
+  "type": "place/village"
+ },
+ "v2|in||Athirappilly Falls": {
+  "found": "Athirappilly Falls, Aluva, Ernakulam, Kerala, India",
+  "lat": 10.2848,
+  "lon": 76.56912,
+  "osm_name": "Athirappilly Falls",
+  "type": "waterway/waterfall"
+ },
+ "v2|in||Attari Wagah Border": {
+  "found": "Bus (directly) to Wagah/Attari border, Sher Shah Suri Marg, Sharifpura, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+  "lat": 31.63053,
+  "lon": 74.88349,
+  "osm_name": "Bus (directly) to Wagah/Attari border",
+  "type": "highway/bus_stop"
+ },
+ "v2|in||Avantiswami Temple": null,
+ "v2|in||Bagori Range Kaziranga": {
+  "found": "Kaziranga Western Range (Elephant Safari Point), NH715, Bagori, Kaliabor, Nagaon, Assam, India",
+  "lat": 26.58097,
+  "lon": 93.29081,
+  "osm_name": "Kaziranga Western Range (Elephant Safari Point)",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Banasura Sagar Dam": {
+  "found": "Banasura Sagar Dam, Vythiri, Wayanad, Kerala, India",
+  "lat": 11.59882,
+  "lon": 75.91908,
+  "osm_name": "Banasura Sagar Dam",
+  "type": "waterway/dam"
+ },
+ "v2|in||Bara Imambara": {
+  "found": "Bara Imambara, Azadari Road, Chowk, Lucknow, Uttar Pradesh, 226001, India",
+  "lat": 26.86966,
+  "lon": 80.91351,
+  "osm_name": "Bara Imambara",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Baratang": {
+  "found": "Baratang Island, Gandhighat Jetty, Rangat, North and Middle Andaman, Andaman and Nicobar Islands, 744210, India",
+  "lat": 12.18832,
+  "lon": 92.81104,
+  "osm_name": "Baratang Island",
+  "type": "place/island"
+ },
+ "v2|in||Baratang Limestone Caves": null,
+ "v2|in||Bardan Monastery": {
+  "found": "Bardan Monastery, Padum Reru Road, Kargil district, Ladakh, India",
+  "lat": 33.39815,
+  "lon": 76.91942,
+  "osm_name": "Bardan Monastery",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Basgo Monastery": null,
+ "v2|in||Batalik": {
+  "found": "Batalik, Kargil Tehsil, Kargil district, Ladakh, India",
+  "lat": 34.65577,
+  "lon": 76.33943,
+  "osm_name": "Batalik",
+  "type": "place/village"
+ },
+ "v2|in||Bekal": {
+  "found": "Bekal, Hosdurg, Kasaragod, Kerala, 671316, India",
+  "lat": 12.39573,
+  "lon": 75.03719,
+  "osm_name": "Bekal",
+  "type": "place/village"
+ },
+ "v2|in||Bekal Fort": {
+  "found": "Bekal Fort, Bekal Fort Road, Bekal, Hosdurg, Kasaragod, Kerala, 671316, India",
+  "lat": 12.39222,
+  "lon": 75.03277,
+  "osm_name": "Bekal Fort",
+  "type": "historic/fort"
+ },
+ "v2|in||Belur Math": {
+  "found": "Belur Math, Ramanath Bhattacharya St, Howrah, Greater Kolkata, Howrah, West Bengal, 711202, India",
+  "lat": 22.6313,
+  "lon": 88.35058,
+  "osm_name": "Belur Math",
+  "type": "railway/station"
+ },
+ "v2|in||Betaab Valley": null,
+ "v2|in||Bhalukpong": {
+  "found": "Bhalukpong, Bhalukpong EAC, West Kameng, Arunachal Pradesh, 790114, India",
+  "lat": 27.01372,
+  "lon": 92.63581,
+  "osm_name": "Bhalukpong",
+  "type": "place/town"
+ },
+ "v2|in||Bharatpur Beach Neil": null,
+ "v2|in||Bhomoraguri Tezpur": null,
+ "v2|in||Bomdila": {
+  "found": "Bomdila, Bomdila HQ, West Kameng, Arunachal Pradesh, India",
+  "lat": 27.26444,
+  "lon": 92.42065,
+  "osm_name": "Bomdila",
+  "type": "place/city"
+ },
+ "v2|in||Bomdila Monastery": {
+  "found": "Bomdila Monastery (Upper Gompa), Bazar Line, Main Bazar, Hawa Golai, Bomdila, Bomdila HQ, West Kameng, Arunachal Pradesh, India",
+  "lat": 27.2708,
+  "lon": 92.4187,
+  "osm_name": "Bomdila Monastery (Upper Gompa)",
+  "type": "amenity/monastery"
+ },
+ "v2|in||Britannia and Co Restaurant": null,
+ "v2|in||Bumla Pass": null,
+ "v2|in||Cellular Jail": {
+  "found": "Cellular Jail, GB Pant Road, Port Blair, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, 744101, India",
+  "lat": 11.67445,
+  "lon": 92.74779,
+  "osm_name": "Cellular Jail",
+  "type": "historic/monument"
+ },
+ "v2|in||Chain Tree Wayanad": null,
+ "v2|in||Chakwali Gurez": null,
+ "v2|in||Chandanwari": {
+  "found": "chandanwari, Pahalgam, Anantnag, Jammu and Kashmir, India",
+  "lat": 34.08044,
+  "lon": 75.41762,
+  "osm_name": "chandanwari",
+  "type": "place/hamlet"
+ },
+ "v2|in||Chang La": {
+  "found": "Chang La, Nubra, Ladakh, India",
+  "lat": 34.04717,
+  "lon": 77.93044,
+  "osm_name": "Chang La",
+  "type": "mountain_pass/yes"
+ },
+ "v2|in||Cheeyappara Falls": null,
+ "v2|in||Cheeyappara Waterfalls": {
+  "found": "Cheeyappara Waterfalls, Devikulam, Idukki, Kerala, India",
+  "lat": 10.05412,
+  "lon": 76.82987,
+  "osm_name": "Cheeyappara Waterfalls",
+  "type": "waterway/waterfall"
+ },
+ "v2|in||Cherrapunji": {
+  "found": "Sohra (Cherrapunji), Shella Bholaganj, East Khasi Hills, Meghalaya, 793108, India",
+  "lat": 25.27773,
+  "lon": 91.72924,
+  "osm_name": "Sohra (Cherrapunji)",
+  "type": "place/town"
+ },
+ "v2|in||Chhatrapati Shivaji Maharaj International Airport": {
+  "found": "Chhatrapati Shivaji Maharaj International Airport, Air India Road, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400098, India",
+  "lat": 19.09014,
+  "lon": 72.86382,
+  "osm_name": "Chhatrapati Shivaji Maharaj International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Chhatrapati Shivaji Maharaj Terminus": {
+  "found": "Chhatrapati Shivaji Maharaj Terminus, CSMT, Bori Bunder, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400038, India",
+  "lat": 18.93986,
+  "lon": 72.83552,
+  "osm_name": "Chhatrapati Shivaji Maharaj Terminus",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Chidiya Tapu": {
+  "found": "Chidiya Tapu, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, India",
+  "lat": 11.50322,
+  "lon": 92.7013,
+  "osm_name": "Chidiya Tapu",
+  "type": "place/locality"
+ },
+ "v2|in||Chinese Fishing Nets Fort Kochi": {
+  "found": "Chinese Fishing Nets, River Road, Fort Nagar, Fort Vypin, Fort Kochi, Kochi, Ernakulam, Kerala, 682001, India",
+  "lat": 9.96819,
+  "lon": 76.24217,
+  "osm_name": "Chinese Fishing Nets",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Chota Imambara": {
+  "found": "Chhota Imambara, Daulatganj Road, Husainabad, Lucknow, Uttar Pradesh, 266003, India",
+  "lat": 26.87368,
+  "lon": 80.90434,
+  "osm_name": "Chhota Imambara",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Chowk Lucknow": {
+  "found": "Chowk, Lucknow, Uttar Pradesh, 266003, India",
+  "lat": 26.86771,
+  "lon": 80.90421,
+  "osm_name": "Chowk",
+  "type": "place/suburb"
+ },
+ "v2|in||Chushul": {
+  "found": "Chushul, Leh district, Ladakh, India",
+  "lat": 33.60091,
+  "lon": 78.64407,
+  "osm_name": "Chushul",
+  "type": "place/village"
+ },
+ "v2|in||Cochin International Airport": {
+  "found": "Cochin International Airport, Piraroor Thuravungara Road, Mattapuram Colony, Kochi, Aluva, Ernakulam, Kerala, 683574, India",
+  "lat": 10.15449,
+  "lon": 76.39249,
+  "osm_name": "Cochin International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Colaba Causeway": {
+  "found": "Nanabhai Moos Marg (Upper Colaba Road), Machimar Nagar, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",
+  "lat": 18.91765,
+  "lon": 72.82772,
+  "osm_name": "Nanabhai Moos Marg (Upper Colaba Road)",
+  "type": "highway/secondary"
+ },
+ "v2|in||Connaught Place": {
+  "found": "Connaught Place, New Delhi, Delhi, 110001, India",
+  "lat": 28.63177,
+  "lon": 77.21938,
+  "osm_name": "Connaught Place",
+  "type": "place/suburb"
+ },
+ "v2|in||Corbyn's Cove Beach": null,
+ "v2|in||Dakshineswar": {
+  "found": "Dakshineswar, Bally, Greater Kolkata, Barrackpur - II, North 24 Parganas, West Bengal, 700057, India",
+  "lat": 22.65575,
+  "lon": 88.36064,
+  "osm_name": "Dakshineswar",
+  "type": "place/suburb"
+ },
+ "v2|in||Dakshineswar Kali Temple": {
+  "found": "Dakshineswar Kali Hindu Temple, Vivekananda Setu, Dakshineswar, Kolkata, Greater Kolkata, Barrackpur - II, North 24 Parganas, West Bengal, 700076, India",
+  "lat": 22.65483,
+  "lon": 88.35758,
+  "osm_name": "Dakshineswar Kali Hindu Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Daksum": {
+  "found": "Daksum, Kokernag Tehsil, Anantnag, Jammu and Kashmir, India",
+  "lat": 33.60916,
+  "lon": 75.41478,
+  "osm_name": "Daksum",
+  "type": "place/village"
+ },
+ "v2|in||Dal Lake": {
+  "found": "Dal Lake, Srinagar, Jammu and Kashmir, India",
+  "lat": 34.11372,
+  "lon": 74.87001,
+  "osm_name": "Dal Lake",
+  "type": "water/lake"
+ },
+ "v2|in||Dawar": {
+  "found": "Dawar, Narwar Tahsil, Shivpuri, Madhya Pradesh, India",
+  "lat": 25.56738,
+  "lon": 78.0693,
+  "osm_name": "Dawar",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Dawar Gurez": {
+  "found": "Government Degree College Gurez, Dawar, Bāramūla, Bandipore, Jammu and Kashmir, 193503, India",
+  "lat": 34.63423,
+  "lon": 74.81611,
+  "osm_name": "Government Degree College Gurez",
+  "type": "amenity/college"
+ },
+ "v2|in||Dawki": {
+  "found": "Dawki, Amlarem, West Jaintia Hills, Meghalaya, India",
+  "lat": 25.18563,
+  "lon": 92.02157,
+  "osm_name": "Dawki",
+  "type": "place/village"
+ },
+ "v2|in||Dehradun": {
+  "found": "Dehradun, Uttarakhand, 248001, India",
+  "lat": 30.32556,
+  "lon": 78.04368,
+  "osm_name": "Dehradun",
+  "type": "place/city"
+ },
+ "v2|in||Dehradun Railway Station": {
+  "found": "Dehradun Railway Station, Dehradun, Uttarakhand, 248001, India",
+  "lat": 30.3125,
+  "lon": 78.03354,
+  "osm_name": "Dehradun Railway Station",
+  "type": "landuse/railway"
+ },
+ "v2|in||Delhi": {
+  "found": "Delhi, India",
+  "lat": 28.6328,
+  "lon": 77.21977,
+  "osm_name": "Delhi",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Dha": {
+  "found": "Dha, Raghogarh Tahsil, Guna, Madhya Pradesh, India",
+  "lat": 24.53644,
+  "lon": 77.2567,
+  "osm_name": "Dha",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Dha Village": {
+  "found": "Dah, Sham, Ladakh, India",
+  "lat": 34.62381,
+  "lon": 76.48042,
+  "osm_name": "Dah",
+  "type": "place/village"
+ },
+ "v2|in||Diglipur": {
+  "found": "Diglipur, North and Middle Andaman, Andaman and Nicobar Islands, 744202, India",
+  "lat": 13.22771,
+  "lon": 92.93949,
+  "osm_name": "Diglipur",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Dilli Haat INA": {
+  "found": "Dilli Haat - INA (Pink Line), Maharaja Agrasen Marg, Laxmi Bai Nagar, Kidwai Nagar, New Delhi, Delhi, 110023, India",
+  "lat": 28.57365,
+  "lon": 77.20759,
+  "osm_name": "Dilli Haat - INA (Pink Line)",
+  "type": "railway/station"
+ },
+ "v2|in||Diphlu River Lodge": null,
+ "v2|in||Dirang": {
+  "found": "Dirang, Dirang ADC, West Kameng, Arunachal Pradesh, India",
+  "lat": 27.36008,
+  "lon": 92.24121,
+  "osm_name": "Dirang",
+  "type": "place/town"
+ },
+ "v2|in||Dirang Dzong": {
+  "found": "Dirang Dzong, Dirang ADC, West Kameng, Arunachal Pradesh, 790101, India",
+  "lat": 27.34325,
+  "lon": 92.27167,
+  "osm_name": "Dirang Dzong",
+  "type": "place/village"
+ },
+ "v2|in||Diskit Monastery": null,
+ "v2|in||Dobanki Watch Tower": {
+  "found": "Dobanki Watch Tower, Dobanki Watch Tower Road, Gosaba, South 24 Parganas, West Bengal, India",
+  "lat": 21.98891,
+  "lon": 88.75583,
+  "osm_name": "Dobanki Watch Tower",
+  "type": "man_made/tower"
+ },
+ "v2|in||Doodhpathri": {
+  "found": "Doodhpathri, Khansahib Tehsil, Budgam, Jammu and Kashmir, India",
+  "lat": 33.86142,
+  "lon": 74.56717,
+  "osm_name": "Doodhpathri",
+  "type": "place/locality"
+ },
+ "v2|in||Drang Drung Glacier": {
+  "found": "Drang Drung Glacier, Marwah, Zanskar, Ladakh, India",
+  "lat": 33.75853,
+  "lon": 76.28802,
+  "osm_name": "Drang Drung Glacier",
+  "type": "natural/glacier"
+ },
+ "v2|in||Echo Point Munnar": {
+  "found": "Echo point, Munnar-Top Station Highway, Mattupetty, Devikulam, Idukki, Kerala, 685616, India",
+  "lat": 10.12075,
+  "lon": 77.15174,
+  "osm_name": "Echo point",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Edakkal Caves": {
+  "found": "Edakkal Caves, Edakkal Caves Road, Ambukuthy, Sultan Bathery, Sulthanbathery, Wayanad, Kerala, 673593, India",
+  "lat": 11.62668,
+  "lon": 76.23548,
+  "osm_name": "Edakkal Caves",
+  "type": "natural/cave_entrance"
+ },
+ "v2|in||Elephant Beach Havelock": {
+  "found": "Silver Sand Havelock beach resort, Path to Elephant Beach, Krishna nagar village, South Andaman, Andaman and Nicobar Islands, 744211, India",
+  "lat": 12.01046,
+  "lon": 93.00705,
+  "osm_name": "Silver Sand Havelock beach resort",
+  "type": "tourism/hotel"
+ },
+ "v2|in||Elephant Falls Shillong": null,
+ "v2|in||Eravikulam National Park": {
+  "found": "Eravikulam National Park, Lakkomukudi, Devikulam, Idukki, Kerala, India",
+  "lat": 10.22751,
+  "lon": 77.07432,
+  "osm_name": "Eravikulam National Park",
+  "type": "boundary/protected_area"
+ },
+ "v2|in||Ghatkopar Khau Galli": null,
+ "v2|in||Godkhali": {
+  "found": "Godkhali, Gosaba, South 24 Parganas, West Bengal, 743370, India",
+  "lat": 22.16471,
+  "lon": 88.76717,
+  "osm_name": "Godkhali",
+  "type": "place/suburb"
+ },
+ "v2|in||Godkhali Ferry Ghat": null,
+ "v2|in||Golden Temple": {
+  "found": "Shri Harmandir Sahib, Golden Temple Road, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+  "lat": 31.61998,
+  "lon": 74.87653,
+  "osm_name": "Shri Harmandir Sahib",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Gondal": {
+  "found": "Gondal, NH27, Gondal, Gondal Taluka, Rajkot, Gujarat, 360300, India",
+  "lat": 21.97218,
+  "lon": 70.79552,
+  "osm_name": "Gondal",
+  "type": "railway/station"
+ },
+ "v2|in||Gulmarg": {
+  "found": "Gulmarg, Tangmarg, Baramulla, Jammu and Kashmir, 193403, India",
+  "lat": 34.04897,
+  "lon": 74.39212,
+  "osm_name": "Gulmarg",
+  "type": "place/village"
+ },
+ "v2|in||Gulmarg Gondola Base Station": null,
+ "v2|in||Guru Kripa Indore": {
+  "found": "Shree Guru Kripa Hospital, Airport Road, Indore City, Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India",
+  "lat": 22.72474,
+  "lon": 75.82518,
+  "osm_name": "Shree Guru Kripa Hospital",
+  "type": "amenity/hospital"
+ },
+ "v2|in||Guru Ram Das Langar": null,
+ "v2|in||Gurudwara Pathar Sahib": null,
+ "v2|in||Guwahati": {
+  "found": "Guwahati, Kamrup Metropolitan, Assam, 781001, India",
+  "lat": 26.1806,
+  "lon": 91.75394,
+  "osm_name": "Guwahati",
+  "type": "place/city"
+ },
+ "v2|in||Habba Khatoon Peak": null,
+ "v2|in||Hall of Fame Leh": null,
+ "v2|in||Hanle": {
+  "found": "Hanle, Leh district, Ladakh, India",
+  "lat": 32.77148,
+  "lon": 78.98321,
+  "osm_name": "Hanle",
+  "type": "place/village"
+ },
+ "v2|in||Hanle Monastery": {
+  "found": "Hanle Gompa, Hanle Monastery, Hanle- Photi La, Hanle, Leh district, Ladakh, India",
+  "lat": 32.7906,
+  "lon": 79.00204,
+  "osm_name": "Hanle Gompa",
+  "type": "building/yes"
+ },
+ "v2|in||Har Ki Dun": {
+  "found": "Har Ki Dun, Mori, Uttarkashi, Uttarakhand, India",
+  "lat": 31.14813,
+  "lon": 78.43242,
+  "osm_name": "Har Ki Dun",
+  "type": "landuse/meadow"
+ },
+ "v2|in||Hauz Khas Village": {
+  "found": "Hauz Khas Village, Hauz Khas, South, Delhi, South Delhi, Delhi, India",
+  "lat": 28.55337,
+  "lon": 77.19485,
+  "osm_name": "Hauz Khas Village",
+  "type": "landuse/commercial"
+ },
+ "v2|in||Havelock": {
+  "found": "Havelock island, Vijay Nagar, South Andaman, Andaman and Nicobar Islands, 744211, India",
+  "lat": 11.9652,
+  "lon": 92.99562,
+  "osm_name": "Havelock island",
+  "type": "place/island"
+ },
+ "v2|in||Hazratganj": {
+  "found": "Hazratganj, Lucknow, Uttar Pradesh, India",
+  "lat": 26.84753,
+  "lon": 80.9432,
+  "osm_name": "Hazratganj",
+  "type": "landuse/commercial"
+ },
+ "v2|in||Hemis Monastery": null,
+ "v2|in||Howrah Bridge": {
+  "found": "Howrah Bridge, RBC Road, Howrah Maidan, Howrah, Greater Kolkata, Howrah, West Bengal, 711101, India",
+  "lat": 22.58509,
+  "lon": 88.34682,
+  "osm_name": "Howrah Bridge",
+  "type": "man_made/bridge"
+ },
+ "v2|in||Hunder": {
+  "found": "Hundar, Nubra, Ladakh, 194401, India",
+  "lat": 34.58409,
+  "lon": 77.47183,
+  "osm_name": "Hundar",
+  "type": "place/village"
+ },
+ "v2|in||Hunder Sand Dunes": {
+  "found": "Hunder Sand Dunes, Diskit, Nubra, Ladakh, 194401, India",
+  "lat": 34.57,
+  "lon": 77.50398,
+  "osm_name": "Hunder Sand Dunes",
+  "type": "natural/sand"
+ },
+ "v2|in||ISKCON Mayapur": {
+  "found": "Mayapur, Nabadwip, Nadia, West Bengal, 741313, India",
+  "lat": 23.42342,
+  "lon": 88.39081,
+  "osm_name": "Mayapur",
+  "type": "place/town"
+ },
+ "v2|in||India Gate": {
+  "found": "India Gate, Shahjahan Road, Pandara Park, Central Vista, New Delhi, Delhi, 110503, India",
+  "lat": 28.61293,
+  "lon": 77.22949,
+  "osm_name": "India Gate",
+  "type": "historic/monument"
+ },
+ "v2|in||Indian Astronomical Observatory Hanle": {
+  "found": "Indian Astronomical Observatory, Hanle, Hanle, Leh district, Ladakh, India",
+  "lat": 32.7794,
+  "lon": 78.96423,
+  "osm_name": "Indian Astronomical Observatory, Hanle",
+  "type": "landuse/observatory"
+ },
+ "v2|in||Indore": {
+  "found": "Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India",
+  "lat": 22.72036,
+  "lon": 75.8682,
+  "osm_name": "Indore",
+  "type": "place/city"
+ },
+ "v2|in||Jahaz Mahal Mandu": null,
+ "v2|in||Jallianwala Bagh": {
+  "found": "Jallianwala Bagh, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+  "lat": 31.62085,
+  "lon": 74.88013,
+  "osm_name": "Jallianwala Bagh",
+  "type": "leisure/park"
+ },
+ "v2|in||Jama Masjid Delhi": {
+  "found": "Jama Masjid, Meena Bazaar, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110006, India",
+  "lat": 28.65068,
+  "lon": 77.23296,
+  "osm_name": "Jama Masjid",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Jaswant Garh War Memorial": null,
+ "v2|in||Jirkatang Check Post": null,
+ "v2|in||Jorasanko Thakur Bari": {
+  "found": "Jorasanko Thakur Bari, Madan Chatterjee Lane, Machua Bazar North, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700007, India",
+  "lat": 22.585,
+  "lon": 88.35905,
+  "osm_name": "Jorasanko Thakur Bari",
+  "type": "tourism/museum"
+ },
+ "v2|in||Juhu Beach": {
+  "found": "Juhu Beach, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+  "lat": 19.10265,
+  "lon": 72.82468,
+  "osm_name": "Juhu Beach",
+  "type": "natural/beach"
+ },
+ "v2|in||Kalighat Kali Temple": {
+  "found": "Kalighat Kali Temple, Kali Temple Road, Manoharpukur, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700026, India",
+  "lat": 22.52021,
+  "lon": 88.34206,
+  "osm_name": "Kalighat Kali Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Kalkatiyadhar": null,
+ "v2|in||Kamakhya Temple": {
+  "found": "Kamakhya Temple, Pandu Kamakhya Road, Kamakhya Dham, Maligaon, Guwahati, Kamrup Metropolitan, Assam, 781010, India",
+  "lat": 26.16511,
+  "lon": 91.70593,
+  "osm_name": "Kamakhya Temple",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Kannur": {
+  "found": "Kannur, Kerala, 670004, India",
+  "lat": 11.87638,
+  "lon": 75.3738,
+  "osm_name": "Kannur",
+  "type": "place/city"
+ },
+ "v2|in||Kappad Beach": {
+  "found": "Kappad Beach Resort, Koilandy - Kappad Road, Thuvappara, Chemanchery, Koyilandi, Kozhikode, Kerala, 673304, India",
+  "lat": 11.39558,
+  "lon": 75.71355,
+  "osm_name": "Kappad Beach Resort",
+  "type": "tourism/hotel"
+ },
+ "v2|in||Kappil Beach": {
+  "found": "kappil, Kappil, Hosdurg, Kasaragod, Kerala, 671319, India",
+  "lat": 12.42587,
+  "lon": 75.01126,
+  "osm_name": "kappil",
+  "type": "natural/beach"
+ },
+ "v2|in||Kargil": {
+  "found": "Kargil, Ladakh, India",
+  "lat": 33.80282,
+  "lon": 76.47301,
+  "osm_name": "Kargil",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Karsha Monastery": {
+  "found": "Karsha Monastery, Padum Pibiting Road, Yulang, Kargil district, Ladakh, India",
+  "lat": 33.53263,
+  "lon": 76.90466,
+  "osm_name": "Karsha Monastery",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Kaziranga": {
+  "found": "Kaziranga, Kohara, Bokakhat, Golaghat, Assam, 785609, India",
+  "lat": 26.58925,
+  "lon": 93.40847,
+  "osm_name": "Kaziranga",
+  "type": "place/hamlet"
+ },
+ "v2|in||Kaziranga National Orchid and Biodiversity Park": {
+  "found": "Kaziranga National Orchid and Biodiversity Park, Kohara, Bokakhat, Golaghat, Assam, India",
+  "lat": 26.58597,
+  "lon": 93.42802,
+  "osm_name": "Kaziranga National Orchid and Biodiversity Park",
+  "type": "leisure/park"
+ },
+ "v2|in||Kaziranga National Park Central Range Kohora": null,
+ "v2|in||Kesar Da Dhaba": {
+  "found": "Kesar Da Dhaba, NH354, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+  "lat": 31.6242,
+  "lon": 74.87282,
+  "osm_name": "Kesar Da Dhaba",
+  "type": "amenity/restaurant"
+ },
+ "v2|in||Khardung La": {
+  "found": "Khardung La, Leh, Leh district, Ladakh, 194101, India",
+  "lat": 34.27866,
+  "lon": 77.60469,
+  "osm_name": "Khardung La",
+  "type": "mountain_pass/yes"
+ },
+ "v2|in||Khari Baoli": {
+  "found": "Khari Baoli Spice Market, Khari Baoli Road, Naya Bazaar, Sadar Bazar, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110006, India",
+  "lat": 28.6572,
+  "lon": 77.22285,
+  "osm_name": "Khari Baoli Spice Market",
+  "type": "amenity/marketplace"
+ },
+ "v2|in||Kochi": {
+  "found": "Kochi, Ernakulam, Kerala, 682001, India",
+  "lat": 9.9679,
+  "lon": 76.24444,
+  "osm_name": "Kochi",
+  "type": "place/city"
+ },
+ "v2|in||Kochi Airport": {
+  "found": "Cochin International Airport, Piraroor Thuravungara Road, Mattapuram Colony, Kochi, Aluva, Ernakulam, Kerala, 683574, India",
+  "lat": 10.15449,
+  "lon": 76.39249,
+  "osm_name": "Cochin International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Kokernag": {
+  "found": "Kokernag, Kokernag Tehsil, Anantnag, Jammu and Kashmir, 192202, India",
+  "lat": 33.58723,
+  "lon": 75.30125,
+  "osm_name": "Kokernag",
+  "type": "place/town"
+ },
+ "v2|in||Kolkata": {
+  "found": "Kolkata, Greater Kolkata, Kolkata, West Bengal, India",
+  "lat": 22.57265,
+  "lon": 88.3639,
+  "osm_name": "Kolkata",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Kongdoori": {
+  "found": "Kongdoori - Marry Shoulder, summer trail, Gulmarg, Tangmarg, Baramulla, Jammu and Kashmir, 193403, India",
+  "lat": 34.02855,
+  "lon": 74.3603,
+  "osm_name": "Kongdoori - Marry Shoulder",
+  "type": "aerialway/chair_lift"
+ },
+ "v2|in||Korzok": {
+  "found": "Korzok Kangri, Leh district, Ladakh, India",
+  "lat": 33.04492,
+  "lon": 78.23639,
+  "osm_name": "Korzok Kangri",
+  "type": "natural/peak"
+ },
+ "v2|in||Korzok Monastery": null,
+ "v2|in||Kozhikode": {
+  "found": "Kozhikode, Kerala, 673001, India",
+  "lat": 11.24506,
+  "lon": 75.77547,
+  "osm_name": "Kozhikode",
+  "type": "place/city"
+ },
+ "v2|in||Kozhikode Beach": {
+  "found": "Kozhikode Beach, Vellayil, Kozhikode, Kerala, India",
+  "lat": 11.25551,
+  "lon": 75.7697,
+  "osm_name": "Kozhikode Beach",
+  "type": "natural/beach"
+ },
+ "v2|in||Kumarakom": {
+  "found": "Kumarakom, Kottayam, Kerala, 686563, India",
+  "lat": 9.59605,
+  "lon": 76.43054,
+  "osm_name": "Kumarakom",
+  "type": "place/village"
+ },
+ "v2|in||Kumarakom Bird Sanctuary": {
+  "found": "Kumarakom Bird Sanctuary, Kottayam, Kerala, 686563, India",
+  "lat": 9.62736,
+  "lon": 76.42859,
+  "osm_name": "Kumarakom Bird Sanctuary",
+  "type": "leisure/park"
+ },
+ "v2|in||Kumily": {
+  "found": "Kumily, Peerumade, Idukki, Kerala, 685509, India",
+  "lat": 9.6068,
+  "lon": 77.1671,
+  "osm_name": "Kumily",
+  "type": "place/town"
+ },
+ "v2|in||Kundala Lake": null,
+ "v2|in||Kushok Bakula Rimpochee Airport": {
+  "found": "Leh Kushok Bakula Rimpochee Airport, Srinagar-Leh Highway, Karsa, Surchungchan, Spituk, Leh district, Ladakh, 194101, India",
+  "lat": 34.13526,
+  "lon": 77.54709,
+  "osm_name": "Leh Kushok Bakula Rimpochee Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Kyani and Co": null,
+ "v2|in||La Martiniere College": {
+  "found": "La Martinière College, Lucknow, La Martiniere Marg, Hazratganj, Lucknow, Uttar Pradesh, 226001, India",
+  "lat": 26.83968,
+  "lon": 80.96275,
+  "osm_name": "La Martinière College, Lucknow",
+  "type": "amenity/school"
+ },
+ "v2|in||Lakkidi View Point": null,
+ "v2|in||Lamayuru": {
+  "found": "Lamayuru, Sham, Ladakh, India",
+  "lat": 34.28271,
+  "lon": 76.77396,
+  "osm_name": "Lamayuru",
+  "type": "place/village"
+ },
+ "v2|in||Lamayuru Monastery": {
+  "found": "Lamayuru Monastery, Srinagar-Leh Highway, Lamayuru, Sham, Ladakh, India",
+  "lat": 34.2829,
+  "lon": 76.77416,
+  "osm_name": "Lamayuru Monastery",
+  "type": "amenity/monastery"
+ },
+ "v2|in||Laxmanpur Beach": null,
+ "v2|in||Leh": {
+  "found": "Leh, India",
+  "lat": 34.00411,
+  "lon": 77.65735,
+  "osm_name": "Leh",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Leh Market": {
+  "found": "KiguTak Market, Leh Khardung La Road, Chaktsal Gang, Leh, Leh district, Ladakh, 194195, India",
+  "lat": 34.15781,
+  "lon": 77.58525,
+  "osm_name": "KiguTak Market",
+  "type": "amenity/marketplace"
+ },
+ "v2|in||Leh Palace": {
+  "found": "Leh Palace, Sankar Road, Zangsti, Leh, Leh district, Ladakh, 194195, India",
+  "lat": 34.16595,
+  "lon": 77.5862,
+  "osm_name": "Leh Palace",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Leopold Cafe": {
+  "found": "Leopold Cafe, Nowroji Ferdonji Street, Apollo Bandar, Koli Nagar, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400039, India",
+  "lat": 18.92271,
+  "lon": 72.83176,
+  "osm_name": "Leopold Cafe",
+  "type": "amenity/restaurant"
+ },
+ "v2|in||Likir": {
+  "found": "Likir, Leh district, Ladakh, India",
+  "lat": 34.29265,
+  "lon": 77.21706,
+  "osm_name": "Likir",
+  "type": "place/village"
+ },
+ "v2|in||Likir Monastery": null,
+ "v2|in||Lockhart Gap": null,
+ "v2|in||Lokpriya Gopinath Bordoloi International Airport": {
+  "found": "Lokpriya Gopinath Bordoloi International Airport, NH17, Azara, Kamrup Metropolitan, Assam, 781015, India",
+  "lat": 26.11137,
+  "lon": 91.58307,
+  "osm_name": "Lokpriya Gopinath Bordoloi International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Lucknow": {
+  "found": "Lucknow, Uttar Pradesh, 226027, India",
+  "lat": 26.8381,
+  "lon": 80.9346,
+  "osm_name": "Lucknow",
+  "type": "place/city"
+ },
+ "v2|in||Magnetic Hill Ladakh": {
+  "found": "Magnetic Hill, Srinagar-Leh Highway, Chumkar, Leh district, Ladakh, India",
+  "lat": 34.17099,
+  "lon": 77.35248,
+  "osm_name": "Magnetic Hill",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Mahe Bridge": {
+  "found": "Mahe Bridge, Leh district, Ladakh, India",
+  "lat": 33.26903,
+  "lon": 78.46892,
+  "osm_name": "Mahe Bridge",
+  "type": "place/locality"
+ },
+ "v2|in||Mananchira Square": {
+  "found": "Mananchira Square, Oyitty Road, Sweetmeat Street, Mananchira, Kozhikode, Kerala, 673001, India",
+  "lat": 11.25428,
+  "lon": 75.78044,
+  "osm_name": "Mananchira Square",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Mandala Top Dirang": null,
+ "v2|in||Mandarmani": {
+  "found": "Mandarmani, Ramnagar-II, Purba Medinipur, West Bengal, India",
+  "lat": 21.66476,
+  "lon": 87.70534,
+  "osm_name": "Mandarmani",
+  "type": "place/village"
+ },
+ "v2|in||Mandarmani Beach": {
+  "found": "Mandarmani, Ramnagar-II, Purba Medinipur, West Bengal, India",
+  "lat": 21.65287,
+  "lon": 87.67307,
+  "osm_name": "Mandarmani",
+  "type": "natural/beach"
+ },
+ "v2|in||Mandu": {
+  "found": "Mandu, Ramgarh, Jharkhand, India",
+  "lat": 23.79785,
+  "lon": 85.52633,
+  "osm_name": "Mandu",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Manek Chowk": {
+  "found": "Manek Chowk, Kasturba Road, Porbandar Port, Porbandar, Porbandar Taluka, Porbandar, Gujarat, 360500, India",
+  "lat": 21.64086,
+  "lon": 69.6012,
+  "osm_name": "Manek Chowk",
+  "type": "junction/yes"
+ },
+ "v2|in||Mangalore International Airport": {
+  "found": "Mangalore International Airport, Airport Exit Rd, Kenjar, Mangaluru taluk, Dakshina Kannada, Karnataka, 575015, India",
+  "lat": 12.95462,
+  "lon": 74.88472,
+  "osm_name": "Mangalore International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Mangaluru Airport": {
+  "found": "Mangalore International Airport, Airport Entry Road (Arrivals), Kenjar, Mangaluru taluk, Dakshina Kannada, Karnataka, 574142, India",
+  "lat": 12.95462,
+  "lon": 74.88472,
+  "osm_name": "Mangalore International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Marble Palace Kolkata": {
+  "found": "Marble Palace, Muktaram Babu Street, Machua Bazar, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700007, India",
+  "lat": 22.58213,
+  "lon": 88.36021,
+  "osm_name": "Marble Palace",
+  "type": "tourism/museum"
+ },
+ "v2|in||Marinda Tal": null,
+ "v2|in||Marine Drive": {
+  "found": "Marine Drive, Girgaon, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400020, India",
+  "lat": 18.94994,
+  "lon": 72.8188,
+  "osm_name": "Marine Drive",
+  "type": "highway/primary"
+ },
+ "v2|in||Mattancherry Palace": {
+  "found": "Mattancherry Dutch Palace Complex, Jetthy Road, Jew Town, Mattancherry, Kochi, Ernakulam, Kerala, 628002, India",
+  "lat": 9.95835,
+  "lon": 76.25918,
+  "osm_name": "Mattancherry Dutch Palace Complex",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Mattupetty Dam": {
+  "found": "Mattupetty Dam, Mattupetty, Devikulam, Idukki, Kerala, India",
+  "lat": 10.1063,
+  "lon": 77.12391,
+  "osm_name": "Mattupetty Dam",
+  "type": "waterway/dam"
+ },
+ "v2|in||Mawlynnong": {
+  "found": "Mawlynnong, Pynursla, East Khasi Hills, Meghalaya, India",
+  "lat": 25.20195,
+  "lon": 91.91551,
+  "osm_name": "Mawlynnong",
+  "type": "place/hamlet"
+ },
+ "v2|in||Mawsmai Cave": {
+  "found": "Mawsmai, Nongthymmai, Shella Bholaganj, East Khasi Hills, Meghalaya, 793108, India",
+  "lat": 25.24262,
+  "lon": 91.73131,
+  "osm_name": "Mawsmai",
+  "type": "place/hamlet"
+ },
+ "v2|in||Mayabunder": {
+  "found": "Mayabunder, North and Middle Andaman, Andaman and Nicobar Islands, 744204, India",
+  "lat": 12.77017,
+  "lon": 92.83131,
+  "osm_name": "Mayabunder",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Mayapur": {
+  "found": "Mayapur, Nabadwip, Nadia, West Bengal, 741313, India",
+  "lat": 23.42342,
+  "lon": 88.39081,
+  "osm_name": "Mayapur",
+  "type": "place/town"
+ },
+ "v2|in||Mother House Kolkata": {
+  "found": "Mother House (Missionaries of Charity), Acharya Jagadish Chandra Bose Road, Mallick Bazaar, Ripon Street, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700014, India",
+  "lat": 22.55309,
+  "lon": 88.36363,
+  "osm_name": "Mother House (Missionaries of Charity)",
+  "type": "building/yes"
+ },
+ "v2|in||Moti Mahal Daryaganj": null,
+ "v2|in||Mulbekh Monastery": {
+  "found": "Mulbekh Monastery, Srinagar-Leh Highway, Mulbekh Grong, Mulbekh, Kargil Tehsil, Kargil district, Ladakh, India",
+  "lat": 34.3785,
+  "lon": 76.36657,
+  "osm_name": "Mulbekh Monastery",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Mullick Ghat Flower Market": null,
+ "v2|in||Mumbai": {
+  "found": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+  "lat": 19.055,
+  "lon": 72.8692,
+  "osm_name": "Mumbai",
+  "type": "place/city"
+ },
+ "v2|in||Munnar": {
+  "found": "Munnar, Devikulam, Idukki, Kerala, 685612, India",
+  "lat": 10.087,
+  "lon": 77.06009,
+  "osm_name": "Munnar",
+  "type": "place/town"
+ },
+ "v2|in||Mussoorie": {
+  "found": "Mussoorie, Dehradun, Uttarakhand, 248179, India",
+  "lat": 30.4569,
+  "lon": 78.07829,
+  "osm_name": "Mussoorie",
+  "type": "place/town"
+ },
+ "v2|in||Muzhappilangad Drive-in Beach": {
+  "found": "Muzhappilangad Drive-in Beach, Muzhappilangad, Kannur, Kerala, India",
+  "lat": 11.79445,
+  "lon": 75.44332,
+  "osm_name": "Muzhappilangad Drive-in Beach",
+  "type": "natural/beach"
+ },
+ "v2|in||Natural Bridge Neil Island": {
+  "found": "Neil Island, path to natural bridge, South Andaman, Andaman and Nicobar Islands, India",
+  "lat": 11.83927,
+  "lon": 93.03259,
+  "osm_name": "Neil Island",
+  "type": "amenity/ferry_terminal"
+ },
+ "v2|in||Naulakha Palace Gondal": null,
+ "v2|in||Neil": {
+  "found": "Neil Island, South Andaman, Andaman and Nicobar Islands, India",
+  "lat": 11.83137,
+  "lon": 93.04193,
+  "osm_name": "Neil Island",
+  "type": "place/island"
+ },
+ "v2|in||Netaji Subhas Chandra Bose International Airport": null,
+ "v2|in||Netaji Subhas Chandra Bose Island": null,
+ "v2|in||New Delhi Railway Station": {
+  "found": "New Delhi Railway Station, New Delhi, Delhi, India",
+  "lat": 28.64028,
+  "lon": 77.22041,
+  "osm_name": "New Delhi Railway Station",
+  "type": "boundary/administrative"
+ },
+ "v2|in||New Market Kolkata": {
+  "found": "Kolkata New market, Humayun Place, Dharmatala, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700087, India",
+  "lat": 22.56015,
+  "lon": 88.35296,
+  "osm_name": "Kolkata New market",
+  "type": "amenity/marketplace"
+ },
+ "v2|in||Nishat Bagh": {
+  "found": "Nishat Bagh, Nishat, Srinagar, Jammu and Kashmir, India",
+  "lat": 34.12535,
+  "lon": 74.88153,
+  "osm_name": "Nishat Bagh",
+  "type": "leisure/garden"
+ },
+ "v2|in||Nohkalikai Falls": {
+  "found": "Nohkalikai Falls, Shella Bholaganj, East Khasi Hills, Meghalaya, 793108, India",
+  "lat": 25.27565,
+  "lon": 91.68658,
+  "osm_name": "Nohkalikai Falls",
+  "type": "waterway/waterfall"
+ },
+ "v2|in||North Bay Island": null,
+ "v2|in||Odisha Bhawan": {
+  "found": "Raj Bhawan, Unit 7 internal road, Unit-7, Ward 46, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India",
+  "lat": 20.27129,
+  "lon": 85.81752,
+  "osm_name": "Raj Bhawan",
+  "type": "building/yes"
+ },
+ "v2|in||Orchard Palace Gondal": null,
+ "v2|in||Osla": {
+  "found": "Osla, Mori, Uttarkashi, Uttarakhand, India",
+  "lat": 31.1189,
+  "lon": 78.34277,
+  "osm_name": "Osla",
+  "type": "place/village"
+ },
+ "v2|in||PT Tso Lake": null,
+ "v2|in||Padum": {
+  "found": "Padum, Kargil district, Ladakh, 194302, India",
+  "lat": 33.46914,
+  "lon": 76.87818,
+  "osm_name": "Padum",
+  "type": "place/town"
+ },
+ "v2|in||Pahalgam": {
+  "found": "Pahalgam, Anantnag, Jammu and Kashmir, 192126, India",
+  "lat": 34.0322,
+  "lon": 75.32265,
+  "osm_name": "Pahalgam",
+  "type": "place/town"
+ },
+ "v2|in||Pampore": {
+  "found": "Pampore, Pulwama, Jammu and Kashmir, India",
+  "lat": 34.01092,
+  "lon": 74.91303,
+  "osm_name": "Pampore",
+  "type": "place/town"
+ },
+ "v2|in||Pangong Lake": {
+  "found": "Pangong Lake, Churshul road, Merak, Leh district, Ladakh, India",
+  "lat": 33.82105,
+  "lon": 78.60875,
+  "osm_name": "Pangong Lake",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Panikhar": {
+  "found": "Panikhar, Sankoo tehsil, Kargil district, Ladakh, India",
+  "lat": 34.11867,
+  "lon": 75.94676,
+  "osm_name": "Panikhar",
+  "type": "place/village"
+ },
+ "v2|in||Paradesi Synagogue": {
+  "found": "Mattancherry Paradesi Synagogue, Palace Road, Jew Town, Mattancherry, Kochi, Ernakulam, Kerala, 628002, India",
+  "lat": 9.95748,
+  "lon": 76.2593,
+  "osm_name": "Mattancherry Paradesi Synagogue",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Paranthe Wali Gali": {
+  "found": "Paranthe Wali Gali, Dharampura, Sadar Bazar, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110006, India",
+  "lat": 28.65608,
+  "lon": 77.23048,
+  "osm_name": "Paranthe Wali Gali",
+  "type": "highway/residential"
+ },
+ "v2|in||Pareshnath Jain Temple Kolkata": null,
+ "v2|in||Park Street Kolkata": {
+  "found": "Park Street, Park Street Flyover, Dharmatala, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700087, India",
+  "lat": 22.55516,
+  "lon": 88.35012,
+  "osm_name": "Park Street",
+  "type": "railway/station"
+ },
+ "v2|in||Partition Museum Amritsar": {
+  "found": "Partition Museum, Mahan Singh Gate Road, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143006, India",
+  "lat": 31.6257,
+  "lon": 74.87905,
+  "osm_name": "Partition Museum",
+  "type": "tourism/museum"
+ },
+ "v2|in||Pensi La": {
+  "found": "Penzi La, Zanskar, Ladakh, India",
+  "lat": 33.86428,
+  "lon": 76.35821,
+  "osm_name": "Penzi La",
+  "type": "mountain_pass/yes"
+ },
+ "v2|in||Periyar Lake Boat Landing": null,
+ "v2|in||Police Bazaar Shillong": null,
+ "v2|in||Pookode Lake": {
+  "found": "Pookode Lake, Old Vythiri, Pookode, Vythiri, Wayanad, Kerala, India",
+  "lat": 11.54233,
+  "lon": 76.02731,
+  "osm_name": "Pookode Lake",
+  "type": "water/lake"
+ },
+ "v2|in||Port Blair": {
+  "found": "Port Blair, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, 744101, India",
+  "lat": 11.66453,
+  "lon": 92.73904,
+  "osm_name": "Port Blair",
+  "type": "place/city"
+ },
+ "v2|in||Prashanti Cottage Bhalukpong": null,
+ "v2|in||Pristine Beach Resort Diglipur": null,
+ "v2|in||Puani Garat": null,
+ "v2|in||Puga Hot Springs": null,
+ "v2|in||Purola": {
+  "found": "Purola, Didihat, Pithoragarh district, Uttarakhand, India",
+  "lat": 29.71253,
+  "lon": 80.15213,
+  "osm_name": "Purola",
+  "type": "place/village"
+ },
+ "v2|in||Rabindra Bhavana Museum": {
+  "found": "Uttarayana, NH114, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India",
+  "lat": 23.683,
+  "lon": 87.68428,
+  "osm_name": "Uttarayana",
+  "type": "tourism/museum"
+ },
+ "v2|in||Radhanagar Beach": {
+  "found": "Radhanagar Beach, South Andaman, Andaman and Nicobar Islands, India",
+  "lat": 11.98267,
+  "lon": 92.95708,
+  "osm_name": "Radhanagar Beach",
+  "type": "natural/beach"
+ },
+ "v2|in||Rajkot": {
+  "found": "Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360001, India",
+  "lat": 22.30533,
+  "lon": 70.80284,
+  "osm_name": "Rajkot",
+  "type": "place/city"
+ },
+ "v2|in||Rangat": {
+  "found": "Rangat, North and Middle Andaman, Andaman and Nicobar Islands, India",
+  "lat": 12.49362,
+  "lon": 92.82563,
+  "osm_name": "Rangat",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Rangdum": {
+  "found": "Rangdum, Sankoo tehsil, Kargil district, Ladakh, India",
+  "lat": 34.03619,
+  "lon": 76.372,
+  "osm_name": "Rangdum",
+  "type": "place/hamlet"
+ },
+ "v2|in||Rangdum Monastery": null,
+ "v2|in||Rani Roopmati Pavilion": null,
+ "v2|in||Razdan Pass": null,
+ "v2|in||Red Fort": {
+  "found": "Red Fort, Shyama Prasad Mukherji Marg, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110003, India",
+  "lat": 28.65608,
+  "lon": 77.2408,
+  "osm_name": "Red Fort",
+  "type": "historic/castle"
+ },
+ "v2|in||Rezang La War Memorial": null,
+ "v2|in||Riwai Living Root Bridge": {
+  "found": "Living root bridge, Zingmaham Living Root Bridge, Riwai Village, Nohwet Village, Pynursla, East Khasi Hills, Meghalaya, India",
+  "lat": 25.20654,
+  "lon": 91.89779,
+  "osm_name": "Living root bridge",
+  "type": "tourism/viewpoint"
+ },
+ "v2|in||Ross and Smith Island": null,
+ "v2|in||Royal Cafe Hazratganj": {
+  "found": "Royal Cafe, Shahnajaf Road, Hazratganj, Lucknow, Uttar Pradesh, 226027, India",
+  "lat": 26.8561,
+  "lon": 80.94518,
+  "osm_name": "Royal Cafe",
+  "type": "amenity/restaurant"
+ },
+ "v2|in||SM Street Kozhikode": {
+  "found": "Kozhikode, Arbind Gosh Road, Sweetmeat Street, Palayam, Kozhikode, Kerala, 673001, India",
+  "lat": 11.24591,
+  "lon": 75.78039,
+  "osm_name": "Kozhikode",
+  "type": "railway/station"
+ },
+ "v2|in||Sabarmati Ashram": {
+  "found": "Sabarmati Ashram, Ranip, SabarmatiTaluka, Ahmedabad, Gujarat, India",
+  "lat": 23.06017,
+  "lon": 72.58064,
+  "osm_name": "Sabarmati Ashram",
+  "type": "landuse/residential"
+ },
+ "v2|in||Sajnekhali": {
+  "found": "Sajnekhali, Dulki, Gosaba, South 24 Parganas, West Bengal, India",
+  "lat": 22.12417,
+  "lon": 88.83032,
+  "osm_name": "Sajnekhali",
+  "type": "place/locality"
+ },
+ "v2|in||Sajnekhali Watch Tower": null,
+ "v2|in||Sangetsar Lake": null,
+ "v2|in||Sangti Valley": {
+  "found": "Shangti Valley, 旁马, Sangti, Dirang ADC, West Kameng, Arunachal Pradesh, 790101, India",
+  "lat": 27.37552,
+  "lon": 92.26888,
+  "osm_name": "Shangti Valley",
+  "type": "highway/unclassified"
+ },
+ "v2|in||Sani Monastery": {
+  "found": "Kanika Chorten, Sani Monastery, Padum Kargil Road, Stara, Sani, Kargil district, Ladakh, India",
+  "lat": 33.50539,
+  "lon": 76.80997,
+  "osm_name": "Kanika Chorten",
+  "type": "tourism/artwork"
+ },
+ "v2|in||Sankri": {
+  "found": "Sankri, Bhind Tahsil, Bhind, Madhya Pradesh, India",
+  "lat": 26.63426,
+  "lon": 78.97782,
+  "osm_name": "Sankri",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Sarafa Bazaar Indore": {
+  "found": "Sarafa Bazaar, Sarafa Street, Indore City, Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India",
+  "lat": 22.71789,
+  "lon": 75.85186,
+  "osm_name": "Sarafa Bazaar",
+  "type": "tourism/attraction"
+ },
+ "v2|in||Sela Pass": {
+  "found": "Sela-Pass, Thingbu Circle, Arunachal Pradesh, India",
+  "lat": 27.50356,
+  "lon": 92.10443,
+  "osm_name": "Sela-Pass",
+  "type": "mountain_pass/yes"
+ },
+ "v2|in||Seven Sisters Falls": {
+  "found": "Nohsngithiang Falls (Seven Sisters), Nongthymmai, Shella Bholaganj, East Khasi Hills, Meghalaya, 793108, India",
+  "lat": 25.24299,
+  "lon": 91.74156,
+  "osm_name": "Nohsngithiang Falls (Seven Sisters)",
+  "type": "waterway/waterfall"
+ },
+ "v2|in||Shalimar Bagh": {
+  "found": "Shalimar Bagh, Tailbal(Habak Shanpora), Srinagar (North), Srinagar, Jammu and Kashmir, India",
+  "lat": 34.14971,
+  "lon": 74.87323,
+  "osm_name": "Shalimar Bagh",
+  "type": "leisure/garden"
+ },
+ "v2|in||Shanti Stupa": {
+  "found": "Shanti stupa, Bhubaneswar Puri Highway, Uttara, Uttara P.S, Khordha, Odisha, 752104, India",
+  "lat": 20.1924,
+  "lon": 85.83944,
+  "osm_name": "Shanti stupa",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Shantiniketan": {
+  "found": "Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India",
+  "lat": 23.68271,
+  "lon": 87.68803,
+  "osm_name": "Shantiniketan",
+  "type": "place/suburb"
+ },
+ "v2|in||Sheikh ul Alam International Airport": {
+  "found": "Sheikh ul-Alam International Airport, Airport Road, Ichgam, Badgam tehsil, Budgam, Jammu and Kashmir, 190021, India",
+  "lat": 33.99337,
+  "lon": 74.77516,
+  "osm_name": "Sheikh ul-Alam International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Shey Palace": {
+  "found": "Shey Palace, Manali-Leh highway, Shashaina, Thiksey, Leh district, Ladakh, India",
+  "lat": 34.07162,
+  "lon": 77.63276,
+  "osm_name": "Shey Palace",
+  "type": "historic/castle"
+ },
+ "v2|in||Shillong": {
+  "found": "Shillong, East Khasi Hills, Meghalaya, 793001, India",
+  "lat": 25.57599,
+  "lon": 91.88279,
+  "osm_name": "Shillong",
+  "type": "place/city"
+ },
+ "v2|in||Shyok": {
+  "found": "Shyok, India",
+  "lat": 34.65304,
+  "lon": 77.43662,
+  "osm_name": "Shyok",
+  "type": "waterway/stream"
+ },
+ "v2|in||Sinthan Top": {
+  "found": "Sinthan Pass, Kokernag Tehsil, Anantnag, Jammu and Kashmir, India",
+  "lat": 33.58243,
+  "lon": 75.51109,
+  "osm_name": "Sinthan Pass",
+  "type": "mountain_pass/yes"
+ },
+ "v2|in||Sonajhuri Haat": {
+  "found": "Sonajhuri Haat, udyanpalli road, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India",
+  "lat": 23.69129,
+  "lon": 87.67107,
+  "osm_name": "Sonajhuri Haat",
+  "type": "tourism/market"
+ },
+ "v2|in||Spituk Monastery": {
+  "found": "Targaisling Monastery, Srinagar-Leh Highway, Karsa, Surchungchan, Spituk, Leh district, Ladakh, 194195, India",
+  "lat": 34.12598,
+  "lon": 77.52631,
+  "osm_name": "Targaisling Monastery",
+  "type": "amenity/school"
+ },
+ "v2|in||Srinagar": {
+  "found": "Srinagar, Srinagar (South), Srinagar, Jammu and Kashmir, 190001, India",
+  "lat": 34.07474,
+  "lon": 74.82044,
+  "osm_name": "Srinagar",
+  "type": "place/city"
+ },
+ "v2|in||St. Angelo Fort Kannur": {
+  "found": "St. Angelo Fort, Fort Road, Thavakkara, Kannur, Kerala, 670017, India",
+  "lat": 11.85412,
+  "lon": 75.37198,
+  "osm_name": "St. Angelo Fort",
+  "type": "historic/fort"
+ },
+ "v2|in||St. Francis Church Kochi": {
+  "found": "St Francis Church, Bastian Street, Fort Nagar, Fort Vypin, Fort Kochi, Kochi, Ernakulam, Kerala, 682001, India",
+  "lat": 9.96595,
+  "lon": 76.24107,
+  "osm_name": "St Francis Church",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Stongde Monastery": {
+  "found": "Stongde Monastery, Nimmu-Padum-Darcha Highway, Pibiting, Kargil district, Ladakh, India",
+  "lat": 33.52097,
+  "lon": 76.9858,
+  "osm_name": "Stongde Monastery",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Sudhanyakhali Watch Tower": {
+  "found": "Sudhanyakhali Watch Tower, Gosaba, South 24 Parganas, West Bengal, India",
+  "lat": 22.10127,
+  "lon": 88.80132,
+  "osm_name": "Sudhanyakhali Watch Tower",
+  "type": "man_made/tower"
+ },
+ "v2|in||Swaminarayan Akshardham": {
+  "found": "Swaminarayan Akshardham Temple, NH147, Sector 20, Gandhinagar, Gandhinagar Taluka, Gandhinagar, Gujarat, 382020, India",
+  "lat": 23.2294,
+  "lon": 72.67408,
+  "osm_name": "Swaminarayan Akshardham Temple",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Taglang La": {
+  "found": "Tanglang La, Leh district, Ladakh, India",
+  "lat": 33.50783,
+  "lon": 77.76992,
+  "osm_name": "Tanglang La",
+  "type": "mountain_pass/yes"
+ },
+ "v2|in||Taluka": {
+  "found": "Taluka, Mori, Uttarkashi, Uttarakhand, India",
+  "lat": 31.07782,
+  "lon": 78.24579,
+  "osm_name": "Taluka",
+  "type": "place/village"
+ },
+ "v2|in||Tata Tea Museum": {
+  "found": "Tata Global Beverages Limited General Hospital, Tea Museum Road, Nirmala Colony, Munnar Bazaar, Munnar, Devikulam, Idukki, Kerala, 685612, India",
+  "lat": 10.08829,
+  "lon": 77.05611,
+  "osm_name": "Tata Global Beverages Limited General Hospital",
+  "type": "amenity/hospital"
+ },
+ "v2|in||Tawang": {
+  "found": "Tawang, Tawang Circle, Arunachal Pradesh, India",
+  "lat": 27.58792,
+  "lon": 91.86373,
+  "osm_name": "Tawang",
+  "type": "place/city"
+ },
+ "v2|in||Tawang Monastery": {
+  "found": "Tawang Monastery, NH13, Tawang, Tawang Circle, Arunachal Pradesh, India",
+  "lat": 27.58661,
+  "lon": 91.85739,
+  "osm_name": "Tawang Monastery",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Tawang War Memorial": {
+  "found": "Tawang War Memorial, NH13, 乌间岭, Beghar, Urgeling, Tawang Circle, Arunachal Pradesh, 790104, India",
+  "lat": 27.5868,
+  "lon": 91.87669,
+  "osm_name": "Tawang War Memorial",
+  "type": "historic/memorial"
+ },
+ "v2|in||Tezpur": {
+  "found": "Tezpur, Sonitpur, Assam, 784001, India",
+  "lat": 26.62299,
+  "lon": 92.79761,
+  "osm_name": "Tezpur",
+  "type": "place/town"
+ },
+ "v2|in||Thang Village": {
+  "found": "Thang Nokyan, Noklak, Nagaland, 798626, India",
+  "lat": 26.21518,
+  "lon": 95.02515,
+  "osm_name": "Thang Nokyan",
+  "type": "place/village"
+ },
+ "v2|in||Thekkady": {
+  "found": "Thekkady, Peerumade, Idukki, Kerala, 685509, India",
+  "lat": 9.5805,
+  "lon": 77.18114,
+  "osm_name": "Thekkady",
+  "type": "place/village"
+ },
+ "v2|in||Thekkady Spice Plantation": null,
+ "v2|in||Thiksey Monastery": {
+  "found": "Thiksey Gompa, Prayer Wheels Footpath, Killibur, Leh district, Ladakh, India",
+  "lat": 34.05656,
+  "lon": 77.66674,
+  "osm_name": "Thiksey Gompa",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Tipi Orchid Centre": null,
+ "v2|in||Tso Kar": {
+  "found": "Tso Kar, Leh district, Ladakh, India",
+  "lat": 33.31192,
+  "lon": 77.97989,
+  "osm_name": "Tso Kar",
+  "type": "water/lake"
+ },
+ "v2|in||Tso Moriri": {
+  "found": "Tso Moriri, Karzok, Leh district, Ladakh, India",
+  "lat": 32.88928,
+  "lon": 78.32153,
+  "osm_name": "Tso Moriri",
+  "type": "water/lake"
+ },
+ "v2|in||Turtuk": {
+  "found": "Turtuk, Nubra, Ladakh, India",
+  "lat": 34.8447,
+  "lon": 76.82795,
+  "osm_name": "Turtuk",
+  "type": "place/village"
+ },
+ "v2|in||Umananda Temple": null,
+ "v2|in||Umiam Lake": {
+  "found": "Umiam Lake, Sumer Village, Umsning, Ri-Bhoi, Meghalaya, India",
+  "lat": 25.65193,
+  "lon": 91.8889,
+  "osm_name": "Umiam Lake",
+  "type": "water/lake"
+ },
+ "v2|in||Umngot River Dawki": null,
+ "v2|in||United Coffee House": {
+  "found": "United Coffee House, Nehru Place Road, Nehru Place, South, Delhi, South Delhi, Delhi, 110019, India",
+  "lat": 28.55146,
+  "lon": 77.25154,
+  "osm_name": "United Coffee House",
+  "type": "amenity/cafe"
+ },
+ "v2|in||Urgelling Monastery": null,
+ "v2|in||Valara Waterfalls": {
+  "found": "Valara Waterfalls, Devikulam, Idukki, Kerala, India",
+  "lat": 10.04657,
+  "lon": 76.83954,
+  "osm_name": "Valara Waterfalls",
+  "type": "waterway/waterfall"
+ },
+ "v2|in||Valiyaparamba Backwaters": null,
+ "v2|in||Vazhachal Falls": {
+  "found": "Vazhachal Falls, Vazhachal Colony, Chalakkudy, Thrissur, Kerala, India",
+  "lat": 10.3005,
+  "lon": 76.5919,
+  "osm_name": "Vazhachal Falls",
+  "type": "waterway/waterfall"
+ },
+ "v2|in||Veer Savarkar International Airport": {
+  "found": "Veer Savarkar International Airport, Corbyns Cove Road, Port Blair, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, 744112, India",
+  "lat": 11.64095,
+  "lon": 92.73051,
+  "osm_name": "Veer Savarkar International Airport",
+  "type": "aeroway/aerodrome"
+ },
+ "v2|in||Vembanad Lake": {
+  "found": "Vembanad Lake, Thaneermukkom, Cherthala, Alappuzha, Kerala, India",
+  "lat": 9.59492,
+  "lon": 76.39421,
+  "osm_name": "Vembanad Lake",
+  "type": "water/lake"
+ },
+ "v2|in||Victoria Memorial": {
+  "found": "Victoria Memorial, 1, Hospital Road, Maidan, Kolkata, Greater Kolkata, Kolkata, West Bengal, 700071, India",
+  "lat": 22.54496,
+  "lon": 88.34255,
+  "osm_name": "Victoria Memorial",
+  "type": "tourism/museum"
+ },
+ "v2|in||Visva-Bharati University": {
+  "found": "Visva-Bharati University, Shantiniketan, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731235, India",
+  "lat": 23.67638,
+  "lon": 87.67552,
+  "osm_name": "Visva-Bharati University",
+  "type": "amenity/university"
+ },
+ "v2|in||Wayanad": {
+  "found": "Wayanad, Kerala, India",
+  "lat": 11.71513,
+  "lon": 76.12712,
+  "osm_name": "Wayanad",
+  "type": "boundary/administrative"
+ },
+ "v2|in||Wayanad Heritage Museum": null,
+ "v2|in||Wular Lake": {
+  "found": "Wular Lake, Garoora, Sonawari, Bandipore, Jammu and Kashmir, India",
+  "lat": 34.35025,
+  "lon": 74.542,
+  "osm_name": "Wular Lake",
+  "type": "water/lake"
+ },
+ "v2|in||Yogapith Mayapur": {
+  "found": "Main Temple, Yogapith, Bhaktisiddhanta Saraswati Marg, Abhay Nagar 1, Gaurnagar, Mayapur, Nabadwip, Nadia, West Bengal, 741135, India",
+  "lat": 23.43828,
+  "lon": 88.39298,
+  "osm_name": "Main Temple, Yogapith",
+  "type": "amenity/place_of_worship"
+ },
+ "v2|in||Zangla": {
+  "found": "Zangla, Kargil district, Ladakh, India",
+  "lat": 33.65859,
+  "lon": 76.99146,
+  "osm_name": "Zangla",
+  "type": "place/village"
  }
 }

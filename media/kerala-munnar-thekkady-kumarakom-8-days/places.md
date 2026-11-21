@@ -2,7 +2,7 @@
 
 Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHECK means look at it; PINNED was set by hand. Open each CHECK link: if the pin is wrong, copy the right coordinates from Google Maps into "geo" in the tour file.
 
-**5 pin(s) to check.**
+**6 pin(s) to check.**
 
 | Status | Place in the itinerary | Pin | What OpenStreetMap found | Check |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@ Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHE
 | OK | Munnar | 10.087, 77.06009 | Munnar, Devikulam, Idukki, Kerala, 685612, India | [open](https://www.google.com/maps/search/?api=1&query=10.087,77.06009) |
 | OK | Thekkady | 9.5805, 77.18114 | Thekkady, Peerumade, Idukki, Kerala, 685509, India | [open](https://www.google.com/maps/search/?api=1&query=9.5805,77.18114) |
 | OK | Kumarakom | 9.59605, 76.43054 | Kumarakom, Kottayam, Kerala, 686563, India | [open](https://www.google.com/maps/search/?api=1&query=9.59605,76.43054) |
-| OK | Kochi Airport | 10.15449, 76.39249 | Cochin International Airport, Chengal Temple Road, Kochi, Aluva, Ernakulam, Kerala, 683580, India | [open](https://www.google.com/maps/search/?api=1&query=10.15449,76.39249) |
+| CHECK | Kochi Airport | 10.15449, 76.39249 | Cochin International Airport, Piraroor Thuravungara Road, Mattapuram Colony, Kochi, Aluva, Ernakulam, Kerala, 683574, In (the name it found does not match ours) | [open](https://www.google.com/maps/search/?api=1&query=10.15449,76.39249) |
 | OK | Mattancherry Palace | 9.95835, 76.25918 | Mattancherry Dutch Palace Complex, Jetthy Road, Jew Town, Mattancherry, Kochi, Ernakulam, Kerala, 628002, India | [open](https://www.google.com/maps/search/?api=1&query=9.95835,76.25918) |
 | OK | Paradesi Synagogue | 9.95748, 76.2593 | Mattancherry Paradesi Synagogue, Palace Road, Jew Town, Mattancherry, Kochi, Ernakulam, Kerala, 628002, India | [open](https://www.google.com/maps/search/?api=1&query=9.95748,76.2593) |
 | OK | St. Francis Church Kochi | 9.96595, 76.24107 | St Francis Church, Bastian Street, Fort Nagar, Fort Vypin, Fort Kochi, Kochi, Ernakulam, Kerala, 682001, India | [open](https://www.google.com/maps/search/?api=1&query=9.96595,76.24107) |
@@ -29,4 +29,4 @@ Every place on this tour's maps. OK means OpenStreetMap's name matches ours; CHE
 | NOT FOUND | Thekkady Spice Plantation | none |  |  |
 | OK | Kumarakom Bird Sanctuary | 9.62736, 76.42859 | Kumarakom Bird Sanctuary, Kottayam, Kerala, 686563, India | [open](https://www.google.com/maps/search/?api=1&query=9.62736,76.42859) |
 | OK | Vembanad Lake | 9.59492, 76.39421 | Vembanad Lake, Thaneermukkom, Cherthala, Alappuzha, Kerala, India | [open](https://www.google.com/maps/search/?api=1&query=9.59492,76.39421) |
-| OK | Cochin International Airport | 10.15449, 76.39249 | Cochin International Airport, Neduvannoor Road, Kochi, Aluva, Ernakulam, Kerala, 683111, India | [open](https://www.google.com/maps/search/?api=1&query=10.15449,76.39249) |
+| OK | Cochin International Airport | 10.15449, 76.39249 | Cochin International Airport, Piraroor Thuravungara Road, Mattapuram Colony, Kochi, Aluva, Ernakulam, Kerala, 683574, In | [open](https://www.google.com/maps/search/?api=1&query=10.15449,76.39249) |

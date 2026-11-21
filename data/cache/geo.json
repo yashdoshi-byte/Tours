@@ -210,6 +210,7 @@
   "osm_name": "Uluwatu Temple",
   "type": "amenity/place_of_worship"
  },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ceking Rice Terrace": null,
  "v2|id|[-8.86, 114.42, -8.05, 115.72]|Goa Raja Waterfall": {
   "found": "Goa Raja waterfall, Bangli, Bali, 80614, Indonesia",
   "lat": -8.43843,
@@ -252,6 +253,13 @@
   "osm_name": "Pura Lempuyang Luhur",
   "type": "amenity/place_of_worship"
  },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Puri Saren Agung": {
+  "found": "Puri Saren Agung Ubud Palace, Jalan Raya Ubud, Ubud, Ubud District, Gianyar, Bali, 80571, Indonesia",
+  "lat": -8.50672,
+  "lon": 115.26271,
+  "osm_name": "Puri Saren Agung Ubud Palace",
+  "type": "tourism/attraction"
+ },
  "v2|id|[-8.86, 114.42, -8.05, 115.72]|Sacred Monkey Forest Sanctuary": {
   "found": "Sacred Monkey Forest Sanctuary, Ubud, Mas, Ubud District, Gianyar, Bali, 80571, Indonesia",
   "lat": -8.51873,
@@ -280,11 +288,25 @@
   "osm_name": "Tanjung Benoa",
   "type": "natural/beach"
  },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tegalalang Rice Terrace": {
+  "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.42855,
+  "lon": 115.27988,
+  "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
  "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terrace": {
   "found": "Mupu Rice Terrace, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
   "lat": -8.42855,
   "lon": 115.27988,
   "osm_name": "Mupu Rice Terrace",
+  "type": "landuse/farmland"
+ },
+ "v2|id|[-8.86, 114.42, -8.05, 115.72]|Tegallalang Rice Terraces": {
+  "found": "Tegallalang Rice Terraces, Tangkup, Kedisan, Tegallalang, Gianyar, Bali, 80561, Indonesia",
+  "lat": -8.43358,
+  "lon": 115.27946,
+  "osm_name": "Tegallalang Rice Terraces",
   "type": "landuse/farmland"
  },
  "v2|id|[-8.86, 114.42, -8.05, 115.72]|Ubud": {

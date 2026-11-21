@@ -21,8 +21,21 @@
    }
   },
   "2": {
-   "unverified": [
-    "Tegalalang Rice Terrace"
+   "map": "map-day-2-684f5c7e8b.webp",
+   "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
+    "Pura Lempuyang Luhur",
+    "Tirta Gangga",
+    "Goa Raja Waterfall",
+    "Tegalalang Rice Terrace",
+    "The Crystal Luxury Bay Resort Nusa Dua"
+   ],
+   "km": [
+    98.5,
+    13.3,
+    42.4,
+    26.3,
+    51.3
    ],
    "photo": {
     "author": "Flickr user: yeowatzup https://www.flickr.com/photos/yeowatzup/",
@@ -80,8 +93,19 @@
    }
   },
   "5": {
-   "unverified": [
-    "Ubud Palace"
+   "map": "map-day-5-ea80c98aaa.webp",
+   "stops": [
+    "The Crystal Luxury Bay Resort Nusa Dua",
+    "Sacred Monkey Forest Sanctuary",
+    "Ubud Art Market",
+    "Ubud Palace",
+    "The Crystal Luxury Bay Resort Nusa Dua"
+   ],
+   "km": [
+    39.0,
+    5.0,
+    0.1,
+    42.6
    ],
    "photo": {
     "author": "Jakub Hałun",
@@ -130,7 +154,7 @@
   }
  },
  "photos": {},
- "pins_to_check": 2,
+ "pins_to_check": 0,
  "coords": {
   "Ngurah Rai International Airport": [
    -8.74652,
@@ -147,6 +171,10 @@
   "Tirta Gangga": [
    -8.41132,
    115.58805
+  ],
+  "Tegalalang Rice Terrace": [
+   -8.43358,
+   115.27946
   ],
   "Tanah Lot": [
    -8.62123,
@@ -184,18 +212,23 @@
    -8.50654,
    115.26165
   ],
+  "Ubud Palace": [
+   -8.50672,
+   115.26271
+  ],
   "Jimbaran Beach": [
    -8.78089,
    115.16392
   ]
  },
  "overview": {
-  "map": "map-overview-a5eca61a3a.webp",
+  "map": "map-overview-c8dcc62c2a.webp",
   "stops": [
    "Ngurah Rai International Airport",
    "Nusa Dua",
    "Pura Lempuyang Luhur",
    "Tirta Gangga",
+   "Tegalalang Rice Terrace",
    "Tanah Lot",
    "Ubud",
    "Uluwatu Temple"

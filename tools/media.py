@@ -57,6 +57,7 @@ GENERIC = set("the of and a an at in on to by de la le el temple pura hotel reso
               "station market palace bay rice terrace waterfall forest sanctuary bali island city old new "
               "museum park street road jalan".split())
 CHECKS = {}  # place -> verification record, written to media/<slug>/places.md
+CHECKS_WHY = {}
 
 
 def words(s):
@@ -91,14 +92,15 @@ def geocode(name, t, geo, refresh):
                         "status": "PINNED" if in_bbox(t, lat, lon) else "CHECK"}
         return [lat, lon]
     query = t.get("geo_query", {}).get(name, name)
-    key = f'{t.get("country_code", "")}|{t.get("bbox", "")}|{query}'
+    key = f'v2|{t.get("country_code", "")}|{t.get("bbox", "")}|{query}'
     if key not in geo or refresh or not isinstance(geo[key], dict):
         hits = nominatim(query, t)
         if not hits and t.get("destination"):  # try again with the region added
             hits = nominatim(f'{query}, {t["destination"]}', t)
         want = words(query)
-        # prefer the hit whose own name shares the most distinctive words with ours
-        best = max(hits, key=lambda h: (len(want & words(h.get("name") or "")), -hits.index(h)), default=None)
+        # prefer a real place (not a street) whose own name shares the most distinctive words with ours
+        best = max(hits, key=lambda h: (h.get("category") != "highway", len(want & words(h.get("name") or "")),
+                                        -hits.index(h)), default=None)
         geo[key] = None if not best else {
             "lat": round(float(best["lat"]), 5), "lon": round(float(best["lon"]), 5),
             "found": best.get("display_name", ""), "osm_name": best.get("name") or "",
@@ -109,11 +111,15 @@ def geocode(name, t, geo, refresh):
         print(f"  ✗ place {name!r}: NOT FOUND. Pin it under \"geo\" in the tour file.")
         return None
     want = words(query)
-    matched = want & (words(g["osm_name"]) | words(g["found"]))
+    # the place's OWN name must match: a match in the address ("…, Tegallalang, Gianyar") is not enough
+    matched = want & words(g["osm_name"])
     status = "OK" if (not want or len(matched) >= max(1, (len(want) + 1) // 2)) else "CHECK"
+    if g["type"].startswith("highway/") and not re.search(r"\b(jalan|jl|road|street|gang)\b", name, re.I):
+        status = "CHECK"  # we asked for a place and got a street of the same name
+        CHECKS_WHY[name] = "OpenStreetMap returned a street with this name"
     if not in_bbox(t, g["lat"], g["lon"]):
         status = "CHECK"
-    CHECKS[name] = dict(g, status=status)
+    CHECKS[name] = dict(g, status=status, why=CHECKS_WHY.pop(name, "") if status == "CHECK" else "")
     mark = "✓" if status == "OK" else "⚠"
     print(f'  {mark} place {name!r:50} -> {g["lat"]}, {g["lon"]}  {g["found"][:70]}')
     return [g["lat"], g["lon"]]
@@ -139,6 +145,8 @@ def places_report(slug, t):
         ll = f'{c["lat"]}, {c["lon"]}' if c.get("lat") is not None else "none"
         link = f'[open](https://www.google.com/maps/search/?api=1&query={c["lat"]},{c["lon"]})' if c.get("lat") is not None else ""
         found = (c.get("found") or "").replace("|", "/")[:120] + (f' ({c["why"]})' if c.get("why") else "")
+        if c.get("status") == "CHECK" and not c.get("why"):
+            found += " (the name it found does not match ours)"
         rows.append(f'| {c["status"]} | {n} | {ll} | {found} | {link} |')
     bad = sum(c["status"] in ("CHECK", "NOT FOUND") for c in CHECKS.values())
     head = (f"# Pins for {t['title']}\n\nEvery place on this tour's maps. OK means OpenStreetMap's name matches ours; "
@@ -231,10 +239,10 @@ def draw_map(points, line, path, labels=None, size=(1200, 760), numbered=True):
     img = Image.blend(img, Image.new("RGB", (W, H), "#ffffff"), 0.25)
     d = ImageDraw.Draw(img)
     to = lambda a, b: (px(a, b, z)[0] - x0, px(a, b, z)[1] - y0)
-    route = [to(a, b) for a, b in (line or points)]
+    route = [to(a, b) for a, b in line] if line else []
     if len(route) > 1:
         d.line(route, fill="#ffffff", width=9, joint="curve")
-        d.line(route, fill="#be2e21" if line else "#0b4f8a", width=5, joint="curve")
+        d.line(route, fill="#be2e21", width=5, joint="curve")
     f = font(22)
     fl = font(20)
     seen, boxes, marks = {}, [], []
@@ -473,7 +481,7 @@ def run(t, refresh=False):
         manifest["coords"] = {n: p for n, p in pts.items() if p}
         ov = [(n, pts[n]) for n in names if pts.get(n)]
         if len(ov) >= 2:
-            fp = fingerprint([p for _, p in ov], names, 2)
+            fp = fingerprint([p for _, p in ov], names, 3)
             f = out / f"map-overview-{fp}.webp"
             if refresh or not f.exists():
                 draw_map([p for _, p in ov], None, f, labels=[short(t, n) for n, _ in ov])
@@ -488,7 +496,7 @@ def run(t, refresh=False):
                 entry["unverified"] = missing
             if len(stops) >= 2 and not missing:
                 rt = road_route([p for _, p in stops], routes, refresh)
-                fp = fingerprint([p for _, p in stops], [n for n, _ in stops], bool(rt), 2)
+                fp = fingerprint([p for _, p in stops], [n for n, _ in stops], bool(rt), 3)
                 f = out / f"map-day-{i}-{fp}.webp"
                 if refresh or not f.exists():
                     draw_map([p for _, p in stops], rt and rt["line"], f, labels=[short(t, n) for n, _ in stops])

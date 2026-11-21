@@ -290,8 +290,11 @@ The maps tell travellers where they are going, so every pin must be right.
   `data/cache/geo.json` with the address it matched. A pin outside the box is marked CHECK.
 * When OpenStreetMap spells a place differently, give the search name in
   `"geo_query": {"Tegalalang Rice Terrace": "Tegallalang Rice Terrace"}`; the page keeps our spelling.
-* **Every pin is verified two ways**: the name OpenStreetMap returns must share the distinctive words of
-  our place name, and the pin must lie within 250 km of the rest of the trip. A pin that fails either
+* **Every pin is verified automatically**: the place's **own name** in OpenStreetMap must share the
+  distinctive words of our name (a match in the address does not count), a street that merely shares the
+  name is rejected, and the pin must lie inside the tour's area and within 250 km of the rest of the trip.
+* **The automatic check is not enough on its own.** On Bali it once accepted "Gang Tirta Gangga", a
+  lane in Denpasar, for the water palace 80 km away. A person opens every pin on the list before publishing. A pin that fails either
   is marked **CHECK**; a place not found is marked **NOT FOUND**.
 * **The pin list is approved before publishing.** `media/<slug>/places.md` lists every place, its
   coordinates, the address matched, its status, and a Google Maps link to check it. It is also shown in

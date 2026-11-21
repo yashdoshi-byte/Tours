@@ -361,7 +361,7 @@ def usable(p, need_landscape=True):
     if need_landscape and (ii["width"] < 1200 or ii["width"] < ii["height"] * 1.25):
         return None
     return {"file": p["title"], "src": ii.get("thumburl") or ii["url"], "page": ii["descriptionurl"],
-            "author": strip(meta.get("Artist", {}).get("value", ""))[:80] or "Unknown",
+            "author": re.sub(r"https?://\S+", "", strip(meta.get("Artist", {}).get("value", ""))).strip()[:80] or "Unknown",
             "licence": strip(meta.get("LicenseShortName", {}).get("value", "")),
             "licence_url": meta.get("LicenseUrl", {}).get("value", "")}
 

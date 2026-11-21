@@ -55,6 +55,9 @@ for t in tours:
         for f in (ROOT / "media" / t["slug"]).glob("*.webp"):
             shutil.copy(f, dst / f.name)
     t["_media"] = m
+    for ph in [v.get("photo") for v in m["days"].values()] + list(m.get("photos", {}).values()):
+        if ph:  # credit names only: no raw links in the caption
+            ph["author"] = re.sub(r"\s+", " ", re.sub(r"https?://\S+", "", ph.get("author") or "")).strip(" ,;-") or ph.get("provider", "")
     for i, d in enumerate(t["days"], 1):
         dm = m["days"].get(str(i), {})
         d["_map"], d["_photo"], d["_km"] = dm.get("map"), dm.get("photo"), dm.get("km")

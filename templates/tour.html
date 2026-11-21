@@ -90,9 +90,10 @@
         {% endif %}
         {% if d._map or d._directions %}
         <div class="droute">
-          {% if d._map %}<a href="{{ d._directions or '#' }}" target="_blank" rel="noopener" class="dmap"><img src="{{ root }}media/{{ t.slug }}/{{ d._map }}" alt="Day {{ loop.index }} route map: {{ d._stops|join(' to ') }}" loading="lazy" width="1200" height="760"></a>{% endif %}
+          {% if d._map %}<a href="{{ root }}media/{{ t.slug }}/{{ d._map }}" target="_blank" rel="noopener" class="dmap" title="Open the map full size"><img src="{{ root }}media/{{ t.slug }}/{{ d._map }}" alt="Day {{ loop.index }} route map: {{ d._stops|join(' to ') }}" loading="lazy" width="1200" height="760"></a>{% endif %}
           <div class="dlegend">
             <p class="dl-h">Today's route</p>
+            {% if d._map %}<p class="small">Tap the map to see it full size. Numbers follow the order you travel.</p>{% endif %}
             <ol>{% for s in d._stops %}<li><a href="{{ gmap(s ~ ', ' ~ t.destination) }}" target="_blank" rel="noopener">{{ s }}</a>{% if not loop.first and d._km and d._km[loop.index0 - 1] %}<span>about {{ '%.0f'|format(d._km[loop.index0 - 1]) }} km by road</span>{% endif %}</li>{% endfor %}</ol>
             {% if d._directions %}<a class="btn sm-btn" href="{{ d._directions }}" target="_blank" rel="noopener">Open this route in Google Maps</a>{% endif %}
           </div>

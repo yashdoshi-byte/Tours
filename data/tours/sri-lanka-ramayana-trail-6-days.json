@@ -1,0 +1,548 @@
+{
+  "slug": "sri-lanka-ramayana-trail-6-days",
+  "title": "Sri Lanka Ramayana Trail in 6 Days: Munneswaram, Trincomalee, Kandy, Nuwara Eliya and Ashok Vatika",
+  "meta_title": "Sri Lanka Ramayana Tour 6 Days: Temples and Sita Eliya",
+  "meta_description": "6-day Ramayana trail in Sri Lanka: Munneswaram, Koneswaram in Trincomalee, the Temple of the Tooth, the Hanuman temple at Ramboda, Seetha Amman and Divurumpola.",
+  "destination": "Sri Lanka",
+  "country": "Sri Lanka",
+  "duration": "6 days / 5 nights",
+  "nights": 5,
+  "style": "Pilgrimage · Temples · Hill country",
+  "hero_image": "https://yashdoshi-byte.github.io/Tours/assets/img/sri-lanka-hindu-temple.webp",
+  "hero_alt": "A Hindu kovil in Sri Lanka",
+  "tagline": "Follow the footsteps of Rama, Sita and Hanuman across Lanka",
+  "facts": [
+    [
+      "Stay",
+      "Sigiriya 2, Kandy 1, Nuwara Eliya 1, Colombo 1"
+    ],
+    [
+      "Travel",
+      "Private air-conditioned car with English-speaking driver-guide"
+    ],
+    [
+      "Pace",
+      "Full days with long drives"
+    ],
+    [
+      "Best months",
+      "December to April (Trincomalee is best May to September)"
+    ],
+    [
+      "Arrive / leave",
+      "Colombo"
+    ],
+    [
+      "Meals",
+      "Breakfast and dinner daily"
+    ]
+  ],
+  "intro": "A Ramayana pilgrimage through the places that Sri Lankan and Tamil tradition links with the epic. Munneswaram and Manavari, where Rama is said to have worshipped Shiva after the war; Koneswaram and the Shakti Peetham at Trincomalee; the Temple of the Tooth in Kandy; the Hanuman temple at Ramboda; Seetha Amman temple at Ashok Vatika, where Sita is believed to have been held; Divurumpola, the site of her Agni Pariksha; and the Panchamukha Anjaneyar temple in Colombo. The first two days have 4 to 6 hours on the road, and Nuwara Eliya to Colombo is about 5 hours. Sigiriya's rock fortress can be climbed early on day 3 as an option.",
+  "highlights": [
+    "Munneswaram, one of Sri Lanka's five great Shiva temples",
+    "The Ramalingam at Manavari",
+    "Koneswaram, Shankari Devi Shakti Peetham and the Kanniya hot wells at Trincomalee",
+    "The Muthumariamman temple at Matale and a spice garden",
+    "The Temple of the Sacred Tooth Relic in Kandy",
+    "The 16-foot Hanuman at Ramboda and Ramboda Falls",
+    "Seetha Amman temple at Ashok Vatika and Divurumpola",
+    "Gayathri Peedam and the Panchamukha Anjaneyar temple"
+  ],
+  "stays": [
+    {
+      "place": "Sigiriya",
+      "nights": 2,
+      "hotel": "3 or 4-star resort"
+    },
+    {
+      "place": "Kandy",
+      "nights": 1,
+      "hotel": "3 or 4-star hotel"
+    },
+    {
+      "place": "Nuwara Eliya",
+      "nights": 1,
+      "hotel": "Colonial-style hotel"
+    },
+    {
+      "place": "Colombo",
+      "nights": 1,
+      "hotel": "City hotel"
+    }
+  ],
+  "route": [
+    "Bandaranaike International Airport",
+    "Munneswaram",
+    "Manavari",
+    "Sigiriya",
+    "Trincomalee",
+    "Matale",
+    "Kandy",
+    "Ramboda",
+    "Nuwara Eliya",
+    "Seetha Eliya",
+    "Divurumpola",
+    "Colombo"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Munneswaram and Manavari on the way to Sigiriya",
+      "summary": "Met at the airport, then two Shiva temples linked with Rama, and on to Sigiriya.",
+      "strip": [
+        "About 5 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver-guide",
+          "text": "With water bottles for the journey."
+        },
+        {
+          "label": "Midday",
+          "title": "Munneswaram temple near Chilaw",
+          "text": "Where Rama is said to have prayed to Shiva to be freed of the sin of killing Ravana.",
+          "notes": [
+            [
+              "CARE",
+              "Shoes off; men may be asked to remove shirts in the inner shrine."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Manavari Ramalingam",
+          "text": "One of two lingams named after Rama, the other being at Rameswaram."
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner at your Sigiriya hotel"
+        }
+      ],
+      "places": [
+        "Bandaranaike International Airport",
+        "Munneswaram Temple",
+        "Manavari Temple",
+        "Sigiriya"
+      ],
+      "note": "A long arrival day. Choose a morning flight if you can.",
+      "route": [
+        "Bandaranaike International Airport",
+        "Munneswaram Temple",
+        "Manavari Temple",
+        "Sigiriya"
+      ],
+      "photo_query": "Bandaranaike International Airport",
+      "photo_caption": "Bandaranaike International Airport",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 5 hours of driving with stops",
+      "brief": [
+        "Munneswaram temple near Chilaw: shoes off; men may be asked to remove shirts in the inner shrine.",
+        "A long arrival day."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Day trip to Trincomalee",
+      "summary": "Koneswaram, the Shakti Peetham and the hot wells.",
+      "strip": [
+        "About 2 hours 30 minutes each way"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Kanniya hot wells",
+          "text": "Seven wells, each a different temperature."
+        },
+        {
+          "label": "Midday",
+          "title": "Koneswaram temple and Shankari Devi shrine",
+          "text": "On Swami Rock above the sea; the Shakti Peetham site listed by Adi Shankara.",
+          "notes": [
+            [
+              "TIME",
+              "The temple closes in the early afternoon; arrive by about 11:00."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Lakshmi Narayana Perumal and Bhadrakali temples"
+        },
+        {
+          "label": "Evening",
+          "title": "Back to Sigiriya"
+        }
+      ],
+      "places": [
+        "Kanniya Hot Springs",
+        "Koneswaram Temple",
+        "Bhadrakali Amman Kovil Trincomalee"
+      ],
+      "note": "Trincomalee is hot: carry water and a hat.",
+      "route": [
+        "Kanniya Hot Springs",
+        "Koneswaram Temple",
+        "Bhadrakali Amman Kovil Trincomalee"
+      ],
+      "photo_query": "Kanniya Hot Springs",
+      "photo_caption": "Kanniya Hot Springs",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 2 hours 30 minutes each way",
+      "brief": [
+        "Koneswaram temple and Shankari Devi shrine: the temple closes in the early afternoon; arrive by about 11:00.",
+        "Trincomalee is hot: carry water and a hat."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Sigiriya, Matale and Kandy",
+      "summary": "An optional dawn climb of Sigiriya, the chariot temple of Matale and a spice garden.",
+      "strip": [
+        "About 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Optional 07:00",
+          "title": "Sigiriya rock fortress",
+          "text": "About 1,200 steps; allow 3 hours.",
+          "notes": [
+            [
+              "CARE",
+              "Hornets nest on the rock: keep quiet and do not wear strong perfume."
+            ],
+            [
+              "TIME",
+              "Climb before 09:00 to avoid the heat."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Muthumariamman temple, Matale",
+          "text": "Famous for its painted chariots."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Spice garden",
+          "text": "Cinnamon, cardamom and pepper.",
+          "notes": [
+            [
+              "MONEY",
+              "Ayurvedic products are sold at high prices; buy only if you want to."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Sigiriya",
+        "Sri Muthumariamman Temple Matale",
+        "Kandy"
+      ],
+      "note": "Evening at Kandy Lake.",
+      "route": [
+        "Sigiriya",
+        "Sri Muthumariamman Temple Matale",
+        "Kandy"
+      ],
+      "photo_query": "Sigiriya",
+      "photo_caption": "Sigiriya",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 2 hours 30 minutes of driving",
+      "brief": [
+        "Sigiriya rock fortress: hornets nest on the rock: keep quiet and do not wear strong perfume.",
+        "Sigiriya rock fortress: climb before 09:00 to avoid the heat.",
+        "Spice garden: ayurvedic products are sold at high prices; buy only if you want to."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Temple of the Tooth, then Ramboda to Nuwara Eliya",
+      "summary": "Kandy's sacred temple, the Hanuman temple and a tea factory.",
+      "strip": [
+        "About 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Temple of the Sacred Tooth Relic",
+          "notes": [
+            [
+              "WEAR",
+              "White or light clothing, shoulders and knees covered."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Sri Bhakta Hanuman temple, Ramboda",
+          "text": "Where Rama's army is said to have gathered.",
+          "notes": [
+            [
+              "TIME",
+              "Open about 07:00 to 12:00 and 15:30 to 18:30."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Ramboda Falls and a tea factory"
+        },
+        {
+          "label": "Evening",
+          "title": "Gregory Lake"
+        }
+      ],
+      "places": [
+        "Temple of the Sacred Tooth Relic",
+        "Sri Baktha Hanuman Temple",
+        "Ramboda Falls",
+        "Gregory Lake"
+      ],
+      "note": "Kandy's gem museum and batik shop are optional.",
+      "route": [
+        "Temple of the Sacred Tooth Relic",
+        "Sri Baktha Hanuman Temple",
+        "Ramboda Falls",
+        "Gregory Lake"
+      ],
+      "photo_query": "Temple of the Sacred Tooth Relic",
+      "photo_caption": "Temple of the Sacred Tooth Relic",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 2 hours 30 minutes of driving",
+      "brief": [
+        "Temple of the Sacred Tooth Relic: white or light clothing, shoulders and knees covered.",
+        "Sri Bhakta Hanuman temple, Ramboda: open about 07:00 to 12:00 and 15:30 to 18:30."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ashok Vatika, Divurumpola and back to Colombo",
+      "summary": "Seetha Amman temple, the Agni Pariksha site and the drive to Colombo.",
+      "strip": [
+        "About 5 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Gayathri Peedam and Seetha Amman temple",
+          "text": "Where Sita is believed to have been held; she bathed in the stream beside it."
+        },
+        {
+          "label": "Midday",
+          "title": "Divurumpola",
+          "text": "Believed to be the site of Sita's Agni Pariksha; villagers still take oaths here."
+        },
+        {
+          "label": "Evening",
+          "title": "Panchamukha Anjaneyar temple, Colombo"
+        }
+      ],
+      "places": [
+        "Gayathri Peedam",
+        "Seetha Amman Temple",
+        "Divurumpola Temple",
+        "Panchamuga Anjaneyar Temple"
+      ],
+      "note": "A long road day down from the hills; your driver stops for tea.",
+      "route": [
+        "Gayathri Peedam",
+        "Seetha Amman Temple",
+        "Divurumpola Temple",
+        "Panchamuga Anjaneyar Temple"
+      ],
+      "photo_query": "Gayathri Peedam",
+      "photo_caption": "Gayathri Peedam",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 5 hours of driving",
+      "brief": [
+        "A long road day down from the hills; your driver stops for tea."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Colombo",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "About 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Bandaranaike International Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Bandaranaike International Airport"
+      ],
+      "note": "Ceylon tea makes a good gift; buy sealed packs.",
+      "photo_query": "Bandaranaike International Airport",
+      "photo_caption": "Bandaranaike International Airport",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 1 hour",
+      "brief": [
+        "Be at the airport 3 hours before an international flight.",
+        "Ceylon tea makes a good gift; buy sealed packs."
+      ]
+    }
+  ],
+  "included": [
+    "5 nights with breakfast and dinner",
+    "Private air-conditioned car with English-speaking driver-guide",
+    "Spice garden and gem gallery visits",
+    "Two bottles of water per person per day",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Sri Lanka ETA",
+    "Temple donations and entry fees (Sigiriya, Temple of the Tooth)",
+    "Lunches",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "December to April for Kandy and the hills; Trincomalee is at its best from May to September. The temples can be visited all year.",
+  "seasons": [
+    [
+      "December to April",
+      "Best",
+      "Dry on the west and south coasts and in the hills; Yala at its best."
+    ],
+    [
+      "May to September",
+      "South-west monsoon",
+      "Rain on the west and south coasts and the hills; the east coast (Trincomalee) is dry and sunny."
+    ],
+    [
+      "October to November",
+      "Inter-monsoon",
+      "Showers island-wide; Yala closed for about six weeks from September."
+    ]
+  ],
+  "months": [
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "dry"
+  ],
+  "best_pick": "January to April.",
+  "faqs": [
+    {
+      "q": "Can we add more Ramayana sites?",
+      "a": "Yes. Ravana Falls and Ravana's Cave at Ella, and Ussangoda in the south, add two days."
+    },
+    {
+      "q": "Can it be done for a large group?",
+      "a": "Yes, in coaches with a Tamil or Hindi-speaking guide on request."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Ramayana tour Sri Lanka",
+    "Sri Lanka Ramayan yatra",
+    "Seetha Eliya Ashok Vatika",
+    "Sri Lanka pilgrimage tour from India"
+  ],
+  "links": [
+    {
+      "title": "Sri Lanka ETA (official)",
+      "url": "https://www.eta.gov.lk/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Sri Lanka ETA",
+      "Electronic Travel Authorisation applied online before travel; currently free for Indian passport holders under a government scheme (confirm before you fly)",
+      "Indian passport holders",
+      "Free at present"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply on the official ETA site only; approval usually comes within 1 to 2 days.",
+    "Phone and internet: Indian roaming works, but a local tourist SIM is cheaper and is sold at the airport."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Rupees",
+      "text": "Sri Lankan rupees (LKR). Cards work in hotels and big shops; carry cash for temples, tuk-tuks and roadside stalls. Indian rupees are not accepted."
+    },
+    {
+      "tag": "CARE",
+      "title": "Temples",
+      "text": "Remove shoes and hats, cover shoulders and knees, and never pose for a photo with your back to a Buddha statue. White clothing is preferred at the Temple of the Tooth. Some Hindu kovils ask men to remove shirts."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Hill country",
+      "text": "Nuwara Eliya is about 15°C and can drop to 5°C at night. Pack a warm layer and a rain jacket."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "119 (tourist police 1912)"
+    ],
+    [
+      "Ambulance",
+      "1990"
+    ]
+  ],
+  "dining_intro": "Sri Lanka is very easy for Indian vegetarians: rice and curry with dal, vegetables and sambols is served everywhere, and Colombo, Kandy and Nuwara Eliya have Indian vegetarian restaurants. Hotels cook Jain food with notice.",
+  "dining_avoid": "Many curries and sambols use Maldive fish flakes or dried shrimp. Ask for 'no Maldive fish' and say 'vegetarian, no egg'.",
+  "food_card": [
+    [
+      "Sinhala (transliterated)",
+      "Mama nirmaamsha. Mas, maalu, umbalakada, biththara epa. Lunu, sudu lunu epa. Sthuthiyi."
+    ],
+    [
+      "Tamil",
+      "Naan saivam. Iraichi, meen, muttai venda. Vengayam, poondu venda. Nandri."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "lk"
+}

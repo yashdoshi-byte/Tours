@@ -1,0 +1,763 @@
+{
+  "slug": "new-zealand-in-a-nutshell-11-days",
+  "title": "New Zealand in a Nutshell: Auckland, Rotorua, the Glaciers, Queenstown and Mt Cook in 11 Days",
+  "meta_title": "New Zealand 11 Days: Rotorua, Glaciers, Queenstown, Mt Cook",
+  "meta_description": "11-day New Zealand self-drive: Waitomo caves, Māori culture in Rotorua, the West Coast glaciers, Queenstown and Doubtful Sound, Aoraki Mt Cook and Lake Tekapo.",
+  "destination": "New Zealand",
+  "country": "New Zealand",
+  "duration": "11 days / 10 nights",
+  "nights": 10,
+  "style": "Self-drive · Nature · Adventure",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761896832715-489661022.webp",
+  "hero_alt": "Lake Pukaki and Aoraki Mt Cook",
+  "tagline": "Glow-worm caves, geysers, glaciers, fiords and the highest mountain in New Zealand",
+  "facts": [
+    [
+      "Stay",
+      "Auckland 1, Rotorua 2, Christchurch 1, Glacier Region 1, Queenstown 3, Mt Cook 1, Christchurch 1"
+    ],
+    [
+      "Travel",
+      "Private transfers on the North Island, a domestic flight, then a rental car on the South Island"
+    ],
+    [
+      "Pace",
+      "Active, with three long driving days"
+    ],
+    [
+      "Best months",
+      "October to April"
+    ],
+    [
+      "Arrive / leave",
+      "Auckland / Christchurch"
+    ]
+  ],
+  "intro": "Both islands of New Zealand in eleven days. The glow-worm caves of Waitomo and two nights in Rotorua for geysers, kiwi and a Māori cultural evening, then a flight to Christchurch and a self-drive loop of the South Island: over the Southern Alps to the Franz Josef and Fox glaciers, down the Haast Pass to Queenstown for Doubtful Sound and a free adventure day, and back via Aoraki Mt Cook and Lake Tekapo. Three days have 5 to 6 hours of driving, and the Doubtful Sound day from Queenstown is about 12 hours; a scenic flight-cruise is a shorter option. We removed the original plan's second car pick-up in Queenstown: you keep the car from Christchurch throughout.",
+  "highlights": [
+    "Glow-worms in the Waitomo or Ruakuri caves",
+    "Te Puia geysers and the Agrodome farm show",
+    "Kiwi birds at Rainbow Springs",
+    "A Māori cultural evening with a hāngī feast",
+    "Arthur's Pass and the West Coast",
+    "Franz Josef and Fox glaciers and Lake Matheson",
+    "Haast Pass, Lake Wanaka and Lake Hawea",
+    "Doubtful Sound",
+    "Queenstown's gondola, jet boats and bungy",
+    "Aoraki Mt Cook, Lake Pukaki and the Church of the Good Shepherd at Lake Tekapo"
+  ],
+  "stays": [
+    {
+      "place": "Auckland",
+      "nights": 1,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Rotorua",
+      "nights": 2,
+      "hotel": "Lakeside hotel"
+    },
+    {
+      "place": "Christchurch",
+      "nights": 1,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Franz Josef",
+      "nights": 1,
+      "hotel": "Glacier-region lodge"
+    },
+    {
+      "place": "Queenstown",
+      "nights": 3,
+      "hotel": "Lake-view hotel"
+    },
+    {
+      "place": "Aoraki Mt Cook",
+      "nights": 1,
+      "hotel": "Alpine village hotel"
+    },
+    {
+      "place": "Christchurch",
+      "nights": 1,
+      "hotel": "City hotel"
+    }
+  ],
+  "route": [
+    "Auckland",
+    "Waitomo",
+    "Rotorua",
+    "Christchurch",
+    "Arthur's Pass",
+    "Hokitika",
+    "Franz Josef",
+    "Fox Glacier",
+    "Haast Pass",
+    "Wanaka",
+    "Queenstown",
+    "Doubtful Sound",
+    "Twizel",
+    "Aoraki Mount Cook",
+    "Lake Tekapo",
+    "Christchurch"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Auckland",
+      "summary": "Met at the airport and transferred to your hotel.",
+      "strip": [
+        "Airport about 40 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Private transfer and travel documents"
+        },
+        {
+          "label": "Evening",
+          "title": "Viaduct Harbour or the Sky Tower"
+        }
+      ],
+      "places": [
+        "Auckland Airport",
+        "Viaduct Harbour",
+        "Sky Tower"
+      ],
+      "note": "Declare all food at biosecurity, even packed spices and snacks.",
+      "transport": "Private transfer",
+      "route": [
+        "Auckland Airport",
+        "Viaduct Harbour",
+        "Sky Tower"
+      ],
+      "photo_query": "Auckland Airport",
+      "photo_caption": "Auckland Airport",
+      "travel_time": "Airport about 40 minutes",
+      "brief": [
+        "Declare all food at biosecurity, even packed spices and snacks."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Waitomo glow-worm caves to Rotorua",
+      "summary": "A boat through a glow-worm grotto on the way to Rotorua.",
+      "strip": [
+        "About 2 hours 30 minutes to Waitomo, then 2 hours to Rotorua"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Waitomo or Ruakuri caves",
+          "text": "Silent boat ride under thousands of glow-worms.",
+          "notes": [
+            [
+              "TIME",
+              "Tours run every 30 minutes; book a slot for your arrival time."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Rotorua"
+        }
+      ],
+      "places": [
+        "Waitomo Glowworm Caves",
+        "Ruakuri Cave",
+        "Rotorua"
+      ],
+      "note": "Rotorua smells of sulphur; you get used to it within an hour.",
+      "transport": "Private car with driver",
+      "route": [
+        "Waitomo Glowworm Caves",
+        "Ruakuri Cave",
+        "Rotorua"
+      ],
+      "photo_query": "Waitomo Glowworm Caves",
+      "photo_caption": "Waitomo Glowworm Caves",
+      "travel_time": "About 2 hours 30 minutes to Waitomo, then 2 hours to Rotorua",
+      "brief": [
+        "Waitomo or Ruakuri caves: tours run every 30 minutes; book a slot for your arrival time.",
+        "Rotorua smells of sulphur; you get used to it within an hour."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Rotorua: geysers, kiwi and Māori culture",
+      "summary": "Agrodome, Te Puia, Rainbow Springs and a cultural evening with a hāngī.",
+      "strip": [
+        "Full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Agrodome farm show",
+          "text": "Sheep shearing and sheepdogs."
+        },
+        {
+          "label": "Midday",
+          "title": "Te Puia",
+          "text": "The Pōhutu geyser, mud pools and the carving school.",
+          "notes": [
+            [
+              "CARE",
+              "Stay on paths; the ground around the geysers is unstable."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Rainbow Springs",
+          "text": "Kiwi in a night house."
+        },
+        {
+          "label": "Evening",
+          "title": "Māori cultural evening and hāngī",
+          "text": "A welcome ceremony, songs and haka. Ask for the vegetarian hāngī.",
+          "notes": [
+            [
+              "CARE",
+              "The welcome is a sacred ceremony. Follow the host's lead; do not laugh during the haka."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Agrodome",
+        "Te Puia",
+        "Rainbow Springs",
+        "Mitai Maori Village"
+      ],
+      "note": "Optional: the Redwoods treewalk at night.",
+      "transport": "Private car with driver",
+      "route": [
+        "Agrodome",
+        "Te Puia",
+        "Rainbow Springs",
+        "Mitai Maori Village"
+      ],
+      "photo_query": "Agrodome",
+      "photo_caption": "Agrodome",
+      "brief": [
+        "Te Puia: stay on paths; the ground around the geysers is unstable.",
+        "Māori cultural evening and hāngī: the welcome is a sacred ceremony."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Christchurch and collect your car",
+      "summary": "A flight to the South Island.",
+      "strip": [
+        "Flight about 1 hour 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight Rotorua to Christchurch"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Collect your rental car"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Botanic Gardens and the Cardboard Cathedral"
+        }
+      ],
+      "places": [
+        "Rotorua Airport",
+        "Christchurch Airport",
+        "Christchurch Botanic Gardens"
+      ],
+      "note": "Drive on the left. Take the first drive slowly to get used to it.",
+      "transport": "Flight and rental car",
+      "route": [
+        "Rotorua Airport",
+        "Christchurch Airport",
+        "Christchurch Botanic Gardens"
+      ],
+      "photo_query": "Rotorua Airport",
+      "photo_caption": "Rotorua Airport",
+      "travel_time": "Flight about 1 hour 45 minutes",
+      "brief": [
+        "Drive on the left."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Arthur's Pass and the West Coast to the glaciers",
+      "summary": "Over the Southern Alps, down the coast via Hokitika.",
+      "strip": [
+        "About 400 km, 5 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Arthur's Pass",
+          "text": "Look for kea, the mountain parrot; never feed them."
+        },
+        {
+          "label": "Midday",
+          "title": "Hokitika",
+          "text": "Greenstone carvers and glass blowers."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Franz Josef: Sentinel Rock walk",
+          "text": "A 20-minute walk to a view of the glacier."
+        }
+      ],
+      "places": [
+        "Arthur's Pass",
+        "Hokitika",
+        "Franz Josef Glacier",
+        "Sentinel Rock"
+      ],
+      "note": "A long day. Fuel up in Hokitika; stations are far apart on the coast.",
+      "route": [
+        "Arthur's Pass",
+        "Hokitika",
+        "Franz Josef Glacier",
+        "Sentinel Rock"
+      ],
+      "photo_query": "Arthur's Pass",
+      "photo_caption": "Arthur's Pass",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 400 km, 5 hours 30 minutes of driving",
+      "brief": [
+        "A long day."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Glacier heli-hike or Lake Matheson, then the Haast Pass to Queenstown",
+      "summary": "Morning at the glaciers, then the long scenic drive to Queenstown.",
+      "strip": [
+        "About 350 km, 5 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Lake Matheson",
+          "text": "The 'mirror lake' reflecting Aoraki on a still morning."
+        },
+        {
+          "label": "Optional",
+          "title": "Glacier heli-hike",
+          "text": "Glaciers can now only be walked on after a helicopter drop.",
+          "notes": [
+            [
+              "TIME",
+              "Weather cancels flights often; book for the morning."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Haast Pass, Lake Wanaka and Lake Hawea"
+        }
+      ],
+      "places": [
+        "Lake Matheson",
+        "Fox Glacier",
+        "Haast Pass",
+        "Lake Wanaka",
+        "Queenstown"
+      ],
+      "note": "Sandflies on the West Coast bite; use repellent at every stop.",
+      "route": [
+        "Lake Matheson",
+        "Fox Glacier",
+        "Haast Pass",
+        "Lake Wanaka",
+        "Queenstown"
+      ],
+      "photo_query": "Lake Matheson",
+      "photo_caption": "Lake Matheson",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 350 km, 5 hours 30 minutes of driving",
+      "brief": [
+        "Glacier heli-hike: weather cancels flights often; book for the morning.",
+        "Sandflies on the West Coast bite; use repellent at every stop."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Doubtful Sound",
+      "summary": "A full-day coach and cruise to the quiet fiord of Doubtful Sound.",
+      "strip": [
+        "About 12 hours"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Coach to Lake Manapouri"
+        },
+        {
+          "label": "Midday",
+          "title": "Lake crossing, Wilmot Pass and the fiord cruise",
+          "text": "Waterfalls, dolphins and fur seals; the boat stops its engines for the 'sound of silence'.",
+          "notes": [
+            [
+              "WEAR",
+              "Warm jacket and rain shell for the deck."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Lake Manapouri",
+        "Wilmot Pass",
+        "Doubtful Sound"
+      ],
+      "note": "A long day. A scenic flight and cruise to Milford Sound takes about 4 hours instead.",
+      "transport": "Coach and boat",
+      "route": [
+        "Lake Manapouri",
+        "Wilmot Pass",
+        "Doubtful Sound"
+      ],
+      "photo_query": "Lake Manapouri",
+      "photo_caption": "Lake Manapouri",
+      "travel_time": "About 12 hours",
+      "brief": [
+        "Warm jacket and rain shell for the deck.",
+        "A long day."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Queenstown your way",
+      "summary": "A free day for adventure or a slow lake day.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Skyline Gondola to Bob's Peak",
+          "text": "With the luge."
+        },
+        {
+          "label": "Optional",
+          "title": "Shotover jet boat, Kawarau bungy or the Canyon Swing",
+          "notes": [
+            [
+              "CARE",
+              "Use only licensed operators and follow the weight and health limits."
+            ]
+          ]
+        },
+        {
+          "label": "Optional",
+          "title": "TSS Earnslaw steamship to Walter Peak"
+        }
+      ],
+      "places": [
+        "Skyline Queenstown",
+        "Shotover Jet",
+        "Kawarau Gorge Suspension Bridge"
+      ],
+      "note": "Queenstown has several Indian restaurants.",
+      "route": [
+        "Skyline Queenstown",
+        "Shotover Jet",
+        "Kawarau Gorge Suspension Bridge"
+      ],
+      "photo_query": "Skyline Queenstown",
+      "photo_caption": "Skyline Queenstown",
+      "transport": "Self-drive rental car",
+      "brief": [
+        "Use only licensed operators and follow the weight and health limits.",
+        "Queenstown has several Indian restaurants."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Central Otago to Aoraki Mt Cook",
+      "summary": "Past Lake Pukaki to the foot of New Zealand's highest mountain.",
+      "strip": [
+        "About 260 km, 3 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Through Central Otago and the Lindis Pass"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Lake Pukaki",
+          "text": "Turquoise glacial water with Aoraki behind."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Hooker Valley track",
+          "text": "About 3 hours return on swing bridges to a glacier lake.",
+          "notes": [
+            [
+              "WEAR",
+              "Good shoes and wind jacket."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Lindis Pass",
+        "Lake Pukaki",
+        "Hooker Valley Track"
+      ],
+      "note": "Aoraki Mackenzie is an International Dark Sky Reserve: look up after dark.",
+      "route": [
+        "Lindis Pass",
+        "Lake Pukaki",
+        "Hooker Valley Track"
+      ],
+      "photo_query": "Lindis Pass",
+      "photo_caption": "Lindis Pass",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 260 km, 3 hours 30 minutes of driving",
+      "brief": [
+        "Hooker Valley track: good shoes and wind jacket.",
+        "Aoraki Mackenzie is an International Dark Sky Reserve: look up after dark."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Lake Tekapo to Christchurch",
+      "summary": "The Church of the Good Shepherd and across the Canterbury Plains.",
+      "strip": [
+        "About 330 km, 4 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Church of the Good Shepherd, Lake Tekapo",
+          "notes": [
+            [
+              "CARE",
+              "It is a working church; no photos inside, and stay quiet."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Christchurch"
+        }
+      ],
+      "places": [
+        "Church of the Good Shepherd",
+        "Lake Tekapo",
+        "Christchurch"
+      ],
+      "note": "Lupins flower around Tekapo from mid-November to December.",
+      "route": [
+        "Church of the Good Shepherd",
+        "Lake Tekapo",
+        "Christchurch"
+      ],
+      "photo_query": "Church of the Good Shepherd",
+      "photo_caption": "Church of the Good Shepherd",
+      "transport": "Self-drive rental car",
+      "travel_time": "About 330 km, 4 hours 30 minutes of driving",
+      "brief": [
+        "Church of the Good Shepherd, Lake Tekapo: it is a working church; no photos inside, and stay quiet.",
+        "Lupins flower around Tekapo from mid-November to December."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "International Antarctic Centre and fly home",
+      "summary": "Return the car at the airport.",
+      "strip": [
+        "Airport about 20 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "International Antarctic Centre",
+          "text": "Next to the airport: a storm room, penguins and Hägglund rides."
+        },
+        {
+          "label": "As per flight",
+          "title": "Return the car and check in",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "International Antarctic Centre",
+        "Christchurch Airport"
+      ],
+      "note": "Refuel the car before returning it.",
+      "route": [
+        "International Antarctic Centre",
+        "Christchurch Airport"
+      ],
+      "photo_query": "International Antarctic Centre",
+      "photo_caption": "International Antarctic Centre",
+      "transport": "Self-drive rental car",
+      "travel_time": "Airport about 20 minutes",
+      "brief": [
+        "Return the car and check in: be at the airport 3 hours before an international flight.",
+        "Refuel the car before returning it."
+      ]
+    }
+  ],
+  "included": [
+    "10 nights with breakfast",
+    "Private transfers and driver on the North Island",
+    "Flight Rotorua to Christchurch",
+    "Rental car Christchurch to Christchurch with insurance",
+    "Waitomo caves, Te Puia, Agrodome, Rainbow Springs and Māori evening with hāngī",
+    "Doubtful Sound day tour",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "New Zealand visa",
+    "Fuel and parking",
+    "Adventure activities",
+    "Other meals",
+    "Travel insurance"
+  ],
+  "best_time": "October to April. December to February is summer and busiest; March and April have settled weather and autumn colour. Winter brings snow to the passes.",
+  "seasons": [
+    [
+      "December to February",
+      "Summer",
+      "Warm (20 to 28°C), long days, busiest."
+    ],
+    [
+      "March to May",
+      "Best",
+      "Settled weather and autumn colour around Queenstown."
+    ],
+    [
+      "June to August",
+      "Winter",
+      "Skiing; snow chains on alpine passes; some roads close."
+    ],
+    [
+      "September to November",
+      "Spring",
+      "Lambs, lupins and waterfalls; changeable weather."
+    ]
+  ],
+  "months": [
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "February to April.",
+  "faqs": [
+    {
+      "q": "Can we avoid driving?",
+      "a": "Yes. We can replace the rental car with a private driver-guide, or coaches and the TranzAlpine train."
+    },
+    {
+      "q": "Milford or Doubtful Sound?",
+      "a": "Milford is more famous and easier to reach; Doubtful is three times longer, quieter and wilder."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "New Zealand tour package from India",
+    "New Zealand self drive 11 days",
+    "Queenstown Rotorua Mt Cook itinerary",
+    "New Zealand honeymoon"
+  ],
+  "links": [
+    {
+      "title": "New Zealand visa (official)",
+      "url": "https://www.immigration.govt.nz/"
+    },
+    {
+      "title": "NZTA road conditions (official)",
+      "url": "https://www.journeys.nzta.govt.nz/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "New Zealand visitor visa",
+      "Applied online; allow 4 to 6 weeks",
+      "Indian passport holders",
+      "About NZD 341 plus the IVL levy"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond departure",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Biosecurity is strict: declare all food, including spices and snacks, on arrival, or face an on-the-spot fine.",
+    "Phone and internet: a local eSIM; signal is weak on the West Coast and around Mt Cook."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in New Zealand dollars, never in INR. Cards and contactless work almost everywhere."
+    },
+    {
+      "tag": "CARE",
+      "title": "Driving on the left",
+      "text": "New Zealand drives on the left. Your Indian licence is accepted if it is in English; otherwise carry an approved translation or International Driving Permit. Roads are winding and one-lane bridges are common: slow down and give way as signed."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Four seasons in a day",
+      "text": "Pack layers, a rain jacket and sunscreen. The UV index in New Zealand is very high even on cool days."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency (New Zealand)",
+      "111"
+    ]
+  ],
+  "dining_intro": "Auckland, Christchurch and Queenstown have many Indian and vegetarian restaurants; Rotorua and small towns have fewer. We send your diet to every hotel and tour in advance.",
+  "dining_avoid": "Hāngī feasts are cooked with meat in an earth oven; ask for the vegetarian hāngī, which is cooked separately.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "nz"
+}

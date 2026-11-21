@@ -1,0 +1,680 @@
+{
+  "slug": "sri-lanka-scenic-hills-yala-beaches-9-days",
+  "title": "Scenic Sri Lanka in 9 Days: Sigiriya, Kandy, the Tea Hills, Ella, Yala and the Beaches of Bentota",
+  "meta_title": "Sri Lanka 9 Days: Sigiriya, Kandy, Tea Hills, Yala, Beach",
+  "meta_description": "9-day Sri Lanka tour: Sigiriya rock, Kandy's Temple of the Tooth, Nuwara Eliya and Horton Plains, Ella, a Yala leopard safari, Galle Fort and Bentota beach.",
+  "destination": "Sri Lanka",
+  "country": "Sri Lanka",
+  "duration": "9 days / 8 nights",
+  "nights": 8,
+  "style": "Culture · Hills · Wildlife · Beach",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904301976-970109644.webp",
+  "hero_alt": "Tea plantations in Sri Lanka's hill country",
+  "tagline": "An ancient rock fortress, misty tea hills, leopards and golden beaches",
+  "facts": [
+    [
+      "Stay",
+      "Sigiriya 1, Kandy 1, Nuwara Eliya 2, Yala 1, Bentota 2, Colombo 1"
+    ],
+    [
+      "Travel",
+      "Private air-conditioned car with English-speaking driver-guide"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "December to April"
+    ],
+    [
+      "Arrive / leave",
+      "Colombo"
+    ],
+    [
+      "Meals",
+      "Breakfast and dinner daily (breakfast only in Bentota and Colombo)"
+    ]
+  ],
+  "intro": "Sri Lanka's classic circuit: the rock fortress of Sigiriya, Kandy's Temple of the Tooth, two nights in the tea hills of Nuwara Eliya with Horton Plains, the drive down through Ella to a leopard safari in Yala, Galle's Dutch fort and two beach nights at Bentota with a turtle hatchery and a river safari. The original plan arrived in Sigiriya in the evening and left the next morning without climbing the rock, so we added a 07:00 climb on day 2. Yala National Park closes for about six weeks from September; in those months we switch to Udawalawe.",
+  "highlights": [
+    "The Sigiriya rock fortress at dawn",
+    "A spice garden and the Temple of the Tooth in Kandy",
+    "The Hanuman temple at Ramboda and a tea factory",
+    "Horton Plains and World's End",
+    "Ella's Nine Arch Bridge and Ravana Falls",
+    "A jeep safari for leopards and elephants in Yala",
+    "Galle Fort, a UNESCO World Heritage Site",
+    "Kosgoda turtle hatchery and the Madu River safari",
+    "Bentota beach and Galle Face Green in Colombo"
+  ],
+  "stays": [
+    {
+      "place": "Sigiriya",
+      "nights": 1,
+      "hotel": "3 or 4-star resort"
+    },
+    {
+      "place": "Kandy",
+      "nights": 1,
+      "hotel": "3 or 4-star hotel"
+    },
+    {
+      "place": "Nuwara Eliya",
+      "nights": 2,
+      "hotel": "Colonial-style hotel"
+    },
+    {
+      "place": "Yala",
+      "nights": 1,
+      "hotel": "Safari resort"
+    },
+    {
+      "place": "Bentota",
+      "nights": 2,
+      "hotel": "Beach resort"
+    },
+    {
+      "place": "Colombo",
+      "nights": 1,
+      "hotel": "City hotel"
+    }
+  ],
+  "route": [
+    "Bandaranaike International Airport",
+    "Sigiriya",
+    "Matale",
+    "Kandy",
+    "Ramboda",
+    "Nuwara Eliya",
+    "Horton Plains",
+    "Ella",
+    "Yala",
+    "Galle",
+    "Bentota",
+    "Colombo"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Colombo and drive to Sigiriya",
+      "summary": "Met at the airport and driven to the Cultural Triangle.",
+      "strip": [
+        "About 4 hours by road"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Meet your driver-guide"
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner at your Sigiriya hotel"
+        }
+      ],
+      "places": [
+        "Bandaranaike International Airport",
+        "Sigiriya"
+      ],
+      "note": "Ask the driver to stop for king coconut water on the way.",
+      "route": [
+        "Bandaranaike International Airport",
+        "Sigiriya"
+      ],
+      "photo_query": "Bandaranaike International Airport",
+      "photo_caption": "Bandaranaike International Airport",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 4 hours by road",
+      "brief": [
+        "Ask the driver to stop for king coconut water on the way."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Sigiriya rock at dawn, then Kandy",
+      "summary": "Climb the rock fortress, visit a spice garden and the Temple of the Tooth.",
+      "strip": [
+        "About 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "07:00",
+          "title": "Sigiriya rock fortress",
+          "text": "Frescoes, the Mirror Wall, the Lion's Paws and the summit palace. About 1,200 steps.",
+          "notes": [
+            [
+              "CARE",
+              "Hornets nest on the rock: keep quiet and avoid strong perfume."
+            ],
+            [
+              "TIME",
+              "Start by 07:00; it gets very hot by 10:00."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Spice garden near Matale"
+        },
+        {
+          "label": "Evening",
+          "title": "Temple of the Sacred Tooth Relic",
+          "text": "The evening puja with drums.",
+          "notes": [
+            [
+              "WEAR",
+              "White or light clothing, shoulders and knees covered."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Sigiriya",
+        "Matale",
+        "Temple of the Sacred Tooth Relic"
+      ],
+      "note": "This climb replaces the original plan's drive past Sigiriya.",
+      "route": [
+        "Sigiriya",
+        "Matale",
+        "Temple of the Sacred Tooth Relic"
+      ],
+      "photo_query": "Sigiriya",
+      "photo_caption": "Sigiriya",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 2 hours 30 minutes of driving",
+      "brief": [
+        "Sigiriya rock fortress: hornets nest on the rock: keep quiet and avoid strong perfume.",
+        "Sigiriya rock fortress: start by 07:00; it gets very hot by 10:00.",
+        "Temple of the Sacred Tooth Relic: white or light clothing, shoulders and knees covered."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ramboda and up to Nuwara Eliya",
+      "summary": "The Hanuman temple, Ramboda Falls and a tea factory.",
+      "strip": [
+        "About 2 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Kandy Lake and the gem museum"
+        },
+        {
+          "label": "Midday",
+          "title": "Sri Bhakta Hanuman temple and Ramboda Falls"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tea factory",
+          "text": "From leaf to cup."
+        },
+        {
+          "label": "Evening",
+          "title": "Gregory Lake"
+        }
+      ],
+      "places": [
+        "Kandy Lake",
+        "Sri Baktha Hanuman Temple",
+        "Ramboda Falls",
+        "Gregory Lake"
+      ],
+      "note": "Nuwara Eliya is cool; a warm layer for the evening.",
+      "route": [
+        "Kandy Lake",
+        "Sri Baktha Hanuman Temple",
+        "Ramboda Falls",
+        "Gregory Lake"
+      ],
+      "photo_query": "Kandy Lake",
+      "photo_caption": "Kandy Lake",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 2 hours 30 minutes of driving",
+      "brief": [
+        "Nuwara Eliya is cool; a warm layer for the evening."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Horton Plains and World's End",
+      "summary": "A high-plateau walk to the edge of an 870 m drop.",
+      "strip": [
+        "About 9 km loop, 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "06:00",
+          "title": "Horton Plains National Park",
+          "text": "Cloud forest and grassland.",
+          "notes": [
+            [
+              "TIME",
+              "Go early: mist usually hides the World's End view after about 10:00."
+            ]
+          ]
+        },
+        {
+          "label": "Morning",
+          "title": "World's End and Baker's Falls",
+          "notes": [
+            [
+              "CARE",
+              "There are no railings at World's End. Stay back from the edge."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Nuwara Eliya town",
+          "text": "Victorian post office and Seetha Amman temple nearby."
+        }
+      ],
+      "places": [
+        "Horton Plains National Park",
+        "World's End",
+        "Baker's Falls"
+      ],
+      "note": "Plastic is banned in the park; bags are checked at the gate.",
+      "route": [
+        "Horton Plains National Park",
+        "World's End",
+        "Baker's Falls"
+      ],
+      "photo_query": "Horton Plains National Park",
+      "photo_caption": "Horton Plains National Park",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 9 km loop, 3 hours",
+      "brief": [
+        "Horton Plains National Park: go early: mist usually hides the World's End view after about 10:00.",
+        "World's End and Baker's Falls: there are no railings at World's End."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Ella and Ravana Falls to Yala",
+      "summary": "Down through Ella's tea country to the south.",
+      "strip": [
+        "About 4 hours 30 minutes of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Optional train from Nanu Oya to Ella",
+          "text": "One of the world's prettiest train rides; the car meets you at Ella.",
+          "notes": [
+            [
+              "TIME",
+              "Reserved seats sell out weeks ahead."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Nine Arch Bridge and Ravana Falls"
+        },
+        {
+          "label": "Evening",
+          "title": "Yala"
+        }
+      ],
+      "places": [
+        "Nanu Oya",
+        "Nine Arch Bridge",
+        "Ravana Falls",
+        "Yala"
+      ],
+      "note": "Ella is a good stop for lunch.",
+      "route": [
+        "Nanu Oya",
+        "Nine Arch Bridge",
+        "Ravana Falls",
+        "Yala"
+      ],
+      "photo_query": "Nanu Oya",
+      "photo_caption": "Nanu Oya",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 4 hours 30 minutes of driving",
+      "brief": [
+        "Optional train from Nanu Oya to Ella: reserved seats sell out weeks ahead.",
+        "Ella is a good stop for lunch."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Yala safari, Galle Fort and on to Bentota",
+      "summary": "A dawn leopard safari, then the Dutch fort at Galle.",
+      "strip": [
+        "Safari about 3 hours 30 minutes",
+        "About 4 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "05:30",
+          "title": "Jeep safari in Yala",
+          "text": "Leopards, elephants, sloth bears and crocodiles.",
+          "notes": [
+            [
+              "CARE",
+              "Stay seated in the jeep and keep quiet near animals."
+            ],
+            [
+              "TIME",
+              "Yala closes for about six weeks from early September."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Galle Fort",
+          "text": "Ramparts, lighthouse and old streets."
+        },
+        {
+          "label": "Evening",
+          "title": "Bentota"
+        }
+      ],
+      "places": [
+        "Yala National Park",
+        "Galle Fort",
+        "Bentota"
+      ],
+      "note": "A long day; nap in the car between Yala and Galle.",
+      "route": [
+        "Yala National Park",
+        "Galle Fort",
+        "Bentota"
+      ],
+      "photo_query": "Yala National Park",
+      "photo_caption": "Yala National Park",
+      "transport": "Private car with driver-guide",
+      "travel_time": "Safari about 3 hours 30 minutes",
+      "brief": [
+        "Jeep safari in Yala: stay seated in the jeep and keep quiet near animals.",
+        "Jeep safari in Yala: yala closes for about six weeks from early September."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Turtles, the Madu River and the beach",
+      "summary": "A turtle hatchery, a mangrove river safari and water sports.",
+      "strip": [
+        "Free afternoon"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Kosgoda turtle hatchery",
+          "notes": [
+            [
+              "CARE",
+              "Do not handle hatchlings unless the staff ask you to."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Madu River safari",
+          "text": "Mangroves, a cinnamon island and fish-spa stops."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bentota beach and water sports",
+          "notes": [
+            [
+              "CARE",
+              "Swim only where lifeguards are posted; currents are strong from May to October."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Kosgoda Turtle Hatchery",
+        "Madu River",
+        "Bentota Beach"
+      ],
+      "note": "Sunset from the beach is the best part of the day.",
+      "route": [
+        "Kosgoda Turtle Hatchery",
+        "Madu River",
+        "Bentota Beach"
+      ],
+      "photo_query": "Kosgoda Turtle Hatchery",
+      "photo_caption": "Kosgoda Turtle Hatchery",
+      "transport": "Private car with driver-guide",
+      "brief": [
+        "Kosgoda turtle hatchery: do not handle hatchlings unless the staff ask you to.",
+        "Bentota beach and water sports: swim only where lifeguards are posted; currents are strong from May to October."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "To Colombo and Galle Face Green",
+      "summary": "A city tour and the sea front at sunset.",
+      "strip": [
+        "About 2 hours by road"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Colombo city tour",
+          "text": "Gangaramaya temple, Independence Square and Pettah."
+        },
+        {
+          "label": "Evening",
+          "title": "Galle Face Green",
+          "text": "Street food stalls by the sea; choose freshly cooked vegetarian snacks."
+        }
+      ],
+      "places": [
+        "Gangaramaya Temple",
+        "Independence Memorial Hall",
+        "Galle Face Green"
+      ],
+      "note": "",
+      "route": [
+        "Gangaramaya Temple",
+        "Independence Memorial Hall",
+        "Galle Face Green"
+      ],
+      "photo_query": "Gangaramaya Temple",
+      "photo_caption": "Gangaramaya Temple",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 2 hours by road",
+      "brief": []
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Colombo",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "About 1 hour"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Bandaranaike International Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Bandaranaike International Airport"
+      ],
+      "note": "",
+      "photo_query": "Bandaranaike International Airport",
+      "photo_caption": "Bandaranaike International Airport",
+      "transport": "Private car with driver-guide",
+      "travel_time": "About 1 hour",
+      "brief": [
+        "Be at the airport 3 hours before an international flight."
+      ]
+    }
+  ],
+  "included": [
+    "8 nights with breakfast; dinner in Sigiriya, Kandy, Nuwara Eliya and Yala",
+    "Private air-conditioned car with English-speaking driver-guide",
+    "Yala safari jeep",
+    "Horton Plains jeep",
+    "Spice garden and gem gallery visits",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Sri Lanka ETA",
+    "Entry fees (Sigiriya, Temple of the Tooth, park fees)",
+    "Turtle hatchery and Madu River boat",
+    "Ella train tickets",
+    "Lunches",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "December to April, when the hills and the south-west coast are dry and Yala's leopards are easiest to see.",
+  "seasons": [
+    [
+      "December to April",
+      "Best",
+      "Dry on the west and south coasts and in the hills; Yala at its best."
+    ],
+    [
+      "May to September",
+      "South-west monsoon",
+      "Rain on the west and south coasts and the hills; the east coast (Trincomalee) is dry and sunny."
+    ],
+    [
+      "October to November",
+      "Inter-monsoon",
+      "Showers island-wide; Yala closed for about six weeks from September."
+    ]
+  ],
+  "months": [
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "wet",
+    "wet",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "dry"
+  ],
+  "best_pick": "January to March.",
+  "faqs": [
+    {
+      "q": "Can we see whales?",
+      "a": "Yes, from Mirissa between December and April; add a night on the south coast."
+    },
+    {
+      "q": "Is it good for a honeymoon?",
+      "a": "Yes. We upgrade to boutique tea-estate bungalows and a beach villa."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Sri Lanka tour package from India",
+    "Sri Lanka 9 days itinerary",
+    "Yala safari tour",
+    "Kandy Nuwara Eliya Bentota"
+  ],
+  "links": [
+    {
+      "title": "Sri Lanka ETA (official)",
+      "url": "https://www.eta.gov.lk/"
+    },
+    {
+      "title": "Sigiriya on the UNESCO list",
+      "url": "https://whc.unesco.org/en/list/202/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Sri Lanka ETA",
+      "Electronic Travel Authorisation applied online before travel; currently free for Indian passport holders under a government scheme (confirm before you fly)",
+      "Indian passport holders",
+      "Free at present"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply on the official ETA site only; approval usually comes within 1 to 2 days.",
+    "Phone and internet: Indian roaming works, but a local tourist SIM is cheaper and is sold at the airport."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Rupees",
+      "text": "Sri Lankan rupees (LKR). Cards work in hotels and big shops; carry cash for temples, tuk-tuks and roadside stalls. Indian rupees are not accepted."
+    },
+    {
+      "tag": "CARE",
+      "title": "Temples",
+      "text": "Remove shoes and hats, cover shoulders and knees, and never pose for a photo with your back to a Buddha statue. White clothing is preferred at the Temple of the Tooth. Some Hindu kovils ask men to remove shirts."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Hill country",
+      "text": "Nuwara Eliya is about 15°C and can drop to 5°C at night. Pack a warm layer and a rain jacket."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "119 (tourist police 1912)"
+    ],
+    [
+      "Ambulance",
+      "1990"
+    ]
+  ],
+  "dining_intro": "Sri Lanka is very easy for Indian vegetarians: rice and curry with dal, vegetables and sambols is served everywhere, and Colombo, Kandy and Nuwara Eliya have Indian vegetarian restaurants. Hotels cook Jain food with notice.",
+  "dining_avoid": "Many curries and sambols use Maldive fish flakes or dried shrimp. Ask for 'no Maldive fish' and say 'vegetarian, no egg'.",
+  "food_card": [
+    [
+      "Sinhala (transliterated)",
+      "Mama nirmaamsha. Mas, maalu, umbalakada, biththara epa. Lunu, sudu lunu epa. Sthuthiyi."
+    ],
+    [
+      "Tamil",
+      "Naan saivam. Iraichi, meen, muttai venda. Vengayam, poondu venda. Nandri."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "lk"
+}

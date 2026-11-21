@@ -1,0 +1,536 @@
+{
+  "slug": "fiji-denarau-coral-coast-7-days",
+  "title": "Fiji in 7 Days: Denarau, the Mamanuca Islands, the Coral Coast and the Sigatoka River",
+  "meta_title": "Fiji 7 Days: Denarau and the Coral Coast",
+  "meta_description": "7-day Fiji holiday on Viti Levu: 3 nights in Denarau with an island day cruise, 3 nights on the Coral Coast, a Sigatoka River village safari.",
+  "destination": "Fiji",
+  "country": "Fiji",
+  "duration": "7 days / 6 nights",
+  "nights": 6,
+  "style": "Beach · Islands · Culture",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761896789735-993975848.webp",
+  "hero_alt": "Palm-fringed beach and lagoon in Fiji",
+  "tagline": "Two sides of Fiji's main island, with a day out on the islands",
+  "facts": [
+    [
+      "Stay",
+      "Denarau 3, Coral Coast 3"
+    ],
+    [
+      "Travel",
+      "Private transfers, day cruise, jet boat"
+    ],
+    [
+      "Pace",
+      "Relaxed"
+    ],
+    [
+      "Best months",
+      "May to October"
+    ],
+    [
+      "Arrive / leave",
+      "Nadi"
+    ]
+  ],
+  "intro": "A relaxed week on Viti Levu, Fiji's main island, that splits your stay between two very different beaches. Denarau, 20 minutes from Nadi airport, is the gateway to the Mamanuca Islands, with the marina, restaurants and day cruises to small coral islands. The Coral Coast, about 1 hour 30 minutes south, is quieter, with wide beaches, Natadola and the villages of the Sigatoka valley. We have kept the excursions to one a day at most, so there is plenty of time for the beach and the spa; each one can be swapped for a free day.",
+  "highlights": [
+    "A day cruise to a coral island in the Mamanuca group",
+    "The Sri Siva Subramaniya Temple in Nadi",
+    "The Garden of the Sleeping Giant orchids and the Sabeto mud pools",
+    "Natadola Beach",
+    "A jet-boat safari up the Sigatoka River to a village",
+    "The Sigatoka Sand Dunes",
+    "A Fijian lovo feast and fire-walking show"
+  ],
+  "stays": [
+    {
+      "place": "Denarau",
+      "nights": 3,
+      "hotel": "Beachfront resort"
+    },
+    {
+      "place": "Coral Coast",
+      "nights": 3,
+      "hotel": "Beachfront resort"
+    }
+  ],
+  "route": [
+    "Nadi",
+    "Denarau",
+    "Mamanuca Islands",
+    "Sabeto",
+    "Natadola",
+    "Sigatoka",
+    "Coral Coast",
+    "Nadi"
+  ],
+  "days": [
+    {
+      "pill": "Arrival",
+      "title": "Bula! Arrive in Nadi",
+      "summary": "A shell-lei welcome at the airport and the short transfer to Denarau.",
+      "strip": [
+        "About 20 minutes to Denarau"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Welcome at Nadi International Airport"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in and relax",
+          "text": "Most flights from Asia land early; we request early check-in."
+        },
+        {
+          "label": "Evening",
+          "title": "Port Denarau marina",
+          "text": "Restaurants by the water."
+        }
+      ],
+      "places": [
+        "Nadi International Airport",
+        "Denarau Island",
+        "Port Denarau Marina"
+      ],
+      "note": "Rest after the long flight; the sun is strong even when cloudy.",
+      "route": [
+        "Nadi International Airport",
+        "Denarau Island",
+        "Port Denarau Marina"
+      ],
+      "photo_query": "Nadi International Airport",
+      "photo_caption": "Nadi International Airport",
+      "transport": "Private transfer",
+      "travel_time": "About 20 minutes to Denarau",
+      "brief": [
+        "Rest after the long flight; the sun is strong even when cloudy."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "A day cruise to the Mamanuca Islands",
+      "summary": "A catamaran to a small coral island for snorkelling, kayaks and lunch.",
+      "strip": [
+        "About 45 minutes to 1 hour by boat each way"
+      ],
+      "rows": [
+        {
+          "label": "09:00",
+          "title": "Catamaran from Port Denarau"
+        },
+        {
+          "label": "Midday",
+          "title": "Island beach, snorkelling and lunch",
+          "notes": [
+            [
+              "CARE",
+              "Wear the life jacket offered if you are not a confident swimmer."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Denarau"
+        }
+      ],
+      "places": [
+        "Port Denarau Marina",
+        "Mamanuca Islands"
+      ],
+      "note": "Choose a quiet island beach, a reef snorkel or a sand-bar trip; we suggest the one that suits you.",
+      "transport": "Catamaran",
+      "route": [
+        "Port Denarau Marina",
+        "Mamanuca Islands"
+      ],
+      "photo_query": "Port Denarau Marina",
+      "photo_caption": "Port Denarau Marina",
+      "travel_time": "About 45 minutes to 1 hour by boat each way",
+      "brief": [
+        "Island beach, snorkelling and lunch: wear the life jacket offered if you are not a confident swimmer.",
+        "Choose a quiet island beach, a reef snorkel or a sand-bar trip; we suggest the one that suits you."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Nadi temple, orchids and mud pools",
+      "summary": "The Hindu temple, an orchid garden in the hills and a soak in the Sabeto mud pools.",
+      "strip": [
+        "About 2 hours of driving in total"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sri Siva Subramaniya Temple",
+          "text": "The largest Hindu temple in the southern hemisphere, in South Indian style.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover shoulders and knees and remove shoes."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Garden of the Sleeping Giant",
+          "text": "Orchids and forest walks under the Sabeto mountains."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Sabeto mud pools and hot springs",
+          "text": "Bring a swimsuit you do not mind staining."
+        }
+      ],
+      "places": [
+        "Sri Siva Subramaniya Temple",
+        "Garden of the Sleeping Giant",
+        "Sabeto Hot Springs and Mud Pool"
+      ],
+      "note": "Or take a free day at the resort; a sunset dinner cruise is a good evening option.",
+      "route": [
+        "Sri Siva Subramaniya Temple",
+        "Garden of the Sleeping Giant",
+        "Sabeto Hot Springs and Mud Pool"
+      ],
+      "photo_query": "Sri Siva Subramaniya Temple",
+      "photo_caption": "Sri Siva Subramaniya Temple",
+      "transport": "Private transfer",
+      "travel_time": "About 2 hours of driving in total",
+      "brief": [
+        "Sri Siva Subramaniya Temple: cover shoulders and knees and remove shoes.",
+        "Or take a free day at the resort; a sunset dinner cruise is a good evening option."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Along the Queen's Road to the Coral Coast",
+      "summary": "South past sugar-cane fields to Natadola Beach and your Coral Coast resort.",
+      "strip": [
+        "About 1 hour 30 minutes by road"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive south"
+        },
+        {
+          "label": "Midday",
+          "title": "Natadola Beach",
+          "text": "One of Fiji's finest beaches for a swim."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Check in on the Coral Coast"
+        }
+      ],
+      "places": [
+        "Natadola Beach",
+        "Coral Coast"
+      ],
+      "note": "Natadola can have strong currents at times; swim near others and follow local advice.",
+      "route": [
+        "Natadola Beach",
+        "Coral Coast"
+      ],
+      "photo_query": "Natadola Beach",
+      "photo_caption": "Natadola Beach",
+      "transport": "Private transfer",
+      "travel_time": "About 1 hour 30 minutes by road",
+      "brief": [
+        "Natadola can have strong currents at times; swim near others and follow local advice."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Jet boat up the Sigatoka River",
+      "summary": "A half-day safari upriver to an inland village, with a kava welcome and lunch.",
+      "strip": [
+        "About 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Jet boat up the Sigatoka River",
+          "text": "Through the 'salad bowl of Fiji'."
+        },
+        {
+          "label": "Midday",
+          "title": "Village visit, kava ceremony and lunch",
+          "notes": [
+            [
+              "WEAR",
+              "Sarong or long skirt for women, shoulders covered for everyone; no hats in the village."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Free time at the resort"
+        }
+      ],
+      "places": [
+        "Sigatoka River",
+        "Sigatoka"
+      ],
+      "note": "Ask in advance for a vegetarian village lunch.",
+      "transport": "Jet boat",
+      "route": [
+        "Sigatoka River",
+        "Sigatoka"
+      ],
+      "photo_query": "Sigatoka River",
+      "photo_caption": "Sigatoka River",
+      "travel_time": "About 4 hours",
+      "brief": [
+        "Village visit, kava ceremony and lunch: sarong or long skirt for women, shoulders covered for everyone; no hats in the village.",
+        "Ask in advance for a vegetarian village lunch."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sand dunes and a Fijian feast",
+      "summary": "The Sigatoka Sand Dunes in the morning and a lovo feast and fire-walking show at night.",
+      "strip": [
+        "Dunes walk about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Sigatoka Sand Dunes National Park",
+          "text": "Fiji's first national park, with dunes up to 60 m high.",
+          "notes": [
+            [
+              "TIME",
+              "Go early; the sand gets very hot by late morning."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Beach and spa time"
+        },
+        {
+          "label": "Evening",
+          "title": "Lovo feast, kava and fire-walking show"
+        }
+      ],
+      "places": [
+        "Sigatoka Sand Dunes National Park",
+        "Coral Coast"
+      ],
+      "note": "Adventure options instead: ziplines near Nadi or a Navua River trip with tubing and waterfalls.",
+      "route": [
+        "Sigatoka Sand Dunes National Park",
+        "Coral Coast"
+      ],
+      "photo_query": "Sigatoka Sand Dunes National Park",
+      "photo_caption": "Sigatoka Sand Dunes National Park",
+      "transport": "Private transfer",
+      "travel_time": "Dunes walk about 1 to 2 hours",
+      "brief": [
+        "Sigatoka Sand Dunes National Park: go early; the sand gets very hot by late morning.",
+        "Adventure options instead: ziplines near Nadi or a Navua River trip with tubing and waterfalls."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Back to Nadi for your flight",
+      "summary": "Transfer to Nadi airport.",
+      "strip": [
+        "About 1 hour 45 minutes to the airport"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Nadi International Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Nadi International Airport"
+      ],
+      "note": "Stop at the Nadi market or for Indian sweets on the way if time allows.",
+      "photo_query": "Nadi International Airport",
+      "photo_caption": "Nadi International Airport",
+      "transport": "Private transfer",
+      "travel_time": "About 1 hour 45 minutes to the airport",
+      "brief": [
+        "Transfer to Nadi International Airport: be at the airport 3 hours before an international flight.",
+        "Stop at the Nadi market or for Indian sweets on the way if time allows."
+      ]
+    }
+  ],
+  "included": [
+    "6 nights with breakfast",
+    "Airport welcome with shell lei",
+    "All private transfers",
+    "Mamanuca Islands day cruise with lunch",
+    "Sigatoka River jet-boat safari with lunch",
+    "Lovo dinner and show",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Meals other than breakfast unless stated",
+    "Drinks",
+    "Optional excursions",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "May to October is the dry season: sunny, less humid and the best time for the islands; July and the school holidays are busiest. November to April is hot and wet, with a risk of cyclones from December to March.",
+  "seasons": [
+    [
+      "May to October",
+      "Best",
+      "Dry, sunny and pleasantly warm; calm seas for boats."
+    ],
+    [
+      "November and April",
+      "Shoulder",
+      "Warmer and more humid; good value."
+    ],
+    [
+      "December to March",
+      "Wet",
+      "Hot, humid and rainy, with a cyclone risk; flexible plans needed."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet"
+  ],
+  "best_pick": "May to October.",
+  "faqs": [
+    {
+      "q": "Can we stay in one resort only?",
+      "a": "Yes. We can plan 4 to 6 nights in Denarau or on the Coral Coast, with the same excursions from either."
+    },
+    {
+      "q": "Is Fiji good for families?",
+      "a": "Very. Most resorts have kids' clubs and calm lagoon pools, and Fijians are famously warm with children."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Fiji holiday",
+    "Denarau Coral Coast",
+    "Fiji from India",
+    "Sigatoka River safari"
+  ],
+  "links": [
+    {
+      "title": "Tourism Fiji (official)",
+      "url": "https://www.fiji.travel/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Fiji visitor permit on arrival",
+      "Free on arrival for up to 4 months with a return ticket, a hotel booking and proof of funds",
+      "Indian passport holders",
+      "Free"
+    ],
+    [
+      "Transit visa",
+      "Flights via Australia or New Zealand need a transit visa for Indian passport holders; routes via Singapore or Hong Kong usually do not",
+      "Indian passport holders",
+      "Check with us"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond your stay",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Fiji asks for an online arrival card before you fly; we send you the link.",
+    "We pick flights that avoid an Australian or New Zealand transit visa unless you already hold one."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Fiji dollars",
+      "text": "Fiji uses the Fiji dollar. Cards work in resorts, Denarau and Nadi; carry small cash for villages, markets and tips. Resort prices on the islands are high, so plan for meals there."
+    },
+    {
+      "tag": "CARE",
+      "title": "Village etiquette",
+      "text": "In a Fijian village, cover shoulders and knees (a sarong is fine), take off hats and sunglasses, never touch anyone's head, and wait to be invited in. Visitors bring a small gift of kava root (sevusevu); your guide arranges it. Sunday is for church and rest in the villages."
+    },
+    {
+      "tag": "CARE",
+      "title": "Sun and sea",
+      "text": "The tropical sun is strong: use reef-safe sunscreen and a rash vest. Swim and snorkel only where your resort or crew says it is safe, wear reef shoes, and do not touch or stand on coral."
+    },
+    {
+      "tag": "TIME",
+      "title": "Fiji time",
+      "text": "Life is relaxed. Boats and transfers run to timetables but may change with the weather; build in time and keep the day of your flight home free."
+    }
+  ],
+  "emergency": [
+    [
+      "Police and ambulance",
+      "911"
+    ],
+    [
+      "Fire",
+      "910"
+    ],
+    [
+      "Indian diplomatic mission, Suva",
+      "Suva, Viti Levu (contact details in your travel pack)"
+    ]
+  ],
+  "dining_intro": "Almost 4 in 10 Fijians have Indian roots, so dal, roti, curries and Indian sweets are everywhere on Viti Levu, and resorts on the main island cook vegetarian food well. Island resorts and boats need your dietary brief in advance; we send it to each one.",
+  "dining_avoid": "Kokoda (raw fish in coconut), lovo (earth-oven meat) and many coconut sauces with fish are local favourites. Ask for the vegetable lovo or Indian vegetarian dishes instead.",
+  "food_card": [
+    [
+      "Fiji Hindi",
+      "Hum log shudh shakahari hai. Maas, machhli, anda nahi. Pyaaz, lahsun, aloo, gajar aur jameen ke neeche wali sabzi nahi. Dhanyavaad."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "fj"
+}

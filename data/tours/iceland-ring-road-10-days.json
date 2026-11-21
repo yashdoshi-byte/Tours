@@ -1,0 +1,766 @@
+{
+  "slug": "iceland-ring-road-10-days",
+  "title": "Iceland Ring Road in 10 Days: Snæfellsnes, Mývatn, the East Fjords, Jökulsárlón and the South Coast",
+  "meta_title": "Iceland Ring Road 10 Days: Glaciers, Waterfalls, Fjords",
+  "meta_description": "10-day Iceland Ring Road tour: Snæfellsnes, Mývatn and Dettifoss, the East Fjords, a zodiac at Jökulsárlón, Skaftafell, Vík and the Golden Circle.",
+  "destination": "Iceland",
+  "country": "Iceland",
+  "duration": "10 days / 9 nights",
+  "nights": 9,
+  "style": "Nature · Glaciers · Road trip",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905046679-465956441.webp",
+  "hero_alt": "Icebergs in Jökulsárlón glacier lagoon",
+  "tagline": "Fire and ice all the way round: volcanoes, waterfalls, glaciers and black beaches",
+  "facts": [
+    [
+      "Stay",
+      "Keflavík 1, Snæfellsnes 1, Akureyri 1, Vopnafjörður 1, East Fjords 1, Höfn area 1, Kirkjubæjarklaustur area 1, South Coast 1, Reykjavík 1"
+    ],
+    [
+      "Travel",
+      "Guided small-group vehicle around Route 1"
+    ],
+    [
+      "Pace",
+      "Active, with walks most days"
+    ],
+    [
+      "Best months",
+      "June to August"
+    ],
+    [
+      "Arrive / leave",
+      "Keflavík"
+    ]
+  ],
+  "intro": "A full circle of Iceland on the Ring Road. The Reykjanes peninsula, Snæfellsnes ('Iceland in miniature'), Akureyri in the north, the waterfalls and lava formations of Lake Mývatn, the quiet East Fjords, a zodiac among the icebergs of Jökulsárlón, Skaftafell under Europe's largest glacier, the black beaches and waterfalls of the south coast, and the Golden Circle back to Reykjavík. Our original plan hiked to the 2021 lava field near Grindavík; that area has been restricted since the 2023 to 2025 eruptions, so day 2 now explores the rest of the peninsula instead. Day 3 is a long drive, about 6 hours with stops.",
+  "highlights": [
+    "The bridge between two continents on Reykjanes",
+    "Kirkjufell, Arnarstapi and the Snæfellsjökull volcano",
+    "Goðafoss, Dettifoss and the lava city of Dimmuborgir",
+    "The Hverfjall crater and the boiling mud of Námafjall",
+    "Hengifoss and the East Fjords",
+    "A zodiac among icebergs at Jökulsárlón, and Fjallsárlón",
+    "Svartifoss in Skaftafell, or a glacier walk",
+    "Reynisfjara, Dyrhólaey puffins, Skógafoss and Seljalandsfoss",
+    "Geysir, Gullfoss and Thingvellir"
+  ],
+  "stays": [
+    {
+      "place": "Keflavík",
+      "nights": 1,
+      "hotel": "Airport-area hotel"
+    },
+    {
+      "place": "Snæfellsnes",
+      "nights": 1,
+      "hotel": "Country hotel"
+    },
+    {
+      "place": "Akureyri",
+      "nights": 1,
+      "hotel": "Town hotel"
+    },
+    {
+      "place": "Vopnafjörður",
+      "nights": 1,
+      "hotel": "Guesthouse"
+    },
+    {
+      "place": "East Fjords",
+      "nights": 1,
+      "hotel": "Fjord hotel"
+    },
+    {
+      "place": "Höfn area",
+      "nights": 1,
+      "hotel": "Country hotel"
+    },
+    {
+      "place": "Kirkjubæjarklaustur area",
+      "nights": 1,
+      "hotel": "Country hotel"
+    },
+    {
+      "place": "South Coast",
+      "nights": 1,
+      "hotel": "Country hotel"
+    },
+    {
+      "place": "Reykjavík",
+      "nights": 1,
+      "hotel": "City hotel"
+    }
+  ],
+  "route": [
+    "Keflavík",
+    "Reykjanes",
+    "Snæfellsnes",
+    "Akureyri",
+    "Goðafoss",
+    "Mývatn",
+    "Dettifoss",
+    "Vopnafjörður",
+    "Egilsstaðir",
+    "Reyðarfjörður",
+    "Jökulsárlón",
+    "Skaftafell",
+    "Vík",
+    "Skógafoss",
+    "Seljalandsfoss",
+    "Gullfoss",
+    "Thingvellir",
+    "Reykjavík"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Iceland",
+      "summary": "Arrive at Keflavík and transfer to your hotel.",
+      "strip": [
+        "Airport about 10 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Rest",
+          "text": "Summer nights are light until midnight; an eye mask helps."
+        }
+      ],
+      "places": [
+        "Keflavík International Airport"
+      ],
+      "note": "Buy snacks at the airport supermarket; prices are lower than in the countryside.",
+      "photo_query": "Keflavík International Airport",
+      "photo_caption": "Keflavík International Airport",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "Airport about 10 minutes",
+      "brief": [
+        "Buy snacks at the airport supermarket; prices are lower than in the countryside."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Reykjanes peninsula, then Snæfellsnes",
+      "summary": "Geothermal fields and the continental rift, then north to Snæfellsnes.",
+      "strip": [
+        "About 4 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bridge between continents and Gunnuhver hot springs",
+          "text": "A footbridge over the rift between the North American and Eurasian plates."
+        },
+        {
+          "label": "Midday",
+          "title": "Seltún geothermal area and Lake Kleifarvatn",
+          "notes": [
+            [
+              "CARE",
+              "Stay on boardwalks: the ground around hot springs can be thin and scalding."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Snæfellsnes"
+        }
+      ],
+      "places": [
+        "Bridge Between Continents",
+        "Gunnuhver",
+        "Seltún",
+        "Kleifarvatn"
+      ],
+      "note": "This replaces the Fagradalsfjall lava hike, closed since the Grindavík eruptions.",
+      "route": [
+        "Bridge Between Continents",
+        "Gunnuhver",
+        "Seltún",
+        "Kleifarvatn"
+      ],
+      "photo_query": "Bridge Between Continents",
+      "photo_caption": "Bridge Between Continents",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 4 hours of driving with stops",
+      "brief": [
+        "Seltún geothermal area and Lake Kleifarvatn: stay on boardwalks: the ground around hot springs can be thin and scalding.",
+        "This replaces the Fagradalsfjall lava hike, closed since the Grindavík eruptions."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Snæfellsnes peninsula and on to Akureyri",
+      "summary": "'Iceland in miniature', then the long drive to the capital of the north.",
+      "strip": [
+        "About 6 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Kirkjufell, Arnarstapi and Djúpalónssandur",
+          "text": "Basalt cliffs, black beaches and the Snæfellsjökull volcano of Jules Verne."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive north to Akureyri"
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner in Akureyri"
+        }
+      ],
+      "places": [
+        "Kirkjufell",
+        "Arnarstapi",
+        "Djúpalónssandur",
+        "Akureyri"
+      ],
+      "note": "The longest drive of the trip; stops every 1 hour 30 minutes.",
+      "route": [
+        "Kirkjufell",
+        "Arnarstapi",
+        "Djúpalónssandur",
+        "Akureyri"
+      ],
+      "photo_query": "Kirkjufell",
+      "photo_caption": "Kirkjufell",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 6 hours of driving with stops",
+      "brief": [
+        "The longest drive of the trip; stops every 1 hour 30 minutes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Goðafoss, Mývatn and Dettifoss",
+      "summary": "Waterfalls, lava formations, a crater walk and boiling mud.",
+      "strip": [
+        "About 4 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Goðafoss, the waterfall of the gods"
+        },
+        {
+          "label": "Midday",
+          "title": "Dimmuborgir and Hverfjall crater",
+          "text": "A 20-minute steep climb to the crater rim.",
+          "notes": [
+            [
+              "WEAR",
+              "Boots with grip; the gravel path is loose."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Námafjall and Dettifoss",
+          "text": "Fumaroles and Europe's most powerful waterfall."
+        },
+        {
+          "label": "Evening",
+          "title": "Drive to Vopnafjörður"
+        }
+      ],
+      "places": [
+        "Goðafoss",
+        "Dimmuborgir",
+        "Hverfjall",
+        "Námafjall",
+        "Dettifoss"
+      ],
+      "note": "Mývatn means 'midge lake': in June and July a head net helps.",
+      "route": [
+        "Goðafoss",
+        "Dimmuborgir",
+        "Hverfjall",
+        "Námafjall",
+        "Dettifoss"
+      ],
+      "photo_query": "Goðafoss",
+      "photo_caption": "Goðafoss",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 4 hours of driving with stops",
+      "brief": [
+        "Dimmuborgir and Hverfjall crater: boots with grip; the gravel path is loose.",
+        "Mývatn means 'midge lake': in June and July a head net helps."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Hengifoss and the East Fjords",
+      "summary": "Across the highland desert to Egilsstaðir and a walk to Hengifoss.",
+      "strip": [
+        "About 3 hours of driving; walk about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Through the north-east highlands"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Hengifoss",
+          "text": "A 128 m waterfall in red-striped basalt; about 2 hours return walk."
+        },
+        {
+          "label": "Evening",
+          "title": "Reyðarfjörður"
+        }
+      ],
+      "places": [
+        "Egilsstaðir",
+        "Hengifoss",
+        "Reyðarfjörður"
+      ],
+      "note": "One of the least visited corners of Iceland.",
+      "route": [
+        "Egilsstaðir",
+        "Hengifoss",
+        "Reyðarfjörður"
+      ],
+      "photo_query": "Egilsstaðir",
+      "photo_caption": "Egilsstaðir",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 3 hours of driving; walk about 2 hours",
+      "brief": [
+        "One of the least visited corners of Iceland."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Jökulsárlón and Fjallsárlón",
+      "summary": "Iceberg lagoons and a zodiac ride among the ice.",
+      "strip": [
+        "About 4 hours of driving"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Coast road through the East Fjords to Höfn"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Zodiac on Jökulsárlón",
+          "text": "Up to the glacier face among the icebergs.",
+          "notes": [
+            [
+              "TIME",
+              "Zodiac tours run from about May to October."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Fjallsárlón and Diamond Beach"
+        }
+      ],
+      "places": [
+        "Höfn",
+        "Jökulsárlón",
+        "Fjallsárlón",
+        "Diamond Beach"
+      ],
+      "note": "Wear the flotation suit provided on the zodiac.",
+      "route": [
+        "Höfn",
+        "Jökulsárlón",
+        "Fjallsárlón",
+        "Diamond Beach"
+      ],
+      "photo_query": "Höfn",
+      "photo_caption": "Höfn",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 4 hours of driving",
+      "brief": [
+        "Zodiac on Jökulsárlón: zodiac tours run from about May to October.",
+        "Wear the flotation suit provided on the zodiac."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Skaftafell National Park",
+      "summary": "A hike to Svartifoss, or a glacier walk with crampons.",
+      "strip": [
+        "Walk about 2 hours, or glacier walk about 3 hours"
+      ],
+      "rows": [
+        {
+          "label": "Option 1",
+          "title": "Svartifoss hike",
+          "text": "A waterfall framed by basalt columns."
+        },
+        {
+          "label": "Option 2",
+          "title": "Glacier walk",
+          "text": "With crampons and a certified guide.",
+          "notes": [
+            [
+              "CARE",
+              "Never walk on a glacier without a guide."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Kirkjubæjarklaustur"
+        }
+      ],
+      "places": [
+        "Skaftafell",
+        "Svartifoss",
+        "Kirkjubæjarklaustur"
+      ],
+      "note": "Glacier walks have a minimum age of about 10 years.",
+      "route": [
+        "Skaftafell",
+        "Svartifoss",
+        "Kirkjubæjarklaustur"
+      ],
+      "photo_query": "Skaftafell",
+      "photo_caption": "Skaftafell",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "Walk about 2 hours, or glacier walk about 3 hours",
+      "brief": [
+        "Glacier walk: never walk on a glacier without a guide.",
+        "Glacier walks have a minimum age of about 10 years."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Vík, Dyrhólaey, Skógafoss and Seljalandsfoss",
+      "summary": "Black sand beaches, puffins and two great waterfalls.",
+      "strip": [
+        "About 3 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Reynisfjara black beach",
+          "text": "Basalt columns and the 'troll' sea stacks.",
+          "notes": [
+            [
+              "CARE",
+              "Sneaker waves: stay well back from the water and never turn your back to the sea."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Dyrhólaey",
+          "text": "Puffins nest here from about May to mid-August."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Skógafoss and Seljalandsfoss",
+          "text": "Walk behind Seljalandsfoss.",
+          "notes": [
+            [
+              "WEAR",
+              "Waterproofs: you will get wet behind the falls."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Reynisfjara",
+        "Dyrhólaey",
+        "Skógafoss",
+        "Seljalandsfoss"
+      ],
+      "note": "Eyjafjallajökull, the 2010 volcano, is above you here.",
+      "route": [
+        "Reynisfjara",
+        "Dyrhólaey",
+        "Skógafoss",
+        "Seljalandsfoss"
+      ],
+      "photo_query": "Reynisfjara",
+      "photo_caption": "Reynisfjara",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 3 hours of driving with stops",
+      "brief": [
+        "Reynisfjara black beach: sneaker waves: stay well back from the water and never turn your back to the sea.",
+        "Skógafoss and Seljalandsfoss: waterproofs: you will get wet behind the falls."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The Golden Circle to Reykjavík",
+      "summary": "Geysir, Gullfoss and Thingvellir.",
+      "strip": [
+        "About 3 hours of driving with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Geysir and Strokkur",
+          "text": "Strokkur erupts every 5 to 10 minutes."
+        },
+        {
+          "label": "Midday",
+          "title": "Gullfoss"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Thingvellir",
+          "text": "Site of the world's oldest parliament, in the rift valley."
+        },
+        {
+          "label": "Optional evening",
+          "title": "Sky Lagoon"
+        }
+      ],
+      "places": [
+        "Strokkur",
+        "Gullfoss",
+        "Þingvellir",
+        "Reykjavík"
+      ],
+      "note": "Keep back from Strokkur's edge; the water is boiling.",
+      "route": [
+        "Strokkur",
+        "Gullfoss",
+        "Þingvellir",
+        "Reykjavík"
+      ],
+      "photo_query": "Strokkur",
+      "photo_caption": "Strokkur",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "About 3 hours of driving with stops",
+      "brief": [
+        "Keep back from Strokkur's edge; the water is boiling."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Reykjavík and fly home",
+      "summary": "Free time, then the airport.",
+      "strip": [
+        "Airport about 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hallgrímskirkja, Harpa and Laugavegur"
+        },
+        {
+          "label": "Optional",
+          "title": "Whale watching or the Blue Lagoon on the way to the airport",
+          "notes": [
+            [
+              "TIME",
+              "The Blue Lagoon has closed at times during the Reykjanes eruptions; we check before booking."
+            ]
+          ]
+        },
+        {
+          "label": "As per flight",
+          "title": "Transfer to Keflavík"
+        }
+      ],
+      "places": [
+        "Hallgrímskirkja",
+        "Harpa",
+        "Keflavík International Airport"
+      ],
+      "note": "Ask for a VAT refund on wool and design purchases.",
+      "route": [
+        "Hallgrímskirkja",
+        "Harpa",
+        "Keflavík International Airport"
+      ],
+      "photo_query": "Hallgrímskirkja",
+      "photo_caption": "Hallgrímskirkja",
+      "transport": "Guided small-group vehicle",
+      "travel_time": "Airport about 45 minutes",
+      "brief": [
+        "The Blue Lagoon has closed at times during the Reykjanes eruptions; we check before booking.",
+        "Ask for a VAT refund on wool and design purchases."
+      ]
+    }
+  ],
+  "included": [
+    "9 nights with breakfast",
+    "Guided small-group transport around the Ring Road",
+    "Jökulsárlón zodiac",
+    "Skaftafell guided hike",
+    "Airport transfers",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Schengen visa",
+    "Glacier walk, lagoons and whale watching",
+    "Lunches and dinners",
+    "Travel insurance"
+  ],
+  "best_time": "June to August: all roads open, puffins, midnight sun and every tour running. For northern lights, a shorter south-coast winter tour works better.",
+  "seasons": [
+    [
+      "June to August",
+      "Best",
+      "10 to 15°C, almost 24 hours of light, all roads and tours open."
+    ],
+    [
+      "May and September",
+      "Shoulder",
+      "Cooler, quieter, some highland roads closed."
+    ],
+    [
+      "October to April",
+      "Winter",
+      "Snow and storms close parts of the Ring Road; northern lights season."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "peak",
+    "peak",
+    "peak",
+    "shoulder",
+    "wet",
+    "snow",
+    "snow"
+  ],
+  "best_pick": "Mid-June to mid-August.",
+  "faqs": [
+    {
+      "q": "Can we self-drive?",
+      "a": "Yes, from June to August. Indian licence holders need an International Driving Permit, and gravel and wind insurance is strongly advised."
+    },
+    {
+      "q": "Will we see the northern lights?",
+      "a": "Not in summer: it does not get dark. Travel from late September to March for the lights."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Iceland ring road tour from India",
+    "Iceland 10 days itinerary",
+    "Jokulsarlon zodiac",
+    "Iceland summer tour"
+  ],
+  "links": [
+    {
+      "title": "SafeTravel Iceland (official)",
+      "url": "https://safetravel.is/"
+    },
+    {
+      "title": "Road conditions (official)",
+      "url": "https://umferdin.is/en"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Schengen visa",
+      "Short-stay visa, up to 90 days in any 180, applied at the consulate of the main destination",
+      "Indian passport holders",
+      "About EUR 90 per adult"
+    ],
+    [
+      "Passport",
+      "Valid at least 3 months beyond your return, issued within the last 10 years, with two blank pages",
+      "Everyone",
+      ""
+    ],
+    [
+      "Travel insurance",
+      "Medical cover of at least EUR 30,000 for the whole trip, required for the visa",
+      "Everyone",
+      ""
+    ],
+    [
+      "EES registration",
+      "Fingerprints and photo taken at the first Schengen border under the EU Entry/Exit System",
+      "Non-EU visitors",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply up to 6 months and at least 3 to 4 weeks before travel. Biometrics are taken at VFS or BLS centres.",
+    "Phone and internet: a Europe-wide eSIM bought before you fly covers every country on this route and keeps WhatsApp on your own number."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in Icelandic krónur (ISK), never in INR. Iceland is almost cashless; cards work even at remote fuel pumps (a PIN is needed)."
+    },
+    {
+      "tag": "CARE",
+      "title": "Pickpockets",
+      "text": "Busy stations, trams and squares are pickpocket hotspots. Keep passports in the hotel safe, carry a copy, and wear your bag in front in crowds."
+    },
+    {
+      "tag": "TIP",
+      "title": "Plugs, water and meal times",
+      "text": "Plugs are the two round-pin type C and F at 230 volts (Switzerland uses type J; a type C plug fits). Tap water is safe to drink. Lunch is about 12:00 to 14:00 and dinner from about 18:30."
+    },
+    {
+      "tag": "CARE",
+      "title": "Reynisfjara and the beaches",
+      "text": "Sneaker waves at Reynisfjara and other south-coast beaches have swept visitors away. Stay well back from the water's edge and never turn your back to the sea."
+    },
+    {
+      "tag": "CARE",
+      "title": "Volcanic areas",
+      "text": "Eruptions on the Reykjanes peninsula since 2021 have closed roads and areas around Grindavík. Follow safetravel.is and your guide's instructions."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Weather",
+      "text": "Wind and rain change by the hour. Waterproof jacket and trousers, layers and walking boots, even in summer."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency",
+      "112"
+    ],
+    [
+      "Embassy of India",
+      "Embassy of India, Túngata 7, Reykjavík"
+    ]
+  ],
+  "dining_intro": "Reykjavík and Akureyri have vegetarian and Indian restaurants; in the countryside choice is small, and lunch is often soup and bread at a farm café. We send your diet to every guesthouse in advance.",
+  "dining_avoid": "Soups, sauces, risottos and even some vegetable dishes are often made with meat or fish stock, and many cheeses use animal rennet. Show the food card and ask before ordering.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "is"
+}

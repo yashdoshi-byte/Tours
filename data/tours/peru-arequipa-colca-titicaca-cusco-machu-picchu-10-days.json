@@ -1,0 +1,762 @@
+{
+  "slug": "peru-arequipa-colca-titicaca-cusco-machu-picchu-10-days",
+  "title": "Peru in 10 Days: Arequipa, the Colca Canyon, Lake Titicaca, the Sacred Valley and Machu Picchu",
+  "meta_title": "Peru 10 Days: Colca, Lake Titicaca and Machu Picchu",
+  "meta_description": "10-day Peru tour: Arequipa, a Colca Canyon homestay and condors, Uros and Amantaní on Lake Titicaca, the Sacred Valley and Machu Picchu.",
+  "destination": "Peru",
+  "country": "Peru",
+  "duration": "10 days / 9 nights",
+  "nights": 9,
+  "style": "Culture · Andes · Community stays",
+  "hero_image": "https://yashdoshi-byte.github.io/Tours/assets/img/peru-andean-valley.webp",
+  "hero_alt": "Terraced fields in an Andean valley in southern Peru",
+  "tagline": "White-stone Arequipa, condors, island homestays and the lost city of the Incas",
+  "facts": [
+    [
+      "Stay",
+      "Lima 1, Arequipa 1, Colca 1, Puno 2, Amantaní 1, Cusco 2, Sacred Valley 1"
+    ],
+    [
+      "Travel",
+      "Domestic flights, private car with driver, tourist bus, boat and train"
+    ],
+    [
+      "Pace",
+      "Moderate, at altitude"
+    ],
+    [
+      "Best months",
+      "April to October (dry season)"
+    ],
+    [
+      "Arrive / leave",
+      "Lima / Cusco via Lima"
+    ]
+  ],
+  "intro": "A route through southern Peru that climbs slowly so your body can adjust to the altitude. You start in Lima at sea level, fly to Arequipa at 2,335 m, cross the high puna to the Colca Canyon and a family homestay in Coporaque, watch condors at dawn, then spend a night with a family on Amantaní island in Lake Titicaca. A scenic road with stops at Inca and colonial sites takes you to Cusco, and from the Sacred Valley the train runs to Machu Picchu. We designed this order on purpose: going straight from Lima to Cusco at 3,400 m makes altitude sickness much more likely. Add 3 nights in Paracas and Ica for the Ballestas Islands and the Huacachina dunes if you want the coast too.",
+  "highlights": [
+    "Santa Catalina Monastery in Arequipa",
+    "A night with a family in Coporaque in the Colca Canyon",
+    "Andean condors at the Cruz del Cóndor at dawn",
+    "The floating Uros islands",
+    "A homestay on Amantaní island",
+    "Taquile and its weaving tradition",
+    "Moray, the Maras salt pans and a visit to the Misminay community",
+    "Machu Picchu"
+  ],
+  "stays": [
+    {
+      "place": "Lima",
+      "nights": 1,
+      "hotel": "Miraflores hotel"
+    },
+    {
+      "place": "Arequipa",
+      "nights": 1,
+      "hotel": "Historic centre hotel"
+    },
+    {
+      "place": "Colca Canyon",
+      "nights": 1,
+      "hotel": "Family homestay in Coporaque (simple)"
+    },
+    {
+      "place": "Puno",
+      "nights": 2,
+      "hotel": "Lakeside hotel"
+    },
+    {
+      "place": "Amantaní",
+      "nights": 1,
+      "hotel": "Island family homestay (simple)"
+    },
+    {
+      "place": "Cusco",
+      "nights": 2,
+      "hotel": "Historic centre hotel"
+    },
+    {
+      "place": "Sacred Valley",
+      "nights": 1,
+      "hotel": "Valley hacienda hotel"
+    }
+  ],
+  "route": [
+    "Lima",
+    "Arequipa",
+    "Patapampa",
+    "Coporaque",
+    "Cruz del Cóndor",
+    "Puno",
+    "Uros",
+    "Amantaní",
+    "Taquile",
+    "Raqchi",
+    "Cusco",
+    "Moray",
+    "Ollantaytambo",
+    "Machu Picchu",
+    "Cusco"
+  ],
+  "days": [
+    {
+      "pill": "Arrival",
+      "title": "Arrive in Lima",
+      "summary": "Transfer to your hotel in Miraflores above the Pacific.",
+      "strip": [
+        "Airport about 45 minutes to 1 hour 30 minutes in traffic"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Meet and transfer to Miraflores"
+        },
+        {
+          "label": "Evening",
+          "title": "Walk along the clifftop Malecón",
+          "text": "Sunset over the ocean from the Parque del Amor."
+        }
+      ],
+      "places": [
+        "Jorge Chávez International Airport",
+        "Miraflores",
+        "Malecón de Miraflores"
+      ],
+      "note": "Lima traffic is heavy; allow plenty of time for every transfer.",
+      "route": [
+        "Jorge Chávez International Airport",
+        "Miraflores",
+        "Malecón de Miraflores"
+      ],
+      "photo_query": "Jorge Chávez International Airport",
+      "photo_caption": "Jorge Chávez International Airport",
+      "transport": "Private car with driver and guide",
+      "travel_time": "Airport about 45 minutes to 1 hour 30 minutes in traffic",
+      "brief": [
+        "Lima traffic is heavy; allow plenty of time for every transfer."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Arequipa, the white city",
+      "summary": "A short flight south and an afternoon in Arequipa's volcanic-stone old town.",
+      "strip": [
+        "Flight about 1 hour 30 minutes",
+        "2,335 m altitude"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Fly to Arequipa"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Santa Catalina Monastery",
+          "text": "A walled city of lanes and courtyards in blue and terracotta."
+        },
+        {
+          "label": "Evening",
+          "title": "Plaza de Armas and the cathedral",
+          "text": "With the El Misti volcano behind.",
+          "notes": [
+            [
+              "CARE",
+              "Take it easy today and drink plenty of water; this is the first step up in altitude."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Arequipa",
+        "Santa Catalina Monastery",
+        "Plaza de Armas Arequipa"
+      ],
+      "note": "Try the queso helado (frozen milk dessert) in the old town.",
+      "transport": "Flight and private car",
+      "route": [
+        "Arequipa",
+        "Santa Catalina Monastery",
+        "Plaza de Armas Arequipa"
+      ],
+      "photo_query": "Arequipa",
+      "photo_caption": "Arequipa",
+      "travel_time": "Flight about 1 hour 30 minutes",
+      "brief": [
+        "Plaza de Armas and the cathedral: take it easy today and drink plenty of water; this is the first step up in altitude.",
+        "Try the queso helado (frozen milk dessert) in the old town."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Across the high puna to the Colca Canyon",
+      "summary": "Vicuñas, the Patapampa pass at 4,910 m and a family homestay in Coporaque.",
+      "strip": [
+        "About 4 hours by road",
+        "Highest point 4,910 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Pampa Cañahuas reserve",
+          "text": "Wild vicuñas grazing by the road."
+        },
+        {
+          "label": "Midday",
+          "title": "Patapampa viewpoint",
+          "text": "Volcanoes in a row on the horizon.",
+          "notes": [
+            [
+              "CARE",
+              "Walk slowly here and stay only a few minutes at this height."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Coporaque and your host family",
+          "text": "Help in the fields or the kitchen and learn about village life."
+        },
+        {
+          "label": "Evening",
+          "title": "Optional thermal baths near Chivay"
+        }
+      ],
+      "places": [
+        "Pampa Cañahuas",
+        "Mirador de los Andes Patapampa",
+        "Coporaque",
+        "Chivay"
+      ],
+      "note": "The homestay is simple and nights are cold; extra blankets are provided.",
+      "transport": "Private car",
+      "route": [
+        "Pampa Cañahuas",
+        "Mirador de los Andes Patapampa",
+        "Coporaque",
+        "Chivay"
+      ],
+      "photo_query": "Pampa Cañahuas",
+      "photo_caption": "Pampa Cañahuas",
+      "travel_time": "About 4 hours by road",
+      "brief": [
+        "Patapampa viewpoint: walk slowly here and stay only a few minutes at this height.",
+        "The homestay is simple and nights are cold; extra blankets are provided."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Condors at dawn, then to Lake Titicaca",
+      "summary": "The Cruz del Cóndor viewpoint, terraced villages, then the drive to Puno.",
+      "strip": [
+        "Cruz del Cóndor about 1 hour 30 minutes from Coporaque",
+        "Then about 6 hours to Puno",
+        "Puno 3,830 m"
+      ],
+      "rows": [
+        {
+          "label": "07:00",
+          "title": "Cruz del Cóndor",
+          "text": "Condors rise on the morning thermals over one of the world's deepest canyons.",
+          "notes": [
+            [
+              "TIME",
+              "Condors fly best between about 07:30 and 09:30; sightings are likely but not guaranteed."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Villages of Maca and Yanque",
+          "text": "Colonial churches and terraces."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Puno",
+          "text": "Past the Lagunillas high-altitude lakes."
+        }
+      ],
+      "places": [
+        "Cruz del Cóndor",
+        "Maca",
+        "Yanque",
+        "Lagunillas",
+        "Puno"
+      ],
+      "note": "A long day; packed snacks and water are in the car.",
+      "transport": "Private car",
+      "route": [
+        "Cruz del Cóndor",
+        "Maca",
+        "Yanque",
+        "Lagunillas",
+        "Puno"
+      ],
+      "photo_query": "Cruz del Cóndor",
+      "photo_caption": "Cruz del Cóndor",
+      "travel_time": "Cruz del Cóndor about 1 hour 30 minutes from Coporaque",
+      "brief": [
+        "Cruz del Cóndor: condors fly best between about 07:30 and 09:30; sightings are likely but not guaranteed.",
+        "A long day; packed snacks and water are in the car."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Uros floating islands and Amantaní",
+      "summary": "A boat across Lake Titicaca to the reed islands and a night with a family on Amantaní.",
+      "strip": [
+        "Boat about 3 hours in total"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Uros floating islands",
+          "text": "Islands, homes and boats built from totora reeds."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Amantaní and your host family",
+          "text": "Lunch with the family, then a walk up to the Pachatata temple for sunset.",
+          "notes": [
+            [
+              "CARE",
+              "The climb to the temple is steep at 4,100 m; go slowly or stay below."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner and a village gathering"
+        }
+      ],
+      "places": [
+        "Uros",
+        "Amantaní",
+        "Pachatata"
+      ],
+      "note": "Bring a small gift for the family (rice, oil, fruit), a torch, warm clothes and soles in cash. Electricity is limited.",
+      "transport": "Boat and walking",
+      "route": [
+        "Uros",
+        "Amantaní",
+        "Pachatata"
+      ],
+      "photo_query": "Uros",
+      "photo_caption": "Uros",
+      "travel_time": "Boat about 3 hours in total",
+      "brief": [
+        "Amantaní and your host family: the climb to the temple is steep at 4,100 m; go slowly or stay below.",
+        "Bring a small gift for the family (rice, oil, fruit), a torch, warm clothes and soles in cash."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Taquile island and back to Puno",
+      "summary": "The island of weaving men, then the boat back to Puno.",
+      "strip": [
+        "Boat about 3 hours in total",
+        "Walk about 1 hour on Taquile"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Taquile",
+          "text": "Known for textiles knitted by the island's men, recognised by UNESCO."
+        },
+        {
+          "label": "Midday",
+          "title": "Lunch with a lake view",
+          "text": "Ask for the quinoa soup and trout-free options."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Puno and free time"
+        }
+      ],
+      "places": [
+        "Taquile",
+        "Puno"
+      ],
+      "note": "If the lake is rough, the crew may change the timing; follow their advice.",
+      "transport": "Boat and walking",
+      "route": [
+        "Taquile",
+        "Puno"
+      ],
+      "photo_query": "Taquile",
+      "photo_caption": "Taquile",
+      "travel_time": "Boat about 3 hours in total",
+      "brief": [
+        "If the lake is rough, the crew may change the timing; follow their advice."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The Route of the Sun to Cusco",
+      "summary": "A tourist bus with a guide across the altiplano, stopping at Inca and colonial sites.",
+      "strip": [
+        "About 10 hours with stops",
+        "La Raya pass 4,335 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Pukará and the La Raya pass",
+          "text": "The high point between Lake Titicaca and the Cusco valleys."
+        },
+        {
+          "label": "Midday",
+          "title": "Raqchi",
+          "text": "The great Inca temple of Wiracocha. Buffet lunch on the way."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Andahuaylillas church",
+          "text": "Called the 'Sistine Chapel of the Andes'."
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive in Cusco"
+        }
+      ],
+      "places": [
+        "Pukará",
+        "La Raya",
+        "Raqchi",
+        "Andahuaylillas",
+        "Cusco"
+      ],
+      "note": "A private car is possible instead of the tourist bus and allows more time at each stop.",
+      "transport": "Tourist bus with guide",
+      "route": [
+        "Pukará",
+        "La Raya",
+        "Raqchi",
+        "Andahuaylillas",
+        "Cusco"
+      ],
+      "photo_query": "Pukará",
+      "photo_caption": "Pukará",
+      "travel_time": "About 10 hours with stops",
+      "brief": [
+        "A private car is possible instead of the tourist bus and allows more time at each stop."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Sacred Valley",
+      "summary": "Moray, the Maras salt pans and a visit to the Misminay community.",
+      "strip": [
+        "About 3 hours of driving in total",
+        "Valley 2,850 m"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Misminay community",
+          "text": "Farming, weaving and Andean traditions with a local family."
+        },
+        {
+          "label": "Midday",
+          "title": "Moray terraces",
+          "text": "Circular Inca terraces used to test crops."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Maras salt pans",
+          "text": "Thousands of salt pools on the hillside."
+        },
+        {
+          "label": "Evening",
+          "title": "Hacienda in the valley",
+          "text": "A lower, warmer night before Machu Picchu."
+        }
+      ],
+      "places": [
+        "Misminay",
+        "Moray",
+        "Salineras de Maras",
+        "Urubamba"
+      ],
+      "note": "Sleeping lower in the valley helps with the altitude after Cusco.",
+      "transport": "Private car",
+      "route": [
+        "Misminay",
+        "Moray",
+        "Salineras de Maras",
+        "Urubamba"
+      ],
+      "photo_query": "Misminay",
+      "photo_caption": "Misminay",
+      "travel_time": "About 3 hours of driving in total",
+      "brief": [
+        "Sleeping lower in the valley helps with the altitude after Cusco."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Machu Picchu",
+      "summary": "The train from Ollantaytambo, a guided visit of Machu Picchu and back to Cusco.",
+      "strip": [
+        "Train about 1 hour 30 minutes each way",
+        "Bus up 25 minutes",
+        "Visit about 2 hours 30 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Train from Ollantaytambo to Aguas Calientes",
+          "text": "Along the Urubamba river gorge."
+        },
+        {
+          "label": "Midday",
+          "title": "Guided visit of Machu Picchu",
+          "notes": [
+            [
+              "TIME",
+              "Entry is by fixed time slot and circuit, checked against your passport. Tickets sell out months ahead in the dry season, so we book them as soon as you confirm."
+            ],
+            [
+              "WEAR",
+              "No large bags, walking sticks with metal tips or drones are allowed."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Train back and transfer to Cusco"
+        }
+      ],
+      "places": [
+        "Ollantaytambo",
+        "Aguas Calientes",
+        "Machu Picchu"
+      ],
+      "note": "Add a night in Aguas Calientes if you want to climb Huayna Picchu or Machu Picchu Mountain, which need separate tickets.",
+      "transport": "Train, bus and private car",
+      "route": [
+        "Ollantaytambo",
+        "Aguas Calientes",
+        "Machu Picchu"
+      ],
+      "photo_query": "Ollantaytambo",
+      "photo_caption": "Ollantaytambo",
+      "travel_time": "Train about 1 hour 30 minutes each way",
+      "brief": [
+        "Guided visit of Machu Picchu: entry is by fixed time slot and circuit, checked against your passport.",
+        "Guided visit of Machu Picchu: no large bags, walking sticks with metal tips or drones are allowed."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Cusco and fly home via Lima",
+      "summary": "A morning in Cusco, then fly to Lima for your international flight.",
+      "strip": [
+        "Flight about 1 hour 20 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Cusco city",
+          "text": "The Plaza de Armas, the Qorikancha sun temple and the stones of Hatun Rumiyoc street."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fly to Lima and connect",
+          "notes": [
+            [
+              "TIME",
+              "Allow at least 4 hours between the Cusco flight and an international departure from Lima."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Plaza de Armas Cusco",
+        "Qorikancha",
+        "Hatun Rumiyoc",
+        "Alejandro Velasco Astete International Airport"
+      ],
+      "note": "San Pedro market is good for fruit juices and alpaca wool.",
+      "transport": "Private car and flight",
+      "route": [
+        "Plaza de Armas Cusco",
+        "Qorikancha",
+        "Hatun Rumiyoc",
+        "Alejandro Velasco Astete International Airport"
+      ],
+      "photo_query": "Plaza de Armas Cusco",
+      "photo_caption": "Plaza de Armas Cusco",
+      "travel_time": "Flight about 1 hour 20 minutes",
+      "brief": [
+        "Fly to Lima and connect: allow at least 4 hours between the Cusco flight and an international departure from Lima.",
+        "San Pedro market is good for fruit juices and alpaca wool."
+      ]
+    }
+  ],
+  "included": [
+    "9 nights with breakfast",
+    "Dinners at the Coporaque and Amantaní homestays",
+    "Lunch on the Route of the Sun bus",
+    "Domestic flights Lima to Arequipa and Cusco to Lima",
+    "Private car with driver and English-speaking guide",
+    "Lake Titicaca boat trips",
+    "Train to Machu Picchu, bus and entry ticket",
+    "Entry fees as described",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Peru visa if needed",
+    "Other meals",
+    "Drinks",
+    "Tips",
+    "Travel insurance (with altitude cover)"
+  ],
+  "best_time": "April to October is the dry season: sunny days and cold nights, with June to August the busiest. November to March is the rainy season; the Inca Trail closes in February.",
+  "seasons": [
+    [
+      "April to October",
+      "Best",
+      "Dry, clear and sunny; cold at night at altitude."
+    ],
+    [
+      "June to August",
+      "Peak",
+      "Busiest months; book Machu Picchu and trains early."
+    ],
+    [
+      "November to March",
+      "Rainy",
+      "Green and quieter; afternoon rain and some road delays."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet"
+  ],
+  "best_pick": "May, September or October.",
+  "faqs": [
+    {
+      "q": "Will the altitude be a problem?",
+      "a": "Most travellers feel short of breath and tired for a day or two. This route climbs in steps to help your body adjust. Anyone with heart, lung or blood pressure conditions should see their doctor before booking."
+    },
+    {
+      "q": "Are the homestays comfortable?",
+      "a": "They are simple, clean family homes with shared bathrooms and limited hot water. You can swap either homestay for a hotel night if you prefer."
+    },
+    {
+      "q": "Can we add the desert coast?",
+      "a": "Yes. Add 3 nights for Paracas and the Ballestas Islands, the Huacachina oasis dunes and a winery in Ica, driving from Lima."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Peru tour",
+    "Machu Picchu tour",
+    "Colca Canyon homestay",
+    "Lake Titicaca Amantaní"
+  ],
+  "links": [
+    {
+      "title": "Machu Picchu tickets (official)",
+      "url": "https://www.machupicchu.gob.pe/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Peru tourist entry",
+      "Indian passport holders with a valid US, Canada, UK, Schengen or Australia visa (or residence) can enter Peru visa-free for up to 180 days; otherwise apply for a Peru visa at the consulate before travel",
+      "Indian passport holders",
+      "Check with us before booking"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival; carry it every day, as Machu Picchu tickets and trains are checked against it",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Rules for Indian passport holders change; we confirm the current rule when you book.",
+    "Yellow fever vaccination is recommended only if you add the Amazon; it is not needed for this route."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Soles and cash",
+      "text": "Peru uses the sol. Cards work in cities and hotels; carry small soles notes for markets, the islands of Lake Titicaca and the Colca villages, where there are no ATMs."
+    },
+    {
+      "tag": "CARE",
+      "title": "Altitude",
+      "text": "Colca, Puno and Cusco lie between 3,400 and 3,850 m, and the road to Colca crosses 4,910 m. Go slowly, drink plenty of water, avoid alcohol for the first two days and ask your doctor about altitude tablets before you travel. Tell your guide at once if you have a severe headache or feel breathless at rest."
+    },
+    {
+      "tag": "CARE",
+      "title": "Community etiquette",
+      "text": "Ask before photographing people, and expect to pay a small amount if you photograph someone in traditional dress or with a llama. On Amantaní bring a useful gift for your host family, such as rice, cooking oil or fruit, rather than sweets."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Layers for four seasons a day",
+      "text": "Days at altitude are sunny and strong, nights are near freezing. Pack layers, a warm jacket, hat and gloves, sunscreen, sunglasses, a rain jacket and comfortable walking shoes."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "105"
+    ],
+    [
+      "Tourist police (Lima)",
+      "+51 1 460 1060"
+    ],
+    [
+      "Ambulance (SAMU)",
+      "106"
+    ],
+    [
+      "Embassy of India, Lima",
+      "Av. Salaverry 3006, San Isidro, Lima"
+    ]
+  ],
+  "dining_intro": "Peruvian cooking uses quinoa, corn, beans and many grains, so vegetarian meals are easy in Lima, Arequipa and Cusco. Jain meals take planning, because potatoes are in almost every Andean dish; we send your dietary brief to every hotel and homestay.",
+  "dining_avoid": "Cuy (guinea pig) and alpaca are local specialities; ask for the quinoa soup, the corn and bean dishes or the vegetarian 'causa' instead. Many soups use meat stock, so show the food card.",
+  "food_card": [
+    [
+      "Spanish",
+      "Somos vegetarianos estrictos. Sin carne, pescado, marisco ni huevo. Sin cebolla, ajo, papa, zanahoria ni otras raíces. Sin caldo de carne o pescado. Gracias."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "pe"
+}

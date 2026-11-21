@@ -1,0 +1,794 @@
+{
+  "slug": "vietnam-north-to-south-12-days",
+  "title": "Vietnam North to South in 12 Days: Hanoi, Ha Long Bay, Hue, Hoi An, Saigon and a Mekong Cruise",
+  "meta_title": "Vietnam 12 Days: Hanoi, Ha Long Bay, Hoi An, Mekong",
+  "meta_description": "12-day Vietnam tour: Hanoi, an overnight Ha Long Bay cruise, imperial Hue, old Hoi An, Ho Chi Minh City and an overnight Mekong Delta cruise.",
+  "destination": "Vietnam",
+  "country": "Vietnam",
+  "duration": "12 days / 11 nights",
+  "nights": 11,
+  "style": "Culture · Cruises · Food",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904320829-304913961.webp",
+  "hero_alt": "Limestone islands in Ha Long Bay",
+  "tagline": "Limestone bays, imperial tombs, lantern-lit streets and the floating markets of the Mekong",
+  "facts": [
+    [
+      "Stay",
+      "Hanoi 2, Ha Long Bay cruise 1, Hanoi 1, Hue 1, Hoi An 3, Ho Chi Minh City 1, Mekong cruise 1, Ho Chi Minh City 1"
+    ],
+    [
+      "Travel",
+      "Private car with guide, two domestic flights, two overnight boats"
+    ],
+    [
+      "Pace",
+      "Moderate, with two free days in Hoi An"
+    ],
+    [
+      "Best months",
+      "February to April"
+    ],
+    [
+      "Arrive / leave",
+      "Hanoi / Ho Chi Minh City"
+    ]
+  ],
+  "intro": "Vietnam from top to bottom with private guides. Hanoi's old quarter and water puppets, a night on a cruise boat among Ha Long Bay's limestone islands, the imperial citadel and royal tombs of Hue, the Hai Van Pass to Hoi An's lantern-lit old town and beaches, the energy of Ho Chi Minh City, and a night aboard a wooden rice-barge cruise on the Mekong Delta with its floating markets. The Mekong cruise sails on set days, so we fit your dates to its schedule.",
+  "highlights": [
+    "A water puppet show in Hanoi",
+    "Ho Chi Minh's Mausoleum, the Temple of Literature and a cyclo ride",
+    "An overnight cruise in Ha Long Bay with Surprise Cave",
+    "Hue's Imperial Citadel and the tombs of Tu Duc and Khai Dinh",
+    "A boat on the Perfume River to Thien Mu Pagoda",
+    "The Hai Van Pass and the Marble Mountains",
+    "Hoi An's old town, tailors and beaches",
+    "Reunification Palace and Chinatown in Ho Chi Minh City",
+    "A night on the Mekong and the Cai Rang floating market"
+  ],
+  "stays": [
+    {
+      "place": "Hanoi",
+      "nights": 2,
+      "hotel": "Old Quarter hotel"
+    },
+    {
+      "place": "Ha Long Bay",
+      "nights": 1,
+      "hotel": "Overnight cruise boat"
+    },
+    {
+      "place": "Hanoi",
+      "nights": 1,
+      "hotel": "Old Quarter hotel"
+    },
+    {
+      "place": "Hue",
+      "nights": 1,
+      "hotel": "Riverside hotel"
+    },
+    {
+      "place": "Hoi An",
+      "nights": 3,
+      "hotel": "Beach or old-town resort"
+    },
+    {
+      "place": "Ho Chi Minh City",
+      "nights": 1,
+      "hotel": "District 1 hotel"
+    },
+    {
+      "place": "Mekong Delta",
+      "nights": 1,
+      "hotel": "Rice-barge cruise cabin"
+    },
+    {
+      "place": "Ho Chi Minh City",
+      "nights": 1,
+      "hotel": "District 1 hotel"
+    }
+  ],
+  "route": [
+    "Hanoi",
+    "Ha Long Bay",
+    "Hanoi",
+    "Hue",
+    "Hai Van Pass",
+    "Da Nang",
+    "Hoi An",
+    "Ho Chi Minh City",
+    "Cai Be",
+    "Can Tho",
+    "Ho Chi Minh City"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Hanoi and a water puppet show",
+      "summary": "Transfer to the hotel, then the puppets and dinner.",
+      "strip": [
+        "Airport about 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Water puppet show",
+          "text": "A 1,000-year-old art: puppeteers stand waist-deep behind a screen."
+        },
+        {
+          "label": "Dinner",
+          "title": "Dinner at a local restaurant",
+          "text": "Vegetarian set menu arranged."
+        }
+      ],
+      "places": [
+        "Noi Bai International Airport",
+        "Thang Long Water Puppet Theatre",
+        "Hoan Kiem Lake"
+      ],
+      "note": "Walk around Hoan Kiem Lake on weekend evenings when the streets close to traffic.",
+      "route": [
+        "Noi Bai International Airport",
+        "Thang Long Water Puppet Theatre",
+        "Hoan Kiem Lake"
+      ],
+      "photo_query": "Noi Bai International Airport",
+      "photo_caption": "Noi Bai International Airport",
+      "transport": "Private car with guide",
+      "travel_time": "Airport about 45 minutes",
+      "brief": [
+        "Walk around Hoan Kiem Lake on weekend evenings when the streets close to traffic."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Hanoi city tour",
+      "summary": "Ho Chi Minh's Mausoleum, the Temple of Literature and the Old Quarter by cyclo.",
+      "strip": [
+        "Full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Ho Chi Minh's Mausoleum, stilt house and One Pillar Pagoda",
+          "notes": [
+            [
+              "TIME",
+              "The mausoleum opens mornings only and closes on Mondays and Fridays, and for about two months each autumn."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Temple of Literature and the Ethnology Museum",
+          "text": "Vietnam's first university, from 1076."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Quan Thanh Temple, Tran Quoc Pagoda and a cyclo through the Old Quarter"
+        }
+      ],
+      "places": [
+        "Ho Chi Minh Mausoleum",
+        "One Pillar Pagoda",
+        "Temple of Literature",
+        "Tran Quoc Pagoda",
+        "Hanoi Old Quarter"
+      ],
+      "note": "Try Hanoi's egg coffee, or a coconut coffee if you avoid egg.",
+      "route": [
+        "Ho Chi Minh Mausoleum",
+        "One Pillar Pagoda",
+        "Temple of Literature",
+        "Tran Quoc Pagoda",
+        "Hanoi Old Quarter"
+      ],
+      "photo_query": "Ho Chi Minh Mausoleum",
+      "photo_caption": "Ho Chi Minh Mausoleum",
+      "transport": "Private car with guide",
+      "brief": [
+        "The mausoleum opens mornings only and closes on Mondays and Fridays, and for about two months each autumn.",
+        "Try Hanoi's egg coffee, or a coconut coffee if you avoid egg."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Overnight cruise in Ha Long Bay",
+      "summary": "Board a cruise boat among 3,000 limestone islands.",
+      "strip": [
+        "About 2 hours 30 minutes by road"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Board the boat and lunch",
+          "text": "Ask for the vegetarian menu; the standard menu is seafood."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kayaking, a cooking demonstration or a swim",
+          "notes": [
+            [
+              "CARE",
+              "Wear the life jacket when kayaking."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner on board"
+        }
+      ],
+      "places": [
+        "Ha Long Bay",
+        "Tuan Chau Harbour"
+      ],
+      "note": "Bring a light jacket for the deck at night from November to March.",
+      "route": [
+        "Ha Long Bay",
+        "Tuan Chau Harbour"
+      ],
+      "photo_query": "Ha Long Bay",
+      "photo_caption": "Ha Long Bay",
+      "transport": "Private car with guide",
+      "travel_time": "About 2 hours 30 minutes by road",
+      "brief": [
+        "Kayaking, a cooking demonstration or a swim: wear the life jacket when kayaking.",
+        "Bring a light jacket for the deck at night from November to March."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Surprise Cave and back to Hanoi",
+      "summary": "Tai chi at sunrise, the caves and brunch, then the drive back.",
+      "strip": [
+        "About 2 hours 30 minutes by road"
+      ],
+      "rows": [
+        {
+          "label": "Sunrise",
+          "title": "Tai chi on deck"
+        },
+        {
+          "label": "Morning",
+          "title": "Sung Sot (Surprise) Cave",
+          "text": "About 100 steps up.",
+          "notes": [
+            [
+              "WEAR",
+              "Shoes with grip; the cave steps are damp."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Back to Hanoi"
+        }
+      ],
+      "places": [
+        "Sung Sot Cave",
+        "Hanoi"
+      ],
+      "note": "Free evening in the Old Quarter.",
+      "route": [
+        "Sung Sot Cave",
+        "Hanoi"
+      ],
+      "photo_query": "Sung Sot Cave",
+      "photo_caption": "Sung Sot Cave",
+      "transport": "Private car with guide",
+      "travel_time": "About 2 hours 30 minutes by road",
+      "brief": [
+        "Sung Sot: shoes with grip; the cave steps are damp.",
+        "Free evening in the Old Quarter."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Hue and the Imperial City",
+      "summary": "A short flight, then the citadel and royal tombs.",
+      "strip": [
+        "Flight about 1 hour 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight to Hue"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Imperial Citadel and the tombs of Tu Duc and Khai Dinh",
+          "text": "Tombs designed by the emperors themselves.",
+          "notes": [
+            [
+              "TIME",
+              "Khai Dinh's tomb has 127 steps; take water."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Royal-style dinner",
+          "text": "Hue is famous for its vegetarian temple cuisine."
+        }
+      ],
+      "places": [
+        "Hue Imperial City",
+        "Tomb of Tu Duc",
+        "Tomb of Khai Dinh"
+      ],
+      "note": "",
+      "transport": "Flight and private car",
+      "route": [
+        "Hue Imperial City",
+        "Tomb of Tu Duc",
+        "Tomb of Khai Dinh"
+      ],
+      "photo_query": "Hue Imperial City",
+      "photo_caption": "Hue Imperial City",
+      "travel_time": "Flight about 1 hour 15 minutes",
+      "brief": [
+        "Khai Dinh's tomb has 127 steps; take water."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Perfume River, Hai Van Pass and Hoi An",
+      "summary": "A dragon boat to Thien Mu Pagoda, then over the pass to Hoi An.",
+      "strip": [
+        "About 3 hours 30 minutes by road with stops"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Dragon boat to Thien Mu Pagoda",
+          "text": "The seven-storey symbol of Hue."
+        },
+        {
+          "label": "Midday",
+          "title": "Dong Ba Market",
+          "text": "Conical hats."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Lang Co lagoon, Hai Van Pass and the Marble Mountains",
+          "text": "Stone carvers at Non Nuoc and the Cham Sculpture Museum in Da Nang."
+        }
+      ],
+      "places": [
+        "Thien Mu Pagoda",
+        "Dong Ba Market",
+        "Hai Van Pass",
+        "Marble Mountains",
+        "Museum of Cham Sculpture"
+      ],
+      "note": "",
+      "route": [
+        "Thien Mu Pagoda",
+        "Dong Ba Market",
+        "Hai Van Pass",
+        "Marble Mountains",
+        "Museum of Cham Sculpture"
+      ],
+      "photo_query": "Thien Mu Pagoda",
+      "photo_caption": "Thien Mu Pagoda",
+      "transport": "Private car with guide",
+      "travel_time": "About 3 hours 30 minutes by road with stops",
+      "brief": []
+    },
+    {
+      "pill": "Full day",
+      "title": "Hoi An old town and the beach",
+      "summary": "A walking tour of the UNESCO old town, then the beach.",
+      "strip": [
+        "Half-day tour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Old town walk",
+          "text": "The Japanese Covered Bridge, merchant houses and assembly halls.",
+          "notes": [
+            [
+              "TIME",
+              "The old town is car-free; a ticket covers five sights."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "An Bang or Cua Dai beach"
+        },
+        {
+          "label": "Evening",
+          "title": "Lantern-lit streets and a river boat"
+        }
+      ],
+      "places": [
+        "Japanese Covered Bridge",
+        "Hoi An Ancient Town",
+        "An Bang Beach"
+      ],
+      "note": "Tailors can make clothes in 24 to 48 hours: order on day one.",
+      "route": [
+        "Japanese Covered Bridge",
+        "Hoi An Ancient Town",
+        "An Bang Beach"
+      ],
+      "photo_query": "Japanese Covered Bridge",
+      "photo_caption": "Japanese Covered Bridge",
+      "transport": "Private car with guide",
+      "brief": [
+        "Old town walk: the old town is car-free; a ticket covers five sights.",
+        "Tailors can make clothes in 24 to 48 hours: order on day one."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Hoi An at leisure",
+      "summary": "Beach, shopping or a cooking class.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Cooking class with a market visit"
+        },
+        {
+          "label": "Optional",
+          "title": "Basket-boat ride in the coconut forest"
+        },
+        {
+          "label": "Optional",
+          "title": "My Son sanctuary",
+          "text": "Cham temple ruins, about 1 hour away."
+        }
+      ],
+      "places": [
+        "Cam Thanh Coconut Village",
+        "My Son Sanctuary"
+      ],
+      "note": "Use high-factor sunscreen; the central coast sun is strong.",
+      "route": [
+        "Cam Thanh Coconut Village",
+        "My Son Sanctuary"
+      ],
+      "photo_query": "Cam Thanh Coconut Village",
+      "photo_caption": "Cam Thanh Coconut Village",
+      "transport": "Private car with guide",
+      "brief": [
+        "Use high-factor sunscreen; the central coast sun is strong."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly to Ho Chi Minh City and a city tour",
+      "summary": "A short flight and the sights of Saigon.",
+      "strip": [
+        "Flight about 1 hour 20 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Flight from Da Nang"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Reunification Palace, Notre-Dame Cathedral and the Central Post Office",
+          "notes": [
+            [
+              "TIME",
+              "The cathedral exterior is under long restoration; views may be limited."
+            ]
+          ]
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Chinatown: Thien Hau Pagoda and Binh Tay Market"
+        },
+        {
+          "label": "Evening",
+          "title": "Dong Khoi Street and Ben Thanh Market"
+        }
+      ],
+      "places": [
+        "Independence Palace",
+        "Saigon Central Post Office",
+        "Thien Hau Temple",
+        "Ben Thanh Market"
+      ],
+      "note": "Keep phones away from the kerb: bag snatching from motorbikes happens.",
+      "transport": "Flight and private car",
+      "route": [
+        "Independence Palace",
+        "Saigon Central Post Office",
+        "Thien Hau Temple",
+        "Ben Thanh Market"
+      ],
+      "photo_query": "Independence Palace",
+      "photo_caption": "Independence Palace",
+      "travel_time": "Flight about 1 hour 20 minutes",
+      "brief": [
+        "The cathedral exterior is under long restoration; views may be limited.",
+        "Keep phones away from the kerb: bag snatching from motorbikes happens."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Overnight Mekong Delta cruise",
+      "summary": "A wooden rice-barge cruise through the delta's canals.",
+      "strip": [
+        "About 2 hours 30 minutes to the boat"
+      ],
+      "rows": [
+        {
+          "label": "Midday",
+          "title": "Board at Cai Be or Can Tho",
+          "text": "Cruise days depend on the schedule."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Village and orchard visit on the Mang Thit river"
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset and dinner on board"
+        }
+      ],
+      "places": [
+        "Cai Be",
+        "Mang Thit River",
+        "Can Tho"
+      ],
+      "note": "Cabins are compact; pack a small overnight bag.",
+      "transport": "Private car and cruise boat",
+      "route": [
+        "Cai Be",
+        "Mang Thit River",
+        "Can Tho"
+      ],
+      "photo_query": "Cai Be",
+      "photo_caption": "Cai Be",
+      "travel_time": "About 2 hours 30 minutes to the boat",
+      "brief": [
+        "Cabins are compact; pack a small overnight bag."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Floating market and back to Saigon",
+      "summary": "A local boat into the Cai Rang or Cai Be floating market.",
+      "strip": [
+        "About 3 hours by road"
+      ],
+      "rows": [
+        {
+          "label": "Early morning",
+          "title": "Floating market",
+          "text": "Boats hang samples of what they sell from a pole."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive back to Ho Chi Minh City",
+          "text": "Lunch at a local restaurant on the way."
+        }
+      ],
+      "places": [
+        "Cai Rang Floating Market",
+        "Ho Chi Minh City"
+      ],
+      "note": "Markets are busiest at dawn.",
+      "route": [
+        "Cai Rang Floating Market",
+        "Ho Chi Minh City"
+      ],
+      "photo_query": "Cai Rang Floating Market",
+      "photo_caption": "Cai Rang Floating Market",
+      "transport": "Private car with guide",
+      "travel_time": "About 3 hours by road",
+      "brief": [
+        "Markets are busiest at dawn."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Ho Chi Minh City",
+      "summary": "Transfer to Tan Son Nhat airport.",
+      "strip": [
+        "About 30 to 60 minutes in traffic"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Leave plenty of time: traffic is heavy. Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Tan Son Nhat International Airport"
+      ],
+      "note": "Spend your dong before leaving; it is hard to change abroad.",
+      "photo_query": "Tan Son Nhat International Airport",
+      "photo_caption": "Tan Son Nhat International Airport",
+      "transport": "Private car with guide",
+      "travel_time": "About 30 to 60 minutes in traffic",
+      "brief": [
+        "Transfer to the airport: leave plenty of time: traffic is heavy.",
+        "Spend your dong before leaving; it is hard to change abroad."
+      ]
+    }
+  ],
+  "included": [
+    "11 nights with breakfast, including two overnight cruises with full board on board",
+    "Private car and English-speaking guides throughout",
+    "Flights Hanoi to Hue and Da Nang to Ho Chi Minh City",
+    "Water puppet show and dinner",
+    "Dinner in Hue",
+    "All sightseeing and entry fees as listed",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Vietnam e-Visa",
+    "Other meals",
+    "Drinks",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "February to April is good everywhere. The central coast (Hue, Hoi An) has heavy rain and floods from about September to November; the north is cool from December to February.",
+  "seasons": [
+    [
+      "February to April",
+      "Best",
+      "Dry and warm across the country."
+    ],
+    [
+      "May to August",
+      "Hot",
+      "Hot and humid; afternoon storms in the north and south; good on the central coast."
+    ],
+    [
+      "September to November",
+      "Wet in the centre",
+      "Typhoons and floods in Hue and Hoi An; Ha Long cruises may be cancelled in storms."
+    ],
+    [
+      "December to January",
+      "Cool north",
+      "Cool and misty in Hanoi and Ha Long; dry and warm in the south."
+    ]
+  ],
+  "months": [
+    "shoulder",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "dry",
+    "dry",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder"
+  ],
+  "best_pick": "February to April.",
+  "faqs": [
+    {
+      "q": "Can we add Cambodia?",
+      "a": "Yes. From Ho Chi Minh City, fly to Siem Reap for 3 nights at Angkor Wat."
+    },
+    {
+      "q": "Is Vietnam good for vegetarians?",
+      "a": "Yes, thanks to its Buddhist 'chay' cuisine, but fish sauce must be avoided carefully; our guides help order."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Vietnam tour package from India",
+    "Vietnam 12 days itinerary",
+    "Ha Long Bay cruise",
+    "Hoi An Hue Hanoi Saigon tour"
+  ],
+  "links": [
+    {
+      "title": "Vietnam e-Visa (official)",
+      "url": "https://evisa.gov.vn/"
+    },
+    {
+      "title": "Ha Long Bay on the UNESCO list",
+      "url": "https://whc.unesco.org/en/list/672/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Vietnam e-Visa",
+      "Single or multiple entry, up to 90 days, applied on the official portal",
+      "Indian passport holders",
+      "About USD 25 to 50"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival with two blank pages",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply at least 2 weeks before travel, only on the official government site.",
+    "Phone and internet: a Vietnamese eSIM or SIM is cheap and works everywhere on this route."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Dong and cash",
+      "text": "Prices are in Vietnamese dong. Hotels and big shops take cards; markets, street food and small boats need cash. Count zeros carefully: 100,000 and 10,000 notes look similar."
+    },
+    {
+      "tag": "CARE",
+      "title": "Traffic",
+      "text": "Motorbikes are everywhere. Cross the road at a slow, steady pace so riders can steer around you; do not stop or run."
+    },
+    {
+      "tag": "CARE",
+      "title": "Temples and the mausoleum",
+      "text": "Cover shoulders and knees in pagodas and at Ho Chi Minh's Mausoleum, where silence is required and no photos are allowed inside."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "113"
+    ],
+    [
+      "Ambulance",
+      "115"
+    ],
+    [
+      "Embassy of India, Hanoi",
+      "58-60 Tran Hung Dao, Hoan Kiem, Hanoi"
+    ]
+  ],
+  "dining_intro": "Vietnam has a long Buddhist vegetarian tradition: look for 'chay' restaurants near pagodas. Hanoi, Hoi An and Ho Chi Minh City also have Indian restaurants. We register your diet with the cruise boats and hotels.",
+  "dining_avoid": "Fish sauce (nước mắm) goes into almost everything, including dips and many 'vegetable' dishes. Say 'không nước mắm' and ask for the chay menu.",
+  "food_card": [
+    [
+      "Vietnamese",
+      "Tôi ăn chay. Không thịt, không cá, không hải sản, không trứng, không nước mắm. Không hành, không tỏi. Cảm ơn."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "vn"
+}

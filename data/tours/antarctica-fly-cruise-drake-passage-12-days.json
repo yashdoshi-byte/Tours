@@ -1,0 +1,665 @@
+{
+  "slug": "antarctica-fly-cruise-drake-passage-12-days",
+  "title": "Antarctica Fly-Cruise in 12 Days: Sail the Drake Passage, Explore the Peninsula and Fly Back",
+  "meta_title": "Antarctica Fly-Cruise 12 Days: Drake Passage and Peninsula",
+  "meta_description": "12-day luxury Antarctica fly-cruise from Santiago: sail the Drake Passage, 5 days on the Antarctic Peninsula and fly back from King George Island.",
+  "destination": "Antarctica",
+  "country": "Antarctica",
+  "duration": "12 days / 11 nights",
+  "nights": 11,
+  "style": "Expedition cruise · Wildlife · Luxury",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761905118944-623807675.webp",
+  "hero_alt": "Snow-covered peaks and ice at the bottom of the world",
+  "tagline": "Sail one way across the Drake, fly back over it",
+  "facts": [
+    [
+      "Stay",
+      "Santiago 1, expedition ship 9, Puerto Williams 1"
+    ],
+    [
+      "Travel",
+      "Charter flights and an all-suite expedition ship"
+    ],
+    [
+      "Pace",
+      "Active: Zodiac landings, walks, optional kayaking"
+    ],
+    [
+      "Departure",
+      "19 February to 1 March 2028"
+    ],
+    [
+      "Arrive / leave",
+      "Santiago, Chile"
+    ]
+  ],
+  "intro": "A luxury expedition voyage that sails one way and flies the other. A charter flight takes you from Santiago to Puerto Williams, the southernmost town in the world, where you board a small all-suite expedition ship. After two days crossing the Drake Passage you spend five days in the Antarctic Sound, on the Antarctic Peninsula and in the South Shetland Islands, with Zodiac cruises, landings and hikes every day and kayaking for experienced paddlers. From King George Island you fly back across the Drake in about 2 hours. Late February is the best time for whales and for penguin chicks before they go to sea. Because weather can delay the return flight from Antarctica, we strongly suggest an extra night in Santiago before your flight home.",
+  "highlights": [
+    "Crossing the Drake Passage with seabirds and albatrosses",
+    "Icebergs in the Antarctic Sound",
+    "Zodiac cruises among icebergs and humpback whales",
+    "Penguin colonies on the Antarctic Peninsula",
+    "Guided hikes and optional sea kayaking",
+    "The South Shetland Islands",
+    "Flying back over the Drake Passage"
+  ],
+  "stays": [
+    {
+      "place": "Santiago",
+      "nights": 1,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Expedition ship",
+      "nights": 9,
+      "hotel": "Veranda suite with butler service"
+    },
+    {
+      "place": "Puerto Williams",
+      "nights": 1,
+      "hotel": "Waterfront hotel"
+    }
+  ],
+  "route": [
+    "Santiago",
+    "Puerto Williams",
+    "Drake Passage",
+    "Antarctic Sound",
+    "Antarctic Peninsula",
+    "South Shetland Islands",
+    "King George Island",
+    "Puerto Williams",
+    "Santiago"
+  ],
+  "days": [
+    {
+      "pill": "Arrival",
+      "title": "Arrive in Santiago (Saturday 19 February)",
+      "summary": "Arrive in Chile's capital and meet the expedition team at your hotel.",
+      "strip": [
+        "Airport about 30 to 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to your hotel",
+          "text": "Use only the official taxi desks inside the airport."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Meet the expedition team and complete the formalities"
+        },
+        {
+          "label": "Evening",
+          "title": "Free time in Santiago"
+        }
+      ],
+      "places": [
+        "Arturo Merino Benítez International Airport",
+        "Santiago"
+      ],
+      "note": "We suggest arriving a day earlier: the journey from India takes 30 hours or more, and missing the charter means missing the ship.",
+      "transport": "Taxi",
+      "route": [
+        "Arturo Merino Benítez International Airport",
+        "Santiago"
+      ],
+      "photo_query": "Arturo Merino Benítez International Airport",
+      "photo_caption": "Arturo Merino Benítez International Airport",
+      "travel_time": "Airport about 30 to 45 minutes",
+      "brief": [
+        "We suggest arriving a day earlier: the journey from India takes 30 hours or more, and missing the charter means missing the ship."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Charter flight to Puerto Williams and board the ship",
+      "summary": "Fly to the end of the world and board your expedition ship.",
+      "strip": [
+        "Flight about 4 hours, possibly via Punta Arenas"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Charter flight to Puerto Williams",
+          "text": "A meal is served on board."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Board the ship",
+          "text": "Your expedition parka and boots are waiting in your suite."
+        },
+        {
+          "label": "Evening",
+          "title": "Sail down the Beagle Channel",
+          "notes": [
+            [
+              "CARE",
+              "Attend the safety drill on the first evening."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Puerto Williams",
+        "Beagle Channel"
+      ],
+      "note": "Try on your boots early and ask the team for another size if needed.",
+      "transport": "Charter flight and ship",
+      "route": [
+        "Puerto Williams",
+        "Beagle Channel"
+      ],
+      "photo_query": "Puerto Williams",
+      "photo_caption": "Puerto Williams",
+      "travel_time": "Flight about 4 hours, possibly via Punta Arenas",
+      "brief": [
+        "Sail down the Beagle Channel: attend the safety drill on the first evening.",
+        "Try on your boots early and ask the team for another size if needed."
+      ]
+    },
+    {
+      "pill": "At sea",
+      "title": "The Drake Passage",
+      "summary": "Two days at sea with lectures, wildlife watching from deck and time to rest.",
+      "strip": [
+        "About 2 days at sea"
+      ],
+      "rows": [
+        {
+          "label": "All day",
+          "title": "Lectures from the expedition team",
+          "text": "Geology, wildlife, history and the rules for landing."
+        },
+        {
+          "label": "All day",
+          "title": "Seabirds from the deck",
+          "text": "Albatrosses and petrels follow the ship.",
+          "notes": [
+            [
+              "CARE",
+              "The Drake can be rough. Take seasickness medication before you feel unwell and hold the handrails."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Drake Passage"
+      ],
+      "note": "",
+      "photo_query": "Drake Passage",
+      "photo_caption": "Drake Passage",
+      "transport": "Expedition ship",
+      "brief": [
+        "Seabirds from the deck: the Drake can be rough."
+      ]
+    },
+    {
+      "pill": "At sea",
+      "title": "The Drake Passage, second day",
+      "summary": "Watch for the first icebergs as you near Antarctica.",
+      "strip": [
+        "At sea"
+      ],
+      "rows": [
+        {
+          "label": "All day",
+          "title": "Biosecurity briefing",
+          "text": "Every bag and pocket is checked and vacuumed for seeds before landing."
+        },
+        {
+          "label": "Evening",
+          "title": "First icebergs"
+        }
+      ],
+      "places": [
+        "Drake Passage"
+      ],
+      "note": "",
+      "photo_query": "Drake Passage",
+      "photo_caption": "Drake Passage",
+      "transport": "Expedition ship",
+      "brief": []
+    },
+    {
+      "pill": "Full day",
+      "title": "The Antarctic Sound",
+      "summary": "Giant tabular icebergs and your first Zodiac cruise and landing.",
+      "strip": [
+        "Zodiac outings of about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Zodiac cruise among the icebergs"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Landing, hike or kayak",
+          "text": "Hikes and kayaking are for fitter guests; kayaking needs previous experience."
+        }
+      ],
+      "places": [
+        "Antarctic Sound"
+      ],
+      "note": "Landing sites are chosen each day by the expedition leader.",
+      "photo_query": "Antarctic Sound",
+      "photo_caption": "Antarctic Sound",
+      "transport": "Expedition ship",
+      "travel_time": "Zodiac outings of about 1 to 2 hours",
+      "brief": [
+        "Landing sites are chosen each day by the expedition leader."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Antarctic Peninsula",
+      "summary": "Landings at penguin colonies and Zodiac cruises in the bays.",
+      "strip": [
+        "Zodiac outings of about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Landing at a penguin colony",
+          "notes": [
+            [
+              "CARE",
+              "Stay 5 m from penguins and never block their paths to the sea."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Zodiac cruise or kayak",
+          "text": "Look for seals on the ice floes."
+        }
+      ],
+      "places": [
+        "Antarctic Peninsula"
+      ],
+      "note": "",
+      "photo_query": "Antarctic Peninsula",
+      "photo_caption": "Antarctic Peninsula",
+      "transport": "Expedition ship",
+      "travel_time": "Zodiac outings of about 1 to 2 hours",
+      "brief": [
+        "Landing at a penguin colony: stay 5 m from penguins and never block their paths to the sea."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The Antarctic Peninsula",
+      "summary": "Glaciers, channels and whales.",
+      "strip": [
+        "Zodiac outings of about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Zodiac cruise",
+          "text": "Humpback and minke whales feed here in late summer."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Landing and guided hike"
+        }
+      ],
+      "places": [
+        "Antarctic Peninsula"
+      ],
+      "note": "",
+      "photo_query": "Antarctic Peninsula",
+      "photo_caption": "Antarctic Peninsula",
+      "transport": "Expedition ship",
+      "travel_time": "Zodiac outings of about 1 to 2 hours",
+      "brief": []
+    },
+    {
+      "pill": "Full day",
+      "title": "The Antarctic Peninsula",
+      "summary": "Another day of landings, chosen for the weather and ice.",
+      "strip": [
+        "Zodiac outings of about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Landing"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Zodiac cruise or kayak"
+        }
+      ],
+      "places": [
+        "Antarctic Peninsula"
+      ],
+      "note": "",
+      "photo_query": "Antarctic Peninsula",
+      "photo_caption": "Antarctic Peninsula",
+      "transport": "Expedition ship",
+      "travel_time": "Zodiac outings of about 1 to 2 hours",
+      "brief": []
+    },
+    {
+      "pill": "Full day",
+      "title": "The Antarctic Peninsula",
+      "summary": "Your last full day among the ice.",
+      "strip": [
+        "Zodiac outings of about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Landing or Zodiac cruise"
+        },
+        {
+          "label": "Evening",
+          "title": "Recap with the expedition team"
+        }
+      ],
+      "places": [
+        "Antarctic Peninsula"
+      ],
+      "note": "",
+      "photo_query": "Antarctic Peninsula",
+      "photo_caption": "Antarctic Peninsula",
+      "transport": "Expedition ship",
+      "travel_time": "Zodiac outings of about 1 to 2 hours",
+      "brief": []
+    },
+    {
+      "pill": "Full day",
+      "title": "The South Shetland Islands",
+      "summary": "A final Zodiac cruise in the islands north of the peninsula.",
+      "strip": [
+        "Zodiac cruise about 1 to 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Zodiac cruise",
+          "text": "Chinstrap and gentoo penguins and fur seals."
+        },
+        {
+          "label": "Evening",
+          "title": "Farewell dinner on board"
+        }
+      ],
+      "places": [
+        "South Shetland Islands"
+      ],
+      "note": "",
+      "photo_query": "South Shetland Islands",
+      "photo_caption": "South Shetland Islands",
+      "transport": "Expedition ship",
+      "travel_time": "Zodiac cruise about 1 to 2 hours",
+      "brief": []
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Fly back over the Drake to Puerto Williams",
+      "summary": "Disembark at King George Island and fly back to Chile.",
+      "strip": [
+        "Flight about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Disembark by Zodiac at King George Island"
+        },
+        {
+          "label": "Midday",
+          "title": "Charter flight to Puerto Williams",
+          "notes": [
+            [
+              "TIME",
+              "The flight goes only in good weather. If it is delayed, you stay on the ship and the team rebooks your onward travel."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner at your hotel in Puerto Williams"
+        }
+      ],
+      "places": [
+        "King George Island",
+        "Puerto Williams"
+      ],
+      "note": "",
+      "transport": "Zodiac and charter flight",
+      "route": [
+        "King George Island",
+        "Puerto Williams"
+      ],
+      "photo_query": "King George Island",
+      "photo_caption": "King George Island",
+      "travel_time": "Flight about 2 hours",
+      "brief": [
+        "Charter flight to Puerto Williams: the flight goes only in good weather."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly to Santiago (Wednesday 1 March)",
+      "summary": "Charter flight to Santiago, where the tour ends at the airport.",
+      "strip": [
+        "Flight about 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Charter flight to Santiago"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tour ends at Santiago airport",
+          "notes": [
+            [
+              "TIME",
+              "Book your flight home for the next day, or later, in case of weather delays."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Puerto Williams",
+        "Arturo Merino Benítez International Airport"
+      ],
+      "note": "We can add Santiago, the Atacama Desert or Patagonia's Torres del Paine after the voyage.",
+      "transport": "Charter flight",
+      "route": [
+        "Puerto Williams",
+        "Arturo Merino Benítez International Airport"
+      ],
+      "photo_query": "Puerto Williams",
+      "photo_caption": "Puerto Williams",
+      "travel_time": "Flight about 4 hours",
+      "brief": [
+        "Tour ends at Santiago airport: book your flight home for the next day, or later, in case of weather delays.",
+        "We can add Santiago, the Atacama Desert or Patagonia's Torres del Paine after the voyage."
+      ]
+    }
+  ],
+  "included": [
+    "1 night in Santiago with breakfast",
+    "1 night in Puerto Williams with dinner and breakfast",
+    "9 nights in a veranda suite with butler service",
+    "All meals and most drinks on board",
+    "Charter flights Santiago to Puerto Williams, Puerto Williams to King George Island and back to Santiago",
+    "Daily Zodiac cruises, landings, hikes and kayaking with the expedition team",
+    "Expedition parka, waterproof boots, backpack and water bottle to keep",
+    "Onboard tips and Wi-Fi",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights to and from Santiago",
+    "Chile visa",
+    "Travel insurance with emergency evacuation cover (required)",
+    "Spa treatments",
+    "Speciality restaurant dining",
+    "Extra hotel nights"
+  ],
+  "best_time": "The Antarctic season runs from November to March. November brings pristine snow and courting penguins; December and January have the longest days and penguin chicks; February and March are best for whales.",
+  "seasons": [
+    [
+      "November",
+      "Early season",
+      "Fresh snow, sea ice and penguins building nests."
+    ],
+    [
+      "December to January",
+      "Peak",
+      "Up to 20 hours of daylight; penguin chicks hatch."
+    ],
+    [
+      "February to March",
+      "Late season",
+      "The best whale watching and active chicks."
+    ],
+    [
+      "April to October",
+      "Closed",
+      "Winter: no tourist voyages."
+    ]
+  ],
+  "months": [
+    "peak",
+    "dry",
+    "shoulder",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "peak"
+  ],
+  "best_pick": "February for whales; December for penguin chicks.",
+  "faqs": [
+    {
+      "q": "Why sail one way and fly the other?",
+      "a": "You experience the Drake Passage by sea once, and save about two days by flying back. It suits travellers who want the full crossing but have limited time."
+    },
+    {
+      "q": "What if the flight cannot leave Antarctica?",
+      "a": "You wait on the ship, warm and fed, until the weather clears. This is why we book your flight home at least a day after the tour ends."
+    },
+    {
+      "q": "Is it suitable for older travellers?",
+      "a": "Yes, for those who can manage Zodiac boarding with help and short walks on uneven ground. The doctor on board must approve your medical form."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Antarctica cruise from India",
+    "Antarctica fly-cruise",
+    "Drake Passage",
+    "luxury expedition cruise"
+  ],
+  "links": [
+    {
+      "title": "IAATO visitor guidelines",
+      "url": "https://iaato.org/visiting-antarctica/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Chile tourist visa",
+      "Needed for Santiago and Puerto Williams. Apply online before travel; some holders of a valid US visa may be exempt, and we confirm the current rule when you book",
+      "Indian passport holders",
+      "Check with us"
+    ],
+    [
+      "Transit visas",
+      "Flights to Santiago usually connect in Europe, the Gulf and Brazil, or the USA; a US route needs a US visa",
+      "Indian passport holders",
+      ""
+    ],
+    [
+      "Antarctica",
+      "No visa is needed. Your ship registers every guest under the Antarctic Treaty rules",
+      "Everyone",
+      ""
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond return with blank pages",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Travel insurance with emergency medical evacuation cover is required to board.",
+    "A medical form signed by your doctor is usually required before the voyage."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "CARE",
+      "title": "Fitness and medical",
+      "text": "Landings are by inflatable Zodiac boat onto rocky or snowy shores, and there is no hospital in Antarctica. You must be able to climb in and out of a Zodiac with help and walk on uneven ground. The ship has a doctor."
+    },
+    {
+      "tag": "CARE",
+      "title": "Wildlife and the rules",
+      "text": "Stay at least 5 m from penguins and seals and further from whales on the water; give animals right of way. Boots and gear are cleaned before and after each landing so no seeds or soil reach Antarctica. Take nothing and leave nothing."
+    },
+    {
+      "tag": "TIME",
+      "title": "Weather decides",
+      "text": "Every landing, Zodiac cruise and the flight over the Drake Passage depend on the weather. The expedition leader may change the plan at short notice; flexibility is part of the journey."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Layers",
+      "text": "An expedition parka and waterproof boots are provided. Bring thermal base layers, a fleece, waterproof trousers, warm gloves, a hat, sunglasses and high-factor sunscreen: the light off the ice is intense."
+    }
+  ],
+  "emergency": [
+    [
+      "Ambulance (Chile)",
+      "131"
+    ],
+    [
+      "Police (Carabineros, Chile)",
+      "133"
+    ],
+    [
+      "Embassy of India, Santiago",
+      "Alcántara 971, Las Condes, Santiago"
+    ]
+  ],
+  "dining_intro": "The ship's chefs cook vegetarian meals every day and can prepare Jain meals if told well in advance; we send your dietary brief at booking and again 60 days before sailing.",
+  "dining_avoid": "Ask for vegetarian stocks and sauces, and confirm Jain meals with the restaurant manager on the first evening.",
+  "food_card": [
+    [
+      "Spanish",
+      "Somos vegetarianos estrictos. Sin carne, pescado, marisco ni huevo. Sin cebolla, ajo, papa, zanahoria ni otras raíces. Sin caldo de carne o pescado. Gracias."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": ""
+}

@@ -1,0 +1,466 @@
+{
+  "slug": "fiji-yasawa-islands-small-ship-cruise-6-days",
+  "title": "Fiji Small-Ship Cruise in 6 Days: Three Nights Through the Yasawa and Mamanuca Islands",
+  "meta_title": "Fiji Small-Ship Cruise: 3 Nights in the Yasawa Islands",
+  "meta_description": "6-day Fiji cruise holiday: a 3-night all-inclusive small-ship cruise to Modriki, Soso village and the Sacred Isles, with a night in Nadi either side.",
+  "destination": "Fiji",
+  "country": "Fiji",
+  "duration": "6 days / 5 nights",
+  "nights": 5,
+  "style": "Cruise · Islands · Culture",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761896789735-993975848.webp",
+  "hero_alt": "A small ship anchored off a Fijian island",
+  "tagline": "Wake up at a different island every morning",
+  "facts": [
+    [
+      "Stay",
+      "Nadi 1, small ship 3, Nadi 1"
+    ],
+    [
+      "Travel",
+      "Transfers and a small cruise ship"
+    ],
+    [
+      "Pace",
+      "Relaxed"
+    ],
+    [
+      "Best months",
+      "May to October"
+    ],
+    [
+      "Arrive / leave",
+      "Nadi"
+    ]
+  ],
+  "intro": "A small Fijian ship carries about 60 guests on a 3-night cruise from Port Denarau through the outer Mamanuca and Yasawa Islands, anchoring each night at a quiet island. Days are for snorkelling, beaches, a Fijian village and a Sunday church service with singing you will not forget; meals, shore trips and snorkel gear are included. The cruise sails on Friday afternoon and returns on Monday afternoon. We have added a night in Nadi on both sides: arriving the day before protects you from a late flight, and the ship returns too late for most flights home on the same day.",
+  "highlights": [
+    "Sunset at Modriki Island, where the film 'Cast Away' was made",
+    "The chiefly village of Soso",
+    "Snorkelling with reef sharks or a glass-bottom boat",
+    "A Sunday church service in a village",
+    "A Fijian cooking lesson",
+    "The Sacred Isles at dawn"
+  ],
+  "stays": [
+    {
+      "place": "Nadi",
+      "nights": 1,
+      "hotel": "Beach resort"
+    },
+    {
+      "place": "Small cruise ship",
+      "nights": 3,
+      "hotel": "Cabin with private bathroom"
+    },
+    {
+      "place": "Nadi",
+      "nights": 1,
+      "hotel": "Beach resort"
+    }
+  ],
+  "route": [
+    "Nadi",
+    "Port Denarau",
+    "Modriki",
+    "Soso Bay",
+    "Naukacuvu",
+    "Sacred Isles",
+    "Port Denarau",
+    "Nadi"
+  ],
+  "days": [
+    {
+      "pill": "Arrival",
+      "title": "Arrive in Nadi (Thursday)",
+      "summary": "A welcome at the airport and a relaxed first night by the beach.",
+      "strip": [
+        "About 10 minutes to the hotel"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Welcome at Nadi International Airport"
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner on Wailoaloa Beach or in Nadi"
+        }
+      ],
+      "places": [
+        "Nadi International Airport",
+        "Wailoaloa Beach"
+      ],
+      "note": "",
+      "transport": "Private transfer",
+      "route": [
+        "Nadi International Airport",
+        "Wailoaloa Beach"
+      ],
+      "photo_query": "Nadi International Airport",
+      "photo_caption": "Nadi International Airport",
+      "travel_time": "About 10 minutes to the hotel",
+      "brief": []
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Sail to Modriki Island (Friday)",
+      "summary": "Board at Port Denarau and sail to the outer Mamanuca Islands.",
+      "strip": [
+        "Sails 15:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Free time"
+        },
+        {
+          "label": "15:00",
+          "title": "Board at Port Denarau",
+          "notes": [
+            [
+              "TIME",
+              "Be at the marina by 14:00; the ship leaves on time."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset drinks and the captain's welcome dinner at anchor off Modriki"
+        }
+      ],
+      "places": [
+        "Port Denarau Marina",
+        "Modriki Island"
+      ],
+      "note": "Seas inside the reef are usually calm, but bring seasickness tablets if you need them.",
+      "route": [
+        "Port Denarau Marina",
+        "Modriki Island"
+      ],
+      "photo_query": "Port Denarau Marina",
+      "photo_caption": "Port Denarau Marina",
+      "transport": "Small cruise ship",
+      "brief": [
+        "Board at Port Denarau: be at the marina by 14:00; the ship leaves on time.",
+        "Seas inside the reef are usually calm, but bring seasickness tablets if you need them."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Soso village (Saturday)",
+      "summary": "A morning swim, reef sharks or a glass-bottom boat, and the chiefly village of Soso.",
+      "strip": [
+        "Shore visits by small boat"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Swim and snorkel, or a glass-bottom boat",
+          "notes": [
+            [
+              "CARE",
+              "The shark snorkel is guided and optional; stay with the group."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Soso village",
+          "notes": [
+            [
+              "WEAR",
+              "Sarong or long skirt, shoulders covered, no hats."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Indian thali dinner on board",
+          "text": "Often followed by a Bollywood night."
+        }
+      ],
+      "places": [
+        "Soso Bay"
+      ],
+      "note": "Tell the crew about vegetarian or Jain meals when you board; we also send it in advance.",
+      "photo_query": "Soso Bay",
+      "photo_caption": "Soso Bay",
+      "transport": "Small cruise ship",
+      "brief": [
+        "Swim and snorkel, or a glass-bottom boat: the shark snorkel is guided and optional; stay with the group.",
+        "Soso village: sarong or long skirt, shoulders covered, no hats."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Sunday in the islands",
+      "summary": "A village church service, then south to Naukacuvu and a cooking lesson.",
+      "strip": [
+        "Shore visits by small boat"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Village church service",
+          "text": "Fijian choirs are famous; dress modestly.",
+          "notes": [
+            [
+              "CARE",
+              "Sunday is a day of rest; no swimming near the village during the service."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Cruise to Naukacuvu; Fijian cooking lesson"
+        },
+        {
+          "label": "Evening",
+          "title": "Buffet dinner and games on board"
+        }
+      ],
+      "places": [
+        "Naukacuvu Island"
+      ],
+      "note": "",
+      "photo_query": "Naukacuvu Island",
+      "photo_caption": "Naukacuvu Island",
+      "transport": "Small cruise ship",
+      "brief": [
+        "Village church service: sunday is a day of rest; no swimming near the village during the service."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The Sacred Isles and back to Denarau (Monday)",
+      "summary": "An early swim or kayak, breakfast among the Sacred Isles, and the fast boat back.",
+      "strip": [
+        "Back at Port Denarau about 15:00"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Snorkel, swim or kayak"
+        },
+        {
+          "label": "Midday",
+          "title": "Lunch on board"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fast catamaran to Port Denarau and transfer to your hotel"
+        }
+      ],
+      "places": [
+        "Sacred Islands",
+        "Port Denarau Marina"
+      ],
+      "note": "",
+      "transport": "Ship, catamaran and transfer",
+      "route": [
+        "Sacred Islands",
+        "Port Denarau Marina"
+      ],
+      "photo_query": "Sacred Islands",
+      "photo_caption": "Sacred Islands",
+      "brief": []
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Nadi",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "About 10 minutes to the airport"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Nadi International Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Nadi International Airport"
+      ],
+      "note": "",
+      "photo_query": "Nadi International Airport",
+      "photo_caption": "Nadi International Airport",
+      "transport": "Small cruise ship",
+      "travel_time": "About 10 minutes to the airport",
+      "brief": [
+        "Transfer to Nadi International Airport: be at the airport 3 hours before an international flight."
+      ]
+    }
+  ],
+  "included": [
+    "2 nights in Nadi with breakfast",
+    "3-night cruise in a cabin with private bathroom",
+    "All meals on the cruise",
+    "Shore excursions, snorkel gear and entertainment on the cruise",
+    "Airport welcome with shell lei",
+    "All transfers",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Meals in Nadi other than breakfast",
+    "Drinks other than those included on board",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "May to October is the dry season: sunny, less humid and the best time for the islands; July and the school holidays are busiest. November to April is hot and wet, with a risk of cyclones from December to March.",
+  "seasons": [
+    [
+      "May to October",
+      "Best",
+      "Dry, sunny and pleasantly warm; calm seas for boats."
+    ],
+    [
+      "November and April",
+      "Shoulder",
+      "Warmer and more humid; good value."
+    ],
+    [
+      "December to March",
+      "Wet",
+      "Hot, humid and rainy, with a cyclone risk; flexible plans needed."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet"
+  ],
+  "best_pick": "May to October.",
+  "faqs": [
+    {
+      "q": "What days does the cruise run?",
+      "a": "The 3-night cruise leaves on Friday and returns on Monday. Longer 4- and 7-night cruises to the northern Yasawas run on other days."
+    },
+    {
+      "q": "Will we get seasick?",
+      "a": "The ship sails mostly inside sheltered reefs and anchors at night. Sensitive travellers should bring tablets."
+    },
+    {
+      "q": "Is it suitable for children?",
+      "a": "Yes, from about 7 years. The ship has a pool, and the crew run activities."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Fiji cruise",
+    "Yasawa Islands cruise",
+    "Fiji small ship",
+    "Fiji honeymoon cruise"
+  ],
+  "links": [
+    {
+      "title": "Tourism Fiji (official)",
+      "url": "https://www.fiji.travel/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Fiji visitor permit on arrival",
+      "Free on arrival for up to 4 months with a return ticket, a hotel booking and proof of funds",
+      "Indian passport holders",
+      "Free"
+    ],
+    [
+      "Transit visa",
+      "Flights via Australia or New Zealand need a transit visa for Indian passport holders; routes via Singapore or Hong Kong usually do not",
+      "Indian passport holders",
+      "Check with us"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond your stay",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Fiji asks for an online arrival card before you fly; we send you the link.",
+    "We pick flights that avoid an Australian or New Zealand transit visa unless you already hold one."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Fiji dollars",
+      "text": "Fiji uses the Fiji dollar. Cards work in resorts, Denarau and Nadi; carry small cash for villages, markets and tips. Resort prices on the islands are high, so plan for meals there."
+    },
+    {
+      "tag": "CARE",
+      "title": "Village etiquette",
+      "text": "In a Fijian village, cover shoulders and knees (a sarong is fine), take off hats and sunglasses, never touch anyone's head, and wait to be invited in. Visitors bring a small gift of kava root (sevusevu); your guide arranges it. Sunday is for church and rest in the villages."
+    },
+    {
+      "tag": "CARE",
+      "title": "Sun and sea",
+      "text": "The tropical sun is strong: use reef-safe sunscreen and a rash vest. Swim and snorkel only where your resort or crew says it is safe, wear reef shoes, and do not touch or stand on coral."
+    },
+    {
+      "tag": "TIME",
+      "title": "Fiji time",
+      "text": "Life is relaxed. Boats and transfers run to timetables but may change with the weather; build in time and keep the day of your flight home free."
+    }
+  ],
+  "emergency": [
+    [
+      "Police and ambulance",
+      "911"
+    ],
+    [
+      "Fire",
+      "910"
+    ],
+    [
+      "Indian diplomatic mission, Suva",
+      "Suva, Viti Levu (contact details in your travel pack)"
+    ]
+  ],
+  "dining_intro": "Almost 4 in 10 Fijians have Indian roots, so dal, roti, curries and Indian sweets are everywhere on Viti Levu, and resorts on the main island cook vegetarian food well. Island resorts and boats need your dietary brief in advance; we send it to each one.",
+  "dining_avoid": "Kokoda (raw fish in coconut), lovo (earth-oven meat) and many coconut sauces with fish are local favourites. Ask for the vegetable lovo or Indian vegetarian dishes instead.",
+  "food_card": [
+    [
+      "Fiji Hindi",
+      "Hum log shudh shakahari hai. Maas, machhli, anda nahi. Pyaaz, lahsun, aloo, gajar aur jameen ke neeche wali sabzi nahi. Dhanyavaad."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "fj"
+}

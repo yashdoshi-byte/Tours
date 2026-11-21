@@ -1,0 +1,599 @@
+{
+  "slug": "andalusian-morocco-tangier-chefchaouen-fes-8-days",
+  "title": "Andalusian Morocco: Casablanca, Rabat, Tangier, Tetouan, Chefchaouen and Fes in 8 Days",
+  "meta_title": "Andalusian Morocco 8 Days: Tangier, Chefchaouen, Fes",
+  "meta_description": "8-day private tour of north Morocco: Rabat, Tangier and Cap Spartel, Tetouan, blue Chefchaouen, the medina of Fes and the Hassan II Mosque.",
+  "destination": "Northern Morocco",
+  "country": "Morocco",
+  "duration": "8 days / 7 nights",
+  "nights": 7,
+  "style": "Medinas · Mountains · Culture",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904023287-325538379.webp",
+  "hero_alt": "Blue lanes of Chefchaouen",
+  "tagline": "Where Moorish Spain and Morocco meet: blue towns, white medinas and the Strait of Gibraltar",
+  "facts": [
+    [
+      "Stay",
+      "Casablanca 1, Tangier 2, Chefchaouen 1, Fes 2, Casablanca 1"
+    ],
+    [
+      "Travel",
+      "Private air-conditioned car with driver; national guide for groups of 4 or more"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "March to May, September to November"
+    ],
+    [
+      "Arrive / leave",
+      "Casablanca"
+    ]
+  ],
+  "intro": "Northern Morocco is where Arab and Andalusian culture have mixed for centuries, brought by Moors and Jews who left Spain. This private tour runs from Casablanca to the royal capital Rabat, Tangier on the Strait of Gibraltar, the white medina of Tetouan, the blue town of Chefchaouen in the Rif mountains and the medieval medina of Fes, before returning to Casablanca for the great Hassan II Mosque. Drives are 3 to 4 hours, and Fes to Casablanca about 3 hours 30 minutes by motorway.",
+  "highlights": [
+    "Rabat's Hassan Tower, Mohammed V Mausoleum and Oudaya kasbah",
+    "Tangier's medina and the terrace over the Strait of Gibraltar",
+    "Cap Spartel and the Caves of Hercules",
+    "Tetouan's UNESCO-listed medina",
+    "The blue lanes of Chefchaouen",
+    "The medina of Fes, the Attarine madrasa and the tanneries",
+    "Casablanca's Hassan II Mosque, one of the largest in the world"
+  ],
+  "stays": [
+    {
+      "place": "Casablanca",
+      "nights": 1,
+      "hotel": "City hotel"
+    },
+    {
+      "place": "Tangier",
+      "nights": 2,
+      "hotel": "Hotel with sea views"
+    },
+    {
+      "place": "Chefchaouen",
+      "nights": 1,
+      "hotel": "Riad or hotel, with dinner"
+    },
+    {
+      "place": "Fes",
+      "nights": 2,
+      "hotel": "Riad in the medina"
+    },
+    {
+      "place": "Casablanca",
+      "nights": 1,
+      "hotel": "City hotel"
+    }
+  ],
+  "route": [
+    "Casablanca",
+    "Rabat",
+    "Tangier",
+    "Cap Spartel",
+    "Tetouan",
+    "Chefchaouen",
+    "Fes",
+    "Casablanca"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Casablanca",
+      "summary": "Met by your guide and driver, and transferred to the hotel.",
+      "strip": [
+        "Airport about 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Corniche walk",
+          "text": "The ocean promenade at Ain Diab."
+        }
+      ],
+      "places": [
+        "Mohammed V International Airport",
+        "Ain Diab Corniche"
+      ],
+      "note": "Change money at the airport: dirhams cannot be bought abroad.",
+      "route": [
+        "Mohammed V International Airport",
+        "Ain Diab Corniche"
+      ],
+      "photo_query": "Mohammed V International Airport",
+      "photo_caption": "Mohammed V International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "Airport about 45 minutes",
+      "brief": [
+        "Change money at the airport: dirhams cannot be bought abroad."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Rabat, then north to Tangier",
+      "summary": "Morocco's capital, then the motorway to Tangier.",
+      "strip": [
+        "About 1 hour 15 minutes to Rabat, then 2 hours 45 minutes to Tangier"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Hassan Tower and the Mohammed V Mausoleum",
+          "text": "Guards in ceremonial dress at the gates."
+        },
+        {
+          "label": "Midday",
+          "title": "Kasbah of the Oudayas and the Chellah",
+          "text": "Blue-and-white lanes over the river, and Roman ruins turned into a royal necropolis."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Tangier"
+        }
+      ],
+      "places": [
+        "Hassan Tower",
+        "Mausoleum of Mohammed V",
+        "Kasbah of the Udayas",
+        "Chellah"
+      ],
+      "note": "The Royal Palace is seen only from outside.",
+      "route": [
+        "Hassan Tower",
+        "Mausoleum of Mohammed V",
+        "Kasbah of the Udayas",
+        "Chellah"
+      ],
+      "photo_query": "Hassan Tower",
+      "photo_caption": "Hassan Tower",
+      "transport": "Private car with driver",
+      "travel_time": "About 1 hour 15 minutes to Rabat, then 2 hours 45 minutes to Tangier",
+      "brief": [
+        "The Royal Palace is seen only from outside."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Tangier, Cap Spartel and the Caves of Hercules",
+      "summary": "The medina, the view over the strait and Africa's north-west tip.",
+      "strip": [
+        "About 40 km"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Tangier medina and kasbah",
+          "text": "From the terrace you see Spain across the Strait of Gibraltar."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Cap Spartel",
+          "text": "Where the Atlantic meets the Mediterranean."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Caves of Hercules",
+          "text": "A sea cave whose opening looks like the map of Africa."
+        }
+      ],
+      "places": [
+        "Tangier Kasbah",
+        "Cap Spartel",
+        "Caves of Hercules"
+      ],
+      "note": "Café Hafa's cliff terrace, open since 1921, serves mint tea over the strait.",
+      "route": [
+        "Tangier Kasbah",
+        "Cap Spartel",
+        "Caves of Hercules"
+      ],
+      "photo_query": "Tangier Kasbah",
+      "photo_caption": "Tangier Kasbah",
+      "transport": "Private car with driver",
+      "travel_time": "About 40 km",
+      "brief": [
+        "Café Hafa's cliff terrace, open since 1921, serves mint tea over the strait."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Tetouan and on to Chefchaouen",
+      "summary": "The white medina of Tetouan, then up into the Rif to the blue town.",
+      "strip": [
+        "About 1 hour to Tetouan, then 1 hour 30 minutes to Chefchaouen"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Tetouan medina",
+          "text": "A UNESCO World Heritage Site built by refugees from Granada."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Chefchaouen",
+          "text": "Blue-washed lanes and the Outa el Hammam square.",
+          "notes": [
+            [
+              "CARE",
+              "Residents live in these lanes: ask before photographing doorways with people, and do not climb on steps or walls."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset from the Spanish Mosque",
+          "text": "A 30-minute walk up the hill."
+        },
+        {
+          "label": "Dinner",
+          "title": "Dinner at the hotel"
+        }
+      ],
+      "places": [
+        "Tetouan Medina",
+        "Chefchaouen",
+        "Spanish Mosque Chefchaouen"
+      ],
+      "note": "Wear walking shoes with grip; the lanes are steep and polished.",
+      "route": [
+        "Tetouan Medina",
+        "Chefchaouen",
+        "Spanish Mosque Chefchaouen"
+      ],
+      "photo_query": "Tetouan Medina",
+      "photo_caption": "Tetouan Medina",
+      "transport": "Private car with driver",
+      "travel_time": "About 1 hour to Tetouan, then 1 hour 30 minutes to Chefchaouen",
+      "brief": [
+        "Chefchaouen: residents live in these lanes: ask before photographing doorways with people, and do not climb on steps or walls.",
+        "Wear walking shoes with grip; the lanes are steep and polished."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Through the Rif to Fes",
+      "summary": "A mountain drive to Fes and a first evening in the riad.",
+      "strip": [
+        "About 4 hours by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Free time in Chefchaouen",
+          "text": "The Ras el Maa spring."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to Fes",
+          "text": "Through olive groves and the Rif foothills."
+        }
+      ],
+      "places": [
+        "Ras El Maa",
+        "Fes"
+      ],
+      "note": "Riads are reached on foot; porters carry luggage from the car.",
+      "route": [
+        "Ras El Maa",
+        "Fes"
+      ],
+      "photo_query": "Ras El Maa",
+      "photo_caption": "Ras El Maa",
+      "transport": "Private car with driver",
+      "travel_time": "About 4 hours by car",
+      "brief": [
+        "Riads are reached on foot; porters carry luggage from the car."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "The medina of Fes",
+      "summary": "Fes el-Bali, the tanneries and the Jewish quarter.",
+      "strip": [
+        "Full day on foot"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Fes el-Bali",
+          "text": "The Karaouine Mosque and the tomb of Moulay Idriss from outside, the Attarine madrasa and the Nejjarine fountain."
+        },
+        {
+          "label": "Midday",
+          "title": "Artisans' quarters and the Chouara tannery",
+          "notes": [
+            [
+              "CARE",
+              "The tannery smell is strong; shops hand out mint sprigs. Agree any purchase calmly and only if you want to buy."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Fes el-Jdid and the Mellah",
+          "text": "The Royal Palace gates and the oldest Jewish quarter in Morocco."
+        }
+      ],
+      "places": [
+        "Al Quaraouiyine",
+        "Madrasa Al-Attarine",
+        "Chouara Tannery",
+        "Royal Palace Fes",
+        "Mellah of Fes"
+      ],
+      "note": "Fes medina has over 9,000 lanes. Stay with your guide.",
+      "route": [
+        "Al Quaraouiyine",
+        "Madrasa Al-Attarine",
+        "Chouara Tannery",
+        "Royal Palace Fes",
+        "Mellah of Fes"
+      ],
+      "photo_query": "Al Quaraouiyine",
+      "photo_caption": "Al Quaraouiyine",
+      "transport": "Private car with driver",
+      "brief": [
+        "Artisans' quarters and the Chouara tannery: the tannery smell is strong; shops hand out mint sprigs.",
+        "Fes medina has over 9,000 lanes."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Back to Casablanca and the Hassan II Mosque",
+      "summary": "Motorway to Casablanca and a guided tour of the great mosque.",
+      "strip": [
+        "About 3 hours 30 minutes by car"
+      ],
+      "rows": [
+        {
+          "label": "Afternoon",
+          "title": "Hassan II Mosque",
+          "text": "A guided tour inside, with room for 25,000 worshippers and a minaret of 210 m.",
+          "notes": [
+            [
+              "TIME",
+              "No tours on Fridays or during prayer times."
+            ],
+            [
+              "WEAR",
+              "Covered shoulders and knees; shoes come off inside."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Mohammed V Square and the Corniche"
+        }
+      ],
+      "places": [
+        "Hassan II Mosque",
+        "Mohammed V Square"
+      ],
+      "note": "This is the only mosque in Morocco open to non-Muslim visitors.",
+      "route": [
+        "Hassan II Mosque",
+        "Mohammed V Square"
+      ],
+      "photo_query": "Hassan II Mosque",
+      "photo_caption": "Hassan II Mosque",
+      "transport": "Private car with driver",
+      "travel_time": "About 3 hours 30 minutes by car",
+      "brief": [
+        "Hassan II Mosque: no tours on Fridays or during prayer times.",
+        "Hassan II Mosque: covered shoulders and knees; shoes come off inside."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Casablanca",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "About 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Mohammed V International Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Mohammed V International Airport"
+      ],
+      "note": "Spend or change your dirhams before security.",
+      "photo_query": "Mohammed V International Airport",
+      "photo_caption": "Mohammed V International Airport",
+      "transport": "Private car with driver",
+      "travel_time": "About 45 minutes",
+      "brief": [
+        "Transfer to Mohammed V International Airport: be at the airport 3 hours before an international flight.",
+        "Spend or change your dirhams before security."
+      ]
+    }
+  ],
+  "included": [
+    "7 nights with breakfast",
+    "Dinner in Chefchaouen",
+    "Private air-conditioned car with English or French-speaking driver (national guide for 4 or more)",
+    "Sightseeing and entrance fees as listed",
+    "Local guides in the medinas",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Morocco visa",
+    "Lunches and other dinners",
+    "Drinks",
+    "Tips for guides and drivers",
+    "Travel insurance"
+  ],
+  "best_time": "March to May and September to November. Summer is very hot in Fes; winter brings rain to the Rif.",
+  "seasons": [
+    [
+      "March to May",
+      "Best",
+      "Warm days (20 to 28°C), green Rif mountains and orange blossom."
+    ],
+    [
+      "June to August",
+      "Hot",
+      "35°C and above in Fes and Marrakech; the coast is cooler."
+    ],
+    [
+      "September to November",
+      "Best",
+      "Warm and settled; date harvest."
+    ],
+    [
+      "December to February",
+      "Cool",
+      "Mild days, cold nights; snow on the high mountains."
+    ]
+  ],
+  "months": [
+    "wet",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "shoulder",
+    "wet",
+    "wet",
+    "shoulder",
+    "peak",
+    "dry",
+    "wet"
+  ],
+  "best_pick": "April, May or October.",
+  "faqs": [
+    {
+      "q": "Can we add Spain?",
+      "a": "Yes. A fast ferry from Tangier reaches Tarifa in Spain in about 1 hour; combine with our Spain tour for Seville and Granada."
+    },
+    {
+      "q": "Can we add the Sahara?",
+      "a": "Yes. From Fes, add 3 nights via the Middle Atlas to the Merzouga dunes, ending in Marrakech."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Morocco tour from India",
+    "Chefchaouen Fes tour",
+    "northern Morocco itinerary",
+    "Tangier Chefchaouen Fes 8 days"
+  ],
+  "links": [
+    {
+      "title": "Morocco e-Visa (official)",
+      "url": "https://www.acces-maroc.ma/"
+    },
+    {
+      "title": "Visit Morocco (official)",
+      "url": "https://www.visitmorocco.com/en"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Morocco e-Visa",
+      "Electronic visa applied online before travel; holders of some valid visas or residence permits (such as Schengen, UK or US) may qualify for a simpler route. We confirm the current rule when you book.",
+      "Indian passport holders",
+      "About EUR 70"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival with two blank pages",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply at least 3 to 4 weeks before travel.",
+    "Phone and internet: a Moroccan SIM or eSIM is cheap; riads have Wi-Fi."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Dirhams",
+      "text": "The Moroccan dirham cannot be bought outside Morocco. Change money or use ATMs on arrival, and carry cash for souks, taxis and tips; riads and big shops take cards."
+    },
+    {
+      "tag": "CARE",
+      "title": "Dress and photos",
+      "text": "Cover shoulders and knees, especially in the medinas. Always ask before photographing people; some will ask for a small tip."
+    },
+    {
+      "tag": "CARE",
+      "title": "Medina guides and touts",
+      "text": "Unofficial 'guides' offer to show you the way or the tanneries. Politely refuse and stay with your licensed guide."
+    },
+    {
+      "tag": "TIP",
+      "title": "Mosques and Ramadan",
+      "text": "Non-Muslims may enter only the Hassan II Mosque in Casablanca, on guided tours. During Ramadan many cafés close by day; eat discreetly."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "19 (gendarmerie outside towns 177)"
+    ],
+    [
+      "Ambulance and fire",
+      "15"
+    ],
+    [
+      "Embassy of India, Rabat",
+      "13 Avenue de Michlifen, Agdal, Rabat"
+    ]
+  ],
+  "dining_intro": "Moroccan food has excellent vegetarian dishes: vegetable tagine, seven-vegetable couscous, zaalouk (smoked aubergine), bissara (split pea soup), lentils and fresh bread. We tell every riad and cooking teacher your diet in advance.",
+  "dining_avoid": "Harira soup and many tagines are made with lamb or chicken stock, and smen (aged butter) is common. Ask for 'bla lham' (without meat) and check the stock.",
+  "food_card": [
+    [
+      "French",
+      "Nous sommes végétariens stricts. Pas de viande, poisson, fruits de mer ni œufs. Pas d'oignon, d'ail, de pomme de terre, de carotte ni de légumes racines. Pas de bouillon de viande ou de poisson. Merci."
+    ],
+    [
+      "Arabic (Darija, transliterated)",
+      "Ana nabati. Bla lham, bla djaj, bla hout, bla bid. Bla bssal, bla touma. Shukran."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "ma"
+}

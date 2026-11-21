@@ -1,0 +1,512 @@
+{
+  "slug": "morocco-gastronomy-marrakech-essaouira-7-days",
+  "title": "A Taste of Morocco: Marrakech Food Tour, Cooking Class and the Coast at Essaouira",
+  "meta_title": "Morocco Food Tour 7 Days: Marrakech and Essaouira",
+  "meta_description": "7-day Morocco food holiday: a Marrakech street-food walk, a cooking class, an organic farm lunch and a pastry workshop in seaside Essaouira.",
+  "destination": "Marrakech and Essaouira, Morocco",
+  "country": "Morocco",
+  "duration": "7 days / 6 nights",
+  "nights": 6,
+  "style": "Food · Riads · Coast",
+  "hero_image": "https://yashdoshi-byte.github.io/Tours/assets/img/morocco-tagine.webp",
+  "hero_alt": "Vegetable tagine with Moroccan spices",
+  "tagline": "Spices, tagines, mint tea and Atlantic breezes",
+  "facts": [
+    [
+      "Stay",
+      "Marrakech 3, Essaouira 3"
+    ],
+    [
+      "Travel",
+      "Private transfers"
+    ],
+    [
+      "Pace",
+      "Relaxed"
+    ],
+    [
+      "Best months",
+      "March to May, September to November"
+    ],
+    [
+      "Arrive / leave",
+      "Marrakech"
+    ]
+  ],
+  "intro": "A slow holiday built around Moroccan food. Three nights in a Marrakech riad with a guided street-food walk of over six tasting stops and a hands-on cooking class, then a private transfer to the Atlantic town of Essaouira via an organic farm for lunch under the olive trees, a mint tea and pastry workshop, and a free day by the sea. Moroccan cooking has many classic meat dishes, so we ask every cook in advance to prepare a full vegetarian version: vegetable tagines, seven-vegetable couscous, zaalouk and bissara.",
+  "highlights": [
+    "A guided street-food walk through the Marrakech medina",
+    "A cooking class with a traditional Moroccan cook (dada)",
+    "Jemaa el-Fna square at dusk",
+    "Lunch on an organic farm near Essaouira",
+    "The mint tea ceremony and a Moroccan pastry workshop",
+    "Essaouira's ramparts, port and beach"
+  ],
+  "stays": [
+    {
+      "place": "Marrakech",
+      "nights": 3,
+      "hotel": "Riad in the medina"
+    },
+    {
+      "place": "Essaouira",
+      "nights": 3,
+      "hotel": "Riad in the medina"
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Essaouira"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Marrakech",
+      "summary": "Private transfer to your riad and Jemaa el-Fna in the evening.",
+      "strip": [
+        "Airport about 20 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your riad",
+          "text": "Porters wheel your bags through the lanes."
+        },
+        {
+          "label": "Evening",
+          "title": "Jemaa el-Fna",
+          "text": "Storytellers, musicians and food stalls.",
+          "notes": [
+            [
+              "CARE",
+              "Snake charmers and henna sellers expect payment for photos; agree first or decline."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Marrakech Menara Airport",
+        "Jemaa el-Fna"
+      ],
+      "note": "Riads have plunge pools and roof terraces for the afternoon heat.",
+      "route": [
+        "Marrakech Menara Airport",
+        "Jemaa el-Fna"
+      ],
+      "photo_query": "Marrakech Menara Airport",
+      "photo_caption": "Marrakech Menara Airport",
+      "transport": "Private transfer and on foot",
+      "travel_time": "Airport about 20 minutes",
+      "brief": [
+        "Jemaa el-Fna: snake charmers and henna sellers expect payment for photos; agree first or decline.",
+        "Riads have plunge pools and roof terraces for the afternoon heat."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Marrakech street-food walk",
+      "summary": "A licensed guide leads you to six or more tasting stops in the medina.",
+      "strip": [
+        "About 3 to 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Medina sights",
+          "text": "The Koutoubia Mosque from outside and the Bahia Palace."
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Food walk",
+          "text": "Msemen pancakes, bissara, olives, spiced snails for the curious, fresh juices and sweets. The menu changes with the season and your diet.",
+          "notes": [
+            [
+              "CARE",
+              "Eat only at the stalls your guide chooses, and drink bottled water."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Koutoubia Mosque",
+        "Bahia Palace",
+        "Jemaa el-Fna"
+      ],
+      "note": "Tell your guide 'vegetarian' at the start; stops are swapped accordingly.",
+      "route": [
+        "Koutoubia Mosque",
+        "Bahia Palace",
+        "Jemaa el-Fna"
+      ],
+      "photo_query": "Koutoubia Mosque",
+      "photo_caption": "Koutoubia Mosque",
+      "transport": "Private transfer and on foot",
+      "travel_time": "About 3 to 4 hours",
+      "brief": [
+        "Food walk: eat only at the stalls your guide chooses, and drink bottled water.",
+        "Tell your guide 'vegetarian' at the start; stops are swapped accordingly."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Moroccan cooking class",
+      "summary": "A morning in the kitchen with a traditional cook.",
+      "strip": [
+        "About 4 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Spices and the market",
+          "text": "Buy ingredients and learn the spice blends."
+        },
+        {
+          "label": "Midday",
+          "title": "Cook your own tagine",
+          "text": "Each person has a workstation; lunch is what you cook.",
+          "notes": [
+            [
+              "TIME",
+              "Classes start at about 09:30."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Majorelle Garden",
+          "notes": [
+            [
+              "TIME",
+              "Timed tickets; book online."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Jardin Majorelle"
+      ],
+      "note": "Ask for a vegetable tagine and zaalouk; the class adapts the recipe.",
+      "photo_query": "Jardin Majorelle",
+      "photo_caption": "Jardin Majorelle",
+      "transport": "Private transfer and on foot",
+      "travel_time": "About 4 hours",
+      "brief": [
+        "Cook your own tagine: classes start at about 09:30.",
+        "Majorelle Garden: timed tickets; book online."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Organic farm lunch and on to Essaouira",
+      "summary": "Lunch at an organic estate in the argan country, then the Atlantic coast.",
+      "strip": [
+        "About 3 hours by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive west through argan forests",
+          "text": "Goats sometimes climb the argan trees."
+        },
+        {
+          "label": "Midday",
+          "title": "Organic farm lunch",
+          "text": "Lunch under an olive tree on a 50-hectare estate. The estate is a vineyard; non-alcoholic drinks are served on request.",
+          "notes": [
+            [
+              "CARE",
+              "Roadside 'goats in trees' stops are staged for tips; it is your choice to pay."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Essaouira's ramparts at sunset"
+        }
+      ],
+      "places": [
+        "Argan forest",
+        "Essaouira",
+        "Skala de la Ville"
+      ],
+      "note": "An argan oil women's cooperative can replace the estate visit.",
+      "route": [
+        "Argan forest",
+        "Essaouira",
+        "Skala de la Ville"
+      ],
+      "photo_query": "Argan forest",
+      "photo_caption": "Argan forest",
+      "transport": "Private transfer and on foot",
+      "travel_time": "About 3 hours by car",
+      "brief": [
+        "Organic farm lunch: roadside 'goats in trees' stops are staged for tips; it is your choice to pay.",
+        "An argan oil women's cooperative can replace the estate visit."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Mint tea and pastry workshop",
+      "summary": "Learn the tea ceremony and the secrets of Moroccan sweets.",
+      "strip": [
+        "Afternoon workshop"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Essaouira port and medina",
+          "text": "Blue fishing boats and woodworkers in thuya wood."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Tea ceremony and pastry workshop",
+          "text": "Gazelle horns, chebakia and briouats."
+        }
+      ],
+      "places": [
+        "Port of Essaouira",
+        "Essaouira Medina"
+      ],
+      "note": "Essaouira is windy all year; bring a light jacket.",
+      "route": [
+        "Port of Essaouira",
+        "Essaouira Medina"
+      ],
+      "photo_query": "Port of Essaouira",
+      "photo_caption": "Port of Essaouira",
+      "transport": "Private transfer and on foot",
+      "brief": [
+        "Essaouira is windy all year; bring a light jacket."
+      ]
+    },
+    {
+      "pill": "Easy day",
+      "title": "Essaouira at leisure",
+      "summary": "A free day by the sea.",
+      "strip": [
+        "Free day"
+      ],
+      "rows": [
+        {
+          "label": "Optional",
+          "title": "Beach walk, kitesurfing or a camel ride"
+        },
+        {
+          "label": "Optional",
+          "title": "Gnaoua music evening"
+        }
+      ],
+      "places": [
+        "Essaouira Beach"
+      ],
+      "note": "The sea is cool; swimming is best in summer.",
+      "photo_query": "Essaouira Beach",
+      "photo_caption": "Essaouira Beach",
+      "transport": "Private transfer and on foot",
+      "brief": [
+        "The sea is cool; swimming is best in summer."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Transfer to the airport",
+      "summary": "Private transfer to Marrakech or Essaouira airport.",
+      "strip": [
+        "About 3 hours to Marrakech airport"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Private transfer",
+          "notes": [
+            [
+              "TIME",
+              "Allow 3 hours for the road and 3 hours at the airport for international flights."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Marrakech Menara Airport"
+      ],
+      "note": "Spices and argan oil go in checked baggage.",
+      "photo_query": "Marrakech Menara Airport",
+      "photo_caption": "Marrakech Menara Airport",
+      "transport": "Private transfer and on foot",
+      "travel_time": "About 3 hours to Marrakech airport",
+      "brief": [
+        "Private transfer: allow 3 hours for the road and 3 hours at the airport for international flights.",
+        "Spices and argan oil go in checked baggage."
+      ]
+    }
+  ],
+  "included": [
+    "6 nights in riads with breakfast",
+    "2 lunches (cooking class and farm lunch)",
+    "Private airport and Essaouira transfers",
+    "Marrakech food walk with licensed guide",
+    "Cooking class",
+    "Pastry and tea workshop",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Morocco visa",
+    "Other meals",
+    "Drinks",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "March to May and September to November: warm days without the summer heat of Marrakech.",
+  "seasons": [
+    [
+      "March to May",
+      "Best",
+      "Warm days (20 to 28°C), green Rif mountains and orange blossom."
+    ],
+    [
+      "June to August",
+      "Hot",
+      "35°C and above in Fes and Marrakech; the coast is cooler."
+    ],
+    [
+      "September to November",
+      "Best",
+      "Warm and settled; date harvest."
+    ],
+    [
+      "December to February",
+      "Cool",
+      "Mild days, cold nights; snow on the high mountains."
+    ]
+  ],
+  "months": [
+    "wet",
+    "shoulder",
+    "dry",
+    "peak",
+    "peak",
+    "shoulder",
+    "wet",
+    "wet",
+    "shoulder",
+    "peak",
+    "dry",
+    "wet"
+  ],
+  "best_pick": "April or October.",
+  "faqs": [
+    {
+      "q": "Can the whole tour be vegetarian or Jain?",
+      "a": "Vegetarian, yes, fully. Jain cooking without onion and garlic is possible in the cooking class with notice; street food is harder, so we adjust the walk."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Morocco food tour",
+    "Marrakech cooking class",
+    "Essaouira holiday",
+    "vegetarian Morocco"
+  ],
+  "links": [
+    {
+      "title": "Jardin Majorelle (official)",
+      "url": "https://www.jardinmajorelle.com/en/"
+    },
+    {
+      "title": "Morocco e-Visa (official)",
+      "url": "https://www.acces-maroc.ma/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Morocco e-Visa",
+      "Electronic visa applied online before travel; holders of some valid visas or residence permits (such as Schengen, UK or US) may qualify for a simpler route. We confirm the current rule when you book.",
+      "Indian passport holders",
+      "About EUR 70"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival with two blank pages",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply at least 3 to 4 weeks before travel.",
+    "Phone and internet: a Moroccan SIM or eSIM is cheap; riads have Wi-Fi."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Dirhams",
+      "text": "The Moroccan dirham cannot be bought outside Morocco. Change money or use ATMs on arrival, and carry cash for souks, taxis and tips; riads and big shops take cards."
+    },
+    {
+      "tag": "CARE",
+      "title": "Dress and photos",
+      "text": "Cover shoulders and knees, especially in the medinas. Always ask before photographing people; some will ask for a small tip."
+    },
+    {
+      "tag": "CARE",
+      "title": "Medina guides and touts",
+      "text": "Unofficial 'guides' offer to show you the way or the tanneries. Politely refuse and stay with your licensed guide."
+    },
+    {
+      "tag": "TIP",
+      "title": "Mosques and Ramadan",
+      "text": "Non-Muslims may enter only the Hassan II Mosque in Casablanca, on guided tours. During Ramadan many cafés close by day; eat discreetly."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "19 (gendarmerie outside towns 177)"
+    ],
+    [
+      "Ambulance and fire",
+      "15"
+    ],
+    [
+      "Embassy of India, Rabat",
+      "13 Avenue de Michlifen, Agdal, Rabat"
+    ]
+  ],
+  "dining_intro": "Moroccan food has excellent vegetarian dishes: vegetable tagine, seven-vegetable couscous, zaalouk (smoked aubergine), bissara (split pea soup), lentils and fresh bread. We tell every riad and cooking teacher your diet in advance.",
+  "dining_avoid": "Harira soup and many tagines are made with lamb or chicken stock, and smen (aged butter) is common. Ask for 'bla lham' (without meat) and check the stock.",
+  "food_card": [
+    [
+      "French",
+      "Nous sommes végétariens stricts. Pas de viande, poisson, fruits de mer ni œufs. Pas d'oignon, d'ail, de pomme de terre, de carotte ni de légumes racines. Pas de bouillon de viande ou de poisson. Merci."
+    ],
+    [
+      "Arabic (Darija, transliterated)",
+      "Ana nabati. Bla lham, bla djaj, bla hout, bla bid. Bla bssal, bla touma. Shukran."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "ma"
+}

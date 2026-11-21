@@ -1,0 +1,600 @@
+{
+  "slug": "canada-rockies-rocky-mountaineer-8-days",
+  "title": "Canadian Rockies and the Rocky Mountaineer: Calgary, Banff, Lake Louise, Jasper and Vancouver",
+  "meta_title": "Canadian Rockies 8 Days with the Rocky Mountaineer",
+  "meta_description": "8-day Canadian Rockies tour: a helicopter flight, Banff, Yoho and Lake Louise, the Icefields Parkway to Jasper, and the Rocky Mountaineer to Vancouver.",
+  "destination": "Alberta and British Columbia, Canada",
+  "country": "Canada",
+  "duration": "8 days / 7 nights",
+  "nights": 7,
+  "style": "Mountains · Scenic rail · Wildlife",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904130619-571480460.webp",
+  "hero_alt": "Lake Louise and the Victoria Glacier",
+  "tagline": "Turquoise lakes, a glacier and two days on Canada's famous mountain train",
+  "facts": [
+    [
+      "Stay",
+      "Calgary 1, Banff 1, Lake Louise 1, Jasper 2, Kamloops 1, Vancouver 1"
+    ],
+    [
+      "Travel",
+      "Guided coach tours, then the Rocky Mountaineer train"
+    ],
+    [
+      "Pace",
+      "Moderate"
+    ],
+    [
+      "Best months",
+      "June to September"
+    ],
+    [
+      "Arrive / leave",
+      "Calgary / Vancouver"
+    ]
+  ],
+  "intro": "The Canadian Rockies at their best, ending with two days on the Rocky Mountaineer. A helicopter flight over the peaks of Kananaskis on the way to Banff, Yoho's Emerald Lake and a night at Lake Louise, the Icefields Parkway with a ride onto the Athabasca Glacier, two nights in Jasper, then the train through the Yellowhead Pass, past Mount Robson and down the Fraser Canyon to Vancouver, with a night in Kamloops between. The Rocky Mountaineer runs only from about mid-April to mid-October, travels by daylight, and overnights in Kamloops.",
+  "highlights": [
+    "A 12-minute helicopter flight over the Rockies at Kananaskis",
+    "Bow Falls, the Hoodoos, Lake Minnewanka and the Banff Gondola",
+    "Emerald Lake, the Spiral Tunnels and the Natural Bridge in Yoho",
+    "A night at Lake Louise",
+    "The Icefields Parkway and the Ice Explorer onto the Athabasca Glacier",
+    "Maligne Canyon and the wildlife of Jasper",
+    "Two days on the Rocky Mountaineer: Mount Robson and Hell's Gate"
+  ],
+  "stays": [
+    {
+      "place": "Calgary",
+      "nights": 1,
+      "hotel": "Downtown hotel"
+    },
+    {
+      "place": "Banff",
+      "nights": 1,
+      "hotel": "Banff town hotel"
+    },
+    {
+      "place": "Lake Louise",
+      "nights": 1,
+      "hotel": "Lakeside hotel"
+    },
+    {
+      "place": "Jasper",
+      "nights": 2,
+      "hotel": "Jasper hotel or lodge"
+    },
+    {
+      "place": "Kamloops",
+      "nights": 1,
+      "hotel": "Hotel arranged by the train"
+    },
+    {
+      "place": "Vancouver",
+      "nights": 1,
+      "hotel": "Downtown hotel"
+    }
+  ],
+  "route": [
+    "Calgary",
+    "Kananaskis",
+    "Banff",
+    "Yoho National Park",
+    "Lake Louise",
+    "Columbia Icefield",
+    "Jasper",
+    "Kamloops",
+    "Vancouver"
+  ],
+  "days": [
+    {
+      "pill": "Arrival day",
+      "title": "Arrive in Calgary",
+      "summary": "Arrive and explore the Stampede City on your own.",
+      "strip": [
+        "Airport about 25 minutes"
+      ],
+      "rows": [
+        {
+          "label": "On arrival",
+          "title": "Transfer to your hotel"
+        },
+        {
+          "label": "Evening",
+          "title": "Calgary Tower and Stephen Avenue"
+        }
+      ],
+      "places": [
+        "Calgary International Airport",
+        "Calgary Tower",
+        "Stephen Avenue"
+      ],
+      "note": "In early July the Calgary Stampede fills the city: book early.",
+      "route": [
+        "Calgary International Airport",
+        "Calgary Tower",
+        "Stephen Avenue"
+      ],
+      "photo_query": "Calgary International Airport",
+      "photo_caption": "Calgary International Airport",
+      "transport": "Guided coach tour",
+      "travel_time": "Airport about 25 minutes",
+      "brief": [
+        "In early July the Calgary Stampede fills the city: book early."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Helicopter over Kananaskis and Banff sightseeing",
+      "summary": "A helicopter flight, then the sights of Banff and the gondola.",
+      "strip": [
+        "About 1 hour 30 minutes to Kananaskis, then 1 hour to Banff"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Summit helicopter flight",
+          "text": "12 minutes over peaks and alpine lakes.",
+          "notes": [
+            [
+              "TIME",
+              "Flights are cancelled in bad weather; the cost is refunded."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Bow Falls, Surprise Corner, the Hoodoos and Lake Minnewanka"
+        },
+        {
+          "label": "Late afternoon",
+          "title": "Banff Gondola",
+          "text": "To the summit of Sulphur Mountain."
+        }
+      ],
+      "places": [
+        "Kananaskis",
+        "Bow Falls",
+        "Hoodoos Banff",
+        "Lake Minnewanka",
+        "Banff Gondola"
+      ],
+      "note": "A Parks Canada pass is needed in the national parks; it is included.",
+      "route": [
+        "Kananaskis",
+        "Bow Falls",
+        "Hoodoos Banff",
+        "Lake Minnewanka",
+        "Banff Gondola"
+      ],
+      "photo_query": "Kananaskis",
+      "photo_caption": "Kananaskis",
+      "transport": "Guided coach tour",
+      "travel_time": "About 1 hour 30 minutes to Kananaskis, then 1 hour to Banff",
+      "brief": [
+        "Summit helicopter flight: flights are cancelled in bad weather; the cost is refunded.",
+        "A Parks Canada pass is needed in the national parks; it is included."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Yoho National Park and Lake Louise",
+      "summary": "Emerald Lake, the Spiral Tunnels and the Natural Bridge, then a guided walk at Lake Louise.",
+      "strip": [
+        "Half-day tour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Spiral Tunnels, Natural Bridge and Emerald Lake"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Guided lakeshore walk at Lake Louise",
+          "text": "One hour along the turquoise lake under the Victoria Glacier."
+        },
+        {
+          "label": "Optional",
+          "title": "Moraine Lake",
+          "text": "By Parks Canada shuttle; private cars are no longer allowed on the road."
+        }
+      ],
+      "places": [
+        "Spiral Tunnels",
+        "Natural Bridge",
+        "Emerald Lake",
+        "Lake Louise"
+      ],
+      "note": "Canoe rentals at Lake Louise sell out by mid-morning in summer.",
+      "route": [
+        "Spiral Tunnels",
+        "Natural Bridge",
+        "Emerald Lake",
+        "Lake Louise"
+      ],
+      "photo_query": "Spiral Tunnels",
+      "photo_caption": "Spiral Tunnels",
+      "transport": "Guided coach tour",
+      "brief": [
+        "Canoe rentals at Lake Louise sell out by mid-morning in summer."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "The Icefields Parkway to Jasper",
+      "summary": "Bow Lake, the Columbia Icefield and Athabasca Falls.",
+      "strip": [
+        "About 230 km with stops; full day"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Bow Lake and Peyto Lake viewpoint"
+        },
+        {
+          "label": "Midday",
+          "title": "Ice Explorer onto the Athabasca Glacier",
+          "text": "Step onto the glacier in the middle of the icefield.",
+          "notes": [
+            [
+              "WEAR",
+              "Warm jacket and closed shoes; the ice is slippery."
+            ],
+            [
+              "CARE",
+              "Stay inside the marked area: crevasses on the glacier are deadly."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Athabasca Falls"
+        }
+      ],
+      "places": [
+        "Bow Lake",
+        "Peyto Lake",
+        "Columbia Icefield",
+        "Athabasca Falls"
+      ],
+      "note": "Lunch at the Icefield Centre is not included; vegetarian options are limited, so carry snacks.",
+      "route": [
+        "Bow Lake",
+        "Peyto Lake",
+        "Columbia Icefield",
+        "Athabasca Falls"
+      ],
+      "photo_query": "Bow Lake",
+      "photo_caption": "Bow Lake",
+      "transport": "Guided coach tour",
+      "travel_time": "About 230 km with stops; full day",
+      "brief": [
+        "Ice Explorer onto the Athabasca Glacier: warm jacket and closed shoes; the ice is slippery.",
+        "Ice Explorer onto the Athabasca Glacier: stay inside the marked area: crevasses on the glacier are deadly."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Jasper National Park",
+      "summary": "A short scenic tour and a free afternoon.",
+      "strip": [
+        "Half-day tour"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Maligne Canyon and Medicine Lake",
+          "text": "Look out for elk, bears and bighorn sheep."
+        },
+        {
+          "label": "Optional",
+          "title": "Jasper SkyTram or a Maligne Lake cruise to Spirit Island"
+        }
+      ],
+      "places": [
+        "Maligne Canyon",
+        "Medicine Lake",
+        "Jasper SkyTram"
+      ],
+      "note": "Jasper is a Dark Sky Preserve; stargazing is excellent late in the season.",
+      "route": [
+        "Maligne Canyon",
+        "Medicine Lake",
+        "Jasper SkyTram"
+      ],
+      "photo_query": "Maligne Canyon",
+      "photo_caption": "Maligne Canyon",
+      "transport": "Guided coach tour",
+      "brief": [
+        "Jasper is a Dark Sky Preserve; stargazing is excellent late in the season."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Rocky Mountaineer: Jasper to Kamloops",
+      "summary": "A daylight train journey over the Yellowhead Pass.",
+      "strip": [
+        "About 9 hours by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Board the Rocky Mountaineer",
+          "text": "Mount Robson, the highest peak in the Canadian Rockies, and Pyramid Falls.",
+          "notes": [
+            [
+              "TIME",
+              "Be at the station about 1 hour before departure; luggage goes ahead to the hotel."
+            ]
+          ]
+        },
+        {
+          "label": "Evening",
+          "title": "Overnight in Kamloops",
+          "text": "The train stops for the night so you see every mile by daylight."
+        }
+      ],
+      "places": [
+        "Jasper railway station",
+        "Mount Robson",
+        "Pyramid Falls",
+        "Kamloops"
+      ],
+      "note": "Pack an overnight bag; main luggage is delivered to your hotel.",
+      "transport": "Rocky Mountaineer train",
+      "route": [
+        "Jasper railway station",
+        "Mount Robson",
+        "Pyramid Falls",
+        "Kamloops"
+      ],
+      "photo_query": "Jasper railway station",
+      "photo_caption": "Jasper railway station",
+      "travel_time": "About 9 hours by train",
+      "brief": [
+        "Board the Rocky Mountaineer: be at the station about 1 hour before departure; luggage goes ahead to the hotel.",
+        "Pack an overnight bag; main luggage is delivered to your hotel."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Rocky Mountaineer: Kamloops to Vancouver",
+      "summary": "Through the Thompson and Fraser canyons to the Pacific.",
+      "strip": [
+        "About 9 hours by train"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Thompson River canyon",
+          "text": "Rock sheds and steep slopes."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Hell's Gate",
+          "text": "The Fraser River squeezed through a 35 m gap."
+        },
+        {
+          "label": "Evening",
+          "title": "Arrive in Vancouver"
+        }
+      ],
+      "places": [
+        "Kamloops",
+        "Hell's Gate",
+        "Vancouver"
+      ],
+      "note": "Sit on the side the host suggests for each canyon.",
+      "transport": "Rocky Mountaineer train",
+      "route": [
+        "Kamloops",
+        "Hell's Gate",
+        "Vancouver"
+      ],
+      "photo_query": "Kamloops",
+      "photo_caption": "Kamloops",
+      "travel_time": "About 9 hours by train",
+      "brief": [
+        "Sit on the side the host suggests for each canyon."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Vancouver and departure",
+      "summary": "Check out, with time for Stanley Park if your flight allows.",
+      "strip": [
+        "Airport about 30 minutes by SkyTrain"
+      ],
+      "rows": [
+        {
+          "label": "Optional morning",
+          "title": "Stanley Park and Granville Island"
+        },
+        {
+          "label": "As per flight",
+          "title": "Transfer to the airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Stanley Park",
+        "Granville Island",
+        "Vancouver International Airport"
+      ],
+      "note": "Add two nights in Vancouver for Whistler or Victoria.",
+      "route": [
+        "Stanley Park",
+        "Granville Island",
+        "Vancouver International Airport"
+      ],
+      "photo_query": "Stanley Park",
+      "photo_caption": "Stanley Park",
+      "transport": "Guided coach tour",
+      "travel_time": "Airport about 30 minutes by SkyTrain",
+      "brief": [
+        "Transfer to the airport: be at the airport 3 hours before an international flight.",
+        "Add two nights in Vancouver for Whistler or Victoria."
+      ]
+    }
+  ],
+  "included": [
+    "7 nights with breakfast",
+    "Guided tours Calgary to Jasper as described",
+    "Helicopter flight",
+    "Banff Gondola",
+    "Ice Explorer at the Columbia Icefield",
+    "Rocky Mountaineer Jasper to Vancouver with meals on board and hotel in Kamloops",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Canada visitor visa",
+    "Lunches and dinners except on the train",
+    "Optional activities",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "June to September for open roads, lakes free of ice and every tour running. The train runs from about mid-April to mid-October.",
+  "seasons": [
+    [
+      "June to September",
+      "Best",
+      "Turquoise lakes, 15 to 25°C, long days and wildlife."
+    ],
+    [
+      "May and October",
+      "Shoulder",
+      "Snow on high roads, some lakes still frozen in May; quieter."
+    ],
+    [
+      "November to April",
+      "Winter",
+      "Skiing; the train does not run."
+    ]
+  ],
+  "months": [
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "shoulder",
+    "peak",
+    "peak",
+    "peak",
+    "dry",
+    "shoulder",
+    "snow",
+    "snow"
+  ],
+  "best_pick": "Late June to mid-September.",
+  "faqs": [
+    {
+      "q": "Which class on the train?",
+      "a": "SilverLeaf has large windows and meals at your seat; GoldLeaf adds a glass-domed upper deck and a dining room. We quote both."
+    },
+    {
+      "q": "Can we do it the other way round?",
+      "a": "Yes. Vancouver to Calgary works the same; the train goes Vancouver to Jasper."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "Rocky Mountaineer package from India",
+    "Canadian Rockies tour",
+    "Banff Jasper Lake Louise itinerary",
+    "Canada 8 days"
+  ],
+  "links": [
+    {
+      "title": "Rocky Mountaineer (official)",
+      "url": "https://www.rockymountaineer.com/"
+    },
+    {
+      "title": "Parks Canada: Banff (official)",
+      "url": "https://parks.canada.ca/pn-np/ab/banff"
+    },
+    {
+      "title": "Canada visitor visa (official)",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Canada visitor visa (TRV)",
+      "Applied online with biometrics at VFS; processing can take several weeks to months",
+      "Indian passport holders",
+      "About CAD 100 plus CAD 85 biometrics"
+    ],
+    [
+      "Passport",
+      "Valid for the whole stay",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Apply at least 3 to 4 months before travel; summer is the busiest season for applications.",
+    "Phone and internet: a Canadian eSIM works best; mobile signal is patchy on the Icefields Parkway and the train."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Cards and cash",
+      "text": "On card machines, always choose to pay in Canadian dollars, never in INR. Cards work everywhere. Tips of 15 to 20% are expected in restaurants and for guides."
+    },
+    {
+      "tag": "CARE",
+      "title": "Bears and wildlife",
+      "text": "Black and grizzly bears, elk and bighorn sheep are often seen by the road. Stay in the vehicle, never feed wildlife, and keep at least 100 m from bears."
+    },
+    {
+      "tag": "TIP",
+      "title": "Mountain weather",
+      "text": "It can snow in the Rockies even in July. Pack layers, a rain jacket and closed shoes."
+    }
+  ],
+  "emergency": [
+    [
+      "Emergency (Canada)",
+      "911"
+    ],
+    [
+      "Consulate General of India, Vancouver",
+      "201-325 Howe Street, Vancouver"
+    ]
+  ],
+  "dining_intro": "Banff, Jasper, Calgary and Vancouver all have vegetarian and Indian restaurants, and Vancouver has one of the largest Indian communities in North America. The train serves set menus: we register your diet when we book.",
+  "dining_avoid": "Soups and gravies often use chicken or beef stock. Ask for vegetarian options and say 'no egg' where needed.",
+  "food_card": [
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "ca"
+}

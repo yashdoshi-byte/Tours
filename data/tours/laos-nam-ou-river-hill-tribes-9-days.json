@@ -1,0 +1,634 @@
+{
+  "slug": "laos-nam-ou-river-hill-tribes-9-days",
+  "title": "Northern Laos in 9 Days: The Nam Ou River, Muang Ngoi, Hill-Tribe Villages and the Mekong",
+  "meta_title": "Northern Laos 9 Days: Nam Ou River and Hill-Tribe Villages",
+  "meta_description": "9-day northern Laos journey: Nong Khiaw, a Nam Ou river cruise to Muang Ngoi and Muang Khua, Khmu and Hmong villages, treks and the Mekong at Pakbeng.",
+  "destination": "Northern Laos",
+  "country": "Laos",
+  "duration": "9 days / 8 nights",
+  "nights": 8,
+  "style": "Rivers · Trekking · Village life",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761904301976-970109644.webp",
+  "hero_alt": "Limestone peaks over the Nam Ou river at Nong Khiaw",
+  "tagline": "Slow boats, limestone peaks and villages few travellers reach",
+  "facts": [
+    [
+      "Stay",
+      "Nong Khiaw 2, Muang Ngoi 1, Nam Kat Yorlapa (Oudomxay) 3, Pakbeng 1, Luang Prabang 1"
+    ],
+    [
+      "Travel",
+      "Private car with driver, river boats, 4x4 and walking"
+    ],
+    [
+      "Pace",
+      "Active: treks of 1 to 4 hours"
+    ],
+    [
+      "Best months",
+      "November to February"
+    ],
+    [
+      "Arrive / leave",
+      "Luang Prabang"
+    ]
+  ],
+  "intro": "A small-group or private journey into Laos's mountainous north, for travellers who want village life and rivers rather than sights. From Luang Prabang you drive to Nong Khiaw under its limestone cliffs, cruise up the Nam Ou to car-free Muang Ngoi and on to Muang Khua, spend three nights at a nature resort in the Oudomxay forest with treks to Khmu, Hmong, Ikhor and Akha villages, then reach the Mekong at Pakbeng and return to Luang Prabang. Hydropower dams now cut the Nam Ou, so the boat trip includes a short change of boat at the dam. The tour starts with a morning departure from Luang Prabang, so arrive the day before; we suggest two extra nights there for the town itself.",
+  "highlights": [
+    "Weaving and silk at Ban Na Yang",
+    "Sunrise from the Pha Xom Nang viewpoint at Nong Khiaw",
+    "The Pha Tok caves, a wartime refuge",
+    "A Nam Ou river cruise to car-free Muang Ngoi",
+    "Khmu, Hmong, Ikhor and Akha hill villages",
+    "A forest trek to Ban Phavie and a waterfall swim",
+    "The view over Oudomxay from Phou That",
+    "Sunset on the Mekong at Pakbeng"
+  ],
+  "stays": [
+    {
+      "place": "Nong Khiaw",
+      "nights": 2,
+      "hotel": "Riverside bungalows"
+    },
+    {
+      "place": "Muang Ngoi",
+      "nights": 1,
+      "hotel": "Village guesthouse (simple)"
+    },
+    {
+      "place": "Oudomxay",
+      "nights": 3,
+      "hotel": "Nature resort in a national park"
+    },
+    {
+      "place": "Pakbeng",
+      "nights": 1,
+      "hotel": "Mekong lodge"
+    },
+    {
+      "place": "Luang Prabang",
+      "nights": 1,
+      "hotel": "Old town hotel"
+    }
+  ],
+  "route": [
+    "Luang Prabang",
+    "Ban Na Yang",
+    "Nong Khiaw",
+    "Muang Ngoi",
+    "Muang Khua",
+    "Oudomxay",
+    "Muang La",
+    "Pakbeng",
+    "Hongsa",
+    "Luang Prabang"
+  ],
+  "days": [
+    {
+      "pill": "Transfer day",
+      "title": "Luang Prabang to Nong Khiaw",
+      "summary": "Drive north, stopping at a weaving village.",
+      "strip": [
+        "About 4 hours by road"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Ban Na Yang weaving village",
+          "text": "Silk from the silkworm to the loom."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive in Nong Khiaw",
+          "text": "Bungalows over the Nam Ou under limestone peaks."
+        }
+      ],
+      "places": [
+        "Luang Prabang",
+        "Ban Na Yang",
+        "Nong Khiaw"
+      ],
+      "note": "Roads in the north are narrow and winding; take motion-sickness tablets if you need them.",
+      "route": [
+        "Luang Prabang",
+        "Ban Na Yang",
+        "Nong Khiaw"
+      ],
+      "photo_query": "Luang Prabang",
+      "photo_caption": "Luang Prabang",
+      "transport": "Private car with driver and guide",
+      "travel_time": "About 4 hours by road",
+      "brief": [
+        "Roads in the north are narrow and winding; take motion-sickness tablets if you need them."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Pha Xom Nang sunrise, caves and villages",
+      "summary": "A dawn climb to the viewpoint, the Pha Tok caves and Khmu and Hmong villages.",
+      "strip": [
+        "Climb about 1 hour 30 minutes up"
+      ],
+      "rows": [
+        {
+          "label": "06:00",
+          "title": "Pha Xom Nang viewpoint",
+          "text": "Sunrise over the river and peaks.",
+          "notes": [
+            [
+              "WEAR",
+              "A head torch and shoes with grip; the path is steep."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Pha Tok caves",
+          "text": "Used by Luang Prabang's officials during the 'secret war'."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Khmu and Hmong villages and the village school",
+          "notes": [
+            [
+              "CARE",
+              "Ask before photos; give supplies to the teacher, not sweets to children."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Pha Xom Nang",
+        "Tham Pha Tok",
+        "Nong Khiaw"
+      ],
+      "note": "Skip the dawn climb if you have knee or heart problems; the river view from town is lovely too.",
+      "route": [
+        "Pha Xom Nang",
+        "Tham Pha Tok",
+        "Nong Khiaw"
+      ],
+      "photo_query": "Pha Xom Nang",
+      "photo_caption": "Pha Xom Nang",
+      "transport": "Private car with driver and guide",
+      "travel_time": "Climb about 1 hour 30 minutes up",
+      "brief": [
+        "Pha Xom Nang viewpoint: a head torch and shoes with grip; the path is steep.",
+        "Ask before photos; give supplies to the teacher, not sweets to children."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Nam Ou river cruise to Muang Ngoi",
+      "summary": "A river boat to a village reached only by water.",
+      "strip": [
+        "Boat about 1 hour 30 minutes, trek about 2 hours"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Boat up the Nam Ou"
+        },
+        {
+          "label": "Midday",
+          "title": "Ban Sop Kong and a jungle trek to a waterfall",
+          "text": "About 1 hour each way through rice paddies."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Muang Ngoi Kao",
+          "text": "A car-free riverside village."
+        }
+      ],
+      "places": [
+        "Nam Ou",
+        "Ban Sop Kong",
+        "Muang Ngoi"
+      ],
+      "note": "The guesthouse is simple; electricity and hot water can be limited.",
+      "transport": "River boat and walking",
+      "route": [
+        "Nam Ou",
+        "Ban Sop Kong",
+        "Muang Ngoi"
+      ],
+      "photo_query": "Nam Ou",
+      "photo_caption": "Nam Ou",
+      "travel_time": "Boat about 1 hour 30 minutes, trek about 2 hours",
+      "brief": [
+        "The guesthouse is simple; electricity and hot water can be limited."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Up the Nam Ou to Muang Khua, then the forest resort",
+      "summary": "A long river day through remote villages, then by car to the Oudomxay forest.",
+      "strip": [
+        "Boat about 5 hours, then about 2 hours by car"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Boat to Muang Khua",
+          "text": "Stopping at the Khmu village of Ban Sop Jaem, reached only by boat.",
+          "notes": [
+            [
+              "TIME",
+              "You change boats at the hydropower dam; the crew carries luggage."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Drive to the Nam Kat Yorlapa resort",
+          "text": "Inside a national park; bikes are available."
+        }
+      ],
+      "places": [
+        "Muang Ngoi",
+        "Ban Sop Jaem",
+        "Muang Khua",
+        "Oudomxay"
+      ],
+      "note": "Wear the life jacket on the boat at all times.",
+      "transport": "River boat and car",
+      "route": [
+        "Muang Ngoi",
+        "Ban Sop Jaem",
+        "Muang Khua",
+        "Oudomxay"
+      ],
+      "photo_query": "Muang Ngoi",
+      "photo_caption": "Muang Ngoi",
+      "travel_time": "Boat about 5 hours, then about 2 hours by car",
+      "brief": [
+        "Boat to Muang Khua: you change boats at the hydropower dam; the crew carries luggage.",
+        "Wear the life jacket on the boat at all times."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Trek to Ban Phavie",
+      "summary": "A trek through farmland to a hilltop Khmu village, lunch and a waterfall swim.",
+      "strip": [
+        "Trek about 4 hours in total"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Drive to Pak Khai and start the trek",
+          "text": "Farmers in the fields share their way of life."
+        },
+        {
+          "label": "Midday",
+          "title": "Lunch at Ban Phavie"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Waterfall and swim",
+          "notes": [
+            [
+              "CARE",
+              "Swim only where your guide says the water is safe."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Pak Khai",
+        "Ban Phavie"
+      ],
+      "note": "Lunch included; ask the guide for a vegetarian meal the day before.",
+      "transport": "Car and walking",
+      "route": [
+        "Pak Khai",
+        "Ban Phavie"
+      ],
+      "photo_query": "Pak Khai",
+      "photo_caption": "Pak Khai",
+      "travel_time": "Trek about 4 hours in total",
+      "brief": [
+        "Waterfall and swim: swim only where your guide says the water is safe.",
+        "Lunch included; ask the guide for a vegetarian meal the day before."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Muang La and the hill-tribe villages",
+      "summary": "A temple, then by 4x4 up to Ikhor, Akha and Hmong villages.",
+      "strip": [
+        "About 1,000 m altitude; walk about 45 minutes"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Wat Pha Chao Singkham",
+          "text": "A revered Buddha image in Muang La.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover shoulders and knees; shoes off."
+            ]
+          ]
+        },
+        {
+          "label": "Midday",
+          "title": "Ikhor village",
+          "text": "An isolated community with roots in Yunnan."
+        },
+        {
+          "label": "Afternoon",
+          "title": "Walk to the Hmong village of Ban Tauser"
+        }
+      ],
+      "places": [
+        "Muang La",
+        "Wat Pha Chao Singkham"
+      ],
+      "note": "Lunch included in a village or picnic.",
+      "transport": "4x4 and walking",
+      "route": [
+        "Muang La",
+        "Wat Pha Chao Singkham"
+      ],
+      "photo_query": "Muang La",
+      "photo_caption": "Muang La",
+      "travel_time": "About 1,000 m altitude; walk about 45 minutes",
+      "brief": [
+        "Wat Pha Chao Singkham: cover shoulders and knees; shoes off.",
+        "Lunch included in a village or picnic."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Phou That viewpoint and down to Pakbeng",
+      "summary": "Oudomxay's hilltop stupa, then to the Mekong.",
+      "strip": [
+        "About 4 hours by road"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Forest walk in the national park"
+        },
+        {
+          "label": "Midday",
+          "title": "Phou That stupa",
+          "text": "A 360-degree view over Oudomxay."
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset over the Mekong at Pakbeng"
+        }
+      ],
+      "places": [
+        "Phou That",
+        "Pakbeng"
+      ],
+      "note": "Pakbeng is a small river town; most visitors arrive by slow boat.",
+      "route": [
+        "Phou That",
+        "Pakbeng"
+      ],
+      "photo_query": "Phou That",
+      "photo_caption": "Phou That",
+      "transport": "Private car with driver and guide",
+      "travel_time": "About 4 hours by road",
+      "brief": [
+        "Pakbeng is a small river town; most visitors arrive by slow boat."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Via Hongsa back to Luang Prabang",
+      "summary": "Countryside villages, a pottery village and a Mekong ferry into Luang Prabang.",
+      "strip": [
+        "About 4 to 5 hours by road"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Villages around Hongsa"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Pottery village and ferry across the Mekong"
+        },
+        {
+          "label": "Evening",
+          "title": "Luang Prabang night market"
+        }
+      ],
+      "places": [
+        "Hongsa",
+        "Ban Chan pottery village",
+        "Luang Prabang Night Market"
+      ],
+      "note": "If you stay on, watch the dawn alms-giving quietly from across the street; never block the monks' path or use flash.",
+      "route": [
+        "Hongsa",
+        "Ban Chan pottery village",
+        "Luang Prabang Night Market"
+      ],
+      "photo_query": "Hongsa",
+      "photo_caption": "Hongsa",
+      "transport": "Private car with driver and guide",
+      "travel_time": "About 4 to 5 hours by road",
+      "brief": [
+        "If you stay on, watch the dawn alms-giving quietly from across the street; never block the monks' path or use flash."
+      ]
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Luang Prabang",
+      "summary": "Transfer to the airport.",
+      "strip": [
+        "Airport about 15 minutes"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Luang Prabang airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 2 to 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Luang Prabang International Airport"
+      ],
+      "note": "The Laos-China railway to Vientiane is an alternative for onward travel.",
+      "photo_query": "Luang Prabang International Airport",
+      "photo_caption": "Luang Prabang International Airport",
+      "transport": "Private car with driver and guide",
+      "travel_time": "Airport about 15 minutes",
+      "brief": [
+        "Transfer to Luang Prabang airport: be at the airport 2 to 3 hours before an international flight.",
+        "The Laos-China railway to Vientiane is an alternative for onward travel."
+      ]
+    }
+  ],
+  "included": [
+    "8 nights with breakfast",
+    "Lunches on days 5 and 6",
+    "Private car with driver and English-speaking guide",
+    "River boats on the Nam Ou",
+    "4x4 to the hill villages",
+    "Village visits and treks as described",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Laos visa",
+    "Other meals",
+    "Drinks",
+    "Tips",
+    "Travel insurance"
+  ],
+  "best_time": "November to February: dry, clear and cool (cold at dawn in the hills). March and April are hazy from field burning; May to October brings heavy rain and muddy trails.",
+  "seasons": [
+    [
+      "November to February",
+      "Best",
+      "Dry, sunny days and cool nights."
+    ],
+    [
+      "March to April",
+      "Hot and hazy",
+      "Smoke from field burning can hide the views."
+    ],
+    [
+      "May to October",
+      "Rainy",
+      "Green and lush; muddy treks and high rivers."
+    ]
+  ],
+  "months": [
+    "peak",
+    "peak",
+    "shoulder",
+    "shoulder",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "peak"
+  ],
+  "best_pick": "November to February.",
+  "faqs": [
+    {
+      "q": "How fit do we need to be?",
+      "a": "Reasonably: treks are 1 to 4 hours on uneven, sometimes steep paths, and some boat landings need a scramble. Every trek can be shortened."
+    },
+    {
+      "q": "Can we add Luang Prabang sightseeing?",
+      "a": "Yes. Two extra nights for the royal palace, Wat Xieng Thong, the Kuang Si waterfalls and the alms-giving."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    },
+    {
+      "q": "Is there support while we travel?",
+      "a": "Yes. You have our 24/7 travel desk on +91 97148 59797 and +91 98242 21400 and a WhatsApp group with your consultant for the whole trip."
+    }
+  ],
+  "related_keywords": [
+    "northern Laos tour",
+    "Nam Ou river cruise",
+    "Nong Khiaw Muang Ngoi",
+    "Laos trekking hill tribes"
+  ],
+  "links": [
+    {
+      "title": "Laos e-Visa (official)",
+      "url": "https://laoevisa.gov.la/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Laos e-Visa or visa on arrival",
+      "30-day tourist visa, online in advance or on arrival at Luang Prabang airport with a photo and US dollars cash",
+      "Indian passport holders",
+      "About USD 40 to 50"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond arrival with two blank pages",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "The e-Visa is the easier option; print the approval letter.",
+    "Phone and internet: a local SIM works in towns; there is little or no signal on the river and in the hill villages."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Kip and cash",
+      "text": "Laos uses the kip. Cards work only in Luang Prabang hotels; carry kip and small US dollar notes for the north, where there are few ATMs."
+    },
+    {
+      "tag": "CARE",
+      "title": "Unexploded ordnance",
+      "text": "Bombs from the 1960s and 70s still lie in rural Laos. Never leave marked paths or touch metal objects in the forest; stay with your guide."
+    },
+    {
+      "tag": "CARE",
+      "title": "Village etiquette",
+      "text": "Ask before photographing people, do not enter homes or spirit houses without invitation, and give school supplies to the teacher rather than sweets to children."
+    },
+    {
+      "tag": "WEAR",
+      "title": "Temples and trekking",
+      "text": "Cover shoulders and knees in temples and remove shoes. Bring trekking shoes, a hat, insect repellent and a light rain jacket."
+    }
+  ],
+  "emergency": [
+    [
+      "Police",
+      "1191"
+    ],
+    [
+      "Ambulance",
+      "1195"
+    ],
+    [
+      "Embassy of India, Vientiane",
+      "That Luang Road, Vientiane"
+    ]
+  ],
+  "dining_intro": "Lao food is rice, vegetables and herbs, so vegetarian meals are easy to arrange in Luang Prabang; in the north, our guide orders for you and the lodges cook to order.",
+  "dining_avoid": "Fish sauce, padaek (fermented fish paste) and shrimp paste go into most dips and soups. Ask for 'bo sai nam pa' (no fish sauce).",
+  "food_card": [
+    [
+      "Lao (transliterated)",
+      "Khoy kin jay. Bo kin sin, bo kin pa, bo kin khai. Bo sai nam pa, bo sai padaek. Khop jai."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "la"
+}

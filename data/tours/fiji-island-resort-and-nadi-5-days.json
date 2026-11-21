@@ -1,0 +1,430 @@
+{
+  "slug": "fiji-island-resort-and-nadi-5-days",
+  "title": "Fiji Island Escape in 5 Days: 3 Nights on a Mamanuca or Yasawa Island and a Night in Nadi",
+  "meta_title": "Fiji Island Escape: 3 Nights Island Resort and Nadi",
+  "meta_description": "5-day Fiji island escape: a catamaran to a Mamanuca or Yasawa island resort for 3 nights of snorkelling and village visits, then a night in Nadi.",
+  "destination": "Fiji",
+  "country": "Fiji",
+  "duration": "5 days / 4 nights",
+  "nights": 4,
+  "style": "Islands · Honeymoon · Beach",
+  "hero_image": "https://bluediamondvoyage.com/uploads/page_sections_lists/file-1761896789735-993975848.webp",
+  "hero_alt": "Island resort and coral lagoon in the Mamanuca Islands, Fiji",
+  "tagline": "A small island, a coral reef at your door and nowhere to be",
+  "facts": [
+    [
+      "Stay",
+      "Island resort 3, Nadi 1"
+    ],
+    [
+      "Travel",
+      "Transfers and scheduled catamaran"
+    ],
+    [
+      "Pace",
+      "Very relaxed"
+    ],
+    [
+      "Best months",
+      "May to October"
+    ],
+    [
+      "Arrive / leave",
+      "Nadi"
+    ]
+  ],
+  "intro": "The classic Fiji honeymoon: a catamaran from Port Denarau to a small island resort in the Mamanuca or Yasawa Islands, three nights of lagoon, reef and sunsets, then a final night near the airport. We match the island to you: adults-only overwater bures for honeymooners, family resorts with kids' clubs, or remote Yasawa beaches. The night in Nadi before you fly home is there on purpose: boats from the islands run on fixed timetables and can be held up by weather, so we never put an island boat and an international flight on the same day.",
+  "highlights": [
+    "A catamaran cruise through the Mamanuca Islands",
+    "Three nights on a small coral island",
+    "Snorkelling on the house reef",
+    "Kayaks and paddleboards in the lagoon",
+    "A visit to a Fijian island village",
+    "Sunset over the islands"
+  ],
+  "stays": [
+    {
+      "place": "Mamanuca or Yasawa island",
+      "nights": 3,
+      "hotel": "Island resort (adults-only or family, as you prefer)"
+    },
+    {
+      "place": "Nadi",
+      "nights": 1,
+      "hotel": "Beach resort near the airport"
+    }
+  ],
+  "route": [
+    "Nadi",
+    "Port Denarau",
+    "Mamanuca Islands",
+    "Port Denarau",
+    "Nadi"
+  ],
+  "days": [
+    {
+      "pill": "Arrival",
+      "title": "Arrive in Nadi and sail to your island",
+      "summary": "A welcome at the airport, a transfer to Port Denarau and the catamaran to your island.",
+      "strip": [
+        "About 20 minutes to Port Denarau",
+        "Catamaran about 1 to 3 hours depending on the island"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Welcome at Nadi International Airport"
+        },
+        {
+          "label": "Midday",
+          "title": "Catamaran from Port Denarau",
+          "notes": [
+            [
+              "TIME",
+              "Boats leave at set times; on a late arrival you spend the first night in Nadi."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Arrive on the island",
+          "text": "A welcome song from the staff."
+        }
+      ],
+      "places": [
+        "Nadi International Airport",
+        "Port Denarau Marina",
+        "Mamanuca Islands"
+      ],
+      "note": "Pack a small bag with swimwear and sunscreen for the boat.",
+      "transport": "Transfer and catamaran",
+      "route": [
+        "Nadi International Airport",
+        "Port Denarau Marina",
+        "Mamanuca Islands"
+      ],
+      "photo_query": "Nadi International Airport",
+      "photo_caption": "Nadi International Airport",
+      "travel_time": "About 20 minutes to Port Denarau",
+      "brief": [
+        "Catamaran from Port Denarau: boats leave at set times; on a late arrival you spend the first night in Nadi.",
+        "Pack a small bag with swimwear and sunscreen for the boat."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Reef and lagoon",
+      "summary": "Snorkel the house reef, paddle the lagoon or join a guided reef trip.",
+      "strip": [
+        "At your own pace"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Guided snorkel trip",
+          "notes": [
+            [
+              "CARE",
+              "Snorkel in pairs, wear a rash vest and never touch the coral."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Kayaks, paddleboards or the spa"
+        },
+        {
+          "label": "Evening",
+          "title": "Sunset drinks on the beach"
+        }
+      ],
+      "places": [
+        "Mamanuca Islands"
+      ],
+      "note": "Most island resorts include non-motorised water sports.",
+      "photo_query": "Mamanuca Islands",
+      "photo_caption": "Mamanuca Islands",
+      "transport": "Private transfer and scheduled catamaran",
+      "brief": [
+        "Guided snorkel trip: snorkel in pairs, wear a rash vest and never touch the coral.",
+        "Most island resorts include non-motorised water sports."
+      ]
+    },
+    {
+      "pill": "Full day",
+      "title": "Island village and free time",
+      "summary": "A visit to a nearby village, or a picnic on a deserted beach.",
+      "strip": [
+        "At your own pace"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Village visit",
+          "text": "Many resorts run a weekly visit to a neighbouring village and school.",
+          "notes": [
+            [
+              "WEAR",
+              "Cover shoulders and knees; no hats in the village."
+            ]
+          ]
+        },
+        {
+          "label": "Afternoon",
+          "title": "Beach, spa or a sandbank picnic"
+        },
+        {
+          "label": "Evening",
+          "title": "Fijian night with kava and music"
+        }
+      ],
+      "places": [
+        "Mamanuca Islands"
+      ],
+      "note": "Diving, manta-ray snorkelling (May to October in the Yasawas) and fishing can be booked on the island.",
+      "photo_query": "Mamanuca Islands",
+      "photo_caption": "Mamanuca Islands",
+      "transport": "Private transfer and scheduled catamaran",
+      "brief": [
+        "Village visit: cover shoulders and knees; no hats in the village.",
+        "Diving, manta-ray snorkelling (May to October in the Yasawas) and fishing can be booked on the island."
+      ]
+    },
+    {
+      "pill": "Transfer day",
+      "title": "Catamaran back to the mainland",
+      "summary": "The boat back to Port Denarau and a night at a beach resort near the airport.",
+      "strip": [
+        "Catamaran about 1 to 3 hours",
+        "Then about 20 minutes to the hotel"
+      ],
+      "rows": [
+        {
+          "label": "Morning",
+          "title": "Last swim on the island"
+        },
+        {
+          "label": "Afternoon",
+          "title": "Catamaran to Port Denarau and transfer"
+        },
+        {
+          "label": "Evening",
+          "title": "Dinner in Nadi or at the resort",
+          "text": "Nadi has very good Indian restaurants."
+        }
+      ],
+      "places": [
+        "Port Denarau Marina",
+        "Wailoaloa Beach"
+      ],
+      "note": "",
+      "transport": "Catamaran and transfer",
+      "route": [
+        "Port Denarau Marina",
+        "Wailoaloa Beach"
+      ],
+      "photo_query": "Port Denarau Marina",
+      "photo_caption": "Port Denarau Marina",
+      "travel_time": "Catamaran about 1 to 3 hours",
+      "brief": []
+    },
+    {
+      "pill": "Departure",
+      "title": "Fly home from Nadi",
+      "summary": "A short transfer to the airport.",
+      "strip": [
+        "About 10 minutes to the airport"
+      ],
+      "rows": [
+        {
+          "label": "As per flight",
+          "title": "Transfer to Nadi International Airport",
+          "notes": [
+            [
+              "TIME",
+              "Be at the airport 3 hours before an international flight."
+            ]
+          ]
+        }
+      ],
+      "places": [
+        "Nadi International Airport"
+      ],
+      "note": "",
+      "photo_query": "Nadi International Airport",
+      "photo_caption": "Nadi International Airport",
+      "transport": "Private transfer and scheduled catamaran",
+      "travel_time": "About 10 minutes to the airport",
+      "brief": [
+        "Transfer to Nadi International Airport: be at the airport 3 hours before an international flight."
+      ]
+    }
+  ],
+  "included": [
+    "3 nights on an island resort with breakfast",
+    "1 night in Nadi with breakfast",
+    "Airport welcome with shell lei",
+    "All transfers",
+    "Scheduled catamaran to and from the island",
+    "Non-motorised water sports as offered by the resort",
+    "24/7 support from Blue Diamond Voyage"
+  ],
+  "excluded": [
+    "International flights",
+    "Meals other than breakfast unless stated",
+    "Drinks",
+    "Optional excursions",
+    "Tips",
+    "Travel insurance",
+    "Island resort meal plans (often required; we quote them with the resort)"
+  ],
+  "best_time": "May to October is the dry season: sunny, less humid and the best time for the islands; July and the school holidays are busiest. November to April is hot and wet, with a risk of cyclones from December to March.",
+  "seasons": [
+    [
+      "May to October",
+      "Best",
+      "Dry, sunny and pleasantly warm; calm seas for boats."
+    ],
+    [
+      "November and April",
+      "Shoulder",
+      "Warmer and more humid; good value."
+    ],
+    [
+      "December to March",
+      "Wet",
+      "Hot, humid and rainy, with a cyclone risk; flexible plans needed."
+    ]
+  ],
+  "months": [
+    "wet",
+    "wet",
+    "wet",
+    "shoulder",
+    "dry",
+    "dry",
+    "peak",
+    "peak",
+    "dry",
+    "dry",
+    "shoulder",
+    "wet"
+  ],
+  "best_pick": "May to October.",
+  "faqs": [
+    {
+      "q": "Do we need a meal plan on the island?",
+      "a": "Usually yes: there are no other restaurants on most islands, so a daily meal plan is the best value. We include it in your quote."
+    },
+    {
+      "q": "Can we stay longer or visit two islands?",
+      "a": "Yes. Many couples do 3 nights on a Mamanuca island and 3 on a remote Yasawa island, then one night in Nadi."
+    },
+    {
+      "q": "Are there overwater bungalows?",
+      "a": "Yes, at a small number of adults-only island resorts. Ask us early, as they are few and book out."
+    },
+    {
+      "q": "Can this itinerary be changed for our dates and pace?",
+      "a": "Yes. Every Blue Diamond Voyage itinerary is a starting point. We change the number of nights, the hotels, the pace and the activities to suit your family, and send you a personalised quote."
+    },
+    {
+      "q": "Do you look after vegetarian and Jain food?",
+      "a": "Yes. We send your dietary brief to every hotel and guide before you travel, and suggest pure-vegetarian restaurants along the route. Jain meals without onion, garlic and root vegetables can be arranged in most places with notice."
+    }
+  ],
+  "related_keywords": [
+    "Fiji island resort",
+    "Fiji honeymoon",
+    "Mamanuca Islands",
+    "Yasawa Islands"
+  ],
+  "links": [
+    {
+      "title": "Tourism Fiji (official)",
+      "url": "https://www.fiji.travel/"
+    }
+  ],
+  "price_note": "Contact us for a personalised quote for your dates, flights and hotel choice.",
+  "date_published": "2026-11-21",
+  "date_modified": "2026-11-21",
+  "facts_checked": "November 2026",
+  "entry": [
+    [
+      "Fiji visitor permit on arrival",
+      "Free on arrival for up to 4 months with a return ticket, a hotel booking and proof of funds",
+      "Indian passport holders",
+      "Free"
+    ],
+    [
+      "Transit visa",
+      "Flights via Australia or New Zealand need a transit visa for Indian passport holders; routes via Singapore or Hong Kong usually do not",
+      "Indian passport holders",
+      "Check with us"
+    ],
+    [
+      "Passport",
+      "Valid at least 6 months beyond your stay",
+      "Everyone",
+      ""
+    ]
+  ],
+  "entry_notes": [
+    "Fiji asks for an online arrival card before you fly; we send you the link.",
+    "We pick flights that avoid an Australian or New Zealand transit visa unless you already hold one."
+  ],
+  "good_to_know": [
+    {
+      "tag": "MONEY",
+      "title": "Hotel deposit",
+      "text": "Use a credit card for the deposit or pre-authorisation at check-in, never a forex or debit card. Forex cards cannot hold funds, many hotels refuse them, and a credit-card hold is released faster."
+    },
+    {
+      "tag": "MONEY",
+      "title": "Fiji dollars",
+      "text": "Fiji uses the Fiji dollar. Cards work in resorts, Denarau and Nadi; carry small cash for villages, markets and tips. Resort prices on the islands are high, so plan for meals there."
+    },
+    {
+      "tag": "CARE",
+      "title": "Village etiquette",
+      "text": "In a Fijian village, cover shoulders and knees (a sarong is fine), take off hats and sunglasses, never touch anyone's head, and wait to be invited in. Visitors bring a small gift of kava root (sevusevu); your guide arranges it. Sunday is for church and rest in the villages."
+    },
+    {
+      "tag": "CARE",
+      "title": "Sun and sea",
+      "text": "The tropical sun is strong: use reef-safe sunscreen and a rash vest. Swim and snorkel only where your resort or crew says it is safe, wear reef shoes, and do not touch or stand on coral."
+    },
+    {
+      "tag": "TIME",
+      "title": "Fiji time",
+      "text": "Life is relaxed. Boats and transfers run to timetables but may change with the weather; build in time and keep the day of your flight home free."
+    }
+  ],
+  "emergency": [
+    [
+      "Police and ambulance",
+      "911"
+    ],
+    [
+      "Fire",
+      "910"
+    ],
+    [
+      "Indian diplomatic mission, Suva",
+      "Suva, Viti Levu (contact details in your travel pack)"
+    ]
+  ],
+  "dining_intro": "Almost 4 in 10 Fijians have Indian roots, so dal, roti, curries and Indian sweets are everywhere on Viti Levu, and resorts on the main island cook vegetarian food well. Island resorts and boats need your dietary brief in advance; we send it to each one.",
+  "dining_avoid": "Kokoda (raw fish in coconut), lovo (earth-oven meat) and many coconut sauces with fish are local favourites. Ask for the vegetable lovo or Indian vegetarian dishes instead.",
+  "food_card": [
+    [
+      "Fiji Hindi",
+      "Hum log shudh shakahari hai. Maas, machhli, anda nahi. Pyaaz, lahsun, aloo, gajar aur jameen ke neeche wali sabzi nahi. Dhanyavaad."
+    ],
+    [
+      "English",
+      "We are strict vegetarians (Jain). No meat, fish, seafood or eggs. No onion, garlic, potato, carrot or any root vegetables. No meat or fish stock. Thank you."
+    ]
+  ],
+  "country_code": "fj"
+}
